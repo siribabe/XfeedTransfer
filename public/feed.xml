@@ -4,7 +4,252 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Wed, 25 Mar 2026 15:02:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 17:05:36 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-e03efe7b4d9880bf4ca83cd387bfe4cb41877ada</guid>
+      <title>A Taxonomy of Moving Average Interactions - The Essential Nature and Application of Technical Indicators as M... | Technical analysis in speculative markets has long suffered two symmetrical misunderstand... https://Blockchain.News/news/a-taxonomy-of-moving-a...</title>
+      <link>https://Blockchain.News/news/a-taxonomy-of-moving-average-interactions-the-essential-nature-and-application-of-technical-indicators-as-market-state-evaluation-systems</link>
+      <pubDate>Wed, 25 Mar 2026 01:43:22 GMT</pubDate>
+      <description><![CDATA[Original title: A Taxonomy of Moving Average Interactions - The Essential Nature and Application of Technical Indicators as Market State Evaluation Systems
+Summary: Technical analysis in speculative markets has long suffered two symmetrical misunderstandings: blind devotees treat it as a prophetic tool, while fierce detractors dismiss it as pseudoscience. Both
+Article text: Technical analysis in speculative markets has long suffered two symmetrical misunderstandings: blind devotees treat it as a prophetic tool, while fierce detractors dismiss it as pseudoscience. Both positions share a fundamental misidentification of the core function of technical analysis. This essay demonstrates that the essential nature of technical indicators is that of a complete classification tool for market states. Using the moving average system as the primary example, it establishes a three-tier taxonomy of moving average interactions — skim, touch, and intertwine — derives their structural connections to trend continuation and trend reversal, and provides a systematic observational framework for the micro-level analytical work that follows.
+
+The preceding essays established the fundamental epistemological framework for speculative market operations: preference does not participate in decision-making; all judgment rests on examination. In the concrete execution of examination, technical analysis constitutes a core tool within one of three independent screening systems. However, for technical analysis to fulfill its proper role within this framework, its essential function must first be accurately defined, because nearly all users of technical analysis harbor a fundamental misconception about what that function is.
+
+The typical reasoning of the vast majority of technically-oriented market participants proceeds as follows: a certain technical indicator has issued a buy signal, therefore the market will rise, therefore one should buy. Embedded within this chain of reasoning is a fatal presupposition — the technical indicator is endowed with prophetic power, as though it were capable of communicating the future direction of price movement. It is precisely this presupposition that causes nearly all pure technicians to demonstrate astonishing precision in hindsight review while repeatedly falling into failure during actual operations. The precision of hindsight review is an illusion: once a price movement is complete, any technical indicator can be matched against the known outcome, thereby projecting a false appearance of predictive power. Yet in the real-time state where price movement is still unfolding, the same signal may lead to entirely different outcomes under different market conditions, and a prophetic interpretation possesses no capacity whatsoever to deal with this reality.
+
+The true core function of technical analysis is classification. Any technical indicator is, in essence, a device that performs a complete classification of all possible market states and then labels them: under the perspective of this particular indicator, which states belong to the actionable category and which belong to the non-actionable category. Classification itself contains no prophecy about future direction. It merely states that when the market occupies a certain class of states, the probability distribution of historical outcomes favors certain subsequent evolutions over others, and therefore entry during this class of states carries positive expected value. Whether the market in this specific instance actually evolves in the high-probability direction is something classification does not and cannot guarantee.
+
+Once this is understood, technical indicators return from pseudo-oracle to their true identity — classification tools. The value of a classification tool does not lie in every individual classification leading to a correct outcome, but in the cumulative effect of correct classifications producing a statistical edge over a large number of repeated applications. This aligns perfectly with the principle established earlier — "only engage what can be engaged." The classification function of technical indicators is precisely the concrete technical implementation of examination: it informs the operator, through systematic procedure, whether the current market state belongs to the engageable classification.
+
+Among the many families of technical indicators, the moving average system is the most fundamental, most intuitive, and simultaneously most practical evaluation system. An evaluation system, as the term is used here, refers to a framework capable of rendering judgments about the relative strength or weakness of a subject under a defined standard. The moving average system's subject is price action, and its standard is the average price level over different time periods.
+
+Consider the simplest case: when price stands above the 5-day moving average, the current price action is judged as strong under the evaluation standard of the 5-day average — meaning the aggregate market force over the most recent five trading days is directionally upward, and current price resides above this aggregate. However, at the same moment, price may reside below the 20-day moving average, which means that under the evaluation standard of the 20-day average, the current price action is judged as weak — although the most recent 5-day direction is upward, expanding the horizon to 20 days reveals that the aggregate market force remains directionally downward, and current price has not yet broken through this longer-period suppression.
+
+Here arises a problem that is intractable for the prophetic understanding of technical analysis: the same price state produces opposite strength-weakness judgments under different evaluation standards. Which one should be followed? Under a prophetic interpretation, this contradiction is irresolvable, because two indicators have issued contradictory "prophecies," leaving the operator paralyzed. But from the classification perspective, this does not constitute a contradiction at all: moving averages of different periods correspond to classifications at different operational scales. The strong judgment above the 5-day average applies to ultra-short-term classification with intraday or next-day operational horizons; the strength-weakness judgment of the 20-day average applies to short-to-medium-term classification with multi-week operational horizons. Each evaluation standard is independently valid at its corresponding operational scale, and no reconciliation between them is required.
+
+This yields a critically important practical premise: the parameter selection for any moving average system must first be grounded in the operator's actual capital size and operational time horizon. Divorced from this premise, all discussion of parameter superiority loses meaning. For ultra-short-term operators capable of executing intraday round-trip trades, short-period moving average strength on a 1-minute chart may suffice as an entry basis. For institutional operators managing large-scale capital, even daily-chart short-period moving average strength may lack sufficient operational value, because the entry and exit of large capital requires adequate market depth, and such depth can only be assured within trend confirmations at larger scales. Once the internal logic of the moving average system as an evaluation system is grasped, the specific selection of parameters can be flexibly adjusted according to individual circumstances — the underlying principle remains uniform.
+
+The analytical value of the moving average system resides not only in the relationship between individual averages and price, but more importantly in the relationships among averages of different periods. Within a system composed of short-term, medium-term, and long-term moving averages, the relative positional relationships among the averages determine the overall structural state of the market. When the short-term average lies above the medium-term, and the medium-term lies above the long-term, the system is in bullish alignment — the basic structural signature of a systematic bull market. The reverse constitutes bearish alignment — the basic structural signature of a systematic bear market. The precondition for extracting profit is participation in the upward phases of bullish alignment. This is the most fundamental guidance the moving average system provides at the macro level.
+
+Beneath this macro structure, the interactive behaviors among moving averages require finer examination. Treating the short-term average as the fast variable and the long-term average as the slow variable, every instance of approach, contact, or crossing between them constitutes an informational event regarding trend state. Based on the depth and manner of interaction, all moving average interactive behaviors can be subjected to a complete three-tier classification.
+
+The first tier of interaction is termed the skim. Its manifestation is as follows: during its course, the short-term average briefly flattens or undergoes a minor retracement toward the long-term average, but resumes its original trend direction before making substantive contact. The appearance of a skim indicates that the prevailing trend has regained propulsive force after a brief attenuation of momentum, with the fundamental structure of the trend facing no substantive challenge. Skims typically occur during phases when the trend is running with exceptional strength — precisely because trend force is powerful, the short-term average's reversion amplitude is extremely limited, pulled back by trend force before it can even reach the long-term average. However, because a skim also implies that trend momentum is in an extreme state, and no extreme state is sustainable over time, skims are frequently followed by adjustments or oscillations of greater magnitude.
+
+The second tier of interaction is termed the touch. Its manifestation: the short-term average travels to the vicinity of the long-term average, the distance between them narrows to near-contact or brief contact, but the short-term average does not substantively break below (in bullish alignment) or above (in bearish alignment) the long-term average, and subsequently resumes its original trend direction. The touch is the most commonly observed form of moving average interaction during any sustained trend. In bearish alignment, the touch is virtually the standard termination pattern for rally phases — the short-term average rises toward the long-term average during a rally, contacts it, is repelled by bearish trend force, and the rally ends. In bullish alignment, the touch typically signals that an adjustment is nearing completion — the short-term average declines toward the long-term average during a pullback, contacts it, is pulled back upward by bullish trend force, and a new advancing phase commences. However, when encountering a touch in bullish alignment, one must maintain alertness to the possibility that the touch may deepen into the third tier of interaction; should it do so, the operator must transition to the response strategy appropriate for the third tier, guided by program rather than assumption.
+
+The third tier of interaction is termed the intertwine. Its manifestation: the short-term average breaks below or above the long-term average and, following the break, does not quickly separate but instead repeatedly crosses and weaves around the long-term average, producing a complex entangled configuration. The appearance of an intertwine signifies that short-term trend force and long-term trend force have entered a zone of equilibrium, where the inertia of the prevailing trend and the emergence of a new directional impulse are engaged in intense opposition, and the moving average system loses its clear directional guidance within this zone. Intertwines typically arise in two scenarios: the first is a relatively deep medium-term correction within a larger-scale ongoing trend; the second is when the trend itself is gestating a major directional reversal.
+
+Among the three tiers of the interaction taxonomy, the structural linkage between intertwining and trend reversal is the most operationally decisive cognition.
+
+Virtually all major trend reversals are preceded by intertwining at the moving average level. The int...
+Source: https://Blockchain.News/news/a-taxonomy-of-moving-average-interactions-the-essential-nature-and-application-of-technical-indicators-as-market-state-evaluation-systems]]></description>
+      <content:encoded><![CDATA[Technical analysis in speculative markets has long suffered two symmetrical misunderstandings: blind devotees treat it as a prophetic tool, while fierce detractors dismiss it as pseudoscience. Both positions share a fundamental misidentification of the core function of technical analysis. This essay demonstrates that the essential nature of technical indicators is that of a complete classification tool for market states. Using the moving average system as the primary example, it establishes a three-tier taxonomy of moving average interactions — skim, touch, and intertwine — derives their structural connections to trend continuation and trend reversal, and provides a systematic observational framework for the micro-level analytical work that follows.
+
+The preceding essays established the fundamental epistemological framework for speculative market operations: preference does not participate in decision-making; all judgment rests on examination. In the concrete execution of examination, technical analysis constitutes a core tool within one of three independent screening systems. However, for technical analysis to fulfill its proper role within this framework, its essential function must first be accurately defined, because nearly all users of technical analysis harbor a fundamental misconception about what that function is.
+
+The typical reasoning of the vast majority of technically-oriented market participants proceeds as follows: a certain technical indicator has issued a buy signal, therefore the market will rise, therefore one should buy. Embedded within this chain of reasoning is a fatal presupposition — the technical indicator is endowed with prophetic power, as though it were capable of communicating the future direction of price movement. It is precisely this presupposition that causes nearly all pure technicians to demonstrate astonishing precision in hindsight review while repeatedly falling into failure during actual operations. The precision of hindsight review is an illusion: once a price movement is complete, any technical indicator can be matched against the known outcome, thereby projecting a false appearance of predictive power. Yet in the real-time state where price movement is still unfolding, the same signal may lead to entirely different outcomes under different market conditions, and a prophetic interpretation possesses no capacity whatsoever to deal with this reality.
+
+The true core function of technical analysis is classification. Any technical indicator is, in essence, a device that performs a complete classification of all possible market states and then labels them: under the perspective of this particular indicator, which states belong to the actionable category and which belong to the non-actionable category. Classification itself contains no prophecy about future direction. It merely states that when the market occupies a certain class of states, the probability distribution of historical outcomes favors certain subsequent evolutions over others, and therefore entry during this class of states carries positive expected value. Whether the market in this specific instance actually evolves in the high-probability direction is something classification does not and cannot guarantee.
+
+Once this is understood, technical indicators return from pseudo-oracle to their true identity — classification tools. The value of a classification tool does not lie in every individual classification leading to a correct outcome, but in the cumulative effect of correct classifications producing a statistical edge over a large number of repeated applications. This aligns perfectly with the principle established earlier — "only engage what can be engaged." The classification function of technical indicators is precisely the concrete technical implementation of examination: it informs the operator, through systematic procedure, whether the current market state belongs to the engageable classification.
+
+Among the many families of technical indicators, the moving average system is the most fundamental, most intuitive, and simultaneously most practical evaluation system. An evaluation system, as the term is used here, refers to a framework capable of rendering judgments about the relative strength or weakness of a subject under a defined standard. The moving average system's subject is price action, and its standard is the average price level over different time periods.
+
+Consider the simplest case: when price stands above the 5-day moving average, the current price action is judged as strong under the evaluation standard of the 5-day average — meaning the aggregate market force over the most recent five trading days is directionally upward, and current price resides above this aggregate. However, at the same moment, price may reside below the 20-day moving average, which means that under the evaluation standard of the 20-day average, the current price action is judged as weak — although the most recent 5-day direction is upward, expanding the horizon to 20 days reveals that the aggregate market force remains directionally downward, and current price has not yet broken through this longer-period suppression.
+
+Here arises a problem that is intractable for the prophetic understanding of technical analysis: the same price state produces opposite strength-weakness judgments under different evaluation standards. Which one should be followed? Under a prophetic interpretation, this contradiction is irresolvable, because two indicators have issued contradictory "prophecies," leaving the operator paralyzed. But from the classification perspective, this does not constitute a contradiction at all: moving averages of different periods correspond to classifications at different operational scales. The strong judgment above the 5-day average applies to ultra-short-term classification with intraday or next-day operational horizons; the strength-weakness judgment of the 20-day average applies to short-to-medium-term classification with multi-week operational horizons. Each evaluation standard is independently valid at its corresponding operational scale, and no reconciliation between them is required.
+
+This yields a critically important practical premise: the parameter selection for any moving average system must first be grounded in the operator's actual capital size and operational time horizon. Divorced from this premise, all discussion of parameter superiority loses meaning. For ultra-short-term operators capable of executing intraday round-trip trades, short-period moving average strength on a 1-minute chart may suffice as an entry basis. For institutional operators managing large-scale capital, even daily-chart short-period moving average strength may lack sufficient operational value, because the entry and exit of large capital requires adequate market depth, and such depth can only be assured within trend confirmations at larger scales. Once the internal logic of the moving average system as an evaluation system is grasped, the specific selection of parameters can be flexibly adjusted according to individual circumstances — the underlying principle remains uniform.
+
+The analytical value of the moving average system resides not only in the relationship between individual averages and price, but more importantly in the relationships among averages of different periods. Within a system composed of short-term, medium-term, and long-term moving averages, the relative positional relationships among the averages determine the overall structural state of the market. When the short-term average lies above the medium-term, and the medium-term lies above the long-term, the system is in bullish alignment — the basic structural signature of a systematic bull market. The reverse constitutes bearish alignment — the basic structural signature of a systematic bear market. The precondition for extracting profit is participation in the upward phases of bullish alignment. This is the most fundamental guidance the moving average system provides at the macro level.
+
+Beneath this macro structure, the interactive behaviors among moving averages require finer examination. Treating the short-term average as the fast variable and the long-term average as the slow variable, every instance of approach, contact, or crossing between them constitutes an informational event regarding trend state. Based on the depth and manner of interaction, all moving average interactive behaviors can be subjected to a complete three-tier classification.
+
+The first tier of interaction is termed the skim. Its manifestation is as follows: during its course, the short-term average briefly flattens or undergoes a minor retracement toward the long-term average, but resumes its original trend direction before making substantive contact. The appearance of a skim indicates that the prevailing trend has regained propulsive force after a brief attenuation of momentum, with the fundamental structure of the trend facing no substantive challenge. Skims typically occur during phases when the trend is running with exceptional strength — precisely because trend force is powerful, the short-term average's reversion amplitude is extremely limited, pulled back by trend force before it can even reach the long-term average. However, because a skim also implies that trend momentum is in an extreme state, and no extreme state is sustainable over time, skims are frequently followed by adjustments or oscillations of greater magnitude.
+
+The second tier of interaction is termed the touch. Its manifestation: the short-term average travels to the vicinity of the long-term average, the distance between them narrows to near-contact or brief contact, but the short-term average does not substantively break below (in bullish alignment) or above (in bearish alignment) the long-term average, and subsequently resumes its original trend direction. The touch is the most commonly observed form of moving average interaction during any sustained trend. In bearish alignment, the touch is virtually the standard termination pattern for rally phases — the short-term average rises toward the long-term average during a rally, contacts it, is repelled by bearish trend force, and the rally ends. In bullish alignment, the touch typically signals that an adjustment is nearing completion — the short-term average declines toward the long-term average during a pullback, contacts it, is pulled back upward by bullish trend force, and a new advancing phase commences. However, when encountering a touch in bullish alignment, one must maintain alertness to the possibility that the touch may deepen into the third tier of interaction; should it do so, the operator must transition to the response strategy appropriate for the third tier, guided by program rather than assumption.
+
+The third tier of interaction is termed the intertwine. Its manifestation: the short-term average breaks below or above the long-term average and, following the break, does not quickly separate but instead repeatedly crosses and weaves around the long-term average, producing a complex entangled configuration. The appearance of an intertwine signifies that short-term trend force and long-term trend force have entered a zone of equilibrium, where the inertia of the prevailing trend and the emergence of a new directional impulse are engaged in intense opposition, and the moving average system loses its clear directional guidance within this zone. Intertwines typically arise in two scenarios: the first is a relatively deep medium-term correction within a larger-scale ongoing trend; the second is when the trend itself is gestating a major directional reversal.
+
+Among the three tiers of the interaction taxonomy, the structural linkage between intertwining and trend reversal is the most operationally decisive cognition.
+
+Virtually all major trend reversals are preceded by intertwining at the moving average level. The int...]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-df08e72959bea36d98c78b7706b04cbc521011e9</guid>
+      <title>OpenAI Raises $110B at $730B Valuation From Amazon, NVIDIA, SoftBank | OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from... https://Blockchain.News/news/openai-raises-110b-730b-valuation-amazon-nvidia-softbank</title>
+      <link>https://Blockchain.News/news/openai-raises-110b-730b-valuation-amazon-nvidia-softbank</link>
+      <pubDate>Wed, 25 Mar 2026 01:40:53 GMT</pubDate>
+      <description><![CDATA[Original title: OpenAI Raises $110B at $730B Valuation From Amazon, NVIDIA, SoftBank
+Summary: OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from NVIDIA and SoftBank, reaching $730B pre-money valuation.
+Article text: OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from NVIDIA and SoftBank, reaching $730B pre-money valuation.
+
+OpenAI just closed the largest private funding round in tech history—$110 billion at a $730 billion pre-money valuation. Amazon leads with $50 billion, while SoftBank and NVIDIA each committed $30 billion. The deal reshapes the AI infrastructure landscape and puts serious pressure on competitors scrambling for compute resources.
+
+The numbers tell the story of runaway demand. ChatGPT now has 900 million weekly active users and over 50 million paying subscribers. Codex users tripled since January to 1.6 million. More than 9 million business users pay for ChatGPT at work. Sam Altman's company isn't just growing—it's becoming infrastructure.
+
+Amazon's $50 billion isn't just capital. AWS becomes the exclusive third-party cloud provider for OpenAI Frontier, the company's enterprise platform. OpenAI will run on Amazon's custom Trainium chips, giving AWS a massive anchor tenant while OpenAI locks in compute capacity that's increasingly scarce.
+
+NVIDIA's stake secures something money alone can't buy: priority access to next-generation hardware. OpenAI gets 3 gigawatts of dedicated inference capacity and 2 gigawatts of training on Vera Rubin systems—the successor to Blackwell. That's roughly the power consumption of a mid-sized city, devoted to running AI models.
+
+SoftBank's commitment is raising eyebrows. The Japanese conglomerate is pushing against its self-imposed loan-to-value limits with this deal, according to recent reports. Masayoshi Son is also building a $33.3 billion power plant in Ohio specifically for AI data centers—a bet that compute demand will only accelerate.
+
+At $730 billion pre-money, OpenAI is now worth more than most public tech giants. For context, that's roughly Meta's market cap territory. The OpenAI Foundation's stake alone jumped to over $180 billion, making it one of the wealthiest nonprofits on the planet.
+
+Whether that valuation holds depends on execution. OpenAI must convert its user growth into enterprise revenue while fending off Google, Anthropic, and an increasingly capable open-source ecosystem. The infrastructure moat these partnerships create could prove decisive.
+
+This deal has ripple effects across public markets. NVIDIA's compute commitments suggest sustained demand for high-end AI chips through 2027 at minimum. Amazon's exclusive cloud deal could pressure Microsoft's Azure OpenAI partnership terms when they come up for renewal.
+
+SoftBank's aggressive positioning—despite leverage concerns—signals that major institutional players see AI infrastructure as a generational opportunity worth stretching balance sheets to capture. The company's Ohio power plant project, targeting AI data center demand, won't come online for years but represents a massive infrastructure bet.
+
+For crypto markets, the implications are indirect but real. AI-adjacent tokens have historically moved on OpenAI news, though the correlation weakens with each cycle. The bigger story is capital allocation: $110 billion flowing to centralized AI development is $110 billion not flowing elsewhere.
+
+OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from NVIDIA and SoftBank, reaching $730B pre-money valuation.
+
+OpenAI just closed the largest private funding round in tech history—$110 billion at a $730 billion pre-money valuation. Amazon leads with $50 billion, while SoftBank and NVIDIA each committed $30 billion. The deal reshapes the AI infrastructure landscape and puts serious pressure on competitors scrambling for compute resources.
+
+The numbers tell the story of runaway demand. ChatGPT now has 900 million weekly active users and over 50 million paying subscribers. Codex users tripled since January to 1.6 million. More than 9 million business users pay for ChatGPT at work. Sam Altman's company isn't just growing—it's becoming infrastructure.
+
+Amazon's $50 billion isn't just capital. AWS becomes the exclusive third-party cloud provider for OpenAI Frontier, the company's enterprise platform. OpenAI will run on Amazon's custom Trainium chips, giving AWS a massive anchor tenant while OpenAI locks in compute capacity that's increasingly scarce.
+
+NVIDIA's stake secures something money alone can't buy: priority access to next-generation hardware. OpenAI gets 3 gigawatts of dedicated inference capacity and 2 gigawatts of training on Vera Rubin systems—the successor to Blackwell. That's roughly the power consumption of a mid-sized city, devoted to running AI models.
+
+SoftBank's commitment is raising eyebrows. The Japanese conglomerate is pushing against its self-imposed loan-to-value limits with this deal, according to recent reports. Masayoshi Son is also building a $33.3 billion power plant in Ohio specifically for AI data centers—a bet that compute demand will only accelerate.
+
+At $730 billion pre-money, OpenAI is now worth more than most public tech giants. For context, that's roughly Meta's market cap territory. The OpenAI Foundation's stake alone jumped to over $180 billion, making it one of the wealthiest nonprofits on the planet.
+
+Whether that valuation holds depends on execution. OpenAI must convert its user growth into enterprise revenue while fending off Google, Anthropic, and an increasingly capable open-source ecosystem. The infrastructure moat these partnerships create could prove decisive.
+
+This deal has ripple effects across public markets. NVIDIA's compute commitments suggest sustained demand for high-end AI chips through 2027 at minimum. Amazon's exclusive cloud deal could pressure Microsoft's Azure OpenAI partnership terms when they come up for renewal.
+Source: https://Blockchain.News/news/openai-raises-110b-730b-valuation-amazon-nvidia-softbank]]></description>
+      <content:encoded><![CDATA[OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from NVIDIA and SoftBank, reaching $730B pre-money valuation.
+
+OpenAI just closed the largest private funding round in tech history—$110 billion at a $730 billion pre-money valuation. Amazon leads with $50 billion, while SoftBank and NVIDIA each committed $30 billion. The deal reshapes the AI infrastructure landscape and puts serious pressure on competitors scrambling for compute resources.
+
+The numbers tell the story of runaway demand. ChatGPT now has 900 million weekly active users and over 50 million paying subscribers. Codex users tripled since January to 1.6 million. More than 9 million business users pay for ChatGPT at work. Sam Altman's company isn't just growing—it's becoming infrastructure.
+
+Amazon's $50 billion isn't just capital. AWS becomes the exclusive third-party cloud provider for OpenAI Frontier, the company's enterprise platform. OpenAI will run on Amazon's custom Trainium chips, giving AWS a massive anchor tenant while OpenAI locks in compute capacity that's increasingly scarce.
+
+NVIDIA's stake secures something money alone can't buy: priority access to next-generation hardware. OpenAI gets 3 gigawatts of dedicated inference capacity and 2 gigawatts of training on Vera Rubin systems—the successor to Blackwell. That's roughly the power consumption of a mid-sized city, devoted to running AI models.
+
+SoftBank's commitment is raising eyebrows. The Japanese conglomerate is pushing against its self-imposed loan-to-value limits with this deal, according to recent reports. Masayoshi Son is also building a $33.3 billion power plant in Ohio specifically for AI data centers—a bet that compute demand will only accelerate.
+
+At $730 billion pre-money, OpenAI is now worth more than most public tech giants. For context, that's roughly Meta's market cap territory. The OpenAI Foundation's stake alone jumped to over $180 billion, making it one of the wealthiest nonprofits on the planet.
+
+Whether that valuation holds depends on execution. OpenAI must convert its user growth into enterprise revenue while fending off Google, Anthropic, and an increasingly capable open-source ecosystem. The infrastructure moat these partnerships create could prove decisive.
+
+This deal has ripple effects across public markets. NVIDIA's compute commitments suggest sustained demand for high-end AI chips through 2027 at minimum. Amazon's exclusive cloud deal could pressure Microsoft's Azure OpenAI partnership terms when they come up for renewal.
+
+SoftBank's aggressive positioning—despite leverage concerns—signals that major institutional players see AI infrastructure as a generational opportunity worth stretching balance sheets to capture. The company's Ohio power plant project, targeting AI data center demand, won't come online for years but represents a massive infrastructure bet.
+
+For crypto markets, the implications are indirect but real. AI-adjacent tokens have historically moved on OpenAI news, though the correlation weakens with each cycle. The bigger story is capital allocation: $110 billion flowing to centralized AI development is $110 billion not flowing elsewhere.
+
+OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from NVIDIA and SoftBank, reaching $730B pre-money valuation.
+
+OpenAI just closed the largest private funding round in tech history—$110 billion at a $730 billion pre-money valuation. Amazon leads with $50 billion, while SoftBank and NVIDIA each committed $30 billion. The deal reshapes the AI infrastructure landscape and puts serious pressure on competitors scrambling for compute resources.
+
+The numbers tell the story of runaway demand. ChatGPT now has 900 million weekly active users and over 50 million paying subscribers. Codex users tripled since January to 1.6 million. More than 9 million business users pay for ChatGPT at work. Sam Altman's company isn't just growing—it's becoming infrastructure.
+
+Amazon's $50 billion isn't just capital. AWS becomes the exclusive third-party cloud provider for OpenAI Frontier, the company's enterprise platform. OpenAI will run on Amazon's custom Trainium chips, giving AWS a massive anchor tenant while OpenAI locks in compute capacity that's increasingly scarce.
+
+NVIDIA's stake secures something money alone can't buy: priority access to next-generation hardware. OpenAI gets 3 gigawatts of dedicated inference capacity and 2 gigawatts of training on Vera Rubin systems—the successor to Blackwell. That's roughly the power consumption of a mid-sized city, devoted to running AI models.
+
+SoftBank's commitment is raising eyebrows. The Japanese conglomerate is pushing against its self-imposed loan-to-value limits with this deal, according to recent reports. Masayoshi Son is also building a $33.3 billion power plant in Ohio specifically for AI data centers—a bet that compute demand will only accelerate.
+
+At $730 billion pre-money, OpenAI is now worth more than most public tech giants. For context, that's roughly Meta's market cap territory. The OpenAI Foundation's stake alone jumped to over $180 billion, making it one of the wealthiest nonprofits on the planet.
+
+Whether that valuation holds depends on execution. OpenAI must convert its user growth into enterprise revenue while fending off Google, Anthropic, and an increasingly capable open-source ecosystem. The infrastructure moat these partnerships create could prove decisive.
+
+This deal has ripple effects across public markets. NVIDIA's compute commitments suggest sustained demand for high-end AI chips through 2027 at minimum. Amazon's exclusive cloud deal could pressure Microsoft's Azure OpenAI partnership terms when they come up for renewal.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-df798739654a9039376def30a288422977fd7e70</guid>
+      <title>Google Expands Gemini AI on Google TV With Three New Features | Google rolls out richer visual answers, educational deep dives, and sports briefs for Gem... https://Blockchain.News/news/google-expands-gemini-ai-google-tv-three-new-features</title>
+      <link>https://Blockchain.News/news/google-expands-gemini-ai-google-tv-three-new-features</link>
+      <pubDate>Tue, 24 Mar 2026 20:10:23 GMT</pubDate>
+      <description><![CDATA[Original title: Google Expands Gemini AI on Google TV With Three New Features
+Summary: Google rolls out richer visual answers, educational deep dives, and sports briefs for Gemini on Google TV starting March 24, 2026 in US and Canada.
+Article text: Google rolls out richer visual answers, educational deep dives, and sports briefs for Gemini on Google TV starting March 24, 2026 in US and Canada.
+
+Google is pushing Gemini deeper into living rooms with three new AI features for Google TV, transforming the platform from passive entertainment device into an interactive information hub. The rollout began March 24, 2026 for Gemini-enabled devices in the U.S. and Canada.
+
+The update targets a familiar frustration: grabbing your phone mid-show to look something up. Google wants your TV to handle that instead.
+
+The first addition, richer visual help, makes Gemini's responses context-aware. Ask about a recipe and you'll get a video tutorial. Query sports scores and a live scorecard appears alongside streaming options. The AI now pulls together visuals, video, and text based on what you're actually asking for rather than delivering generic results.
+
+Deep dives represent the more ambitious play. These narrated visual breakdowns tackle educational topics—health, economics, technology—with interactive follow-up questions built in. Google positions this as "meaningful screen time" for families, walking through subjects like cold plunge physiology or matcha production from scratch. Access comes through asking Gemini directly or hitting the "Learn" section in the Gemini tab.
+
+Sports briefs extend Google's existing news brief format to cover live sports. The feature delivers narrated highlights and game summaries for NBA, NCAA basketball, NHL, MLB, MLS, and NWSL. For fans who miss games but want more than box scores, this fills the gap without endless scrolling through sports apps.
+
+Richer visual help started rolling out March 24 in the U.S. and Canada. Deep dives and sports briefs launched the same day for U.S. users on Gemini-enabled devices, with broader device support expected this spring.
+
+International expansion follows later in 2026. Australia, New Zealand, and Great Britain get the Gemini voice assistant this spring, with additional countries throughout the year. The features require Android TV OS 14 or higher plus an internet connection—limiting access to newer hardware.
+
+Google's AI integration strategy here mirrors its broader approach: embedding Gemini across surfaces where users already spend time. Whether TV viewers actually prefer AI-generated content summaries over traditional browsing remains the open question this rollout will answer.
+
+Google rolls out richer visual answers, educational deep dives, and sports briefs for Gemini on Google TV starting March 24, 2026 in US and Canada.
+
+Google is pushing Gemini deeper into living rooms with three new AI features for Google TV, transforming the platform from passive entertainment device into an interactive information hub. The rollout began March 24, 2026 for Gemini-enabled devices in the U.S. and Canada.
+
+The update targets a familiar frustration: grabbing your phone mid-show to look something up. Google wants your TV to handle that instead.
+
+The first addition, richer visual help, makes Gemini's responses context-aware. Ask about a recipe and you'll get a video tutorial. Query sports scores and a live scorecard appears alongside streaming options. The AI now pulls together visuals, video, and text based on what you're actually asking for rather than delivering generic results.
+
+Deep dives represent the more ambitious play. These narrated visual breakdowns tackle educational topics—health, economics, technology—with interactive follow-up questions built in. Google positions this as "meaningful screen time" for families, walking through subjects like cold plunge physiology or matcha production from scratch. Access comes through asking Gemini directly or hitting the "Learn" section in the Gemini tab.
+
+Sports briefs extend Google's existing news brief format to cover live sports. The feature delivers narrated highlights and game summaries for NBA, NCAA basketball, NHL, MLB, MLS, and NWSL. For fans who miss games but want more than box scores, this fills the gap without endless scrolling through sports apps.
+
+Richer visual help started rolling out March 24 in the U.S. and Canada. Deep dives and sports briefs launched the same day for U.S. users on Gemini-enabled devices, with broader device support expected this spring.
+
+International expansion follows later in 2026. Australia, New Zealand, and Great Britain get the Gemini voice assistant this spring, with additional countries throughout the year. The features require Android TV OS 14 or higher plus an internet connection—limiting access to newer hardware.
+
+Google's AI integration strategy here mirrors its broader approach: embedding Gemini across surfaces where users already spend time. Whether TV viewers actually prefer AI-generated content summaries over traditional browsing remains the open question this rollout will answer.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/google-expands-gemini-ai-google-tv-three-new-features]]></description>
+      <content:encoded><![CDATA[Google rolls out richer visual answers, educational deep dives, and sports briefs for Gemini on Google TV starting March 24, 2026 in US and Canada.
+
+Google is pushing Gemini deeper into living rooms with three new AI features for Google TV, transforming the platform from passive entertainment device into an interactive information hub. The rollout began March 24, 2026 for Gemini-enabled devices in the U.S. and Canada.
+
+The update targets a familiar frustration: grabbing your phone mid-show to look something up. Google wants your TV to handle that instead.
+
+The first addition, richer visual help, makes Gemini's responses context-aware. Ask about a recipe and you'll get a video tutorial. Query sports scores and a live scorecard appears alongside streaming options. The AI now pulls together visuals, video, and text based on what you're actually asking for rather than delivering generic results.
+
+Deep dives represent the more ambitious play. These narrated visual breakdowns tackle educational topics—health, economics, technology—with interactive follow-up questions built in. Google positions this as "meaningful screen time" for families, walking through subjects like cold plunge physiology or matcha production from scratch. Access comes through asking Gemini directly or hitting the "Learn" section in the Gemini tab.
+
+Sports briefs extend Google's existing news brief format to cover live sports. The feature delivers narrated highlights and game summaries for NBA, NCAA basketball, NHL, MLB, MLS, and NWSL. For fans who miss games but want more than box scores, this fills the gap without endless scrolling through sports apps.
+
+Richer visual help started rolling out March 24 in the U.S. and Canada. Deep dives and sports briefs launched the same day for U.S. users on Gemini-enabled devices, with broader device support expected this spring.
+
+International expansion follows later in 2026. Australia, New Zealand, and Great Britain get the Gemini voice assistant this spring, with additional countries throughout the year. The features require Android TV OS 14 or higher plus an internet connection—limiting access to newer hardware.
+
+Google's AI integration strategy here mirrors its broader approach: embedding Gemini across surfaces where users already spend time. Whether TV viewers actually prefer AI-generated content summaries over traditional browsing remains the open question this rollout will answer.
+
+Google rolls out richer visual answers, educational deep dives, and sports briefs for Gemini on Google TV starting March 24, 2026 in US and Canada.
+
+Google is pushing Gemini deeper into living rooms with three new AI features for Google TV, transforming the platform from passive entertainment device into an interactive information hub. The rollout began March 24, 2026 for Gemini-enabled devices in the U.S. and Canada.
+
+The update targets a familiar frustration: grabbing your phone mid-show to look something up. Google wants your TV to handle that instead.
+
+The first addition, richer visual help, makes Gemini's responses context-aware. Ask about a recipe and you'll get a video tutorial. Query sports scores and a live scorecard appears alongside streaming options. The AI now pulls together visuals, video, and text based on what you're actually asking for rather than delivering generic results.
+
+Deep dives represent the more ambitious play. These narrated visual breakdowns tackle educational topics—health, economics, technology—with interactive follow-up questions built in. Google positions this as "meaningful screen time" for families, walking through subjects like cold plunge physiology or matcha production from scratch. Access comes through asking Gemini directly or hitting the "Learn" section in the Gemini tab.
+
+Sports briefs extend Google's existing news brief format to cover live sports. The feature delivers narrated highlights and game summaries for NBA, NCAA basketball, NHL, MLB, MLS, and NWSL. For fans who miss games but want more than box scores, this fills the gap without endless scrolling through sports apps.
+
+Richer visual help started rolling out March 24 in the U.S. and Canada. Deep dives and sports briefs launched the same day for U.S. users on Gemini-enabled devices, with broader device support expected this spring.
+
+International expansion follows later in 2026. Australia, New Zealand, and Great Britain get the Gemini voice assistant this spring, with additional countries throughout the year. The features require Android TV OS 14 or higher plus an internet connection—limiting access to newer hardware.
+
+Google's AI integration strategy here mirrors its broader approach: embedding Gemini across surfaces where users already spend time. Whether TV viewers actually prefer AI-generated content summaries over traditional browsing remains the open question this rollout will answer.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-72345d71b64a9d938bf55e99e3eeda3560f49e7d</guid>
       <title>Google Quantum AI Adds Neutral Atom Computing to Superconducting Roadmap | Google expands quantum computing strategy with neutral atom qubits, hiring JILA&apos;s Adam Ka... https://Blockchain.News/news/google-quantum-ai-neutral-atom-computing-expansion</title>
@@ -2345,267 +2590,6 @@ This ARB price prediction suggests a cautiously optimistic outlook for Arbitrum 
 However, traders should remain aware that ARB trades significantly below longer-term moving averages, indicating the broader trend remains challenged. Success of this prediction depends on maintaining support above $0.09 and generating sufficient volume to break resistance at $0.11.
 
 Disclaimer: Cryptocurrency price predictions are speculative and involve significant risk. This analysis is for educational purposes only and should not be considered financial advice. Always conduct your own research and consider your risk tolerance before making investment decisions.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-cd7c835794be71240899221a94ff90b6b427b8a6</guid>
-      <title>APT Price Prediction: Targets $1.18 Resistance Break by April 2026 | Aptos trades at $1.06 after 11.73% daily surge. Technical analysis suggests potential ral... https://Blockchain.News/news/20260324-price-prediction-apt-targets-118-resistance-break-by-april</title>
-      <link>https://Blockchain.News/news/20260324-price-prediction-apt-targets-118-resistance-break-by-april</link>
-      <pubDate>Tue, 24 Mar 2026 11:51:43 GMT</pubDate>
-      <description><![CDATA[Original title: APT Price Prediction: Targets $1.18 Resistance Break by April 2026
-Summary: Aptos trades at $1.06 after 11.73% daily surge. Technical analysis suggests potential rally to $1.18 resistance, though MACD warns of weakening momentum ahead.
-Article text: Aptos trades at $1.06 after 11.73% daily surge. Technical analysis suggests potential rally to $1.18 resistance, though MACD warns of weakening momentum ahead.
-
-• Short-term target (1 week): $1.12 • Medium-term forecast (1 month): $0.97-$1.18 range • Bullish breakout level: $1.18 • Critical support: $0.97
-
-While specific analyst predictions are limited for APT in recent days, on-chain metrics suggest mixed signals for the Layer-1 blockchain token. According to real-time trading data, Aptos has demonstrated significant volatility with today's 11.73% surge following a period of consolidation around the $0.97 level.
-
-The absence of recent high-profile predictions from key opinion leaders indicates either cautious sentiment or a wait-and-see approach as APT navigates crucial technical levels. Market participants appear focused on whether the token can sustain momentum above the psychological $1.00 threshold.
-
-RSI Analysis: At 57.25, APT's RSI sits in neutral territory, providing room for upward movement without reaching overbought conditions. This suggests the recent rally hasn't exhausted buying pressure yet.
-
-MACD Signals: The MACD histogram shows 0.0000, indicating bearish momentum despite the current price strength. This divergence between price action and momentum could signal potential weakness ahead.
-
-Bollinger Bands Position: With a %B reading of 1.02, APT is trading slightly above the upper Bollinger Band at $1.05. This positioning often indicates short-term overbought conditions and potential consolidation.
-
-Moving Average Structure: APT trades above all short-term moving averages (SMA 7: $0.99, SMA 20: $0.97, EMA 12: $0.99), but remains significantly below the SMA 200 at $2.35, highlighting the longer-term downtrend.
-
-Support and Resistance: Key resistance levels lie at $1.12 (immediate) and $1.18 (strong), while support rests at $0.97 (immediate) and $0.88 (strong).
-
-If APT maintains momentum above $1.06, the next target sits at immediate resistance of $1.12. A break above this level with sustained volume could propel the token toward strong resistance at $1.18, representing potential 11% upside from current levels.
-
-Technical confirmation would require: - RSI holding above 60 - MACD turning positive - Volume expansion on breakouts - Sustained trading above $1.05 Bollinger Band upper level
-
-Failure to hold current levels could trigger a retreat to immediate support at $0.97, aligning with the SMA 20. A break below this critical level might accelerate selling toward strong support at $0.88, representing 17% downside risk.
-
-Risk factors include: - MACD bearish momentum persistence - Rejection at upper Bollinger Band - Lower highs formation despite today's surge - Broader crypto market weakness
-
-Conservative Entry: Wait for a pullback to $0.99-$1.00 range, offering better risk-reward positioning near the SMA 7 support.
-
-Aggressive Entry: Current levels around $1.06 for those confident in immediate breakout, with tight stop-loss at $1.03.
-
-Risk Management: Position sizing should account for APT's daily ATR of $0.07, indicating significant intraday volatility that could trigger stop-losses prematurely.
-
-This APT price prediction suggests cautious optimism for Aptos in the near term. While today's 11.73% surge demonstrates buying interest, the MACD bearish momentum and overbought Bollinger Band positioning warrant careful monitoring. The Aptos forecast indicates a likely trading range between $0.97-$1.18 over the next month, with a 60% probability of testing the $1.12 resistance level within one week.
-
-Traders should remain alert to technical confirmations before committing significant capital, as cryptocurrency markets remain highly volatile and unpredictable. This analysis represents technical assessment only and should not constitute financial advice.
-
-Aptos trades at $1.06 after 11.73% daily surge. Technical analysis suggests potential rally to $1.18 resistance, though MACD warns of weakening momentum ahead.
-
-• Short-term target (1 week): $1.12 • Medium-term forecast (1 month): $0.97-$1.18 range • Bullish breakout level: $1.18 • Critical support: $0.97
-Source: https://Blockchain.News/news/20260324-price-prediction-apt-targets-118-resistance-break-by-april]]></description>
-      <content:encoded><![CDATA[Aptos trades at $1.06 after 11.73% daily surge. Technical analysis suggests potential rally to $1.18 resistance, though MACD warns of weakening momentum ahead.
-
-• Short-term target (1 week): $1.12 • Medium-term forecast (1 month): $0.97-$1.18 range • Bullish breakout level: $1.18 • Critical support: $0.97
-
-While specific analyst predictions are limited for APT in recent days, on-chain metrics suggest mixed signals for the Layer-1 blockchain token. According to real-time trading data, Aptos has demonstrated significant volatility with today's 11.73% surge following a period of consolidation around the $0.97 level.
-
-The absence of recent high-profile predictions from key opinion leaders indicates either cautious sentiment or a wait-and-see approach as APT navigates crucial technical levels. Market participants appear focused on whether the token can sustain momentum above the psychological $1.00 threshold.
-
-RSI Analysis: At 57.25, APT's RSI sits in neutral territory, providing room for upward movement without reaching overbought conditions. This suggests the recent rally hasn't exhausted buying pressure yet.
-
-MACD Signals: The MACD histogram shows 0.0000, indicating bearish momentum despite the current price strength. This divergence between price action and momentum could signal potential weakness ahead.
-
-Bollinger Bands Position: With a %B reading of 1.02, APT is trading slightly above the upper Bollinger Band at $1.05. This positioning often indicates short-term overbought conditions and potential consolidation.
-
-Moving Average Structure: APT trades above all short-term moving averages (SMA 7: $0.99, SMA 20: $0.97, EMA 12: $0.99), but remains significantly below the SMA 200 at $2.35, highlighting the longer-term downtrend.
-
-Support and Resistance: Key resistance levels lie at $1.12 (immediate) and $1.18 (strong), while support rests at $0.97 (immediate) and $0.88 (strong).
-
-If APT maintains momentum above $1.06, the next target sits at immediate resistance of $1.12. A break above this level with sustained volume could propel the token toward strong resistance at $1.18, representing potential 11% upside from current levels.
-
-Technical confirmation would require: - RSI holding above 60 - MACD turning positive - Volume expansion on breakouts - Sustained trading above $1.05 Bollinger Band upper level
-
-Failure to hold current levels could trigger a retreat to immediate support at $0.97, aligning with the SMA 20. A break below this critical level might accelerate selling toward strong support at $0.88, representing 17% downside risk.
-
-Risk factors include: - MACD bearish momentum persistence - Rejection at upper Bollinger Band - Lower highs formation despite today's surge - Broader crypto market weakness
-
-Conservative Entry: Wait for a pullback to $0.99-$1.00 range, offering better risk-reward positioning near the SMA 7 support.
-
-Aggressive Entry: Current levels around $1.06 for those confident in immediate breakout, with tight stop-loss at $1.03.
-
-Risk Management: Position sizing should account for APT's daily ATR of $0.07, indicating significant intraday volatility that could trigger stop-losses prematurely.
-
-This APT price prediction suggests cautious optimism for Aptos in the near term. While today's 11.73% surge demonstrates buying interest, the MACD bearish momentum and overbought Bollinger Band positioning warrant careful monitoring. The Aptos forecast indicates a likely trading range between $0.97-$1.18 over the next month, with a 60% probability of testing the $1.12 resistance level within one week.
-
-Traders should remain alert to technical confirmations before committing significant capital, as cryptocurrency markets remain highly volatile and unpredictable. This analysis represents technical assessment only and should not constitute financial advice.
-
-Aptos trades at $1.06 after 11.73% daily surge. Technical analysis suggests potential rally to $1.18 resistance, though MACD warns of weakening momentum ahead.
-
-• Short-term target (1 week): $1.12 • Medium-term forecast (1 month): $0.97-$1.18 range • Bullish breakout level: $1.18 • Critical support: $0.97]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-0e5e555ecfb04a7ea3e4f3c6927b5115ff445b73</guid>
-      <title>NEAR Price Prediction: Consolidation Phase Could Break to $1.45 by April | NEAR Protocol trades at $1.30 with neutral RSI at 51.26. Technical analysis suggests pote... https://Blockchain.News/news/20260324-price-prediction-near-consolidation-phase-could-break...</title>
-      <link>https://Blockchain.News/news/20260324-price-prediction-near-consolidation-phase-could-break-to-145</link>
-      <pubDate>Tue, 24 Mar 2026 11:45:50 GMT</pubDate>
-      <description><![CDATA[Original title: NEAR Price Prediction: Consolidation Phase Could Break to $1.45 by April
-Summary: NEAR Protocol trades at $1.30 with neutral RSI at 51.26. Technical analysis suggests potential breakout to $1.45 resistance if bulls can reclaim $1.35 level in coming weeks.
-Article text: NEAR Protocol trades at $1.30 with neutral RSI at 51.26. Technical analysis suggests potential breakout to $1.45 resistance if bulls can reclaim $1.35 level in coming weeks.
-
-• Short-term target (1 week): $1.35 • Medium-term forecast (1 month): $1.25-$1.45 range • Bullish breakout level: $1.35 • Critical support: $1.27
-
-While specific analyst predictions are limited for NEAR Protocol in recent trading sessions, on-chain metrics suggest the token remains in a consolidation phase. According to market data platforms, NEAR has been trading within a defined range as investors await clearer directional signals.
-
-The absence of strong bullish or bearish commentary from key opinion leaders indicates market uncertainty, with traders likely waiting for technical confirmation before committing to larger positions. This sideways action is typical during accumulation phases that often precede significant price movements.
-
-The current NEAR price prediction is based on several key technical indicators showing mixed signals. NEAR Protocol's RSI of 51.26 sits firmly in neutral territory, indicating neither overbought nor oversold conditions. This neutral RSI suggests room for movement in either direction.
-
-The MACD histogram at 0.0000 shows bullish momentum is attempting to emerge, though the convergence of MACD and signal lines suggests indecision in the short term. NEAR's position within the Bollinger Bands at 0.45 indicates the token is trading closer to the lower band ($1.17) than the upper band ($1.46), potentially signaling oversold conditions.
-
-Moving averages present a mixed picture for this NEAR Protocol forecast. The 7-day SMA at $1.31 and 20-day SMA at $1.31 are aligned with current price action, while the 50-day SMA at $1.18 suggests recent strength. However, the 200-day SMA at $1.87 remains significantly above current levels, indicating longer-term bearish pressure.
-
-Key support lies at $1.27-$1.28, while immediate resistance appears at $1.32-$1.35. The daily ATR of $0.08 suggests moderate volatility, providing opportunities for both swing traders and longer-term investors.
-
-In the bullish case for our NEAR price prediction, a break above the immediate resistance at $1.35 could trigger momentum toward the Bollinger Band upper limit of $1.46. This represents approximately 12% upside from current levels. Technical confirmation would require sustained volume above the 7-day average and RSI pushing above 60.
-
-The 50-day SMA at $1.18 has been reclaimed, which historically signals trend reversal potential. If bulls can establish $1.35 as support, the next logical target becomes the psychological $1.50 level, aligning with previous swing highs.
-
-The bearish scenario for this NEAR Protocol forecast centers on a failure to hold the $1.27 support level. A breakdown below this critical support could trigger selling toward the Bollinger Band lower limit at $1.17, representing roughly 10% downside risk.
-
-The concerning factor remains the 200-day SMA at $1.87, which acts as long-term resistance. Until NEAR can reclaim levels above $1.50, the broader trend remains questionable. Additional risk factors include low trading volume and the absence of strong fundamental catalysts.
-
-For traders considering NEAR Protocol, the current consolidation phase offers strategic entry opportunities. Conservative investors should wait for a confirmed break above $1.35 with volume confirmation before establishing positions. This approach reduces false breakout risk while maintaining upside participation.
-
-Aggressive traders might consider accumulating between $1.28-$1.30, using the strong support at $1.27 as a stop-loss reference point. This strategy offers a favorable risk-reward ratio with limited downside and significant upside potential to the $1.45-$1.50 range.
-
-Risk management remains crucial in this NEAR price prediction scenario. Position sizing should account for the $1.27 support break risk, with stops placed at $1.25 to allow for minor volatility while protecting against major drawdowns.
-
-The technical analysis suggests NEAR Protocol remains in a critical consolidation phase with potential for a 10-15% breakout in either direction. The neutral RSI and emerging MACD bullish divergence favor patient accumulation near current levels, while the $1.35 resistance level serves as the key catalyst for this NEAR Protocol forecast.
-
-Traders should monitor volume closely, as any significant price movement will likely require above-average participation to sustain momentum. The medium-term outlook favors a range-bound scenario between $1.25-$1.45 until broader market conditions provide clearer directional guidance.
-
-Disclaimer: Cryptocurrency investments carry substantial risk. This NEAR price prediction is for informational purposes only and should not be considered financial advice. Always conduct your own research and consider your risk tolerance before making investment decisions.
-
-NEAR Protocol trades at $1.30 with neutral RSI at 51.26. Technical analysis suggests potential breakout to $1.45 resistance if bulls can reclaim $1.35 level in coming weeks.
-
-• Short-term target (1 week): $1.35 • Medium-term forecast (1 month): $1.25-$1.45 range • Bullish breakout level: $1.35 • Critical support: $1.27
-Source: https://Blockchain.News/news/20260324-price-prediction-near-consolidation-phase-could-break-to-145]]></description>
-      <content:encoded><![CDATA[NEAR Protocol trades at $1.30 with neutral RSI at 51.26. Technical analysis suggests potential breakout to $1.45 resistance if bulls can reclaim $1.35 level in coming weeks.
-
-• Short-term target (1 week): $1.35 • Medium-term forecast (1 month): $1.25-$1.45 range • Bullish breakout level: $1.35 • Critical support: $1.27
-
-While specific analyst predictions are limited for NEAR Protocol in recent trading sessions, on-chain metrics suggest the token remains in a consolidation phase. According to market data platforms, NEAR has been trading within a defined range as investors await clearer directional signals.
-
-The absence of strong bullish or bearish commentary from key opinion leaders indicates market uncertainty, with traders likely waiting for technical confirmation before committing to larger positions. This sideways action is typical during accumulation phases that often precede significant price movements.
-
-The current NEAR price prediction is based on several key technical indicators showing mixed signals. NEAR Protocol's RSI of 51.26 sits firmly in neutral territory, indicating neither overbought nor oversold conditions. This neutral RSI suggests room for movement in either direction.
-
-The MACD histogram at 0.0000 shows bullish momentum is attempting to emerge, though the convergence of MACD and signal lines suggests indecision in the short term. NEAR's position within the Bollinger Bands at 0.45 indicates the token is trading closer to the lower band ($1.17) than the upper band ($1.46), potentially signaling oversold conditions.
-
-Moving averages present a mixed picture for this NEAR Protocol forecast. The 7-day SMA at $1.31 and 20-day SMA at $1.31 are aligned with current price action, while the 50-day SMA at $1.18 suggests recent strength. However, the 200-day SMA at $1.87 remains significantly above current levels, indicating longer-term bearish pressure.
-
-Key support lies at $1.27-$1.28, while immediate resistance appears at $1.32-$1.35. The daily ATR of $0.08 suggests moderate volatility, providing opportunities for both swing traders and longer-term investors.
-
-In the bullish case for our NEAR price prediction, a break above the immediate resistance at $1.35 could trigger momentum toward the Bollinger Band upper limit of $1.46. This represents approximately 12% upside from current levels. Technical confirmation would require sustained volume above the 7-day average and RSI pushing above 60.
-
-The 50-day SMA at $1.18 has been reclaimed, which historically signals trend reversal potential. If bulls can establish $1.35 as support, the next logical target becomes the psychological $1.50 level, aligning with previous swing highs.
-
-The bearish scenario for this NEAR Protocol forecast centers on a failure to hold the $1.27 support level. A breakdown below this critical support could trigger selling toward the Bollinger Band lower limit at $1.17, representing roughly 10% downside risk.
-
-The concerning factor remains the 200-day SMA at $1.87, which acts as long-term resistance. Until NEAR can reclaim levels above $1.50, the broader trend remains questionable. Additional risk factors include low trading volume and the absence of strong fundamental catalysts.
-
-For traders considering NEAR Protocol, the current consolidation phase offers strategic entry opportunities. Conservative investors should wait for a confirmed break above $1.35 with volume confirmation before establishing positions. This approach reduces false breakout risk while maintaining upside participation.
-
-Aggressive traders might consider accumulating between $1.28-$1.30, using the strong support at $1.27 as a stop-loss reference point. This strategy offers a favorable risk-reward ratio with limited downside and significant upside potential to the $1.45-$1.50 range.
-
-Risk management remains crucial in this NEAR price prediction scenario. Position sizing should account for the $1.27 support break risk, with stops placed at $1.25 to allow for minor volatility while protecting against major drawdowns.
-
-The technical analysis suggests NEAR Protocol remains in a critical consolidation phase with potential for a 10-15% breakout in either direction. The neutral RSI and emerging MACD bullish divergence favor patient accumulation near current levels, while the $1.35 resistance level serves as the key catalyst for this NEAR Protocol forecast.
-
-Traders should monitor volume closely, as any significant price movement will likely require above-average participation to sustain momentum. The medium-term outlook favors a range-bound scenario between $1.25-$1.45 until broader market conditions provide clearer directional guidance.
-
-Disclaimer: Cryptocurrency investments carry substantial risk. This NEAR price prediction is for informational purposes only and should not be considered financial advice. Always conduct your own research and consider your risk tolerance before making investment decisions.
-
-NEAR Protocol trades at $1.30 with neutral RSI at 51.26. Technical analysis suggests potential breakout to $1.45 resistance if bulls can reclaim $1.35 level in coming weeks.
-
-• Short-term target (1 week): $1.35 • Medium-term forecast (1 month): $1.25-$1.45 range • Bullish breakout level: $1.35 • Critical support: $1.27]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-738be2435acb9249a5e45075cd4920d12f43e27a</guid>
-      <title>XLM Price Prediction: Stellar Targets $0.18 Breakout by April 2026 | XLM trades at $0.17 with neutral RSI at 53. Technical analysis suggests potential breakou... https://Blockchain.News/news/20260324-price-prediction-xlm-stellar-targets-018-breakout-by-april</title>
-      <link>https://Blockchain.News/news/20260324-price-prediction-xlm-stellar-targets-018-breakout-by-april</link>
-      <pubDate>Tue, 24 Mar 2026 11:40:00 GMT</pubDate>
-      <description><![CDATA[Original title: XLM Price Prediction: Stellar Targets $0.18 Breakout by April 2026
-Summary: XLM trades at $0.17 with neutral RSI at 53. Technical analysis suggests potential breakout to $0.18 resistance or pullback to $0.15 support within 30 days.
-Article text: XLM trades at $0.17 with neutral RSI at 53. Technical analysis suggests potential breakout to $0.18 resistance or pullback to $0.15 support within 30 days.
-
-• Short-term target (1 week): $0.165-$0.175 • Medium-term forecast (1 month): $0.15-$0.18 range • Bullish breakout level: $0.18 • Critical support: $0.15
-
-While specific analyst predictions are limited in recent weeks, we did find one notable mention from Altcoin Doctor (@AltcoinDoctor) who published an XLM price prediction video on January 5, 2026, though specific targets weren't disclosed in the available data.
-
-According to on-chain data and current market metrics, Stellar's trading patterns suggest the token is consolidating within a defined range. The lack of strong directional bias from key opinion leaders indicates market uncertainty, with traders likely waiting for clearer technical signals before committing to larger positions.
-
-Stellar's current technical setup presents a mixed picture. The RSI sits at 53.00, firmly in neutral territory, suggesting neither overbought nor oversold conditions. This neutral momentum indicator aligns with the sideways price action we've observed.
-
-The MACD histogram reads 0.0000, indicating bearish momentum despite the relatively stable price. This divergence suggests underlying selling pressure that could manifest if key support levels fail to hold.
-
-Bollinger Bands analysis reveals XLM positioned at 0.66 within the bands, closer to the upper boundary at $0.18 than the lower band at $0.15. The middle band (20-period SMA) sits at $0.16, currently acting as dynamic support.
-
-Moving averages paint a concerning longer-term picture. While short-term SMAs (7, 20, 50-period) all cluster around $0.16, the 200-period SMA stands significantly higher at $0.25, indicating XLM remains well below its longer-term trend.
-
-In an optimistic scenario, XLM could target the upper Bollinger Band resistance at $0.18, representing roughly 6% upside from current levels. A decisive break above this level with increased volume could trigger momentum toward the next psychological resistance around $0.20.
-
-Key confirmation signals for the bullish case include RSI breaking above 60, MACD histogram turning positive, and sustained trading above the $0.17 pivot point with strong volume support.
-
-The bear case sees XLM testing the lower Bollinger Band support at $0.15, representing approximately 12% downside risk. A breakdown below this level could accelerate selling toward the next major support zone around $0.12-$0.13.
-
-Risk factors include the significant gap between current price and the 200-period SMA, bearish MACD momentum, and overall crypto market volatility that could pressure altcoins during broader market corrections.
-
-Based on current technical levels, conservative traders might consider scaling into positions near the $0.16 support zone, with additional buying interest around $0.155 if the lower Bollinger Band is tested.
-
-More aggressive traders could wait for a clear breakout above $0.175 with volume confirmation before establishing long positions targeting the $0.18 resistance level.
-
-Risk management suggests setting stop-losses below $0.15 for long positions, as a breakdown below this level would invalidate the current consolidation pattern and potentially trigger deeper correction toward $0.12-$0.13 support zones.
-
-Our XLM price prediction suggests Stellar will likely remain range-bound between $0.15-$0.18 over the next month, with neutral technical indicators providing limited directional clarity. The Stellar forecast leans slightly bearish due to MACD momentum, but oversold conditions near $0.15 could provide buying opportunities for patient investors.
-
-Traders should monitor the $0.17 pivot level closely, as sustained breaks above or below this price could determine XLM's next significant move. With confidence level at moderate due to mixed signals, position sizing should reflect the inherent uncertainty in current market conditions.
-
-Disclaimer: Cryptocurrency price predictions are highly speculative and subject to extreme volatility. This analysis is for educational purposes only and should not be considered financial advice. Always conduct your own research and never invest more than you can afford to lose.
-
-XLM trades at $0.17 with neutral RSI at 53. Technical analysis suggests potential breakout to $0.18 resistance or pullback to $0.15 support within 30 days.
-
-• Short-term target (1 week): $0.165-$0.175 • Medium-term forecast (1 month): $0.15-$0.18 range • Bullish breakout level: $0.18 • Critical support: $0.15
-Source: https://Blockchain.News/news/20260324-price-prediction-xlm-stellar-targets-018-breakout-by-april]]></description>
-      <content:encoded><![CDATA[XLM trades at $0.17 with neutral RSI at 53. Technical analysis suggests potential breakout to $0.18 resistance or pullback to $0.15 support within 30 days.
-
-• Short-term target (1 week): $0.165-$0.175 • Medium-term forecast (1 month): $0.15-$0.18 range • Bullish breakout level: $0.18 • Critical support: $0.15
-
-While specific analyst predictions are limited in recent weeks, we did find one notable mention from Altcoin Doctor (@AltcoinDoctor) who published an XLM price prediction video on January 5, 2026, though specific targets weren't disclosed in the available data.
-
-According to on-chain data and current market metrics, Stellar's trading patterns suggest the token is consolidating within a defined range. The lack of strong directional bias from key opinion leaders indicates market uncertainty, with traders likely waiting for clearer technical signals before committing to larger positions.
-
-Stellar's current technical setup presents a mixed picture. The RSI sits at 53.00, firmly in neutral territory, suggesting neither overbought nor oversold conditions. This neutral momentum indicator aligns with the sideways price action we've observed.
-
-The MACD histogram reads 0.0000, indicating bearish momentum despite the relatively stable price. This divergence suggests underlying selling pressure that could manifest if key support levels fail to hold.
-
-Bollinger Bands analysis reveals XLM positioned at 0.66 within the bands, closer to the upper boundary at $0.18 than the lower band at $0.15. The middle band (20-period SMA) sits at $0.16, currently acting as dynamic support.
-
-Moving averages paint a concerning longer-term picture. While short-term SMAs (7, 20, 50-period) all cluster around $0.16, the 200-period SMA stands significantly higher at $0.25, indicating XLM remains well below its longer-term trend.
-
-In an optimistic scenario, XLM could target the upper Bollinger Band resistance at $0.18, representing roughly 6% upside from current levels. A decisive break above this level with increased volume could trigger momentum toward the next psychological resistance around $0.20.
-
-Key confirmation signals for the bullish case include RSI breaking above 60, MACD histogram turning positive, and sustained trading above the $0.17 pivot point with strong volume support.
-
-The bear case sees XLM testing the lower Bollinger Band support at $0.15, representing approximately 12% downside risk. A breakdown below this level could accelerate selling toward the next major support zone around $0.12-$0.13.
-
-Risk factors include the significant gap between current price and the 200-period SMA, bearish MACD momentum, and overall crypto market volatility that could pressure altcoins during broader market corrections.
-
-Based on current technical levels, conservative traders might consider scaling into positions near the $0.16 support zone, with additional buying interest around $0.155 if the lower Bollinger Band is tested.
-
-More aggressive traders could wait for a clear breakout above $0.175 with volume confirmation before establishing long positions targeting the $0.18 resistance level.
-
-Risk management suggests setting stop-losses below $0.15 for long positions, as a breakdown below this level would invalidate the current consolidation pattern and potentially trigger deeper correction toward $0.12-$0.13 support zones.
-
-Our XLM price prediction suggests Stellar will likely remain range-bound between $0.15-$0.18 over the next month, with neutral technical indicators providing limited directional clarity. The Stellar forecast leans slightly bearish due to MACD momentum, but oversold conditions near $0.15 could provide buying opportunities for patient investors.
-
-Traders should monitor the $0.17 pivot level closely, as sustained breaks above or below this price could determine XLM's next significant move. With confidence level at moderate due to mixed signals, position sizing should reflect the inherent uncertainty in current market conditions.
-
-Disclaimer: Cryptocurrency price predictions are highly speculative and subject to extreme volatility. This analysis is for educational purposes only and should not be considered financial advice. Always conduct your own research and never invest more than you can afford to lose.
-
-XLM trades at $0.17 with neutral RSI at 53. Technical analysis suggests potential breakout to $0.18 resistance or pullback to $0.15 support within 30 days.
-
-• Short-term target (1 week): $0.165-$0.175 • Medium-term forecast (1 month): $0.15-$0.18 range • Bullish breakout level: $0.18 • Critical support: $0.15]]></content:encoded>
     </item>
   </channel>
 </rss>
