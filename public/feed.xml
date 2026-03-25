@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Wed, 25 Mar 2026 13:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 15:02:46 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-72345d71b64a9d938bf55e99e3eeda3560f49e7d</guid>
+      <title>Google Quantum AI Adds Neutral Atom Computing to Superconducting Roadmap | Google expands quantum computing strategy with neutral atom qubits, hiring JILA&apos;s Adam Ka... https://Blockchain.News/news/google-quantum-ai-neutral-atom-computing-expansion</title>
+      <link>https://Blockchain.News/news/google-quantum-ai-neutral-atom-computing-expansion</link>
+      <pubDate>Tue, 24 Mar 2026 20:01:23 GMT</pubDate>
+      <description><![CDATA[Original title: Google Quantum AI Adds Neutral Atom Computing to Superconducting Roadmap
+Summary: Google expands quantum computing strategy with neutral atom qubits, hiring JILA's Adam Kaufman to lead Boulder-based hardware team alongside existing superconducting program.
+Article text: Google expands quantum computing strategy with neutral atom qubits, hiring JILA's Adam Kaufman to lead Boulder-based hardware team alongside existing superconducting program.
+
+Google Quantum AI is betting on two horses in the race toward commercially viable quantum computers. The tech giant announced it's expanding beyond superconducting qubits to build neutral atom quantum systems—a move that could accelerate its timeline for hitting key milestones before decade's end.
+
+The dual-modality approach exploits what Google calls "complementary strengths." Superconducting qubits excel at circuit depth, running millions of gate cycles at microsecond speeds. Neutral atoms scale better in qubit count, with arrays reaching roughly 10,000 qubits and offering flexible connectivity that enables more efficient error-correcting codes. The tradeoff? Neutral atom cycles run in milliseconds, orders of magnitude slower.
+
+To lead the experimental push, Google recruited Dr. Adam Kaufman from JILA, the joint institute between CU Boulder and NIST. He'll build a neutral atoms hardware team in Boulder while maintaining his JILA Fellowship and CU faculty position—a setup that keeps Google embedded in one of the world's premier AMO (Atomic, Molecular and Optical) physics ecosystems.
+
+"I am thrilled to join Google's world-leading program in quantum computing, and to expand that leadership to a new and highly promising platform of neutral atoms," Kaufman said.
+
+NIST's Physical Measurement Laboratory Director James Kushmerick acknowledged the talent drain but framed it positively: "While this is a loss for NIST, it is a gain for the quantum ecosystem in Boulder and the U.S. quantum industry broadly."
+
+The expansion comes after Google's superconducting program hit a major milestone in December 2024. The 105-qubit Willow chip became the first processor to operate below the quantum error correction threshold—meaning errors actually decreased as the system scaled up, rather than compounding. That's the fundamental requirement for fault-tolerant quantum computing.
+
+Willow also demonstrated what Google claims is verifiable quantum advantage, completing a random circuit sampling benchmark in under five minutes that would theoretically take the Frontier supercomputer 10 septillion years.
+
+Google's neutral atom program will focus on three pillars: adapting error correction protocols for atom array connectivity, using Google's compute resources for hardware simulation and design optimization, and building application-scale hardware with fault-tolerant performance.
+
+The announcement notes Google will continue collaborating with QuEra, its portfolio company that pioneered foundational neutral atom methods. That relationship gives Google additional exposure to the technology while building internal capabilities.
+
+For the broader quantum computing sector, Google's dual-track investment signals growing confidence that multiple qubit technologies may prove commercially viable—each potentially suited to different problem types. The company reiterated its belief that "commercially relevant quantum computers based on superconducting technology will become available by the end of this decade," with neutral atoms potentially offering complementary capabilities.
+
+The next major test for neutral atoms: demonstrating deep circuits with many computational cycles. For superconducting systems, it's scaling architectures to tens of thousands of qubits. Google's now racing on both fronts.
+
+Google expands quantum computing strategy with neutral atom qubits, hiring JILA's Adam Kaufman to lead Boulder-based hardware team alongside existing superconducting program.
+
+Google Quantum AI is betting on two horses in the race toward commercially viable quantum computers. The tech giant announced it's expanding beyond superconducting qubits to build neutral atom quantum systems—a move that could accelerate its timeline for hitting key milestones before decade's end.
+
+The dual-modality approach exploits what Google calls "complementary strengths." Superconducting qubits excel at circuit depth, running millions of gate cycles at microsecond speeds. Neutral atoms scale better in qubit count, with arrays reaching roughly 10,000 qubits and offering flexible connectivity that enables more efficient error-correcting codes. The tradeoff? Neutral atom cycles run in milliseconds, orders of magnitude slower.
+
+To lead the experimental push, Google recruited Dr. Adam Kaufman from JILA, the joint institute between CU Boulder and NIST. He'll build a neutral atoms hardware team in Boulder while maintaining his JILA Fellowship and CU faculty position—a setup that keeps Google embedded in one of the world's premier AMO (Atomic, Molecular and Optical) physics ecosystems.
+
+"I am thrilled to join Google's world-leading program in quantum computing, and to expand that leadership to a new and highly promising platform of neutral atoms," Kaufman said.
+
+NIST's Physical Measurement Laboratory Director James Kushmerick acknowledged the talent drain but framed it positively: "While this is a loss for NIST, it is a gain for the quantum ecosystem in Boulder and the U.S. quantum industry broadly."
+
+The expansion comes after Google's superconducting program hit a major milestone in December 2024. The 105-qubit Willow chip became the first processor to operate below the quantum error correction threshold—meaning errors actually decreased as the system scaled up, rather than compounding. That's the fundamental requirement for fault-tolerant quantum computing.
+
+Willow also demonstrated what Google claims is verifiable quantum advantage, completing a random circuit sampling benchmark in under five minutes that would theoretically take the Frontier supercomputer 10 septillion years.
+Source: https://Blockchain.News/news/google-quantum-ai-neutral-atom-computing-expansion]]></description>
+      <content:encoded><![CDATA[Google expands quantum computing strategy with neutral atom qubits, hiring JILA's Adam Kaufman to lead Boulder-based hardware team alongside existing superconducting program.
+
+Google Quantum AI is betting on two horses in the race toward commercially viable quantum computers. The tech giant announced it's expanding beyond superconducting qubits to build neutral atom quantum systems—a move that could accelerate its timeline for hitting key milestones before decade's end.
+
+The dual-modality approach exploits what Google calls "complementary strengths." Superconducting qubits excel at circuit depth, running millions of gate cycles at microsecond speeds. Neutral atoms scale better in qubit count, with arrays reaching roughly 10,000 qubits and offering flexible connectivity that enables more efficient error-correcting codes. The tradeoff? Neutral atom cycles run in milliseconds, orders of magnitude slower.
+
+To lead the experimental push, Google recruited Dr. Adam Kaufman from JILA, the joint institute between CU Boulder and NIST. He'll build a neutral atoms hardware team in Boulder while maintaining his JILA Fellowship and CU faculty position—a setup that keeps Google embedded in one of the world's premier AMO (Atomic, Molecular and Optical) physics ecosystems.
+
+"I am thrilled to join Google's world-leading program in quantum computing, and to expand that leadership to a new and highly promising platform of neutral atoms," Kaufman said.
+
+NIST's Physical Measurement Laboratory Director James Kushmerick acknowledged the talent drain but framed it positively: "While this is a loss for NIST, it is a gain for the quantum ecosystem in Boulder and the U.S. quantum industry broadly."
+
+The expansion comes after Google's superconducting program hit a major milestone in December 2024. The 105-qubit Willow chip became the first processor to operate below the quantum error correction threshold—meaning errors actually decreased as the system scaled up, rather than compounding. That's the fundamental requirement for fault-tolerant quantum computing.
+
+Willow also demonstrated what Google claims is verifiable quantum advantage, completing a random circuit sampling benchmark in under five minutes that would theoretically take the Frontier supercomputer 10 septillion years.
+
+Google's neutral atom program will focus on three pillars: adapting error correction protocols for atom array connectivity, using Google's compute resources for hardware simulation and design optimization, and building application-scale hardware with fault-tolerant performance.
+
+The announcement notes Google will continue collaborating with QuEra, its portfolio company that pioneered foundational neutral atom methods. That relationship gives Google additional exposure to the technology while building internal capabilities.
+
+For the broader quantum computing sector, Google's dual-track investment signals growing confidence that multiple qubit technologies may prove commercially viable—each potentially suited to different problem types. The company reiterated its belief that "commercially relevant quantum computers based on superconducting technology will become available by the end of this decade," with neutral atoms potentially offering complementary capabilities.
+
+The next major test for neutral atoms: demonstrating deep circuits with many computational cycles. For superconducting systems, it's scaling architectures to tens of thousands of qubits. Google's now racing on both fronts.
+
+Google expands quantum computing strategy with neutral atom qubits, hiring JILA's Adam Kaufman to lead Boulder-based hardware team alongside existing superconducting program.
+
+Google Quantum AI is betting on two horses in the race toward commercially viable quantum computers. The tech giant announced it's expanding beyond superconducting qubits to build neutral atom quantum systems—a move that could accelerate its timeline for hitting key milestones before decade's end.
+
+The dual-modality approach exploits what Google calls "complementary strengths." Superconducting qubits excel at circuit depth, running millions of gate cycles at microsecond speeds. Neutral atoms scale better in qubit count, with arrays reaching roughly 10,000 qubits and offering flexible connectivity that enables more efficient error-correcting codes. The tradeoff? Neutral atom cycles run in milliseconds, orders of magnitude slower.
+
+To lead the experimental push, Google recruited Dr. Adam Kaufman from JILA, the joint institute between CU Boulder and NIST. He'll build a neutral atoms hardware team in Boulder while maintaining his JILA Fellowship and CU faculty position—a setup that keeps Google embedded in one of the world's premier AMO (Atomic, Molecular and Optical) physics ecosystems.
+
+"I am thrilled to join Google's world-leading program in quantum computing, and to expand that leadership to a new and highly promising platform of neutral atoms," Kaufman said.
+
+NIST's Physical Measurement Laboratory Director James Kushmerick acknowledged the talent drain but framed it positively: "While this is a loss for NIST, it is a gain for the quantum ecosystem in Boulder and the U.S. quantum industry broadly."
+
+The expansion comes after Google's superconducting program hit a major milestone in December 2024. The 105-qubit Willow chip became the first processor to operate below the quantum error correction threshold—meaning errors actually decreased as the system scaled up, rather than compounding. That's the fundamental requirement for fault-tolerant quantum computing.
+
+Willow also demonstrated what Google claims is verifiable quantum advantage, completing a random circuit sampling benchmark in under five minutes that would theoretically take the Frontier supercomputer 10 septillion years.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-faf727d26ff2fdcb5318e99ac87072f8914def42</guid>
+      <title>BTC Sees $9.6B Outflows as Institutions Flee to Stablecoins | Glassnode data reveals $9.6B in Bitcoin outflows and $6.2B stablecoin inflows as institut... https://Blockchain.News/news/btc-9-6b-outflows-institutions-stablecoins-march-2026</title>
+      <link>https://Blockchain.News/news/btc-9-6b-outflows-institutions-stablecoins-march-2026</link>
+      <pubDate>Tue, 24 Mar 2026 19:19:11 GMT</pubDate>
+      <description><![CDATA[Original title: BTC Sees $9.6B Outflows as Institutions Flee to Stablecoins
+Summary: Glassnode data reveals $9.6B in Bitcoin outflows and $6.2B stablecoin inflows as institutional investors adopt defensive positioning amid compressed basis yields.
+Article text: Glassnode data reveals $9.6B in Bitcoin outflows and $6.2B stablecoin inflows as institutional investors adopt defensive positioning amid compressed basis yields.
+
+Institutional investors pulled $9.6 billion from Bitcoin and $3.2 billion from Ethereum through February and early March, rotating heavily into stablecoins which absorbed $6.2 billion in net inflows, according to Glassnode's latest Strategy Watch report published March 24.
+
+The defensive pivot comes as CME basis yields—the bread and butter of market-neutral hedge fund strategies—continue compressing from their August 2025 peaks. Cash-and-carry trades that once offered attractive risk-free returns are becoming increasingly unattractive, pushing institutions toward dollar-denominated on-chain instruments rather than spot crypto exposure.
+
+The picture isn't uniformly bearish. Bitcoin ETF and Digital Asset Trust flows flipped positive after brutal February outflows, recovering to +28,000 BTC and +46,800 BTC respectively. Ethereum institutional products showed stabilization, with ETF flows near neutral at +46,500 ETH.
+
+But Glassnode warns against reading too much into the bounce: "While the directional shift is encouraging, the recovery remains early-stage and uneven, and it would be premature to characterize this as a broad resumption of institutional conviction."
+
+Ethereum's DeFi ecosystem took a particularly hard hit. Total Value Locked recorded peak monthly outflows of $23.7 billion in February—a clear signal that larger allocators are abandoning liquidity provisioning and yield strategies en masse.
+
+The declining trend stretches back to August 2025, and shows no signs of reversing. Glassnode attributes the exodus to "diminished conviction in DeFi risk-adjusted returns," which points to shallower liquidity depth across the ecosystem.
+
+The report includes sentiment data from over 300 fund managers on their three-month crypto outlook—though specific numbers weren't disclosed in the summary. A new $750 million Fund of Funds launching was also flagged as a notable allocation update.
+
+The institutional caution contrasts with some bullish Wall Street voices. Bernstein reiterated its $150,000 year-end Bitcoin target on March 24, citing ETF inflows and corporate treasury demand. Bitcoin itself rebounded to $71,000 recently, triggering $550 million in short liquidations.
+
+With BTC currently trading around $69,483 (down 1.58% in 24 hours), the disconnect between spot price resilience and institutional flow data suggests the market remains in a holding pattern. The stablecoin rotation indicates dry powder accumulating on the sidelines—whether that capital returns to risk assets depends largely on basis yields recovering and DeFi offering more compelling returns than current alternatives.
+
+Glassnode data reveals $9.6B in Bitcoin outflows and $6.2B stablecoin inflows as institutional investors adopt defensive positioning amid compressed basis yields.
+
+Institutional investors pulled $9.6 billion from Bitcoin and $3.2 billion from Ethereum through February and early March, rotating heavily into stablecoins which absorbed $6.2 billion in net inflows, according to Glassnode's latest Strategy Watch report published March 24.
+
+The defensive pivot comes as CME basis yields—the bread and butter of market-neutral hedge fund strategies—continue compressing from their August 2025 peaks. Cash-and-carry trades that once offered attractive risk-free returns are becoming increasingly unattractive, pushing institutions toward dollar-denominated on-chain instruments rather than spot crypto exposure.
+
+The picture isn't uniformly bearish. Bitcoin ETF and Digital Asset Trust flows flipped positive after brutal February outflows, recovering to +28,000 BTC and +46,800 BTC respectively. Ethereum institutional products showed stabilization, with ETF flows near neutral at +46,500 ETH.
+
+But Glassnode warns against reading too much into the bounce: "While the directional shift is encouraging, the recovery remains early-stage and uneven, and it would be premature to characterize this as a broad resumption of institutional conviction."
+
+Ethereum's DeFi ecosystem took a particularly hard hit. Total Value Locked recorded peak monthly outflows of $23.7 billion in February—a clear signal that larger allocators are abandoning liquidity provisioning and yield strategies en masse.
+
+The declining trend stretches back to August 2025, and shows no signs of reversing. Glassnode attributes the exodus to "diminished conviction in DeFi risk-adjusted returns," which points to shallower liquidity depth across the ecosystem.
+
+The report includes sentiment data from over 300 fund managers on their three-month crypto outlook—though specific numbers weren't disclosed in the summary. A new $750 million Fund of Funds launching was also flagged as a notable allocation update.
+
+The institutional caution contrasts with some bullish Wall Street voices. Bernstein reiterated its $150,000 year-end Bitcoin target on March 24, citing ETF inflows and corporate treasury demand. Bitcoin itself rebounded to $71,000 recently, triggering $550 million in short liquidations.
+
+With BTC currently trading around $69,483 (down 1.58% in 24 hours), the disconnect between spot price resilience and institutional flow data suggests the market remains in a holding pattern. The stablecoin rotation indicates dry powder accumulating on the sidelines—whether that capital returns to risk assets depends largely on basis yields recovering and DeFi offering more compelling returns than current alternatives.
+Source: https://Blockchain.News/news/btc-9-6b-outflows-institutions-stablecoins-march-2026]]></description>
+      <content:encoded><![CDATA[Glassnode data reveals $9.6B in Bitcoin outflows and $6.2B stablecoin inflows as institutional investors adopt defensive positioning amid compressed basis yields.
+
+Institutional investors pulled $9.6 billion from Bitcoin and $3.2 billion from Ethereum through February and early March, rotating heavily into stablecoins which absorbed $6.2 billion in net inflows, according to Glassnode's latest Strategy Watch report published March 24.
+
+The defensive pivot comes as CME basis yields—the bread and butter of market-neutral hedge fund strategies—continue compressing from their August 2025 peaks. Cash-and-carry trades that once offered attractive risk-free returns are becoming increasingly unattractive, pushing institutions toward dollar-denominated on-chain instruments rather than spot crypto exposure.
+
+The picture isn't uniformly bearish. Bitcoin ETF and Digital Asset Trust flows flipped positive after brutal February outflows, recovering to +28,000 BTC and +46,800 BTC respectively. Ethereum institutional products showed stabilization, with ETF flows near neutral at +46,500 ETH.
+
+But Glassnode warns against reading too much into the bounce: "While the directional shift is encouraging, the recovery remains early-stage and uneven, and it would be premature to characterize this as a broad resumption of institutional conviction."
+
+Ethereum's DeFi ecosystem took a particularly hard hit. Total Value Locked recorded peak monthly outflows of $23.7 billion in February—a clear signal that larger allocators are abandoning liquidity provisioning and yield strategies en masse.
+
+The declining trend stretches back to August 2025, and shows no signs of reversing. Glassnode attributes the exodus to "diminished conviction in DeFi risk-adjusted returns," which points to shallower liquidity depth across the ecosystem.
+
+The report includes sentiment data from over 300 fund managers on their three-month crypto outlook—though specific numbers weren't disclosed in the summary. A new $750 million Fund of Funds launching was also flagged as a notable allocation update.
+
+The institutional caution contrasts with some bullish Wall Street voices. Bernstein reiterated its $150,000 year-end Bitcoin target on March 24, citing ETF inflows and corporate treasury demand. Bitcoin itself rebounded to $71,000 recently, triggering $550 million in short liquidations.
+
+With BTC currently trading around $69,483 (down 1.58% in 24 hours), the disconnect between spot price resilience and institutional flow data suggests the market remains in a holding pattern. The stablecoin rotation indicates dry powder accumulating on the sidelines—whether that capital returns to risk assets depends largely on basis yields recovering and DeFi offering more compelling returns than current alternatives.
+
+Glassnode data reveals $9.6B in Bitcoin outflows and $6.2B stablecoin inflows as institutional investors adopt defensive positioning amid compressed basis yields.
+
+Institutional investors pulled $9.6 billion from Bitcoin and $3.2 billion from Ethereum through February and early March, rotating heavily into stablecoins which absorbed $6.2 billion in net inflows, according to Glassnode's latest Strategy Watch report published March 24.
+
+The defensive pivot comes as CME basis yields—the bread and butter of market-neutral hedge fund strategies—continue compressing from their August 2025 peaks. Cash-and-carry trades that once offered attractive risk-free returns are becoming increasingly unattractive, pushing institutions toward dollar-denominated on-chain instruments rather than spot crypto exposure.
+
+The picture isn't uniformly bearish. Bitcoin ETF and Digital Asset Trust flows flipped positive after brutal February outflows, recovering to +28,000 BTC and +46,800 BTC respectively. Ethereum institutional products showed stabilization, with ETF flows near neutral at +46,500 ETH.
+
+But Glassnode warns against reading too much into the bounce: "While the directional shift is encouraging, the recovery remains early-stage and uneven, and it would be premature to characterize this as a broad resumption of institutional conviction."
+
+Ethereum's DeFi ecosystem took a particularly hard hit. Total Value Locked recorded peak monthly outflows of $23.7 billion in February—a clear signal that larger allocators are abandoning liquidity provisioning and yield strategies en masse.
+
+The declining trend stretches back to August 2025, and shows no signs of reversing. Glassnode attributes the exodus to "diminished conviction in DeFi risk-adjusted returns," which points to shallower liquidity depth across the ecosystem.
+
+The report includes sentiment data from over 300 fund managers on their three-month crypto outlook—though specific numbers weren't disclosed in the summary. A new $750 million Fund of Funds launching was also flagged as a notable allocation update.
+
+The institutional caution contrasts with some bullish Wall Street voices. Bernstein reiterated its $150,000 year-end Bitcoin target on March 24, citing ETF inflows and corporate treasury demand. Bitcoin itself rebounded to $71,000 recently, triggering $550 million in short liquidations.
+
+With BTC currently trading around $69,483 (down 1.58% in 24 hours), the disconnect between spot price resilience and institutional flow data suggests the market remains in a holding pattern. The stablecoin rotation indicates dry powder accumulating on the sidelines—whether that capital returns to risk assets depends largely on basis yields recovering and DeFi offering more compelling returns than current alternatives.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-ff405cc40ac8cdd20c424e3cbf560cbc990f6f83</guid>
+      <title>OpenAI Releases Open-Source Teen Safety Tools for AI Developers | OpenAI launches prompt-based safety policies and gpt-oss-safeguard model to help develope... https://Blockchain.News/news/openai-releases-open-source-teen-safety-tools-ai-developers</title>
+      <link>https://Blockchain.News/news/openai-releases-open-source-teen-safety-tools-ai-developers</link>
+      <pubDate>Tue, 24 Mar 2026 18:42:27 GMT</pubDate>
+      <description><![CDATA[Original title: OpenAI Releases Open-Source Teen Safety Tools for AI Developers
+Summary: OpenAI launches prompt-based safety policies and gpt-oss-safeguard model to help developers build age-appropriate AI protections for teenage users.
+Article text: OpenAI launches prompt-based safety policies and gpt-oss-safeguard model to help developers build age-appropriate AI protections for teenage users.
+
+OpenAI dropped a new toolkit on March 24 aimed squarely at one of AI's thorniest problems: keeping teenage users safe without neutering the technology's usefulness. The release includes prompt-based safety policies designed to work with gpt-oss-safeguard, the company's open-weight safety model available on Hugging Face.
+
+The policies target six risk categories that disproportionately affect younger users: graphic violent and sexual content, harmful body ideals, dangerous challenges, romantic or violent roleplay, and age-restricted goods and services. Developers can plug these prompts directly into their content moderation systems for real-time filtering or batch analysis.
+
+Most developers building AI applications face a frustrating gap between knowing they need teen safety measures and actually implementing them. Translating "protect kids from harmful content" into operational code requires both child development expertise and deep technical knowledge—a combination few teams possess.
+
+"One of the biggest gaps in AI safety for teens has been the lack of clear, operational policies that developers can build from," said Robbie Torney, Head of AI & Digital Assessments at Common Sense Media, who helped shape the policies. "Many times, developers are starting from scratch."
+
+The timing feels relevant given recent Microsoft research from February showing that single benign-sounding prompts can systematically strip safety guardrails from major language models. That vulnerability makes robust, well-tested safety policies more valuable—developers can't just wing it.
+
+OpenAI structured these policies as prompts rather than hard-coded rules, which means developers can adapt them to specific use cases and iterate over time. The company worked with Common Sense Media and everyone.ai to define edge cases and refine the policy language.
+
+Dr. Mathilde Cerioli, Chief Scientist at everyone.ai, noted that content filtering is just the starting point. Her team has already built on this work to create behavioral policies addressing risks like "exclusivity and overreliance"—the tendency of AI systems to become too central to a teen's social or emotional life.
+
+The policies are being released through the ROOST Model Community on GitHub, explicitly inviting the developer community to translate them into other languages and extend coverage to additional risk areas.
+
+OpenAI is clear these policies represent a floor, not a ceiling. The company explicitly states they don't reflect the full extent of its internal safeguards and shouldn't be treated as comprehensive teen safety solutions.
+
+"Each application has unique risks, audiences and contexts," the release notes. Developers still need to layer these policies with product design decisions, user controls, monitoring systems, and what OpenAI calls "teen-friendly transparency."
+
+This release builds on OpenAI's broader push for youth protection, including the Model Spec's Under-18 principles, parental controls in ChatGPT, and the Teen Safety Blueprint the company has been promoting as an industry standard. Whether competitors adopt similar open-source approaches will determine if this becomes a genuine ecosystem improvement or just an OpenAI talking point.
+
+OpenAI launches prompt-based safety policies and gpt-oss-safeguard model to help developers build age-appropriate AI protections for teenage users.
+
+OpenAI dropped a new toolkit on March 24 aimed squarely at one of AI's thorniest problems: keeping teenage users safe without neutering the technology's usefulness. The release includes prompt-based safety policies designed to work with gpt-oss-safeguard, the company's open-weight safety model available on Hugging Face.
+
+The policies target six risk categories that disproportionately affect younger users: graphic violent and sexual content, harmful body ideals, dangerous challenges, romantic or violent roleplay, and age-restricted goods and services. Developers can plug these prompts directly into their content moderation systems for real-time filtering or batch analysis.
+
+Most developers building AI applications face a frustrating gap between knowing they need teen safety measures and actually implementing them. Translating "protect kids from harmful content" into operational code requires both child development expertise and deep technical knowledge—a combination few teams possess.
+
+"One of the biggest gaps in AI safety for teens has been the lack of clear, operational policies that developers can build from," said Robbie Torney, Head of AI & Digital Assessments at Common Sense Media, who helped shape the policies. "Many times, developers are starting from scratch."
+
+The timing feels relevant given recent Microsoft research from February showing that single benign-sounding prompts can systematically strip safety guardrails from major language models. That vulnerability makes robust, well-tested safety policies more valuable—developers can't just wing it.
+
+OpenAI structured these policies as prompts rather than hard-coded rules, which means developers can adapt them to specific use cases and iterate over time. The company worked with Common Sense Media and everyone.ai to define edge cases and refine the policy language.
+
+Dr. Mathilde Cerioli, Chief Scientist at everyone.ai, noted that content filtering is just the starting point. Her team has already built on this work to create behavioral policies addressing risks like "exclusivity and overreliance"—the tendency of AI systems to become too central to a teen's social or emotional life.
+Source: https://Blockchain.News/news/openai-releases-open-source-teen-safety-tools-ai-developers]]></description>
+      <content:encoded><![CDATA[OpenAI launches prompt-based safety policies and gpt-oss-safeguard model to help developers build age-appropriate AI protections for teenage users.
+
+OpenAI dropped a new toolkit on March 24 aimed squarely at one of AI's thorniest problems: keeping teenage users safe without neutering the technology's usefulness. The release includes prompt-based safety policies designed to work with gpt-oss-safeguard, the company's open-weight safety model available on Hugging Face.
+
+The policies target six risk categories that disproportionately affect younger users: graphic violent and sexual content, harmful body ideals, dangerous challenges, romantic or violent roleplay, and age-restricted goods and services. Developers can plug these prompts directly into their content moderation systems for real-time filtering or batch analysis.
+
+Most developers building AI applications face a frustrating gap between knowing they need teen safety measures and actually implementing them. Translating "protect kids from harmful content" into operational code requires both child development expertise and deep technical knowledge—a combination few teams possess.
+
+"One of the biggest gaps in AI safety for teens has been the lack of clear, operational policies that developers can build from," said Robbie Torney, Head of AI & Digital Assessments at Common Sense Media, who helped shape the policies. "Many times, developers are starting from scratch."
+
+The timing feels relevant given recent Microsoft research from February showing that single benign-sounding prompts can systematically strip safety guardrails from major language models. That vulnerability makes robust, well-tested safety policies more valuable—developers can't just wing it.
+
+OpenAI structured these policies as prompts rather than hard-coded rules, which means developers can adapt them to specific use cases and iterate over time. The company worked with Common Sense Media and everyone.ai to define edge cases and refine the policy language.
+
+Dr. Mathilde Cerioli, Chief Scientist at everyone.ai, noted that content filtering is just the starting point. Her team has already built on this work to create behavioral policies addressing risks like "exclusivity and overreliance"—the tendency of AI systems to become too central to a teen's social or emotional life.
+
+The policies are being released through the ROOST Model Community on GitHub, explicitly inviting the developer community to translate them into other languages and extend coverage to additional risk areas.
+
+OpenAI is clear these policies represent a floor, not a ceiling. The company explicitly states they don't reflect the full extent of its internal safeguards and shouldn't be treated as comprehensive teen safety solutions.
+
+"Each application has unique risks, audiences and contexts," the release notes. Developers still need to layer these policies with product design decisions, user controls, monitoring systems, and what OpenAI calls "teen-friendly transparency."
+
+This release builds on OpenAI's broader push for youth protection, including the Model Spec's Under-18 principles, parental controls in ChatGPT, and the Teen Safety Blueprint the company has been promoting as an industry standard. Whether competitors adopt similar open-source approaches will determine if this becomes a genuine ecosystem improvement or just an OpenAI talking point.
+
+OpenAI launches prompt-based safety policies and gpt-oss-safeguard model to help developers build age-appropriate AI protections for teenage users.
+
+OpenAI dropped a new toolkit on March 24 aimed squarely at one of AI's thorniest problems: keeping teenage users safe without neutering the technology's usefulness. The release includes prompt-based safety policies designed to work with gpt-oss-safeguard, the company's open-weight safety model available on Hugging Face.
+
+The policies target six risk categories that disproportionately affect younger users: graphic violent and sexual content, harmful body ideals, dangerous challenges, romantic or violent roleplay, and age-restricted goods and services. Developers can plug these prompts directly into their content moderation systems for real-time filtering or batch analysis.
+
+Most developers building AI applications face a frustrating gap between knowing they need teen safety measures and actually implementing them. Translating "protect kids from harmful content" into operational code requires both child development expertise and deep technical knowledge—a combination few teams possess.
+
+"One of the biggest gaps in AI safety for teens has been the lack of clear, operational policies that developers can build from," said Robbie Torney, Head of AI & Digital Assessments at Common Sense Media, who helped shape the policies. "Many times, developers are starting from scratch."
+
+The timing feels relevant given recent Microsoft research from February showing that single benign-sounding prompts can systematically strip safety guardrails from major language models. That vulnerability makes robust, well-tested safety policies more valuable—developers can't just wing it.
+
+OpenAI structured these policies as prompts rather than hard-coded rules, which means developers can adapt them to specific use cases and iterate over time. The company worked with Common Sense Media and everyone.ai to define edge cases and refine the policy language.
+
+Dr. Mathilde Cerioli, Chief Scientist at everyone.ai, noted that content filtering is just the starting point. Her team has already built on this work to create behavioral policies addressing risks like "exclusivity and overreliance"—the tendency of AI systems to become too central to a teen's social or emotional life.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-bf56447341b989c46af115d16f152616fd4d3fba</guid>
       <title>Anthropic Launches Auto Mode for Claude Code to Cut Developer Interruptions | Claude Code&apos;s new auto mode lets AI make permission decisions autonomously with built-in... https://Blockchain.News/news/anthropic-claude-code-auto-mode-launch</title>
@@ -2345,267 +2606,6 @@ Disclaimer: Cryptocurrency price predictions are highly speculative and subject 
 XLM trades at $0.17 with neutral RSI at 53. Technical analysis suggests potential breakout to $0.18 resistance or pullback to $0.15 support within 30 days.
 
 • Short-term target (1 week): $0.165-$0.175 • Medium-term forecast (1 month): $0.15-$0.18 range • Bullish breakout level: $0.18 • Critical support: $0.15]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-6e3cab5a504b797b3d459ed877eb7c83396d7046</guid>
-      <title>TRX Price Prediction: TRON Targets $0.33 by April 2026 Amid Technical Momentum | TRON (TRX) shows bullish momentum at $0.31 with RSI at 67.19 and positioning near Bolling... https://Blockchain.News/news/20260324-price-prediction-trx-tron-targets-033-by-april-...</title>
-      <link>https://Blockchain.News/news/20260324-price-prediction-trx-tron-targets-033-by-april-2026</link>
-      <pubDate>Tue, 24 Mar 2026 11:34:09 GMT</pubDate>
-      <description><![CDATA[Original title: TRX Price Prediction: TRON Targets $0.33 by April 2026 Amid Technical Momentum
-Summary: TRON (TRX) shows bullish momentum at $0.31 with RSI at 67.19 and positioning near Bollinger Band resistance. Technical analysis suggests $0.33 target by April 2026 with strong support at $0.30.
-Article text: TRON (TRX) shows bullish momentum at $0.31 with RSI at 67.19 and positioning near Bollinger Band resistance. Technical analysis suggests $0.33 target by April 2026 with strong support at $0.30.
-
-• Short-term target (1 week): $0.32 • Medium-term forecast (1 month): $0.30-$0.33 range • Bullish breakout level: $0.32 • Critical support: $0.30
-
-While specific analyst predictions are limited in recent trading sessions, on-chain metrics suggest TRON's network activity remains robust. According to technical data from major exchanges, TRX has maintained steady accumulation patterns above the $0.30 psychological level, indicating underlying strength in the ecosystem.
-
-The lack of fresh commentary from crypto Twitter's key opinion leaders doesn't necessarily signal bearish sentiment, but rather suggests consolidation phase behavior typical before significant price movements. Market data platforms indicate TRON's trading volume of $44.9 million on Binance spot markets demonstrates healthy liquidity for potential breakout scenarios.
-
-TRON's current technical setup presents a compelling case for upward momentum. With TRX trading at $0.31, the token sits comfortably above multiple key moving averages, including the 20-day SMA at $0.30 and the 200-day SMA also at $0.30, establishing a solid foundation.
-
-The RSI reading of 67.19 places TRON in neutral territory with room for additional upside before reaching overbought conditions. This TRX price prediction analysis reveals the RSI hasn't yet triggered typical reversal signals, suggesting continued bullish potential.
-
-MACD indicators show convergence at 0.0066, with the histogram at neutral (0.0000), indicating momentum is building but hasn't yet confirmed directional bias. The Stochastic oscillator readings of %K at 77.74 and %D at 62.20 suggest short-term overbought conditions that could lead to minor consolidation.
-
-Most notably, TRON's Bollinger Band position at 0.86 indicates the token is trading near the upper resistance band at $0.32, historically a level where TRX encounters selling pressure but also where breakouts occur during strong trending periods.
-
-In the optimistic TRON forecast, TRX could target $0.32 as the immediate resistance level, representing a 3.2% gain from current levels. A decisive break above this Bollinger Band resistance could propel the token toward $0.33-$0.34 range within the next month.
-
-Technical confirmation would require sustained trading above $0.32 with increased volume exceeding the current $44.9 million daily average. The bullish case strengthens if TRON maintains its position above the rising 7-day SMA at $0.31, suggesting short-term momentum remains intact.
-
-The downside TRX price prediction scenario focuses on the critical support cluster around $0.30, where multiple moving averages converge. A break below this level could trigger selling toward the lower Bollinger Band at $0.28, representing a 9.7% decline from current prices.
-
-Risk factors include the slightly elevated Stochastic readings that could trigger profit-taking among short-term traders. Additionally, the MACD histogram at zero suggests momentum could shift either direction, making the $0.30 support level crucial for maintaining bullish structure.
-
-Based on current technical levels, conservative entries could target the $0.305-$0.31 range, allowing buyers to position near the key moving average support cluster. More aggressive traders might consider entries on any pullback to $0.30, the established support level.
-
-Stop-loss placement below $0.295 would limit downside risk to approximately 4-5% from strategic entry points. This TRON forecast suggests risk management becomes crucial given the token's position near Bollinger Band resistance.
-
-For position sizing, consider the daily ATR of $0.01, indicating relatively low volatility that could benefit from larger position sizes for those with appropriate risk tolerance. However, the proximity to resistance suggests waiting for either a clear breakout above $0.32 or a pullback to support levels.
-
-This TRX price prediction analysis suggests TRON maintains constructive technical momentum with a favorable risk-reward setup toward $0.33 by April 2026. The convergence of multiple moving averages at $0.30 provides strong downside protection, while the approach toward Bollinger Band resistance at $0.32 offers clear breakout potential.
-
-With RSI in neutral territory and MACD showing early momentum signals, TRON appears positioned for continued upward movement assuming broader cryptocurrency market conditions remain supportive. The 67% confidence level in this forecast reflects the solid technical foundation while acknowledging the resistance challenges ahead.
-
-Disclaimer: Cryptocurrency price predictions involve significant risk and volatility. This analysis is for informational purposes only and should not constitute financial advice. Always conduct your own research and consider your risk tolerance before making investment decisions.
-
-TRON (TRX) shows bullish momentum at $0.31 with RSI at 67.19 and positioning near Bollinger Band resistance. Technical analysis suggests $0.33 target by April 2026 with strong support at $0.30.
-
-• Short-term target (1 week): $0.32 • Medium-term forecast (1 month): $0.30-$0.33 range • Bullish breakout level: $0.32 • Critical support: $0.30
-Source: https://Blockchain.News/news/20260324-price-prediction-trx-tron-targets-033-by-april-2026]]></description>
-      <content:encoded><![CDATA[TRON (TRX) shows bullish momentum at $0.31 with RSI at 67.19 and positioning near Bollinger Band resistance. Technical analysis suggests $0.33 target by April 2026 with strong support at $0.30.
-
-• Short-term target (1 week): $0.32 • Medium-term forecast (1 month): $0.30-$0.33 range • Bullish breakout level: $0.32 • Critical support: $0.30
-
-While specific analyst predictions are limited in recent trading sessions, on-chain metrics suggest TRON's network activity remains robust. According to technical data from major exchanges, TRX has maintained steady accumulation patterns above the $0.30 psychological level, indicating underlying strength in the ecosystem.
-
-The lack of fresh commentary from crypto Twitter's key opinion leaders doesn't necessarily signal bearish sentiment, but rather suggests consolidation phase behavior typical before significant price movements. Market data platforms indicate TRON's trading volume of $44.9 million on Binance spot markets demonstrates healthy liquidity for potential breakout scenarios.
-
-TRON's current technical setup presents a compelling case for upward momentum. With TRX trading at $0.31, the token sits comfortably above multiple key moving averages, including the 20-day SMA at $0.30 and the 200-day SMA also at $0.30, establishing a solid foundation.
-
-The RSI reading of 67.19 places TRON in neutral territory with room for additional upside before reaching overbought conditions. This TRX price prediction analysis reveals the RSI hasn't yet triggered typical reversal signals, suggesting continued bullish potential.
-
-MACD indicators show convergence at 0.0066, with the histogram at neutral (0.0000), indicating momentum is building but hasn't yet confirmed directional bias. The Stochastic oscillator readings of %K at 77.74 and %D at 62.20 suggest short-term overbought conditions that could lead to minor consolidation.
-
-Most notably, TRON's Bollinger Band position at 0.86 indicates the token is trading near the upper resistance band at $0.32, historically a level where TRX encounters selling pressure but also where breakouts occur during strong trending periods.
-
-In the optimistic TRON forecast, TRX could target $0.32 as the immediate resistance level, representing a 3.2% gain from current levels. A decisive break above this Bollinger Band resistance could propel the token toward $0.33-$0.34 range within the next month.
-
-Technical confirmation would require sustained trading above $0.32 with increased volume exceeding the current $44.9 million daily average. The bullish case strengthens if TRON maintains its position above the rising 7-day SMA at $0.31, suggesting short-term momentum remains intact.
-
-The downside TRX price prediction scenario focuses on the critical support cluster around $0.30, where multiple moving averages converge. A break below this level could trigger selling toward the lower Bollinger Band at $0.28, representing a 9.7% decline from current prices.
-
-Risk factors include the slightly elevated Stochastic readings that could trigger profit-taking among short-term traders. Additionally, the MACD histogram at zero suggests momentum could shift either direction, making the $0.30 support level crucial for maintaining bullish structure.
-
-Based on current technical levels, conservative entries could target the $0.305-$0.31 range, allowing buyers to position near the key moving average support cluster. More aggressive traders might consider entries on any pullback to $0.30, the established support level.
-
-Stop-loss placement below $0.295 would limit downside risk to approximately 4-5% from strategic entry points. This TRON forecast suggests risk management becomes crucial given the token's position near Bollinger Band resistance.
-
-For position sizing, consider the daily ATR of $0.01, indicating relatively low volatility that could benefit from larger position sizes for those with appropriate risk tolerance. However, the proximity to resistance suggests waiting for either a clear breakout above $0.32 or a pullback to support levels.
-
-This TRX price prediction analysis suggests TRON maintains constructive technical momentum with a favorable risk-reward setup toward $0.33 by April 2026. The convergence of multiple moving averages at $0.30 provides strong downside protection, while the approach toward Bollinger Band resistance at $0.32 offers clear breakout potential.
-
-With RSI in neutral territory and MACD showing early momentum signals, TRON appears positioned for continued upward movement assuming broader cryptocurrency market conditions remain supportive. The 67% confidence level in this forecast reflects the solid technical foundation while acknowledging the resistance challenges ahead.
-
-Disclaimer: Cryptocurrency price predictions involve significant risk and volatility. This analysis is for informational purposes only and should not constitute financial advice. Always conduct your own research and consider your risk tolerance before making investment decisions.
-
-TRON (TRX) shows bullish momentum at $0.31 with RSI at 67.19 and positioning near Bollinger Band resistance. Technical analysis suggests $0.33 target by April 2026 with strong support at $0.30.
-
-• Short-term target (1 week): $0.32 • Medium-term forecast (1 month): $0.30-$0.33 range • Bullish breakout level: $0.32 • Critical support: $0.30]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-6ce772fc441f6260f8cb676d18283d8f805c247c</guid>
-      <title>LTC Price Prediction: Litecoin Targets $58-62 Range by April 2026 | Litecoin trades at $55.66 with neutral RSI at 50.39. Technical analysis suggests potentia... https://Blockchain.News/news/20260324-price-prediction-ltc-litecoin-targets-58-62-range-by</title>
-      <link>https://Blockchain.News/news/20260324-price-prediction-ltc-litecoin-targets-58-62-range-by</link>
-      <pubDate>Tue, 24 Mar 2026 11:28:11 GMT</pubDate>
-      <description><![CDATA[Original title: LTC Price Prediction: Litecoin Targets $58-62 Range by April 2026
-Summary: Litecoin trades at $55.66 with neutral RSI at 50.39. Technical analysis suggests potential move to $58-62 resistance zone within 4-6 weeks if bullish momentum builds.
-Article text: Litecoin trades at $55.66 with neutral RSI at 50.39. Technical analysis suggests potential move to $58-62 resistance zone within 4-6 weeks if bullish momentum builds.
-
-• Short-term target (1 week): $56.50-$57.50 • Medium-term forecast (1 month): $58.00-$62.00 range • Bullish breakout level: $58.09 (Upper Bollinger Band) • Critical support: $54.13 (Strong Support Level)
-
-While specific analyst predictions are limited in recent weeks, we did identify one notable prediction from Altcoin Doctor (@AltcoinDoctor) who published a "LITECOIN LTC Price Prediction for January 2026" video on January 4, 2026, though specific price targets weren't disclosed in available summaries.
-
-According to on-chain data from major analytics platforms, Litecoin's technical positioning suggests a consolidation phase with potential for upward movement. The current price action indicates LTC is testing key resistance levels while maintaining support above critical thresholds.
-
-Litecoin's current technical setup presents a mixed but cautiously optimistic picture. At $55.66, LTC is trading above its 20-day SMA ($55.16) and 50-day SMA ($54.77), indicating short-term bullish bias. However, the price remains significantly below the 200-day SMA at $81.81, highlighting the longer-term bearish trend that began in late 2024.
-
-The RSI reading of 50.39 places Litecoin in neutral territory, suggesting neither overbought nor oversold conditions. This neutral positioning provides room for movement in either direction based on market catalysts.
-
-The MACD indicator shows a histogram reading of 0.0000 with both MACD (-0.0560) and signal line (-0.0560) in negative territory, indicating bearish momentum despite the flat histogram. This suggests consolidation with underlying weakness.
-
-Bollinger Bands analysis reveals LTC positioned at 0.5847 between the bands, with the upper band at $58.09 serving as immediate resistance and the lower band at $52.23 providing downside protection. The middle band at $55.16 aligns closely with current 20-day SMA levels.
-
-In a bullish scenario, LTC price prediction points to initial resistance at $56.22, followed by the stronger resistance zone at $56.79. A break above these levels could propel Litecoin toward the upper Bollinger Band at $58.09.
-
-Beyond $58.09, the next significant target would be the psychological $60 level, with potential extension to $62-65 if broader crypto market conditions improve. This Litecoin forecast assumes sustained buying pressure and a break above the current consolidation range.
-
-Key technical confirmation needed includes RSI moving above 60, MACD turning positive, and sustained volume above the recent average of $13.6 million on Binance.
-
-The bearish case for this LTC price prediction involves a breakdown below the immediate support at $54.89, which could trigger selling toward the strong support level at $54.13. A breach of this critical level would likely target the lower Bollinger Band at $52.23.
-
-Further downside risks include a potential test of the $50 psychological support level, with worst-case scenarios pointing toward the $45-48 range if broader market conditions deteriorate significantly.
-
-Risk factors include continued weakness in the 200-day moving average relationship, persistent MACD negativity, and potential broader cryptocurrency market corrections.
-
-Based on current technical levels, conservative entry points for LTC include any pullback toward the $54.50-$55.00 support zone, with a stop-loss positioned below $54.00 to limit downside risk.
-
-More aggressive traders might consider entries on breaks above $56.50 with confirmation from increased volume and RSI momentum. The daily ATR of $2.01 suggests reasonable volatility for swing trading opportunities.
-
-Risk management should include position sizing appropriate to the 3.6% stop-loss distance from current levels to strong support. Given the neutral technical positioning, this Litecoin forecast suggests modest position sizes until clearer directional momentum emerges.
-
-This LTC price prediction suggests a cautiously optimistic outlook for Litecoin over the next 4-6 weeks, with targets in the $58-62 range representing realistic upside potential. The current technical setup supports this Litecoin forecast, though traders should remain alert to broader market conditions that could influence cryptocurrency prices.
-
-The neutral RSI and consolidating price action indicate LTC is building energy for its next significant move. While the bias leans slightly bullish based on short-term moving average positioning, confirmation through volume and momentum indicators will be crucial for validating higher price targets.
-
-Disclaimer: Cryptocurrency price predictions are inherently speculative and subject to high volatility. This analysis is for informational purposes only and should not be considered financial advice. Always conduct your own research and consider your risk tolerance before making investment decisions.
-Source: https://Blockchain.News/news/20260324-price-prediction-ltc-litecoin-targets-58-62-range-by]]></description>
-      <content:encoded><![CDATA[Litecoin trades at $55.66 with neutral RSI at 50.39. Technical analysis suggests potential move to $58-62 resistance zone within 4-6 weeks if bullish momentum builds.
-
-• Short-term target (1 week): $56.50-$57.50 • Medium-term forecast (1 month): $58.00-$62.00 range • Bullish breakout level: $58.09 (Upper Bollinger Band) • Critical support: $54.13 (Strong Support Level)
-
-While specific analyst predictions are limited in recent weeks, we did identify one notable prediction from Altcoin Doctor (@AltcoinDoctor) who published a "LITECOIN LTC Price Prediction for January 2026" video on January 4, 2026, though specific price targets weren't disclosed in available summaries.
-
-According to on-chain data from major analytics platforms, Litecoin's technical positioning suggests a consolidation phase with potential for upward movement. The current price action indicates LTC is testing key resistance levels while maintaining support above critical thresholds.
-
-Litecoin's current technical setup presents a mixed but cautiously optimistic picture. At $55.66, LTC is trading above its 20-day SMA ($55.16) and 50-day SMA ($54.77), indicating short-term bullish bias. However, the price remains significantly below the 200-day SMA at $81.81, highlighting the longer-term bearish trend that began in late 2024.
-
-The RSI reading of 50.39 places Litecoin in neutral territory, suggesting neither overbought nor oversold conditions. This neutral positioning provides room for movement in either direction based on market catalysts.
-
-The MACD indicator shows a histogram reading of 0.0000 with both MACD (-0.0560) and signal line (-0.0560) in negative territory, indicating bearish momentum despite the flat histogram. This suggests consolidation with underlying weakness.
-
-Bollinger Bands analysis reveals LTC positioned at 0.5847 between the bands, with the upper band at $58.09 serving as immediate resistance and the lower band at $52.23 providing downside protection. The middle band at $55.16 aligns closely with current 20-day SMA levels.
-
-In a bullish scenario, LTC price prediction points to initial resistance at $56.22, followed by the stronger resistance zone at $56.79. A break above these levels could propel Litecoin toward the upper Bollinger Band at $58.09.
-
-Beyond $58.09, the next significant target would be the psychological $60 level, with potential extension to $62-65 if broader crypto market conditions improve. This Litecoin forecast assumes sustained buying pressure and a break above the current consolidation range.
-
-Key technical confirmation needed includes RSI moving above 60, MACD turning positive, and sustained volume above the recent average of $13.6 million on Binance.
-
-The bearish case for this LTC price prediction involves a breakdown below the immediate support at $54.89, which could trigger selling toward the strong support level at $54.13. A breach of this critical level would likely target the lower Bollinger Band at $52.23.
-
-Further downside risks include a potential test of the $50 psychological support level, with worst-case scenarios pointing toward the $45-48 range if broader market conditions deteriorate significantly.
-
-Risk factors include continued weakness in the 200-day moving average relationship, persistent MACD negativity, and potential broader cryptocurrency market corrections.
-
-Based on current technical levels, conservative entry points for LTC include any pullback toward the $54.50-$55.00 support zone, with a stop-loss positioned below $54.00 to limit downside risk.
-
-More aggressive traders might consider entries on breaks above $56.50 with confirmation from increased volume and RSI momentum. The daily ATR of $2.01 suggests reasonable volatility for swing trading opportunities.
-
-Risk management should include position sizing appropriate to the 3.6% stop-loss distance from current levels to strong support. Given the neutral technical positioning, this Litecoin forecast suggests modest position sizes until clearer directional momentum emerges.
-
-This LTC price prediction suggests a cautiously optimistic outlook for Litecoin over the next 4-6 weeks, with targets in the $58-62 range representing realistic upside potential. The current technical setup supports this Litecoin forecast, though traders should remain alert to broader market conditions that could influence cryptocurrency prices.
-
-The neutral RSI and consolidating price action indicate LTC is building energy for its next significant move. While the bias leans slightly bullish based on short-term moving average positioning, confirmation through volume and momentum indicators will be crucial for validating higher price targets.
-
-Disclaimer: Cryptocurrency price predictions are inherently speculative and subject to high volatility. This analysis is for informational purposes only and should not be considered financial advice. Always conduct your own research and consider your risk tolerance before making investment decisions.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-79ed55a7ed1923c6337c89a7f3c701433303b45e</guid>
-      <title>ATOM Price Prediction: Testing $1.84 Resistance Before Potential $2.10 Recovery by April | Cosmos (ATOM) trades at $1.78 with RSI at neutral 41.30. Technical analysis suggests $1.8... https://Blockchain.News/news/20260324-price-prediction-atom-testing-184-res...</title>
-      <link>https://Blockchain.News/news/20260324-price-prediction-atom-testing-184-resistance-before-potential-210</link>
-      <pubDate>Tue, 24 Mar 2026 11:22:15 GMT</pubDate>
-      <description><![CDATA[Original title: ATOM Price Prediction: Testing $1.84 Resistance Before Potential $2.10 Recovery by April
-Summary: Cosmos (ATOM) trades at $1.78 with RSI at neutral 41.30. Technical analysis suggests $1.84 resistance test before potential recovery to $2.10 range by April 2026.
-Article text: Cosmos (ATOM) trades at $1.78 with RSI at neutral 41.30. Technical analysis suggests $1.84 resistance test before potential recovery to $2.10 range by April 2026.
-
-Cosmos (ATOM) continues to navigate a challenging market environment, trading at $1.78 as of March 24, 2026. With technical indicators showing mixed signals and the token down 1.98% in the past 24 hours, this ATOM price prediction examines key levels that could determine the next significant move for the interchain protocol's native token.
-
-• Short-term target (1 week): $1.84 - $1.89 resistance zone test • Medium-term forecast (1 month): $1.70 - $2.10 range trading • Bullish breakout level: $1.96 (Upper Bollinger Band) • Critical support: $1.70 (Lower Bollinger Band and strong support)
-
-While specific analyst predictions are limited in recent days, historical forecasts from early 2026 provide some context for this Cosmos forecast. CryptoWeeklies projected a $3.20 target for January 2026 with a potential ceiling of $4.00 by April 2026, though current price action suggests these targets may have been overly optimistic.
-
-According to on-chain data from major analytics platforms, ATOM's current trading patterns indicate consolidation near key technical levels, with momentum indicators suggesting a period of sideways movement before the next directional breakout.
-
-The current technical landscape for ATOM presents a mixed but cautiously neutral picture. The RSI reading of 41.30 sits comfortably in neutral territory, neither oversold nor overbought, suggesting room for movement in either direction.
-
-Moving Average Analysis: ATOM trades below most key moving averages, with the price at $1.78 sitting below the SMA 7 ($1.81), SMA 20 ($1.83), and significantly below the SMA 200 ($2.70). This positioning indicates a bearish trend structure that needs to be overcome for sustained upside momentum.
-
-MACD Momentum: The MACD histogram at 0.0000 with both MACD and signal lines at -0.0441 suggests minimal momentum in either direction, creating a neutral setup for potential breakout scenarios.
-
-Bollinger Bands Position: With ATOM's %B position at 0.3208, the token sits closer to the lower band ($1.70) than the upper band ($1.96), indicating recent selling pressure but also proximity to potential support.
-
-The primary bullish ATOM price prediction targets the immediate resistance zone between $1.84 and $1.89. A successful break above $1.84 would likely trigger momentum toward the $1.89 strong resistance level. Beyond that, the Upper Bollinger Band at $1.96 represents the next significant hurdle.
-
-For a sustained bull case to develop, ATOM would need to reclaim the SMA 20 at $1.83 and demonstrate buying volume above the current 24-hour average of $3.88 million. A break above $1.96 could open the door to testing the SMA 50 at $1.95 initially, then potentially the $2.10-$2.20 zone.
-
-The bear case for this Cosmos forecast centers around a failure to hold the $1.74 immediate support level. A breakdown below this level would likely accelerate selling toward the strong support at $1.70, which coincides with the Lower Bollinger Band.
-
-More concerning would be a break below $1.70, which could trigger a deeper correction toward the $1.50-$1.60 zone, representing approximately 15-20% downside from current levels. The Stochastic indicators (%K at 12.28, %D at 9.82) suggest oversold conditions that could either bounce or continue lower depending on broader market sentiment.
-
-Based on current technical levels, a scaled entry approach appears most prudent for this ATOM price prediction. Conservative buyers might consider initial positions near current levels around $1.78, with additional accumulation planned if ATOM tests the $1.70-$1.74 support zone.
-
-Aggressive traders could wait for a confirmed break above $1.84 with volume before entering long positions, targeting the $1.89-$1.96 resistance zone. Stop-loss levels should be placed below $1.70 for swing trades, representing approximately 4.5% risk from current prices.
-
-Risk management remains crucial given ATOM's 14-day Average True Range of $0.08, indicating daily volatility of roughly 4.5%. Position sizing should account for this volatility, particularly in the current uncertain macro environment.
-
-This ATOM price prediction suggests a period of consolidation between $1.70 and $1.89 before the next significant directional move. The neutral RSI and minimal MACD momentum indicate that external catalysts may be needed to break the current trading range.
-
-While the Cosmos forecast remains cautiously optimistic for a test of $1.84-$1.89 resistance in the near term, sustained upside momentum will require reclaiming key moving averages and demonstrating consistent buying pressure. Traders should monitor the $1.70 support level closely, as a break below could signal deeper correction ahead.
-
-Disclaimer: This analysis is for educational purposes only and should not be considered financial advice. Cryptocurrency investments carry substantial risk, and past performance does not guarantee future results. Always conduct your own research and consider your risk tolerance before making investment decisions.
-
-Cosmos (ATOM) trades at $1.78 with RSI at neutral 41.30. Technical analysis suggests $1.84 resistance test before potential recovery to $2.10 range by April 2026.
-Source: https://Blockchain.News/news/20260324-price-prediction-atom-testing-184-resistance-before-potential-210]]></description>
-      <content:encoded><![CDATA[Cosmos (ATOM) trades at $1.78 with RSI at neutral 41.30. Technical analysis suggests $1.84 resistance test before potential recovery to $2.10 range by April 2026.
-
-Cosmos (ATOM) continues to navigate a challenging market environment, trading at $1.78 as of March 24, 2026. With technical indicators showing mixed signals and the token down 1.98% in the past 24 hours, this ATOM price prediction examines key levels that could determine the next significant move for the interchain protocol's native token.
-
-• Short-term target (1 week): $1.84 - $1.89 resistance zone test • Medium-term forecast (1 month): $1.70 - $2.10 range trading • Bullish breakout level: $1.96 (Upper Bollinger Band) • Critical support: $1.70 (Lower Bollinger Band and strong support)
-
-While specific analyst predictions are limited in recent days, historical forecasts from early 2026 provide some context for this Cosmos forecast. CryptoWeeklies projected a $3.20 target for January 2026 with a potential ceiling of $4.00 by April 2026, though current price action suggests these targets may have been overly optimistic.
-
-According to on-chain data from major analytics platforms, ATOM's current trading patterns indicate consolidation near key technical levels, with momentum indicators suggesting a period of sideways movement before the next directional breakout.
-
-The current technical landscape for ATOM presents a mixed but cautiously neutral picture. The RSI reading of 41.30 sits comfortably in neutral territory, neither oversold nor overbought, suggesting room for movement in either direction.
-
-Moving Average Analysis: ATOM trades below most key moving averages, with the price at $1.78 sitting below the SMA 7 ($1.81), SMA 20 ($1.83), and significantly below the SMA 200 ($2.70). This positioning indicates a bearish trend structure that needs to be overcome for sustained upside momentum.
-
-MACD Momentum: The MACD histogram at 0.0000 with both MACD and signal lines at -0.0441 suggests minimal momentum in either direction, creating a neutral setup for potential breakout scenarios.
-
-Bollinger Bands Position: With ATOM's %B position at 0.3208, the token sits closer to the lower band ($1.70) than the upper band ($1.96), indicating recent selling pressure but also proximity to potential support.
-
-The primary bullish ATOM price prediction targets the immediate resistance zone between $1.84 and $1.89. A successful break above $1.84 would likely trigger momentum toward the $1.89 strong resistance level. Beyond that, the Upper Bollinger Band at $1.96 represents the next significant hurdle.
-
-For a sustained bull case to develop, ATOM would need to reclaim the SMA 20 at $1.83 and demonstrate buying volume above the current 24-hour average of $3.88 million. A break above $1.96 could open the door to testing the SMA 50 at $1.95 initially, then potentially the $2.10-$2.20 zone.
-
-The bear case for this Cosmos forecast centers around a failure to hold the $1.74 immediate support level. A breakdown below this level would likely accelerate selling toward the strong support at $1.70, which coincides with the Lower Bollinger Band.
-
-More concerning would be a break below $1.70, which could trigger a deeper correction toward the $1.50-$1.60 zone, representing approximately 15-20% downside from current levels. The Stochastic indicators (%K at 12.28, %D at 9.82) suggest oversold conditions that could either bounce or continue lower depending on broader market sentiment.
-
-Based on current technical levels, a scaled entry approach appears most prudent for this ATOM price prediction. Conservative buyers might consider initial positions near current levels around $1.78, with additional accumulation planned if ATOM tests the $1.70-$1.74 support zone.
-
-Aggressive traders could wait for a confirmed break above $1.84 with volume before entering long positions, targeting the $1.89-$1.96 resistance zone. Stop-loss levels should be placed below $1.70 for swing trades, representing approximately 4.5% risk from current prices.
-
-Risk management remains crucial given ATOM's 14-day Average True Range of $0.08, indicating daily volatility of roughly 4.5%. Position sizing should account for this volatility, particularly in the current uncertain macro environment.
-
-This ATOM price prediction suggests a period of consolidation between $1.70 and $1.89 before the next significant directional move. The neutral RSI and minimal MACD momentum indicate that external catalysts may be needed to break the current trading range.
-
-While the Cosmos forecast remains cautiously optimistic for a test of $1.84-$1.89 resistance in the near term, sustained upside momentum will require reclaiming key moving averages and demonstrating consistent buying pressure. Traders should monitor the $1.70 support level closely, as a break below could signal deeper correction ahead.
-
-Disclaimer: This analysis is for educational purposes only and should not be considered financial advice. Cryptocurrency investments carry substantial risk, and past performance does not guarantee future results. Always conduct your own research and consider your risk tolerance before making investment decisions.
-
-Cosmos (ATOM) trades at $1.78 with RSI at neutral 41.30. Technical analysis suggests $1.84 resistance test before potential recovery to $2.10 range by April 2026.]]></content:encoded>
     </item>
   </channel>
 </rss>
