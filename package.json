@@ -1,0 +1,19 @@
+{
+  "name": "rss-to-x-bot",
+  "version": "1.0.0",
+  "description": "Generate a transformed RSS feed for IFTTT -> X automation.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node src/index.js",
+    "start": "node src/index.js",
+    "test": "node --check src/index.js && node --check src/fetch-feed.js && node --check src/extract-article.js && node --check src/generate-x-post.js && node --check src/transform-post.js && node --check src/build-rss.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.3.1",
+    "rss-parser": "^3.13.0"
+  }
+}

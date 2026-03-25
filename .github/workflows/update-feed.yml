@@ -1,0 +1,64 @@
+name: Update RSS Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build transformed RSS
+        run: npm run build
+        env:
+          RSS_SOURCE_URL: ${{ secrets.RSS_SOURCE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          FEED_TITLE: ${{ vars.FEED_TITLE }}
+          FEED_LINK: ${{ vars.FEED_LINK }}
+          FEED_DESCRIPTION: ${{ vars.FEED_DESCRIPTION }}
+          X_FEED_TITLE: ${{ vars.X_FEED_TITLE }}
+          X_FEED_LINK: ${{ vars.X_FEED_LINK }}
+          X_FEED_DESCRIPTION: ${{ vars.X_FEED_DESCRIPTION }}
+          POST_PREFIX: ${{ vars.POST_PREFIX }}
+          POST_SUFFIX: ${{ vars.POST_SUFFIX }}
+          POST_MAX_LENGTH: ${{ vars.POST_MAX_LENGTH }}
+          X_POST_PREFIX: ${{ vars.X_POST_PREFIX }}
+          X_POST_SUFFIX: ${{ vars.X_POST_SUFFIX }}
+          X_POST_MAX_LENGTH: ${{ vars.X_POST_MAX_LENGTH }}
+          MAX_NEW_ITEMS: ${{ vars.MAX_NEW_ITEMS }}
+          MAX_FEED_ITEMS: ${{ vars.MAX_FEED_ITEMS }}
+          FETCH_ARTICLE_CONTENT: ${{ vars.FETCH_ARTICLE_CONTENT }}
+          ARTICLE_MAX_CHARS: ${{ vars.ARTICLE_MAX_CHARS }}
+          FETCH_TIMEOUT_MS: ${{ vars.FETCH_TIMEOUT_MS }}
+          ENABLE_LLM_POST_GENERATION: ${{ vars.ENABLE_LLM_POST_GENERATION }}
+          FORCE_REGENERATE_X_POSTS: ${{ vars.FORCE_REGENERATE_X_POSTS }}
+          LLM_API_URL: ${{ vars.LLM_API_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_SYSTEM_PROMPT: ${{ vars.LLM_SYSTEM_PROMPT }}
+          LLM_USER_PROMPT_TEMPLATE: ${{ vars.LLM_USER_PROMPT_TEMPLATE }}
+          LLM_TEMPERATURE: ${{ vars.LLM_TEMPERATURE }}
+          LLM_MAX_TOKENS: ${{ vars.LLM_MAX_TOKENS }}
+          LLM_TIMEOUT_MS: ${{ vars.LLM_TIMEOUT_MS }}
+
+      - name: Commit generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update generated RSS feed"
+          file_pattern: public/feed.xml public/x-feed.xml data/sent-items.json
