@@ -148,6 +148,20 @@ function normalizeXPostText(value) {
     .trim();
 }
 
+function hasEmoji(text) {
+  return /[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/u.test(String(text || ""));
+}
+
+function ensureEmojiPresence(text) {
+  const normalized = normalizeXPostText(text);
+
+  if (!normalized || hasEmoji(normalized)) {
+    return normalized;
+  }
+
+  return `🔥 ${normalized}`;
+}
+
 function splitTrailingHashtags(text) {
   const normalized = normalizeXPostText(text);
   const match = normalized.match(/^(.*?)(\s+(?:#[A-Za-z0-9_]+(?:\s+|$))+)\s*$/);
@@ -166,7 +180,7 @@ function splitTrailingHashtags(text) {
 }
 
 function ensureLengthWithLink(text, maxLength, link) {
-  const cleanText = normalizeXPostText(text);
+  const cleanText = ensureEmojiPresence(text);
   const cleanLink = String(link || "").trim();
 
   if (!cleanLink) {
@@ -183,7 +197,7 @@ function ensureLengthWithLink(text, maxLength, link) {
 }
 
 function buildFallbackPost(item, config) {
-  return buildPostText({
+  const fallback = buildPostText({
     title: item.originalTitle || item.title || "",
     summary: item.summary || item.articleExcerpt || item.contentEncoded || "",
     link: item.link || "",
@@ -191,6 +205,8 @@ function buildFallbackPost(item, config) {
     suffix: config.xPostSuffix || config.postSuffix || "",
     maxLength: config.xPostMaxLength
   });
+
+  return ensureLengthWithLink(ensureEmojiPresence(fallback), config.xPostMaxLength, item.link || "");
 }
 
 async function generateXPost(item, config) {

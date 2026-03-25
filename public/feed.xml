@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blockchain News to X</title>
-    <link>https://&lt;username&gt;.github.io/&lt;repo&gt;/feed.xml</link>
-    <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Wed, 25 Mar 2026 02:58:52 GMT</lastBuildDate>
+    <link>https://example.github.io/rss-to-x-bot/feed.xml</link>
+    <description>Auto-generated feed for IFTTT</description>
+    <lastBuildDate>Wed, 25 Mar 2026 03:18:24 GMT</lastBuildDate>
     <item>
       <guid isPermaLink="false">xfeed-04b3e37e0954de9e63b1f109ff96f52c6720a533</guid>
       <title>[News] BCH Price Prediction: Bitcoin Cash Targets $495 Breakout by April 2026 | Bitcoin Cash shows neutral RSI at 49.38 with bearish MACD momentum. Technical analysis su... https://Blockchain.News/news/20260324-price-prediction-bch-bitcoin-cash-targets-495-br...</title>
@@ -185,9 +185,74 @@ Disclaimer: This LINK price prediction is for educational purposes only and shou
       <link>https://Blockchain.News/news/20260324-avax-price-prediction-targets-1250-by-april-2026</link>
       <pubDate>Tue, 24 Mar 2026 10:58:05 GMT</pubDate>
       <description><![CDATA[Original title: AVAX Price Prediction: Targets $12.50 by April 2026
-Summary: AVAX Price Prediction Summary • Short-term target (1 week): $10.20 • Medium-term forecast (1 month): $10.20-$12.50 range • Bullish breakout level: $10.33 (Upper Bollinger Band) •... (Read More)
+Summary: AVAX Price Prediction Summary • Short-term target (1 week): $10.20 • Medium-term forecast (1 month): $10.20-$12.50 range • Bullish breakout level: $10.33 (Upper Bollinger Band) •...
+Article text: AVAX Price Prediction Summary • Short-term target (1 week): $10.20 • Medium-term forecast (1 month): $10.20-$12.50 range • Bullish breakout level: $10.33 (Upper Bollinger Band) •...
+
+• Short-term target (1 week): $10.20 • Medium-term forecast (1 month): $10.20-$12.50 range • Bullish breakout level: $10.33 (Upper Bollinger Band) • Critical support: $8.68
+
+While specific analyst predictions are limited for recent timeframes, historical forecasts provide context for current market positioning. BTCC's November 2025 prediction projected AVAX reaching a high of $39.63 and an average price of $34.95 for 2026, though current market conditions suggest a more conservative approach is warranted.
+
+According to on-chain data and technical analysis platforms, Avalanche's current positioning shows mixed signals with neutral momentum indicators suggesting consolidation before the next directional move.
+
+The current AVAX price prediction relies heavily on several key technical indicators showing converging signals. At $9.57, Avalanche trades above its 7-day SMA ($9.44) and 20-day SMA ($9.52), indicating short-term bullish sentiment, though it remains significantly below the 200-day SMA at $16.11.
+
+The RSI reading of 50.81 positions AVAX in neutral territory, suggesting neither overbought nor oversold conditions. This neutral RSI provides room for upward movement without immediate selling pressure from overextended conditions.
+
+MACD analysis reveals bullish momentum with the histogram at 0.0000, indicating potential for continued upward price action. The MACD line at 0.0134 matches the signal line, suggesting momentum is building for a directional breakout.
+
+Bollinger Bands show AVAX positioned at 0.53 between the bands, with the upper band at $10.33 serving as immediate resistance and the lower band at $8.71 providing downside support. The middle band at $9.52 aligns closely with current price action.
+
+Key resistance levels emerge at $9.89 (immediate) and $10.20 (strong), while support holds at $9.13 (immediate) and $8.68 (strong). The daily ATR of $0.47 suggests moderate volatility for position sizing.
+
+The bullish AVAX price prediction targets $10.20 initially, representing a 6.6% upside from current levels. A break above the upper Bollinger Band at $10.33 would confirm bullish momentum and open the path toward $12.50, aligning with the 50% Fibonacci retracement of the recent decline.
+
+Technical confirmation requires sustained trading above $9.89 resistance with increasing volume. The MACD histogram turning positive would provide additional bullish confirmation for the Avalanche forecast.
+
+Downside risks focus on the $8.68 strong support level, representing a 9.3% decline from current prices. A break below this level could trigger further selling toward the $8.00 psychological support zone.
+
+Risk factors include broader cryptocurrency market weakness, regulatory concerns affecting layer-1 blockchains, and potential breakdown below the 200-day moving average resistance at $16.11, which remains a significant overhead challenge.
+
+Current technical levels suggest a staged entry approach for AVAX. Initial positions could be established near $9.40-$9.50, with additional accumulation on any pullback toward the $9.13 immediate support level.
+
+Stop-loss orders should be placed below $8.60 to limit downside risk while maintaining exposure to upside potential. The risk-reward ratio favors bullish positioning given the proximity to support levels and distance to resistance targets.
+
+Position sizing should account for the $0.47 daily ATR, suggesting 2-3% position sizes for conservative risk management. Entry confirmation comes from sustained trading above the 20-day SMA with supportive volume patterns.
+
+This AVAX price prediction suggests a cautiously bullish outlook for Avalanche over the next month, with technical indicators supporting a move toward $10.20-$12.50. The neutral RSI and bullish MACD provide favorable conditions for upward price movemen...
 Source: https://Blockchain.News/news/20260324-avax-price-prediction-targets-1250-by-april-2026]]></description>
-      <content:encoded><![CDATA[AVAX Price Prediction Summary • Short-term target (1 week): $10.20 • Medium-term forecast (1 month): $10.20-$12.50 range • Bullish breakout level: $10.33 (Upper Bollinger Band) •... (Read More)]]></content:encoded>
+      <content:encoded><![CDATA[AVAX Price Prediction Summary • Short-term target (1 week): $10.20 • Medium-term forecast (1 month): $10.20-$12.50 range • Bullish breakout level: $10.33 (Upper Bollinger Band) •...
+
+• Short-term target (1 week): $10.20 • Medium-term forecast (1 month): $10.20-$12.50 range • Bullish breakout level: $10.33 (Upper Bollinger Band) • Critical support: $8.68
+
+While specific analyst predictions are limited for recent timeframes, historical forecasts provide context for current market positioning. BTCC's November 2025 prediction projected AVAX reaching a high of $39.63 and an average price of $34.95 for 2026, though current market conditions suggest a more conservative approach is warranted.
+
+According to on-chain data and technical analysis platforms, Avalanche's current positioning shows mixed signals with neutral momentum indicators suggesting consolidation before the next directional move.
+
+The current AVAX price prediction relies heavily on several key technical indicators showing converging signals. At $9.57, Avalanche trades above its 7-day SMA ($9.44) and 20-day SMA ($9.52), indicating short-term bullish sentiment, though it remains significantly below the 200-day SMA at $16.11.
+
+The RSI reading of 50.81 positions AVAX in neutral territory, suggesting neither overbought nor oversold conditions. This neutral RSI provides room for upward movement without immediate selling pressure from overextended conditions.
+
+MACD analysis reveals bullish momentum with the histogram at 0.0000, indicating potential for continued upward price action. The MACD line at 0.0134 matches the signal line, suggesting momentum is building for a directional breakout.
+
+Bollinger Bands show AVAX positioned at 0.53 between the bands, with the upper band at $10.33 serving as immediate resistance and the lower band at $8.71 providing downside support. The middle band at $9.52 aligns closely with current price action.
+
+Key resistance levels emerge at $9.89 (immediate) and $10.20 (strong), while support holds at $9.13 (immediate) and $8.68 (strong). The daily ATR of $0.47 suggests moderate volatility for position sizing.
+
+The bullish AVAX price prediction targets $10.20 initially, representing a 6.6% upside from current levels. A break above the upper Bollinger Band at $10.33 would confirm bullish momentum and open the path toward $12.50, aligning with the 50% Fibonacci retracement of the recent decline.
+
+Technical confirmation requires sustained trading above $9.89 resistance with increasing volume. The MACD histogram turning positive would provide additional bullish confirmation for the Avalanche forecast.
+
+Downside risks focus on the $8.68 strong support level, representing a 9.3% decline from current prices. A break below this level could trigger further selling toward the $8.00 psychological support zone.
+
+Risk factors include broader cryptocurrency market weakness, regulatory concerns affecting layer-1 blockchains, and potential breakdown below the 200-day moving average resistance at $16.11, which remains a significant overhead challenge.
+
+Current technical levels suggest a staged entry approach for AVAX. Initial positions could be established near $9.40-$9.50, with additional accumulation on any pullback toward the $9.13 immediate support level.
+
+Stop-loss orders should be placed below $8.60 to limit downside risk while maintaining exposure to upside potential. The risk-reward ratio favors bullish positioning given the proximity to support levels and distance to resistance targets.
+
+Position sizing should account for the $0.47 daily ATR, suggesting 2-3% position sizes for conservative risk management. Entry confirmation comes from sustained trading above the 20-day SMA with supportive volume patterns.
+
+This AVAX price prediction suggests a cautiously bullish outlook for Avalanche over the next month, with technical indicators supporting a move toward $10.20-$12.50. The neutral RSI and bullish MACD provide favorable conditions for upward price movemen...]]></content:encoded>
     </item>
     <item>
       <guid isPermaLink="false">xfeed-e497f6723dc9f19486b1c13e5621acbaf5bb1dfe</guid>

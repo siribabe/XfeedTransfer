@@ -44,6 +44,7 @@
 - `X_POST_PREFIX`: 生成 X 文案时的固定前缀
 - `X_POST_SUFFIX`: 生成 X 文案时的固定后缀
 - `X_POST_MAX_LENGTH`: X 贴文最大字符数（**含链接与末尾标签**），默认 `900`。要更长可调高（如 `1200`、`2500`）。**免费版 X 单条传统上限约 280 字符**，更长内容依赖 **X Premium / 长帖**。同时建议把 `LLM_MAX_TOKENS` 一起调大，否则模型会先截断。
+- `MAX_X_FEED_ITEMS`: `x-feed.xml` 保留的最新去重贴文数量，默认 `3`
 - `LLM_MAX_TOKENS`: 模型单次最多生成 token，默认 `650`；若把 `X_POST_MAX_LENGTH` 提到 `1500+`，可试 `800`–`1200`。
 - `MAX_NEW_ITEMS`: 每次最多发布多少条新内容，默认 `3`
 - `MAX_FEED_ITEMS`: 输出 RSS 最多保留多少条历史，默认 `30`
@@ -144,6 +145,7 @@ npm run build
 - `title`: 可直接发往 X 的贴文文案
 - `description`: 与最终贴文一致，不再附带 title/summary 等分层说明
 - `content:encoded`: 最终贴文正文
+- 仅保留最新 `MAX_X_FEED_ITEMS` 条，并按 source+贴文内容去重（默认最新 3 条）
 
 ## GitHub Actions 配置
 

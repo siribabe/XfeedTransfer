@@ -247,6 +247,7 @@ async function main() {
     xPostPrefix: process.env.X_POST_PREFIX || "",
     xPostSuffix: process.env.X_POST_SUFFIX || "",
     xPostMaxLength: parseNumber(process.env.X_POST_MAX_LENGTH, 900),
+    maxXFeedItems: parseNumber(process.env.MAX_X_FEED_ITEMS, 3),
     maxNewItems: parseNumber(process.env.MAX_NEW_ITEMS, 3),
     maxFeedItems: parseNumber(process.env.MAX_FEED_ITEMS, 30),
     fetchArticleContent: parseBoolean(process.env.FETCH_ARTICLE_CONTENT, true),
@@ -315,7 +316,14 @@ async function main() {
     },
     publishedItems
   );
-  const xFeedItems = publishedItems.map((item) => transformXPostItem(item, config));
+  const xFeedSourceItems = sortByPubDateDesc(
+    uniqueBy(publishedItems, (item) => {
+      const sourceKey = String(item.link || "").trim().toLowerCase();
+      const postKey = String(item.generatedPostText || "").trim().toLowerCase();
+      return `${sourceKey}::${postKey}`;
+    })
+  ).slice(0, Math.max(1, config.maxXFeedItems));
+  const xFeedItems = xFeedSourceItems.map((item) => transformXPostItem(item, config));
   const xFeedXml = buildRssXml(
     {
       title: config.xFeedTitle,
@@ -354,6 +362,7 @@ async function main() {
     );
   }
   console.log(`Feed items retained: ${publishedItems.length}`);
+  console.log(`X feed items retained (unique/latest): ${xFeedItems.length}`);
   console.log(`Source feed written to: ${SOURCE_FEED_FILE}`);
   console.log(`X feed written to: ${X_FEED_FILE}`);
 }
