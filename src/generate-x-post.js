@@ -51,7 +51,7 @@ function resolveLlmApiUrl(raw) {
   }
 }
 
-const DEFAULT_USER_PROMPT_TEMPLATE = [
+const LONG_USER_PROMPT_TEMPLATE = [
   "Write one English X post in plain text based on the following article.",
   "Requirements:",
   "- Sound native to X: sharp hook, high shareability, and strong scroll-stopping phrasing.",
@@ -79,13 +79,40 @@ const DEFAULT_USER_PROMPT_TEMPLATE = [
   "{{article_text}}"
 ].join("\n");
 
+/** 方案一：免费 X / IFTTT —— 极短引流贴，高密度钩子 + URL + 标签 */
+const TEASER_USER_PROMPT_TEMPLATE = [
+  "Write one ultra-short English X teaser post in plain text from the article below.",
+  "You have almost no room: every character must pull clicks. Sound like a headline writer on adrenaline—still truthful.",
+  "Requirements:",
+  "- Hard cap {{x_post_max_length}} characters total including the URL and all hashtags.",
+  "- Before the URL: at most 2 short sentences OR 1 devastating single sentence. No mini-essay, no bullet recap, no 'firstly/secondly', no numbered lists.",
+  "- Open with maximum scroll-stopping impact: tension, stakes, a sharp contrast, a bold (but accurate) framing, or a curiosity gap—grounded only in what the article actually supports.",
+  "- Use concrete, muscular phrasing; cut filler words; prefer strong verbs over vague hype.",
+  "- Be fact-first: never invent numbers, quotes, partnerships, regulatory outcomes, or price moves.",
+  "- Exactly 1 or 2 emoji total, placed where they add punch (or omit if they add clutter).",
+  "- Include the source URL exactly once (after the hook prose, before hashtags).",
+  "- End with exactly 3 relevant hashtags (4–5 only if they still fit under the character cap—never exceed the cap). Keep tags short and broadly recognizable.",
+  "- No markdown, no quotes wrapping the whole post, no labels like Title/Summary/Takeaway.",
+  "- Output only the final post text.",
+  "",
+  "Article title: {{title}}",
+  "Summary: {{summary}}",
+  "Source URL: {{source_url}}",
+  "Published at: {{pub_date}}",
+  "",
+  "Article body:",
+  "{{article_text}}"
+].join("\n");
+
+const DEFAULT_USER_PROMPT_TEMPLATE = LONG_USER_PROMPT_TEMPLATE;
+
 function renderTemplate(template, variables) {
   return String(template || "").replace(/\{\{\s*([a-zA-Z0-9_]+)\s*\}\}/g, (_, key) => {
     return Object.prototype.hasOwnProperty.call(variables, key) ? String(variables[key] || "") : "";
   });
 }
 
-function defaultSystemPrompt(maxLength) {
+function defaultLongSystemPrompt(maxLength) {
   return [
     "You are an expert English X (Twitter) editor for a tech and blockchain news automation workflow.",
     `Return exactly one post with a maximum length of ${maxLength} characters (including the source URL and trailing hashtags).`,
@@ -99,6 +126,30 @@ function defaultSystemPrompt(maxLength) {
     "Include the source URL exactly once.",
     "Do not add labels like 'Tweet:' or 'Post:'. Do not add labels like 'Title:' or 'Summary:'."
   ].join(" ");
+}
+
+function defaultTeaserSystemPrompt(maxLength) {
+  return [
+    "You are an elite English X copywriter for tech and blockchain news aimed at free-tier X: the entire post must fit in a tiny character budget.",
+    `Hard limit ${maxLength} characters including URL and hashtags.`,
+    "Deliver explosive, scroll-stopping density: one or two razor-short sentences of hook before the link, then the URL, then compact hashtags.",
+    "Every word must work. No lecture, no outline, no stacked clauses that read like a blog intro. Still never invent facts, quotes, numbers, or implications.",
+    "Professional but lethal on the timeline: stakes, contrast, curiosity, or a crisp punchline—only if the article backs it.",
+    "Plain text only; include the source URL once; 3 to 5 topic hashtags when space allows."
+  ].join(" ");
+}
+
+function resolveXPostStyle(config) {
+  const raw = String(config?.xPostStyle || "").trim().toLowerCase();
+  if (raw === "teaser" || raw === "long") {
+    return raw;
+  }
+  const maxLen = Number(config?.xPostMaxLength) || 280;
+  return maxLen <= 300 ? "teaser" : "long";
+}
+
+function teaserSoftMinChars(maxLength) {
+  return Math.max(35, Math.min(95, Math.floor(Number(maxLength) * 0.34)));
 }
 
 function extractMessageText(content) {
@@ -229,19 +280,30 @@ async function generateXPost(item, config) {
     };
   }
 
-  const systemPrompt = config.llmSystemPrompt || defaultSystemPrompt(config.xPostMaxLength);
-  const userPrompt = renderTemplate(
-    config.llmUserPromptTemplate || DEFAULT_USER_PROMPT_TEMPLATE,
-    {
-      title: item.originalTitle || item.title || "",
-      summary: item.summary || item.articleExcerpt || "",
-      article_text: shortenText(item.articleText || item.contentEncoded || "", 6000),
-      source_url: item.link || "",
-      pub_date: item.pubDate || "",
-      x_post_max_length: config.xPostMaxLength,
-      x_post_soft_min_chars: Math.max(140, Math.floor(Number(config.xPostMaxLength) * 0.55))
-    }
-  );
+  const style = resolveXPostStyle(config);
+  const systemPrompt =
+    config.llmSystemPrompt ||
+    (style === "teaser"
+      ? defaultTeaserSystemPrompt(config.xPostMaxLength)
+      : defaultLongSystemPrompt(config.xPostMaxLength));
+  const userTemplate =
+    config.llmUserPromptTemplate ||
+    (style === "teaser" ? TEASER_USER_PROMPT_TEMPLATE : LONG_USER_PROMPT_TEMPLATE);
+  const softMin =
+    style === "teaser"
+      ? teaserSoftMinChars(config.xPostMaxLength)
+      : Math.max(140, Math.floor(Number(config.xPostMaxLength) * 0.55));
+
+  const userPrompt = renderTemplate(userTemplate, {
+    title: item.originalTitle || item.title || "",
+    summary: item.summary || item.articleExcerpt || "",
+    article_text: shortenText(item.articleText || item.contentEncoded || "", 6000),
+    source_url: item.link || "",
+    pub_date: item.pubDate || "",
+    x_post_max_length: config.xPostMaxLength,
+    x_post_soft_min_chars: softMin,
+    x_post_style: style
+  });
 
   try {
     const apiUrl = resolveLlmApiUrl(config.llmApiUrl || DEFAULT_LLM_API_URL);
@@ -306,6 +368,9 @@ async function generateXPost(item, config) {
 module.exports = {
   DEFAULT_LLM_API_URL,
   DEFAULT_USER_PROMPT_TEMPLATE,
+  LONG_USER_PROMPT_TEMPLATE,
+  TEASER_USER_PROMPT_TEMPLATE,
   resolveLlmApiUrl,
+  resolveXPostStyle,
   generateXPost
 };

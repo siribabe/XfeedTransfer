@@ -43,9 +43,10 @@
 - `POST_MAX_LENGTH`: 检查用源 RSS 标题最大长度，默认 `260`
 - `X_POST_PREFIX`: 生成 X 文案时的固定前缀
 - `X_POST_SUFFIX`: 生成 X 文案时的固定后缀
-- `X_POST_MAX_LENGTH`: X 贴文最大字符数（**含链接与末尾标签**），默认 `900`。要更长可调高（如 `1200`、`2500`）。**免费版 X 单条传统上限约 280 字符**，更长内容依赖 **X Premium / 长帖**。同时建议把 `LLM_MAX_TOKENS` 一起调大，否则模型会先截断。
+- `X_POST_MAX_LENGTH`: X 贴文最大字符数（**含链接与末尾标签**），默认 **`260`**（为免费版约 280 上限留余量）。需要长帖可调高（如 `1200`），并配合 **X Premium** 与更大的 `LLM_MAX_TOKENS`。
+- `X_POST_STYLE`: `teaser`（短引流贴）或 `long`（多句展开）。**留空时自动判断**：`X_POST_MAX_LENGTH ≤ 300` 视为 `teaser`，否则 `long`。`teaser` 模式下调用了另一套内置提示词：在极短篇幅内写高密度、强点击欲的英文钩子，再跟 URL 与少量标签（适合 **IFTTT 把 `EntryContent` 填进发帖内容** 的方案）。
 - `MAX_X_FEED_ITEMS`: `x-feed.xml` 保留的最新去重贴文数量，默认 `3`
-- `LLM_MAX_TOKENS`: 模型单次最多生成 token，默认 `650`；若把 `X_POST_MAX_LENGTH` 提到 `1500+`，可试 `800`–`1200`。
+- `LLM_MAX_TOKENS`: 模型单次最多生成 token，默认 `650`；短贴可设约 `300`–`450` 省用量；长贴（`X_POST_MAX_LENGTH` 很大）可试 `800`–`1200`。
 - `MAX_NEW_ITEMS`: 每次最多发布多少条新内容，默认 `3`
 - `MAX_FEED_ITEMS`: 输出 RSS 最多保留多少条历史，默认 `30`
 - `FETCH_ARTICLE_CONTENT`: 是否继续抓取原文页面，默认 `true`
@@ -55,21 +56,17 @@
 - `FORCE_REGENERATE_X_POSTS`: 是否强制重生成历史贴文，默认 `false`
 - `LLM_API_URL`: OpenAI 兼容接口地址，默认 `https://api.openai.com/v1/chat/completions`
 - `LLM_SYSTEM_PROMPT`: 自定义 system prompt
-- `LLM_USER_PROMPT_TEMPLATE`: 自定义 user prompt 模板，支持变量 `{{title}}`、`{{summary}}`、`{{article_text}}`、`{{source_url}}`、`{{pub_date}}`、`{{x_post_max_length}}`
+- `LLM_USER_PROMPT_TEMPLATE`: 自定义 user prompt 模板，支持变量 `{{title}}`、`{{summary}}`、`{{article_text}}`、`{{source_url}}`、`{{pub_date}}`、`{{x_post_max_length}}`、`{{x_post_soft_min_chars}}`、`{{x_post_style}}`（`teaser` / `long`）
 - `LLM_TEMPERATURE`: 默认 `0.4`
-- `LLM_MAX_TOKENS`: 默认 `220`
 - `LLM_TIMEOUT_MS`: 默认 `30000`
 
-默认提示词策略是：
+默认内置提示词分两种（由 `X_POST_STYLE` 或字数自动选择）：
 
-- 英文输出
-- 偏 X 流行表达和传播性
-- 专业但带一点诙谐
-- 直接输出一整篇贴文，不要 Title/Summary 分层
-- 自然加入 1 到 2 个表情符号
-- 严格以新闻事实为准，不捏造
-- 带来源链接
-- 结尾附 3 到 5 个相关话题标签
+**`teaser`（默认短贴）**：英文；在严格字数内写「爆炸式」引流句（强悬念/强对比/强结论，但仍忠于原文），**禁止**长篇技术分析式 recap；1～2 句钩子 + 链接 + 精简标签；可含 1～2 个 emoji。
+
+**`long`（长预算）**：英文；用满大部分字数，多句展开，具体事实更多。
+
+共性：事实优先、不捏造；带来源链接一次；标签与话题相关。
 
 ### 常见问题：`x-feed.xml` 仍是标题摘要拼接
 
@@ -154,7 +151,7 @@ npm run build
 1. `Settings -> Secrets and variables -> Actions -> New repository secret`
 2. 新建 `RSS_SOURCE_URL`
 3. 再新建 `LLM_API_KEY`
-4. 在 `Variables` 中按需新增 `FEED_TITLE`、`FEED_LINK`、`FEED_DESCRIPTION`、`X_FEED_TITLE`、`X_FEED_LINK`、`X_FEED_DESCRIPTION`、`POST_PREFIX`、`POST_SUFFIX`、`POST_MAX_LENGTH`、`X_POST_PREFIX`、`X_POST_SUFFIX`、`X_POST_MAX_LENGTH`、`MAX_NEW_ITEMS`、`MAX_FEED_ITEMS`、`FETCH_ARTICLE_CONTENT`、`ARTICLE_MAX_CHARS`、`FETCH_TIMEOUT_MS`、`ENABLE_LLM_POST_GENERATION`、`FORCE_REGENERATE_X_POSTS`、`LLM_API_URL`、`LLM_MODEL`、`LLM_SYSTEM_PROMPT`、`LLM_USER_PROMPT_TEMPLATE`、`LLM_TEMPERATURE`、`LLM_MAX_TOKENS`、`LLM_TIMEOUT_MS`
+4. 在 `Variables` 中按需新增 `FEED_TITLE`、`FEED_LINK`、`FEED_DESCRIPTION`、`X_FEED_TITLE`、`X_FEED_LINK`、`X_FEED_DESCRIPTION`、`POST_PREFIX`、`POST_SUFFIX`、`POST_MAX_LENGTH`、`X_POST_PREFIX`、`X_POST_SUFFIX`、`X_POST_MAX_LENGTH`、`X_POST_STYLE`、`MAX_NEW_ITEMS`、`MAX_FEED_ITEMS`、`FETCH_ARTICLE_CONTENT`、`ARTICLE_MAX_CHARS`、`FETCH_TIMEOUT_MS`、`ENABLE_LLM_POST_GENERATION`、`FORCE_REGENERATE_X_POSTS`、`LLM_API_URL`、`LLM_MODEL`、`LLM_SYSTEM_PROMPT`、`LLM_USER_PROMPT_TEMPLATE`、`LLM_TEMPERATURE`、`LLM_MAX_TOKENS`、`LLM_TIMEOUT_MS`
 
 ## GitHub Pages
 

@@ -42,6 +42,7 @@ jobs:
           X_POST_PREFIX: ${{ vars.X_POST_PREFIX }}
           X_POST_SUFFIX: ${{ vars.X_POST_SUFFIX }}
           X_POST_MAX_LENGTH: ${{ vars.X_POST_MAX_LENGTH }}
+          X_POST_STYLE: ${{ vars.X_POST_STYLE }}
           MAX_NEW_ITEMS: ${{ vars.MAX_NEW_ITEMS }}
           MAX_FEED_ITEMS: ${{ vars.MAX_FEED_ITEMS }}
           FETCH_ARTICLE_CONTENT: ${{ vars.FETCH_ARTICLE_CONTENT }}
