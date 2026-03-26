@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Thu, 26 Mar 2026 13:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 18:59:35 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-3fe4298e34d4e2533c630a56af63f0db7a62163a</guid>
+      <title>Tether&apos;s QVAC Brings Billion-Parameter AI Training to Smartphones | Tether launches BitNet LoRA framework enabling AI model fine-tuning on consumer devices,... https://Blockchain.News/news/tether-qvac-bitnet-lora-smartphone-ai-training</title>
+      <link>https://Blockchain.News/news/tether-qvac-bitnet-lora-smartphone-ai-training</link>
+      <pubDate>Wed, 25 Mar 2026 13:51:21 GMT</pubDate>
+      <description><![CDATA[Original title: Tether's QVAC Brings Billion-Parameter AI Training to Smartphones
+Summary: Tether launches BitNet LoRA framework enabling AI model fine-tuning on consumer devices, slashing VRAM usage by up to 78% versus traditional models.
+Article text: Tether launches BitNet LoRA framework enabling AI model fine-tuning on consumer devices, slashing VRAM usage by up to 78% versus traditional models.
+
+Tether just made billion-parameter AI models trainable on your phone. The stablecoin giant's QVAC division launched what it claims is the first cross-platform LoRA fine-tuning framework for Microsoft's BitNet architecture, enabling AI development on consumer hardware that previously required enterprise-grade NVIDIA systems.
+
+The numbers are striking. A 125-million-parameter BitNet model can be fine-tuned in roughly 10 minutes on a Samsung S25 using a biomedical dataset of about 300 documents. Scale that up to a 1-billion-parameter model, and you're looking at just over an hour on the same device. Tether's team pushed an iPhone 16 to fine-tune models up to 13 billion parameters.
+
+The real story here is efficiency. Benchmarks show BitNet-1B uses up to 77.8% less VRAM than Gemma-3-1B and 65.6% less than Qwen3-0.6B during both inference and fine-tuning. That memory headroom means larger models can run on hardware that would've been dismissed as inadequate six months ago.
+
+GPU inference on mobile devices clocked between two and eleven times faster than CPU performance, according to Tether's testing on Adreno, Mali, and Apple Bionic GPUs. The framework also extends LoRA fine-tuning to non-NVIDIA hardware for the first time—AMD, Intel, and Apple Silicon are all supported.
+
+This release follows Tether's broader push beyond stablecoins. QVAC Fabric, launched as open-source software, represents the company's bet that decentralized AI infrastructure can compete with cloud giants. The timing is notable: Tether announced on March 25 that it hired a Big Four accounting firm for its first USDT audit, suggesting the $184 billion stablecoin issuer is working to shore up credibility across all business lines.
+
+"When training large language models depends on centralized infrastructure, innovation becomes stagnant," CEO Paolo Ardoino said. "The era of Stable Intelligence has just begun."
+
+The framework opens doors for federated learning—training AI across distributed devices while keeping sensitive data local. For developers priced out of cloud AI, that's a meaningful shift. Whether Tether can build a viable AI ecosystem alongside its stablecoin dominance remains the open question.
+
+Full technical documentation, including adapters and cross-platform binaries, is available on Hugging Face.
+
+Tether launches BitNet LoRA framework enabling AI model fine-tuning on consumer devices, slashing VRAM usage by up to 78% versus traditional models.
+
+Tether just made billion-parameter AI models trainable on your phone. The stablecoin giant's QVAC division launched what it claims is the first cross-platform LoRA fine-tuning framework for Microsoft's BitNet architecture, enabling AI development on consumer hardware that previously required enterprise-grade NVIDIA systems.
+
+The numbers are striking. A 125-million-parameter BitNet model can be fine-tuned in roughly 10 minutes on a Samsung S25 using a biomedical dataset of about 300 documents. Scale that up to a 1-billion-parameter model, and you're looking at just over an hour on the same device. Tether's team pushed an iPhone 16 to fine-tune models up to 13 billion parameters.
+
+The real story here is efficiency. Benchmarks show BitNet-1B uses up to 77.8% less VRAM than Gemma-3-1B and 65.6% less than Qwen3-0.6B during both inference and fine-tuning. That memory headroom means larger models can run on hardware that would've been dismissed as inadequate six months ago.
+
+GPU inference on mobile devices clocked between two and eleven times faster than CPU performance, according to Tether's testing on Adreno, Mali, and Apple Bionic GPUs. The framework also extends LoRA fine-tuning to non-NVIDIA hardware for the first time—AMD, Intel, and Apple Silicon are all supported.
+
+This release follows Tether's broader push beyond stablecoins. QVAC Fabric, launched as open-source software, represents the company's bet that decentralized AI infrastructure can compete with cloud giants. The timing is notable: Tether announced on March 25 that it hired a Big Four accounting firm for its first USDT audit, suggesting the $184 billion stablecoin issuer is working to shore up credibility across all business lines.
+
+"When training large language models depends on centralized infrastructure, innovation becomes stagnant," CEO Paolo Ardoino said. "The era of Stable Intelligence has just begun."
+
+The framework opens doors for federated learning—training AI across distributed devices while keeping sensitive data local. For developers priced out of cloud AI, that's a meaningful shift. Whether Tether can build a viable AI ecosystem alongside its stablecoin dominance remains the open question.
+
+Full technical documentation, including adapters and cross-platform binaries, is available on Hugging Face.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/tether-qvac-bitnet-lora-smartphone-ai-training]]></description>
+      <content:encoded><![CDATA[Tether launches BitNet LoRA framework enabling AI model fine-tuning on consumer devices, slashing VRAM usage by up to 78% versus traditional models.
+
+Tether just made billion-parameter AI models trainable on your phone. The stablecoin giant's QVAC division launched what it claims is the first cross-platform LoRA fine-tuning framework for Microsoft's BitNet architecture, enabling AI development on consumer hardware that previously required enterprise-grade NVIDIA systems.
+
+The numbers are striking. A 125-million-parameter BitNet model can be fine-tuned in roughly 10 minutes on a Samsung S25 using a biomedical dataset of about 300 documents. Scale that up to a 1-billion-parameter model, and you're looking at just over an hour on the same device. Tether's team pushed an iPhone 16 to fine-tune models up to 13 billion parameters.
+
+The real story here is efficiency. Benchmarks show BitNet-1B uses up to 77.8% less VRAM than Gemma-3-1B and 65.6% less than Qwen3-0.6B during both inference and fine-tuning. That memory headroom means larger models can run on hardware that would've been dismissed as inadequate six months ago.
+
+GPU inference on mobile devices clocked between two and eleven times faster than CPU performance, according to Tether's testing on Adreno, Mali, and Apple Bionic GPUs. The framework also extends LoRA fine-tuning to non-NVIDIA hardware for the first time—AMD, Intel, and Apple Silicon are all supported.
+
+This release follows Tether's broader push beyond stablecoins. QVAC Fabric, launched as open-source software, represents the company's bet that decentralized AI infrastructure can compete with cloud giants. The timing is notable: Tether announced on March 25 that it hired a Big Four accounting firm for its first USDT audit, suggesting the $184 billion stablecoin issuer is working to shore up credibility across all business lines.
+
+"When training large language models depends on centralized infrastructure, innovation becomes stagnant," CEO Paolo Ardoino said. "The era of Stable Intelligence has just begun."
+
+The framework opens doors for federated learning—training AI across distributed devices while keeping sensitive data local. For developers priced out of cloud AI, that's a meaningful shift. Whether Tether can build a viable AI ecosystem alongside its stablecoin dominance remains the open question.
+
+Full technical documentation, including adapters and cross-platform binaries, is available on Hugging Face.
+
+Tether launches BitNet LoRA framework enabling AI model fine-tuning on consumer devices, slashing VRAM usage by up to 78% versus traditional models.
+
+Tether just made billion-parameter AI models trainable on your phone. The stablecoin giant's QVAC division launched what it claims is the first cross-platform LoRA fine-tuning framework for Microsoft's BitNet architecture, enabling AI development on consumer hardware that previously required enterprise-grade NVIDIA systems.
+
+The numbers are striking. A 125-million-parameter BitNet model can be fine-tuned in roughly 10 minutes on a Samsung S25 using a biomedical dataset of about 300 documents. Scale that up to a 1-billion-parameter model, and you're looking at just over an hour on the same device. Tether's team pushed an iPhone 16 to fine-tune models up to 13 billion parameters.
+
+The real story here is efficiency. Benchmarks show BitNet-1B uses up to 77.8% less VRAM than Gemma-3-1B and 65.6% less than Qwen3-0.6B during both inference and fine-tuning. That memory headroom means larger models can run on hardware that would've been dismissed as inadequate six months ago.
+
+GPU inference on mobile devices clocked between two and eleven times faster than CPU performance, according to Tether's testing on Adreno, Mali, and Apple Bionic GPUs. The framework also extends LoRA fine-tuning to non-NVIDIA hardware for the first time—AMD, Intel, and Apple Silicon are all supported.
+
+This release follows Tether's broader push beyond stablecoins. QVAC Fabric, launched as open-source software, represents the company's bet that decentralized AI infrastructure can compete with cloud giants. The timing is notable: Tether announced on March 25 that it hired a Big Four accounting firm for its first USDT audit, suggesting the $184 billion stablecoin issuer is working to shore up credibility across all business lines.
+
+"When training large language models depends on centralized infrastructure, innovation becomes stagnant," CEO Paolo Ardoino said. "The era of Stable Intelligence has just begun."
+
+The framework opens doors for federated learning—training AI across distributed devices while keeping sensitive data local. For developers priced out of cloud AI, that's a meaningful shift. Whether Tether can build a viable AI ecosystem alongside its stablecoin dominance remains the open question.
+
+Full technical documentation, including adapters and cross-platform binaries, is available on Hugging Face.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-e57982bd618f23dd8a346dc8d4330be8208e2875</guid>
+      <title>Circle Brings USDCx Stablecoin to Movement L1 Blockchain | Movement becomes the fifth blockchain to integrate Circle&apos;s xReserve infrastructure, enab... https://Blockchain.News/news/circle-usdcx-movement-l1-blockchain-xreserve</title>
+      <link>https://Blockchain.News/news/circle-usdcx-movement-l1-blockchain-xreserve</link>
+      <pubDate>Wed, 25 Mar 2026 13:44:04 GMT</pubDate>
+      <description><![CDATA[Original title: Circle Brings USDCx Stablecoin to Movement L1 Blockchain
+Summary: Movement becomes the fifth blockchain to integrate Circle's xReserve infrastructure, enabling USDC-backed stablecoin access across 30+ chains without third-party bridges.
+Article text: Movement becomes the fifth blockchain to integrate Circle's xReserve infrastructure, enabling USDC-backed stablecoin access across 30+ chains without third-party bridges.
+
+Circle has expanded its xReserve infrastructure to Movement, a layer-1 blockchain built on the Move Virtual Machine, marking the fifth network integration for the USDC-backed stablecoin system. The deployment gives Movement users access to USDCx—a dollar stablecoin backed 1:1 by USDC reserves—with native cross-chain interoperability spanning more than 30 supported blockchains.
+
+The integration matters because it bypasses third-party bridge protocols entirely. Through Circle's CCTP (Cross-Chain Transfer Protocol) and Gateway products, USDCx on Movement can move to USDC on other chains without the security risks that have plagued bridge exploits over the past two years.
+
+Unlike wrapped tokens that rely on external custodians, xReserve functions as non-custodial smart contract infrastructure. It handles minting and provides deposit attestations for USDCx, meaning the backing verification happens on-chain rather than through trust assumptions about a bridge operator's reserves.
+
+Movement joins Aleo, Canton, Cardano, and Stacks as xReserve-connected networks. Each deployment allows USDCx to flow between compatible chains while maintaining its 1:1 USDC backing—currently supported by Circle's $78.7 billion stablecoin market cap.
+
+Movement differentiates itself through the Move programming language, originally developed at Meta for the abandoned Diem project. The language was designed specifically to prevent common smart contract vulnerabilities around asset handling. Combined with EVM compatibility and what Movement describes as "near-instant finality," the chain is positioning itself for DeFi applications where security and speed both matter.
+
+The mainnet USDCx contract sits at address 0xba11833544a2f99eec743f41a228ca6ffa7f13c3b6b04681d5a79a8b75ff225e for anyone looking to verify or integrate.
+
+Circle and Movement are pitching several applications: DeFi liquidity provision without bridge dependencies, cross-border remittances with lower fees than traditional rails, and access to tokenized real-world assets like Treasury bills. The neobank angle—connecting USDCx balances to debit card spending—represents the kind of fiat on/off-ramp integration that could drive actual retail usage.
+
+Whether Movement captures meaningful DeFi activity remains to be seen. The chain launches with several apps claiming Day 1 USDCx integration, though specific names weren't disclosed in the announcement.
+
+For traders and developers, the practical takeaway is straightforward: Movement now has a stablecoin with legitimate backing and cross-chain liquidity access. That's table stakes for any L1 hoping to attract serious DeFi capital, and Circle continues expanding xReserve's footprint across the multi-chain landscape.
+
+Movement becomes the fifth blockchain to integrate Circle's xReserve infrastructure, enabling USDC-backed stablecoin access across 30+ chains without third-party bridges.
+
+Circle has expanded its xReserve infrastructure to Movement, a layer-1 blockchain built on the Move Virtual Machine, marking the fifth network integration for the USDC-backed stablecoin system. The deployment gives Movement users access to USDCx—a dollar stablecoin backed 1:1 by USDC reserves—with native cross-chain interoperability spanning more than 30 supported blockchains.
+
+The integration matters because it bypasses third-party bridge protocols entirely. Through Circle's CCTP (Cross-Chain Transfer Protocol) and Gateway products, USDCx on Movement can move to USDC on other chains without the security risks that have plagued bridge exploits over the past two years.
+
+Unlike wrapped tokens that rely on external custodians, xReserve functions as non-custodial smart contract infrastructure. It handles minting and provides deposit attestations for USDCx, meaning the backing verification happens on-chain rather than through trust assumptions about a bridge operator's reserves.
+
+Movement joins Aleo, Canton, Cardano, and Stacks as xReserve-connected networks. Each deployment allows USDCx to flow between compatible chains while maintaining its 1:1 USDC backing—currently supported by Circle's $78.7 billion stablecoin market cap.
+
+Movement differentiates itself through the Move programming language, originally developed at Meta for the abandoned Diem project. The language was designed specifically to prevent common smart contract vulnerabilities around asset handling. Combined with EVM compatibility and what Movement describes as "near-instant finality," the chain is positioning itself for DeFi applications where security and speed both matter.
+
+The mainnet USDCx contract sits at address 0xba11833544a2f99eec743f41a228ca6ffa7f13c3b6b04681d5a79a8b75ff225e for anyone looking to verify or integrate.
+
+Circle and Movement are pitching several applications: DeFi liquidity provision without bridge dependencies, cross-border remittances with lower fees than traditional rails, and access to tokenized real-world assets like Treasury bills. The neobank angle—connecting USDCx balances to debit card spending—represents the kind of fiat on/off-ramp integration that could drive actual retail usage.
+
+Whether Movement captures meaningful DeFi activity remains to be seen. The chain launches with several apps claiming Day 1 USDCx integration, though specific names weren't disclosed in the announcement.
+
+For traders and developers, the practical takeaway is straightforward: Movement now has a stablecoin with legitimate backing and cross-chain liquidity access. That's table stakes for any L1 hoping to attract serious DeFi capital, and Circle continues expanding xReserve's footprint across the multi-chain landscape.
+Source: https://Blockchain.News/news/circle-usdcx-movement-l1-blockchain-xreserve]]></description>
+      <content:encoded><![CDATA[Movement becomes the fifth blockchain to integrate Circle's xReserve infrastructure, enabling USDC-backed stablecoin access across 30+ chains without third-party bridges.
+
+Circle has expanded its xReserve infrastructure to Movement, a layer-1 blockchain built on the Move Virtual Machine, marking the fifth network integration for the USDC-backed stablecoin system. The deployment gives Movement users access to USDCx—a dollar stablecoin backed 1:1 by USDC reserves—with native cross-chain interoperability spanning more than 30 supported blockchains.
+
+The integration matters because it bypasses third-party bridge protocols entirely. Through Circle's CCTP (Cross-Chain Transfer Protocol) and Gateway products, USDCx on Movement can move to USDC on other chains without the security risks that have plagued bridge exploits over the past two years.
+
+Unlike wrapped tokens that rely on external custodians, xReserve functions as non-custodial smart contract infrastructure. It handles minting and provides deposit attestations for USDCx, meaning the backing verification happens on-chain rather than through trust assumptions about a bridge operator's reserves.
+
+Movement joins Aleo, Canton, Cardano, and Stacks as xReserve-connected networks. Each deployment allows USDCx to flow between compatible chains while maintaining its 1:1 USDC backing—currently supported by Circle's $78.7 billion stablecoin market cap.
+
+Movement differentiates itself through the Move programming language, originally developed at Meta for the abandoned Diem project. The language was designed specifically to prevent common smart contract vulnerabilities around asset handling. Combined with EVM compatibility and what Movement describes as "near-instant finality," the chain is positioning itself for DeFi applications where security and speed both matter.
+
+The mainnet USDCx contract sits at address 0xba11833544a2f99eec743f41a228ca6ffa7f13c3b6b04681d5a79a8b75ff225e for anyone looking to verify or integrate.
+
+Circle and Movement are pitching several applications: DeFi liquidity provision without bridge dependencies, cross-border remittances with lower fees than traditional rails, and access to tokenized real-world assets like Treasury bills. The neobank angle—connecting USDCx balances to debit card spending—represents the kind of fiat on/off-ramp integration that could drive actual retail usage.
+
+Whether Movement captures meaningful DeFi activity remains to be seen. The chain launches with several apps claiming Day 1 USDCx integration, though specific names weren't disclosed in the announcement.
+
+For traders and developers, the practical takeaway is straightforward: Movement now has a stablecoin with legitimate backing and cross-chain liquidity access. That's table stakes for any L1 hoping to attract serious DeFi capital, and Circle continues expanding xReserve's footprint across the multi-chain landscape.
+
+Movement becomes the fifth blockchain to integrate Circle's xReserve infrastructure, enabling USDC-backed stablecoin access across 30+ chains without third-party bridges.
+
+Circle has expanded its xReserve infrastructure to Movement, a layer-1 blockchain built on the Move Virtual Machine, marking the fifth network integration for the USDC-backed stablecoin system. The deployment gives Movement users access to USDCx—a dollar stablecoin backed 1:1 by USDC reserves—with native cross-chain interoperability spanning more than 30 supported blockchains.
+
+The integration matters because it bypasses third-party bridge protocols entirely. Through Circle's CCTP (Cross-Chain Transfer Protocol) and Gateway products, USDCx on Movement can move to USDC on other chains without the security risks that have plagued bridge exploits over the past two years.
+
+Unlike wrapped tokens that rely on external custodians, xReserve functions as non-custodial smart contract infrastructure. It handles minting and provides deposit attestations for USDCx, meaning the backing verification happens on-chain rather than through trust assumptions about a bridge operator's reserves.
+
+Movement joins Aleo, Canton, Cardano, and Stacks as xReserve-connected networks. Each deployment allows USDCx to flow between compatible chains while maintaining its 1:1 USDC backing—currently supported by Circle's $78.7 billion stablecoin market cap.
+
+Movement differentiates itself through the Move programming language, originally developed at Meta for the abandoned Diem project. The language was designed specifically to prevent common smart contract vulnerabilities around asset handling. Combined with EVM compatibility and what Movement describes as "near-instant finality," the chain is positioning itself for DeFi applications where security and speed both matter.
+
+The mainnet USDCx contract sits at address 0xba11833544a2f99eec743f41a228ca6ffa7f13c3b6b04681d5a79a8b75ff225e for anyone looking to verify or integrate.
+
+Circle and Movement are pitching several applications: DeFi liquidity provision without bridge dependencies, cross-border remittances with lower fees than traditional rails, and access to tokenized real-world assets like Treasury bills. The neobank angle—connecting USDCx balances to debit card spending—represents the kind of fiat on/off-ramp integration that could drive actual retail usage.
+
+Whether Movement captures meaningful DeFi activity remains to be seen. The chain launches with several apps claiming Day 1 USDCx integration, though specific names weren't disclosed in the announcement.
+
+For traders and developers, the practical takeaway is straightforward: Movement now has a stablecoin with legitimate backing and cross-chain liquidity access. That's table stakes for any L1 hoping to attract serious DeFi capital, and Circle continues expanding xReserve's footprint across the multi-chain landscape.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-48fa390044f185451cf4022aba036593582ca4cc</guid>
+      <title>NVIDIA Releases Proteina-Complexa AI Model for Drug Discovery | NVIDIA&apos;s new generative AI model designs protein binders with nano- and picomolar binding... https://Blockchain.News/news/nvidia-proteina-complexa-ai-protein-binder-drug-discovery</title>
+      <link>https://Blockchain.News/news/nvidia-proteina-complexa-ai-protein-binder-drug-discovery</link>
+      <pubDate>Wed, 25 Mar 2026 13:36:04 GMT</pubDate>
+      <description><![CDATA[Original title: NVIDIA Releases Proteina-Complexa AI Model for Drug Discovery
+Summary: NVIDIA's new generative AI model designs protein binders with nano- and picomolar binding affinities, validated across 133 targets with pharma partners.
+Article text: NVIDIA's new generative AI model designs protein binders with nano- and picomolar binding affinities, validated across 133 targets with pharma partners.
+
+NVIDIA has released Proteina-Complexa, a generative AI model capable of designing de novo protein binders and enzymes—a development that could accelerate drug discovery timelines for pharmaceutical companies and biotech startups alike.
+
+The model represents NVIDIA's latest push into computational biology, an area where the company has been aggressively expanding beyond its core GPU business. For investors tracking NVIDIA's diversification strategy, this release signals continued commitment to healthcare AI applications.
+
+Protein binders are molecules designed to attach to specific targets—think of them as custom-built keys for biological locks. Creating them traditionally requires extensive trial and error in wet labs, costing pharmaceutical companies millions and taking years.
+
+Proteina-Complexa generates both the 3D structure and amino acid sequence simultaneously, a co-design approach that eliminates the fragmented workflow most computational tools require. The model was trained on over 1 million curated structures from major protein databases including the Protein Data Bank and AlphaFold Protein Structure Database.
+
+NVIDIA didn't just release this into the wild untested. Working with Manifold Bio, Novo Nordisk, Viva Biotech, Duke University, and the University of Cambridge, the team put roughly 1 million binder candidates through experimental testing against 133 distinct protein targets.
+
+The results: generated proteins expressed well with high folding stability, and the model produced binders with nano- and picomolar affinities for most targets. That's the binding strength range where therapeutics become viable.
+
+One standout result involved designing binders for sugar molecules on red blood cell surfaces—historically considered nearly impossible due to carbohydrates' highly polar nature. Four of 24 candidates showed stronger agglutination signals than natural proteins currently used in laboratories.
+
+The use cases span oncology, immunology, and neurology for protein targets, plus targeted drug delivery and biosensor development for small molecules. Enzyme design capabilities open doors for industrial biocatalysis and environmental remediation.
+
+NVIDIA has open-sourced the code, model checkpoints, and datasets—a strategic move that could establish Proteina-Complexa as an industry standard while driving demand for NVIDIA hardware. The model requires at least one A100, H100, or newer GPU to run.
+
+For biotech investors, the collaboration roster matters. Novo Nordisk's involvement suggests big pharma sees genuine potential here, not just academic curiosity. The technology targets a real bottleneck in drug development where computational efficiency could translate directly to faster time-to-market for new therapeutics.
+
+NVIDIA's new generative AI model designs protein binders with nano- and picomolar binding affinities, validated across 133 targets with pharma partners.
+
+NVIDIA has released Proteina-Complexa, a generative AI model capable of designing de novo protein binders and enzymes—a development that could accelerate drug discovery timelines for pharmaceutical companies and biotech startups alike.
+
+The model represents NVIDIA's latest push into computational biology, an area where the company has been aggressively expanding beyond its core GPU business. For investors tracking NVIDIA's diversification strategy, this release signals continued commitment to healthcare AI applications.
+
+Protein binders are molecules designed to attach to specific targets—think of them as custom-built keys for biological locks. Creating them traditionally requires extensive trial and error in wet labs, costing pharmaceutical companies millions and taking years.
+
+Proteina-Complexa generates both the 3D structure and amino acid sequence simultaneously, a co-design approach that eliminates the fragmented workflow most computational tools require. The model was trained on over 1 million curated structures from major protein databases including the Protein Data Bank and AlphaFold Protein Structure Database.
+
+NVIDIA didn't just release this into the wild untested. Working with Manifold Bio, Novo Nordisk, Viva Biotech, Duke University, and the University of Cambridge, the team put roughly 1 million binder candidates through experimental testing against 133 distinct protein targets.
+
+The results: generated proteins expressed well with high folding stability, and the model produced binders with nano- and picomolar affinities for most targets. That's the binding strength range where therapeutics become viable.
+
+One standout result involved designing binders for sugar molecules on red blood cell surfaces—historically considered nearly impossible due to carbohydrates' highly polar nature. Four of 24 candidates showed stronger agglutination signals than natural proteins currently used in laboratories.
+
+The use cases span oncology, immunology, and neurology for protein targets, plus targeted drug delivery and biosensor development for small molecules. Enzyme design capabilities open doors for industrial biocatalysis and environmental remediation.
+Source: https://Blockchain.News/news/nvidia-proteina-complexa-ai-protein-binder-drug-discovery]]></description>
+      <content:encoded><![CDATA[NVIDIA's new generative AI model designs protein binders with nano- and picomolar binding affinities, validated across 133 targets with pharma partners.
+
+NVIDIA has released Proteina-Complexa, a generative AI model capable of designing de novo protein binders and enzymes—a development that could accelerate drug discovery timelines for pharmaceutical companies and biotech startups alike.
+
+The model represents NVIDIA's latest push into computational biology, an area where the company has been aggressively expanding beyond its core GPU business. For investors tracking NVIDIA's diversification strategy, this release signals continued commitment to healthcare AI applications.
+
+Protein binders are molecules designed to attach to specific targets—think of them as custom-built keys for biological locks. Creating them traditionally requires extensive trial and error in wet labs, costing pharmaceutical companies millions and taking years.
+
+Proteina-Complexa generates both the 3D structure and amino acid sequence simultaneously, a co-design approach that eliminates the fragmented workflow most computational tools require. The model was trained on over 1 million curated structures from major protein databases including the Protein Data Bank and AlphaFold Protein Structure Database.
+
+NVIDIA didn't just release this into the wild untested. Working with Manifold Bio, Novo Nordisk, Viva Biotech, Duke University, and the University of Cambridge, the team put roughly 1 million binder candidates through experimental testing against 133 distinct protein targets.
+
+The results: generated proteins expressed well with high folding stability, and the model produced binders with nano- and picomolar affinities for most targets. That's the binding strength range where therapeutics become viable.
+
+One standout result involved designing binders for sugar molecules on red blood cell surfaces—historically considered nearly impossible due to carbohydrates' highly polar nature. Four of 24 candidates showed stronger agglutination signals than natural proteins currently used in laboratories.
+
+The use cases span oncology, immunology, and neurology for protein targets, plus targeted drug delivery and biosensor development for small molecules. Enzyme design capabilities open doors for industrial biocatalysis and environmental remediation.
+
+NVIDIA has open-sourced the code, model checkpoints, and datasets—a strategic move that could establish Proteina-Complexa as an industry standard while driving demand for NVIDIA hardware. The model requires at least one A100, H100, or newer GPU to run.
+
+For biotech investors, the collaboration roster matters. Novo Nordisk's involvement suggests big pharma sees genuine potential here, not just academic curiosity. The technology targets a real bottleneck in drug development where computational efficiency could translate directly to faster time-to-market for new therapeutics.
+
+NVIDIA's new generative AI model designs protein binders with nano- and picomolar binding affinities, validated across 133 targets with pharma partners.
+
+NVIDIA has released Proteina-Complexa, a generative AI model capable of designing de novo protein binders and enzymes—a development that could accelerate drug discovery timelines for pharmaceutical companies and biotech startups alike.
+
+The model represents NVIDIA's latest push into computational biology, an area where the company has been aggressively expanding beyond its core GPU business. For investors tracking NVIDIA's diversification strategy, this release signals continued commitment to healthcare AI applications.
+
+Protein binders are molecules designed to attach to specific targets—think of them as custom-built keys for biological locks. Creating them traditionally requires extensive trial and error in wet labs, costing pharmaceutical companies millions and taking years.
+
+Proteina-Complexa generates both the 3D structure and amino acid sequence simultaneously, a co-design approach that eliminates the fragmented workflow most computational tools require. The model was trained on over 1 million curated structures from major protein databases including the Protein Data Bank and AlphaFold Protein Structure Database.
+
+NVIDIA didn't just release this into the wild untested. Working with Manifold Bio, Novo Nordisk, Viva Biotech, Duke University, and the University of Cambridge, the team put roughly 1 million binder candidates through experimental testing against 133 distinct protein targets.
+
+The results: generated proteins expressed well with high folding stability, and the model produced binders with nano- and picomolar affinities for most targets. That's the binding strength range where therapeutics become viable.
+
+One standout result involved designing binders for sugar molecules on red blood cell surfaces—historically considered nearly impossible due to carbohydrates' highly polar nature. Four of 24 candidates showed stronger agglutination signals than natural proteins currently used in laboratories.
+
+The use cases span oncology, immunology, and neurology for protein targets, plus targeted drug delivery and biosensor development for small molecules. Enzyme design capabilities open doors for industrial biocatalysis and environmental remediation.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-7cdc2bb80d2686e44867c4e23ac505154ab86e27</guid>
       <title>SHIB Price Prediction: Technical Consolidation Suggests Limited Movement Through April 2026 | Shiba Inu shows neutral RSI at 56.81 with bearish MACD momentum. Technical analysis sugge... https://Blockchain.News/news/20260325-price-prediction-shib-technical-co...</title>
@@ -2329,259 +2590,6 @@ Nemotron 3 Content Safety is a 4B-parameter model that screens both text and ima
 The model covers 23 content categories including hate, harassment, violence, and unauthorized advice. NVIDIA trained it on human-annotated real-world images rather than primarily synthetic data, supporting 12 languages with zero-shot generalization beyond them.
 
 Nemotron 3 VoiceChat, currently in early access, is a 12B-parameter end-to-end speech model targeting sub-300ms latency for full-duplex conversations. It processes 80ms audio chunks faster than real-time, eliminating the traditional ASR-LLM-TTS cascade that introduces multiple failure points.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-1e6794533b2529c27a3af48fc5a620c05d6207f1</guid>
-      <title>Celo Launches Agent Visa Program to Attract AI Builders with DeFi Incentives | Celo introduces tiered Agent Visa program offering liquidity support and access to 14M Mi... https://Blockchain.News/news/celo-agent-visa-ai-builders-defi-incentives</title>
-      <link>https://Blockchain.News/news/celo-agent-visa-ai-builders-defi-incentives</link>
-      <pubDate>Tue, 24 Mar 2026 15:09:02 GMT</pubDate>
-      <description><![CDATA[Original title: Celo Launches Agent Visa Program to Attract AI Builders with DeFi Incentives
-Summary: Celo introduces tiered Agent Visa program offering liquidity support and access to 14M MiniPay users for AI agents that prove real utility on-chain.
-Article text: Celo introduces tiered Agent Visa program offering liquidity support and access to 14M MiniPay users for AI agents that prove real utility on-chain.
-
-Celo Foundation unveiled what it calls the world's first "work visa" for AI agents on March 24, a tiered incentive program designed to lure agent developers away from speculation-heavy chains and toward its stablecoin-focused ecosystem. CELO traded at $0.081 at announcement, up 4.34% on the day.
-
-The Agent Visa program creates three tiers—Tourist, Work Visa, and Citizenship—each unlocking progressively larger benefits based on on-chain activity metrics rather than token holdings or hype.
-
-Entry-level Tourist Visa requires just one transaction on Celo, granting co-marketing support and founder mentorship. The Work Visa tier demands Self Agent ID verification plus either 1,000 transactions with $5,000 volume or 1,000 unique contract interactions. That unlocks featured placement on UpDown's perpetual DEX and DeFi incentives across Uniswap, Aave, Mento, and Velodrome.
-
-The top Citizenship tier—requiring 10,000 transactions or $15,000 volume plus manual review—offers liquidity support for agent token launches and distribution access to MiniPay's 14 million users across Nigeria, Kenya, Colombia, and India.
-
-Celo's pitch takes direct aim at agent ecosystems where speculation dominates. The foundation claims some competing chains have registered over 22,000 agents with "just a handful" remaining active, while others saw 90% of agentic payment activity disappear within weeks.
-
-The program launches with Virtuals Protocol as a Day One partner, enabling Virtuals-built agents to qualify for the visa program through a single transaction. Self provides the identity layer, using zero-knowledge proofs to verify that agents are tied to real humans without exposing user data.
-
-Celo currently hosts over 1,000 registered agents on its 8004scan.io tracker, with Loopuman leading activity metrics.
-
-The timing coincides with heightened attention on Celo's network. Opera announced on March 19 it's seeking to acquire 160 million CELO tokens over three years, potentially becoming a core stakeholder. Meanwhile, Bithumb suspended CELO deposits and withdrawals on March 24 ahead of a protocol upgrade—a reminder that infrastructure changes are ongoing as Celo transitions toward becoming an Ethereum Layer 2 via the Optimism OP Stack.
-
-With 700,000 daily active users and positioning as the fastest-growing USDT chain, Celo's bet is straightforward: AI agents need real users performing real financial activities, not just other agents trading memecoins. Whether builders buy that thesis will show up in the visa application numbers over the coming months.
-
-Celo introduces tiered Agent Visa program offering liquidity support and access to 14M MiniPay users for AI agents that prove real utility on-chain.
-
-Celo Foundation unveiled what it calls the world's first "work visa" for AI agents on March 24, a tiered incentive program designed to lure agent developers away from speculation-heavy chains and toward its stablecoin-focused ecosystem. CELO traded at $0.081 at announcement, up 4.34% on the day.
-
-The Agent Visa program creates three tiers—Tourist, Work Visa, and Citizenship—each unlocking progressively larger benefits based on on-chain activity metrics rather than token holdings or hype.
-
-Entry-level Tourist Visa requires just one transaction on Celo, granting co-marketing support and founder mentorship. The Work Visa tier demands Self Agent ID verification plus either 1,000 transactions with $5,000 volume or 1,000 unique contract interactions. That unlocks featured placement on UpDown's perpetual DEX and DeFi incentives across Uniswap, Aave, Mento, and Velodrome.
-
-The top Citizenship tier—requiring 10,000 transactions or $15,000 volume plus manual review—offers liquidity support for agent token launches and distribution access to MiniPay's 14 million users across Nigeria, Kenya, Colombia, and India.
-
-Celo's pitch takes direct aim at agent ecosystems where speculation dominates. The foundation claims some competing chains have registered over 22,000 agents with "just a handful" remaining active, while others saw 90% of agentic payment activity disappear within weeks.
-
-The program launches with Virtuals Protocol as a Day One partner, enabling Virtuals-built agents to qualify for the visa program through a single transaction. Self provides the identity layer, using zero-knowledge proofs to verify that agents are tied to real humans without exposing user data.
-
-Celo currently hosts over 1,000 registered agents on its 8004scan.io tracker, with Loopuman leading activity metrics.
-
-The timing coincides with heightened attention on Celo's network. Opera announced on March 19 it's seeking to acquire 160 million CELO tokens over three years, potentially becoming a core stakeholder. Meanwhile, Bithumb suspended CELO deposits and withdrawals on March 24 ahead of a protocol upgrade—a reminder that infrastructure changes are ongoing as Celo transitions toward becoming an Ethereum Layer 2 via the Optimism OP Stack.
-
-With 700,000 daily active users and positioning as the fastest-growing USDT chain, Celo's bet is straightforward: AI agents need real users performing real financial activities, not just other agents trading memecoins. Whether builders buy that thesis will show up in the visa application numbers over the coming months.
-Source: https://Blockchain.News/news/celo-agent-visa-ai-builders-defi-incentives]]></description>
-      <content:encoded><![CDATA[Celo introduces tiered Agent Visa program offering liquidity support and access to 14M MiniPay users for AI agents that prove real utility on-chain.
-
-Celo Foundation unveiled what it calls the world's first "work visa" for AI agents on March 24, a tiered incentive program designed to lure agent developers away from speculation-heavy chains and toward its stablecoin-focused ecosystem. CELO traded at $0.081 at announcement, up 4.34% on the day.
-
-The Agent Visa program creates three tiers—Tourist, Work Visa, and Citizenship—each unlocking progressively larger benefits based on on-chain activity metrics rather than token holdings or hype.
-
-Entry-level Tourist Visa requires just one transaction on Celo, granting co-marketing support and founder mentorship. The Work Visa tier demands Self Agent ID verification plus either 1,000 transactions with $5,000 volume or 1,000 unique contract interactions. That unlocks featured placement on UpDown's perpetual DEX and DeFi incentives across Uniswap, Aave, Mento, and Velodrome.
-
-The top Citizenship tier—requiring 10,000 transactions or $15,000 volume plus manual review—offers liquidity support for agent token launches and distribution access to MiniPay's 14 million users across Nigeria, Kenya, Colombia, and India.
-
-Celo's pitch takes direct aim at agent ecosystems where speculation dominates. The foundation claims some competing chains have registered over 22,000 agents with "just a handful" remaining active, while others saw 90% of agentic payment activity disappear within weeks.
-
-The program launches with Virtuals Protocol as a Day One partner, enabling Virtuals-built agents to qualify for the visa program through a single transaction. Self provides the identity layer, using zero-knowledge proofs to verify that agents are tied to real humans without exposing user data.
-
-Celo currently hosts over 1,000 registered agents on its 8004scan.io tracker, with Loopuman leading activity metrics.
-
-The timing coincides with heightened attention on Celo's network. Opera announced on March 19 it's seeking to acquire 160 million CELO tokens over three years, potentially becoming a core stakeholder. Meanwhile, Bithumb suspended CELO deposits and withdrawals on March 24 ahead of a protocol upgrade—a reminder that infrastructure changes are ongoing as Celo transitions toward becoming an Ethereum Layer 2 via the Optimism OP Stack.
-
-With 700,000 daily active users and positioning as the fastest-growing USDT chain, Celo's bet is straightforward: AI agents need real users performing real financial activities, not just other agents trading memecoins. Whether builders buy that thesis will show up in the visa application numbers over the coming months.
-
-Celo introduces tiered Agent Visa program offering liquidity support and access to 14M MiniPay users for AI agents that prove real utility on-chain.
-
-Celo Foundation unveiled what it calls the world's first "work visa" for AI agents on March 24, a tiered incentive program designed to lure agent developers away from speculation-heavy chains and toward its stablecoin-focused ecosystem. CELO traded at $0.081 at announcement, up 4.34% on the day.
-
-The Agent Visa program creates three tiers—Tourist, Work Visa, and Citizenship—each unlocking progressively larger benefits based on on-chain activity metrics rather than token holdings or hype.
-
-Entry-level Tourist Visa requires just one transaction on Celo, granting co-marketing support and founder mentorship. The Work Visa tier demands Self Agent ID verification plus either 1,000 transactions with $5,000 volume or 1,000 unique contract interactions. That unlocks featured placement on UpDown's perpetual DEX and DeFi incentives across Uniswap, Aave, Mento, and Velodrome.
-
-The top Citizenship tier—requiring 10,000 transactions or $15,000 volume plus manual review—offers liquidity support for agent token launches and distribution access to MiniPay's 14 million users across Nigeria, Kenya, Colombia, and India.
-
-Celo's pitch takes direct aim at agent ecosystems where speculation dominates. The foundation claims some competing chains have registered over 22,000 agents with "just a handful" remaining active, while others saw 90% of agentic payment activity disappear within weeks.
-
-The program launches with Virtuals Protocol as a Day One partner, enabling Virtuals-built agents to qualify for the visa program through a single transaction. Self provides the identity layer, using zero-knowledge proofs to verify that agents are tied to real humans without exposing user data.
-
-Celo currently hosts over 1,000 registered agents on its 8004scan.io tracker, with Loopuman leading activity metrics.
-
-The timing coincides with heightened attention on Celo's network. Opera announced on March 19 it's seeking to acquire 160 million CELO tokens over three years, potentially becoming a core stakeholder. Meanwhile, Bithumb suspended CELO deposits and withdrawals on March 24 ahead of a protocol upgrade—a reminder that infrastructure changes are ongoing as Celo transitions toward becoming an Ethereum Layer 2 via the Optimism OP Stack.
-
-With 700,000 daily active users and positioning as the fastest-growing USDT chain, Celo's bet is straightforward: AI agents need real users performing real financial activities, not just other agents trading memecoins. Whether builders buy that thesis will show up in the visa application numbers over the coming months.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-c159a04d80e67def8ef9a8310544c5c0e83d95d5</guid>
-      <title>GitHub CodeQL Gets Major Speed Boost for Pull Request Security Scans | GitHub&apos;s CodeQL incremental analysis now runs up to 20% faster on pull requests across fi... https://Blockchain.News/news/github-codeql-faster-incremental-analysis-pull-requests</title>
-      <link>https://Blockchain.News/news/github-codeql-faster-incremental-analysis-pull-requests</link>
-      <pubDate>Tue, 24 Mar 2026 14:38:43 GMT</pubDate>
-      <description><![CDATA[Original title: GitHub CodeQL Gets Major Speed Boost for Pull Request Security Scans
-Summary: GitHub's CodeQL incremental analysis now runs up to 20% faster on pull requests across five major programming languages, with larger repos seeing biggest gains.
-Article text: GitHub's CodeQL incremental analysis now runs up to 20% faster on pull requests across five major programming languages, with larger repos seeing biggest gains.
-
-GitHub has rolled out significant performance improvements to CodeQL, its open-source static analysis engine, making security scans on pull requests substantially faster for developers working in C#, Java, JavaScript/TypeScript, Python, and Ruby.
-
-The update, announced March 24, 2026, builds on incremental analysis capabilities GitHub introduced last year. Rather than scanning entire codebases with each pull request, CodeQL now generates a separate database for new or changed code and combines it with a cached database of the existing codebase.
-
-GitHub tested the improvements across more than 100,000 repositories, grouping them by typical scan duration. The results? Larger, more complex repositories—those taking over seven minutes for non-incremental scans—saw the most dramatic improvements. Repositories in the three-to-seven minute range also benefited meaningfully, while smaller projects under three minutes showed modest gains.
-
-The timing matters for development teams. Slow security scans create friction in pull request workflows, and developers sometimes skip them entirely when deadlines loom. Faster scans mean security checks actually get run.
-
-The incremental analysis is enabled by default for projects using the build mode none extraction mechanism in both default and advanced setup configurations on github.com. If you're running the CodeQL CLI locally, you'll need to wait—GitHub says support for incremental scanning in the CLI is coming later.
-
-One catch: the speed improvements only apply to repositories using GitHub's default CodeQL query suite. Custom query configurations won't see the same benefits yet.
-
-This update follows a busy stretch for CodeQL development. Just last week, GitHub announced expanded application security coverage using AI-powered detections alongside CodeQL. And on March 18, CodeQL version 2.24.3 shipped with Java 26 support plus updated taint tracking and framework coverage.
-
-GitHub has also been pairing CodeQL with Copilot to offer automated fix suggestions—essentially letting AI propose patches for the vulnerabilities CodeQL finds. For development teams juggling security requirements with shipping deadlines, faster scans combined with AI-assisted remediation could meaningfully change the economics of secure coding.
-
-The incremental analysis improvements are live now for eligible repositories on github.com.
-
-GitHub's CodeQL incremental analysis now runs up to 20% faster on pull requests across five major programming languages, with larger repos seeing biggest gains.
-
-GitHub has rolled out significant performance improvements to CodeQL, its open-source static analysis engine, making security scans on pull requests substantially faster for developers working in C#, Java, JavaScript/TypeScript, Python, and Ruby.
-
-The update, announced March 24, 2026, builds on incremental analysis capabilities GitHub introduced last year. Rather than scanning entire codebases with each pull request, CodeQL now generates a separate database for new or changed code and combines it with a cached database of the existing codebase.
-
-GitHub tested the improvements across more than 100,000 repositories, grouping them by typical scan duration. The results? Larger, more complex repositories—those taking over seven minutes for non-incremental scans—saw the most dramatic improvements. Repositories in the three-to-seven minute range also benefited meaningfully, while smaller projects under three minutes showed modest gains.
-
-The timing matters for development teams. Slow security scans create friction in pull request workflows, and developers sometimes skip them entirely when deadlines loom. Faster scans mean security checks actually get run.
-
-The incremental analysis is enabled by default for projects using the build mode none extraction mechanism in both default and advanced setup configurations on github.com. If you're running the CodeQL CLI locally, you'll need to wait—GitHub says support for incremental scanning in the CLI is coming later.
-
-One catch: the speed improvements only apply to repositories using GitHub's default CodeQL query suite. Custom query configurations won't see the same benefits yet.
-
-This update follows a busy stretch for CodeQL development. Just last week, GitHub announced expanded application security coverage using AI-powered detections alongside CodeQL. And on March 18, CodeQL version 2.24.3 shipped with Java 26 support plus updated taint tracking and framework coverage.
-
-GitHub has also been pairing CodeQL with Copilot to offer automated fix suggestions—essentially letting AI propose patches for the vulnerabilities CodeQL finds. For development teams juggling security requirements with shipping deadlines, faster scans combined with AI-assisted remediation could meaningfully change the economics of secure coding.
-
-The incremental analysis improvements are live now for eligible repositories on github.com.
-Source: https://Blockchain.News/news/github-codeql-faster-incremental-analysis-pull-requests]]></description>
-      <content:encoded><![CDATA[GitHub's CodeQL incremental analysis now runs up to 20% faster on pull requests across five major programming languages, with larger repos seeing biggest gains.
-
-GitHub has rolled out significant performance improvements to CodeQL, its open-source static analysis engine, making security scans on pull requests substantially faster for developers working in C#, Java, JavaScript/TypeScript, Python, and Ruby.
-
-The update, announced March 24, 2026, builds on incremental analysis capabilities GitHub introduced last year. Rather than scanning entire codebases with each pull request, CodeQL now generates a separate database for new or changed code and combines it with a cached database of the existing codebase.
-
-GitHub tested the improvements across more than 100,000 repositories, grouping them by typical scan duration. The results? Larger, more complex repositories—those taking over seven minutes for non-incremental scans—saw the most dramatic improvements. Repositories in the three-to-seven minute range also benefited meaningfully, while smaller projects under three minutes showed modest gains.
-
-The timing matters for development teams. Slow security scans create friction in pull request workflows, and developers sometimes skip them entirely when deadlines loom. Faster scans mean security checks actually get run.
-
-The incremental analysis is enabled by default for projects using the build mode none extraction mechanism in both default and advanced setup configurations on github.com. If you're running the CodeQL CLI locally, you'll need to wait—GitHub says support for incremental scanning in the CLI is coming later.
-
-One catch: the speed improvements only apply to repositories using GitHub's default CodeQL query suite. Custom query configurations won't see the same benefits yet.
-
-This update follows a busy stretch for CodeQL development. Just last week, GitHub announced expanded application security coverage using AI-powered detections alongside CodeQL. And on March 18, CodeQL version 2.24.3 shipped with Java 26 support plus updated taint tracking and framework coverage.
-
-GitHub has also been pairing CodeQL with Copilot to offer automated fix suggestions—essentially letting AI propose patches for the vulnerabilities CodeQL finds. For development teams juggling security requirements with shipping deadlines, faster scans combined with AI-assisted remediation could meaningfully change the economics of secure coding.
-
-The incremental analysis improvements are live now for eligible repositories on github.com.
-
-GitHub's CodeQL incremental analysis now runs up to 20% faster on pull requests across five major programming languages, with larger repos seeing biggest gains.
-
-GitHub has rolled out significant performance improvements to CodeQL, its open-source static analysis engine, making security scans on pull requests substantially faster for developers working in C#, Java, JavaScript/TypeScript, Python, and Ruby.
-
-The update, announced March 24, 2026, builds on incremental analysis capabilities GitHub introduced last year. Rather than scanning entire codebases with each pull request, CodeQL now generates a separate database for new or changed code and combines it with a cached database of the existing codebase.
-
-GitHub tested the improvements across more than 100,000 repositories, grouping them by typical scan duration. The results? Larger, more complex repositories—those taking over seven minutes for non-incremental scans—saw the most dramatic improvements. Repositories in the three-to-seven minute range also benefited meaningfully, while smaller projects under three minutes showed modest gains.
-
-The timing matters for development teams. Slow security scans create friction in pull request workflows, and developers sometimes skip them entirely when deadlines loom. Faster scans mean security checks actually get run.
-
-The incremental analysis is enabled by default for projects using the build mode none extraction mechanism in both default and advanced setup configurations on github.com. If you're running the CodeQL CLI locally, you'll need to wait—GitHub says support for incremental scanning in the CLI is coming later.
-
-One catch: the speed improvements only apply to repositories using GitHub's default CodeQL query suite. Custom query configurations won't see the same benefits yet.
-
-This update follows a busy stretch for CodeQL development. Just last week, GitHub announced expanded application security coverage using AI-powered detections alongside CodeQL. And on March 18, CodeQL version 2.24.3 shipped with Java 26 support plus updated taint tracking and framework coverage.
-
-GitHub has also been pairing CodeQL with Copilot to offer automated fix suggestions—essentially letting AI propose patches for the vulnerabilities CodeQL finds. For development teams juggling security requirements with shipping deadlines, faster scans combined with AI-assisted remediation could meaningfully change the economics of secure coding.
-
-The incremental analysis improvements are live now for eligible repositories on github.com.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-b54c8b096f4aa6d0606cd2144cdedf4fd7efe75e</guid>
-      <title>Algorand (ALGO) Foundation Promotes Bruno Martins to CTO in Leadership Shake-Up | Algorand (ALGO) Foundation names Bruno Martins as CTO and promotes two product leaders as... https://Blockchain.News/news/algorand-foundation-promotes-bruno-martins-cto-leadersh...</title>
-      <link>https://Blockchain.News/news/algorand-foundation-promotes-bruno-martins-cto-leadership</link>
-      <pubDate>Tue, 24 Mar 2026 14:29:43 GMT</pubDate>
-      <description><![CDATA[Original title: Algorand (ALGO) Foundation Promotes Bruno Martins to CTO in Leadership Shake-Up
-Summary: Algorand (ALGO) Foundation names Bruno Martins as CTO and promotes two product leaders as it consolidates ecosystem operations under unified leadership.
-Article text: Algorand (ALGO) Foundation names Bruno Martins as CTO and promotes two product leaders as it consolidates ecosystem operations under unified leadership.
-
-Algorand (ALGO) Foundation has appointed Bruno Martins as Chief Technology Officer while promoting two product leaders, marking the organization's first major leadership restructuring since unifying ecosystem operations last week.
-
-Martins, who previously served as Chief Architect and stepped into acting CTO roles twice during what the Foundation called "critical moments," will now permanently oversee protocol engineering. His background includes stints at IOHK and Consensys, where he led blockchain integration efforts for enterprise clients. The Foundation emphasized his expertise in applied cryptography and key management systems as key qualifications.
-
-Will Beaumont moves from Head of Pera Wallet to Global Head of Product & Integrations, a newly created role spanning both business and engineering organizations. He'll retain oversight of Pera, Algorand's flagship mobile wallet.
-
-Brian Whippo, formerly Head of Developer Relations, becomes Senior Director of Integrations & Developer Tooling. His expanded mandate includes a new practice area the Foundation describes as focused on helping "businesses, ecosystem partners, and AI agents bring new activity on-chain."
-
-That last bit—AI agents as on-chain participants—signals where Algorand sees opportunity. The Foundation framed these changes as positioning for "the intersection of two forces reshaping global finance: the growing demand for programmable, permissionless financial infrastructure, and the emergence of autonomous agents as on-chain participants."
-
-Leadership shuffles at blockchain foundations rarely move markets directly, but they do signal strategic priorities. Consolidating product and integrations under Beaumont suggests Algorand wants tighter coordination between its wallet infrastructure and broader ecosystem development. Whippo's AI agent focus reflects an industry-wide bet that autonomous systems will drive significant blockchain transaction volume.
-
-For ALGO holders, the practical question is execution. Martins has been with the Foundation long enough to understand its technical debt and roadmap. Whether these promotions translate to faster protocol development or meaningful new partnerships remains to be seen. The Foundation's next few quarters should reveal whether this restructuring produces tangible results or amounts to organizational housekeeping.
-
-Algorand (ALGO) Foundation names Bruno Martins as CTO and promotes two product leaders as it consolidates ecosystem operations under unified leadership.
-
-Algorand (ALGO) Foundation has appointed Bruno Martins as Chief Technology Officer while promoting two product leaders, marking the organization's first major leadership restructuring since unifying ecosystem operations last week.
-
-Martins, who previously served as Chief Architect and stepped into acting CTO roles twice during what the Foundation called "critical moments," will now permanently oversee protocol engineering. His background includes stints at IOHK and Consensys, where he led blockchain integration efforts for enterprise clients. The Foundation emphasized his expertise in applied cryptography and key management systems as key qualifications.
-
-Will Beaumont moves from Head of Pera Wallet to Global Head of Product & Integrations, a newly created role spanning both business and engineering organizations. He'll retain oversight of Pera, Algorand's flagship mobile wallet.
-
-Brian Whippo, formerly Head of Developer Relations, becomes Senior Director of Integrations & Developer Tooling. His expanded mandate includes a new practice area the Foundation describes as focused on helping "businesses, ecosystem partners, and AI agents bring new activity on-chain."
-
-That last bit—AI agents as on-chain participants—signals where Algorand sees opportunity. The Foundation framed these changes as positioning for "the intersection of two forces reshaping global finance: the growing demand for programmable, permissionless financial infrastructure, and the emergence of autonomous agents as on-chain participants."
-
-Leadership shuffles at blockchain foundations rarely move markets directly, but they do signal strategic priorities. Consolidating product and integrations under Beaumont suggests Algorand wants tighter coordination between its wallet infrastructure and broader ecosystem development. Whippo's AI agent focus reflects an industry-wide bet that autonomous systems will drive significant blockchain transaction volume.
-
-For ALGO holders, the practical question is execution. Martins has been with the Foundation long enough to understand its technical debt and roadmap. Whether these promotions translate to faster protocol development or meaningful new partnerships remains to be seen. The Foundation's next few quarters should reveal whether this restructuring produces tangible results or amounts to organizational housekeeping.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/algorand-foundation-promotes-bruno-martins-cto-leadership]]></description>
-      <content:encoded><![CDATA[Algorand (ALGO) Foundation names Bruno Martins as CTO and promotes two product leaders as it consolidates ecosystem operations under unified leadership.
-
-Algorand (ALGO) Foundation has appointed Bruno Martins as Chief Technology Officer while promoting two product leaders, marking the organization's first major leadership restructuring since unifying ecosystem operations last week.
-
-Martins, who previously served as Chief Architect and stepped into acting CTO roles twice during what the Foundation called "critical moments," will now permanently oversee protocol engineering. His background includes stints at IOHK and Consensys, where he led blockchain integration efforts for enterprise clients. The Foundation emphasized his expertise in applied cryptography and key management systems as key qualifications.
-
-Will Beaumont moves from Head of Pera Wallet to Global Head of Product & Integrations, a newly created role spanning both business and engineering organizations. He'll retain oversight of Pera, Algorand's flagship mobile wallet.
-
-Brian Whippo, formerly Head of Developer Relations, becomes Senior Director of Integrations & Developer Tooling. His expanded mandate includes a new practice area the Foundation describes as focused on helping "businesses, ecosystem partners, and AI agents bring new activity on-chain."
-
-That last bit—AI agents as on-chain participants—signals where Algorand sees opportunity. The Foundation framed these changes as positioning for "the intersection of two forces reshaping global finance: the growing demand for programmable, permissionless financial infrastructure, and the emergence of autonomous agents as on-chain participants."
-
-Leadership shuffles at blockchain foundations rarely move markets directly, but they do signal strategic priorities. Consolidating product and integrations under Beaumont suggests Algorand wants tighter coordination between its wallet infrastructure and broader ecosystem development. Whippo's AI agent focus reflects an industry-wide bet that autonomous systems will drive significant blockchain transaction volume.
-
-For ALGO holders, the practical question is execution. Martins has been with the Foundation long enough to understand its technical debt and roadmap. Whether these promotions translate to faster protocol development or meaningful new partnerships remains to be seen. The Foundation's next few quarters should reveal whether this restructuring produces tangible results or amounts to organizational housekeeping.
-
-Algorand (ALGO) Foundation names Bruno Martins as CTO and promotes two product leaders as it consolidates ecosystem operations under unified leadership.
-
-Algorand (ALGO) Foundation has appointed Bruno Martins as Chief Technology Officer while promoting two product leaders, marking the organization's first major leadership restructuring since unifying ecosystem operations last week.
-
-Martins, who previously served as Chief Architect and stepped into acting CTO roles twice during what the Foundation called "critical moments," will now permanently oversee protocol engineering. His background includes stints at IOHK and Consensys, where he led blockchain integration efforts for enterprise clients. The Foundation emphasized his expertise in applied cryptography and key management systems as key qualifications.
-
-Will Beaumont moves from Head of Pera Wallet to Global Head of Product & Integrations, a newly created role spanning both business and engineering organizations. He'll retain oversight of Pera, Algorand's flagship mobile wallet.
-
-Brian Whippo, formerly Head of Developer Relations, becomes Senior Director of Integrations & Developer Tooling. His expanded mandate includes a new practice area the Foundation describes as focused on helping "businesses, ecosystem partners, and AI agents bring new activity on-chain."
-
-That last bit—AI agents as on-chain participants—signals where Algorand sees opportunity. The Foundation framed these changes as positioning for "the intersection of two forces reshaping global finance: the growing demand for programmable, permissionless financial infrastructure, and the emergence of autonomous agents as on-chain participants."
-
-Leadership shuffles at blockchain foundations rarely move markets directly, but they do signal strategic priorities. Consolidating product and integrations under Beaumont suggests Algorand wants tighter coordination between its wallet infrastructure and broader ecosystem development. Whippo's AI agent focus reflects an industry-wide bet that autonomous systems will drive significant blockchain transaction volume.
-
-For ALGO holders, the practical question is execution. Martins has been with the Foundation long enough to understand its technical debt and roadmap. Whether these promotions translate to faster protocol development or meaningful new partnerships remains to be seen. The Foundation's next few quarters should reveal whether this restructuring produces tangible results or amounts to organizational housekeeping.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
     </item>
   </channel>
 </rss>
