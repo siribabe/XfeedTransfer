@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Fri, 27 Mar 2026 12:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 18:51:03 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-36962eb711ee244ba58f92fc3635229e2542eaf7</guid>
+      <title>NVIDIA GTC 2026 Unveils Physical AI Blueprints as Stock Trades at $178 | NVIDIA launches Physical AI Data Factory Blueprint and Omniverse DSX at GTC 2026, partner... https://Blockchain.News/news/nvidia-gtc-2026-physical-ai-blueprints-omniverse</title>
+      <link>https://Blockchain.News/news/nvidia-gtc-2026-physical-ai-blueprints-omniverse</link>
+      <pubDate>Thu, 26 Mar 2026 16:01:05 GMT</pubDate>
+      <description><![CDATA[Original title: NVIDIA GTC 2026 Unveils Physical AI Blueprints as Stock Trades at $178
+Summary: NVIDIA launches Physical AI Data Factory Blueprint and Omniverse DSX at GTC 2026, partnering with ABB, FANUC, and KUKA to scale robot deployments globally.
+Article text: NVIDIA launches Physical AI Data Factory Blueprint and Omniverse DSX at GTC 2026, partnering with ABB, FANUC, and KUKA to scale robot deployments globally.
+
+NVIDIA dropped two major reference architectures at GTC 2026 last week, signaling the company's aggressive push to become the infrastructure backbone for physical AI deployment across manufacturing, logistics, and autonomous systems. The stock sits at $178.36, down 1.77% on the day, even as Morningstar raised its fair value estimate to $260 citing "agentic AI" potential.
+
+The Physical AI Data Factory Blueprint tackles what's become the real bottleneck in robotics development—not algorithms, but training data. Built on NVIDIA's Cosmos open world foundation models and the OSMO operator, the blueprint transforms raw compute into synthetic datasets that can simulate edge cases real-world data collection simply can't capture at scale.
+
+"In this new era, compute is data," said Rev Lebaredian, NVIDIA's VP of Omniverse and simulation technologies. Microsoft Azure and Nebius have already signed on as the first cloud platforms offering the blueprint.
+
+ABB Robotics, FANUC, KUKA, and Yaskawa—companies with a combined install base exceeding 2 million industrial robots globally—are integrating NVIDIA's Omniverse libraries and Isaac simulation frameworks. They've also embedded Jetson modules into their controllers for real-time AI inference. That's not a pilot program; that's infrastructure commitment.
+
+KION, working alongside Accenture and Siemens, demonstrated warehouse-scale digital twins training autonomous forklift fleets for GXO, the world's largest pure-play contract logistics provider. The Mega Omniverse Blueprint underlying this work lets enterprises validate entire robot deployments in simulation before physical installation.
+
+Physical AI developers including FieldAI, Hexagon Robotics, Linker Vision, Milestone Systems, Skild AI, and Teradyne Robotics are already building on the new blueprint. The pitch is straightforward: real-world data doesn't scale. Simulation does.
+
+The second major release, the Omniverse DSX Blueprint, targets AI factory construction itself. Operators can now simulate thermals, power grids, network loads, and mechanical systems through a unified digital twin before installing a single rack.
+
+NVIDIA's pivot from selling chips to selling complete physical AI infrastructure represents a significant TAM expansion. The company isn't just powering training anymore—it's positioning to take a cut of every robot deployment, every warehouse optimization, every autonomous vehicle program.
+
+With Morningstar projecting a $1 trillion opportunity in agentic AI and the stock trading well below the revised $260 fair value estimate, the GTC announcements provide concrete evidence of enterprise adoption. The bearish technical pressure keeping shares suppressed may create an entry point for those betting on physical AI becoming the next major compute cycle.
+
+NVIDIA launches Physical AI Data Factory Blueprint and Omniverse DSX at GTC 2026, partnering with ABB, FANUC, and KUKA to scale robot deployments globally.
+
+NVIDIA dropped two major reference architectures at GTC 2026 last week, signaling the company's aggressive push to become the infrastructure backbone for physical AI deployment across manufacturing, logistics, and autonomous systems. The stock sits at $178.36, down 1.77% on the day, even as Morningstar raised its fair value estimate to $260 citing "agentic AI" potential.
+
+The Physical AI Data Factory Blueprint tackles what's become the real bottleneck in robotics development—not algorithms, but training data. Built on NVIDIA's Cosmos open world foundation models and the OSMO operator, the blueprint transforms raw compute into synthetic datasets that can simulate edge cases real-world data collection simply can't capture at scale.
+
+"In this new era, compute is data," said Rev Lebaredian, NVIDIA's VP of Omniverse and simulation technologies. Microsoft Azure and Nebius have already signed on as the first cloud platforms offering the blueprint.
+
+ABB Robotics, FANUC, KUKA, and Yaskawa—companies with a combined install base exceeding 2 million industrial robots globally—are integrating NVIDIA's Omniverse libraries and Isaac simulation frameworks. They've also embedded Jetson modules into their controllers for real-time AI inference. That's not a pilot program; that's infrastructure commitment.
+
+KION, working alongside Accenture and Siemens, demonstrated warehouse-scale digital twins training autonomous forklift fleets for GXO, the world's largest pure-play contract logistics provider. The Mega Omniverse Blueprint underlying this work lets enterprises validate entire robot deployments in simulation before physical installation.
+
+Physical AI developers including FieldAI, Hexagon Robotics, Linker Vision, Milestone Systems, Skild AI, and Teradyne Robotics are already building on the new blueprint. The pitch is straightforward: real-world data doesn't scale. Simulation does.
+
+The second major release, the Omniverse DSX Blueprint, targets AI factory construction itself. Operators can now simulate thermals, power grids, network loads, and mechanical systems through a unified digital twin before installing a single rack.
+
+NVIDIA's pivot from selling chips to selling complete physical AI infrastructure represents a significant TAM expansion. The company isn't just powering training anymore—it's positioning to take a cut of every robot deployment, every warehouse optimization, every autonomous vehicle program.
+
+With Morningstar projecting a $1 trillion opportunity in agentic AI and the stock trading well below the revised $260 fair value estimate, the GTC announcements provide concrete evidence of enterprise adoption. The bearish technical pressure keeping shares suppressed may create an entry point for those betting on physical AI becoming the next major compute cycle.
+Source: https://Blockchain.News/news/nvidia-gtc-2026-physical-ai-blueprints-omniverse]]></description>
+      <content:encoded><![CDATA[NVIDIA launches Physical AI Data Factory Blueprint and Omniverse DSX at GTC 2026, partnering with ABB, FANUC, and KUKA to scale robot deployments globally.
+
+NVIDIA dropped two major reference architectures at GTC 2026 last week, signaling the company's aggressive push to become the infrastructure backbone for physical AI deployment across manufacturing, logistics, and autonomous systems. The stock sits at $178.36, down 1.77% on the day, even as Morningstar raised its fair value estimate to $260 citing "agentic AI" potential.
+
+The Physical AI Data Factory Blueprint tackles what's become the real bottleneck in robotics development—not algorithms, but training data. Built on NVIDIA's Cosmos open world foundation models and the OSMO operator, the blueprint transforms raw compute into synthetic datasets that can simulate edge cases real-world data collection simply can't capture at scale.
+
+"In this new era, compute is data," said Rev Lebaredian, NVIDIA's VP of Omniverse and simulation technologies. Microsoft Azure and Nebius have already signed on as the first cloud platforms offering the blueprint.
+
+ABB Robotics, FANUC, KUKA, and Yaskawa—companies with a combined install base exceeding 2 million industrial robots globally—are integrating NVIDIA's Omniverse libraries and Isaac simulation frameworks. They've also embedded Jetson modules into their controllers for real-time AI inference. That's not a pilot program; that's infrastructure commitment.
+
+KION, working alongside Accenture and Siemens, demonstrated warehouse-scale digital twins training autonomous forklift fleets for GXO, the world's largest pure-play contract logistics provider. The Mega Omniverse Blueprint underlying this work lets enterprises validate entire robot deployments in simulation before physical installation.
+
+Physical AI developers including FieldAI, Hexagon Robotics, Linker Vision, Milestone Systems, Skild AI, and Teradyne Robotics are already building on the new blueprint. The pitch is straightforward: real-world data doesn't scale. Simulation does.
+
+The second major release, the Omniverse DSX Blueprint, targets AI factory construction itself. Operators can now simulate thermals, power grids, network loads, and mechanical systems through a unified digital twin before installing a single rack.
+
+NVIDIA's pivot from selling chips to selling complete physical AI infrastructure represents a significant TAM expansion. The company isn't just powering training anymore—it's positioning to take a cut of every robot deployment, every warehouse optimization, every autonomous vehicle program.
+
+With Morningstar projecting a $1 trillion opportunity in agentic AI and the stock trading well below the revised $260 fair value estimate, the GTC announcements provide concrete evidence of enterprise adoption. The bearish technical pressure keeping shares suppressed may create an entry point for those betting on physical AI becoming the next major compute cycle.
+
+NVIDIA launches Physical AI Data Factory Blueprint and Omniverse DSX at GTC 2026, partnering with ABB, FANUC, and KUKA to scale robot deployments globally.
+
+NVIDIA dropped two major reference architectures at GTC 2026 last week, signaling the company's aggressive push to become the infrastructure backbone for physical AI deployment across manufacturing, logistics, and autonomous systems. The stock sits at $178.36, down 1.77% on the day, even as Morningstar raised its fair value estimate to $260 citing "agentic AI" potential.
+
+The Physical AI Data Factory Blueprint tackles what's become the real bottleneck in robotics development—not algorithms, but training data. Built on NVIDIA's Cosmos open world foundation models and the OSMO operator, the blueprint transforms raw compute into synthetic datasets that can simulate edge cases real-world data collection simply can't capture at scale.
+
+"In this new era, compute is data," said Rev Lebaredian, NVIDIA's VP of Omniverse and simulation technologies. Microsoft Azure and Nebius have already signed on as the first cloud platforms offering the blueprint.
+
+ABB Robotics, FANUC, KUKA, and Yaskawa—companies with a combined install base exceeding 2 million industrial robots globally—are integrating NVIDIA's Omniverse libraries and Isaac simulation frameworks. They've also embedded Jetson modules into their controllers for real-time AI inference. That's not a pilot program; that's infrastructure commitment.
+
+KION, working alongside Accenture and Siemens, demonstrated warehouse-scale digital twins training autonomous forklift fleets for GXO, the world's largest pure-play contract logistics provider. The Mega Omniverse Blueprint underlying this work lets enterprises validate entire robot deployments in simulation before physical installation.
+
+Physical AI developers including FieldAI, Hexagon Robotics, Linker Vision, Milestone Systems, Skild AI, and Teradyne Robotics are already building on the new blueprint. The pitch is straightforward: real-world data doesn't scale. Simulation does.
+
+The second major release, the Omniverse DSX Blueprint, targets AI factory construction itself. Operators can now simulate thermals, power grids, network loads, and mechanical systems through a unified digital twin before installing a single rack.
+
+NVIDIA's pivot from selling chips to selling complete physical AI infrastructure represents a significant TAM expansion. The company isn't just powering training anymore—it's positioning to take a cut of every robot deployment, every warehouse optimization, every autonomous vehicle program.
+
+With Morningstar projecting a $1 trillion opportunity in agentic AI and the stock trading well below the revised $260 fair value estimate, the GTC announcements provide concrete evidence of enterprise adoption. The bearish technical pressure keeping shares suppressed may create an entry point for those betting on physical AI becoming the next major compute cycle.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-d6714f3103c649b15b35f38d961082019bc9ad59</guid>
+      <title>LangChain Reveals Deep Agents Eval Framework for AI Accuracy | LangChain open-sources evaluation methodology for Deep Agents, emphasizing targeted testi... https://Blockchain.News/news/langchain-deep-agents-eval-framework-ai-accuracy</title>
+      <link>https://Blockchain.News/news/langchain-deep-agents-eval-framework-ai-accuracy</link>
+      <pubDate>Thu, 26 Mar 2026 15:54:41 GMT</pubDate>
+      <description><![CDATA[Original title: LangChain Reveals Deep Agents Eval Framework for AI Accuracy
+Summary: LangChain open-sources evaluation methodology for Deep Agents, emphasizing targeted testing over volume to improve AI agent reliability in production.
+Article text: LangChain open-sources evaluation methodology for Deep Agents, emphasizing targeted testing over volume to improve AI agent reliability in production.
+
+LangChain has published its internal methodology for evaluating AI agents, arguing that the industry's obsession with massive test suites is fundamentally misguided. The company's approach, detailed in a March 2026 blog post, centers on a counterintuitive principle: more evaluations don't make better agents.
+
+"Every eval is a vector that shifts the behavior of your agentic system," the LangChain team wrote. The implication? Blindly stacking hundreds of tests creates what they call an "illusion of improvement" while potentially degrading real-world performance.
+
+Deep Agents, LangChain's open-source agent harness, powers both Fleet and Open SWE—their background coding agent now handling a "large fraction" of internal bug-fix PRs. The evaluation framework breaks agent capabilities into six distinct categories: file operations, retrieval, tool use, memory, conversation handling, and summarization.
+
+What makes this interesting is the sourcing. Rather than relying solely on synthetic benchmarks, LangChain pulls evaluation data from three channels: daily dogfooding of their own agents, selected tasks from external benchmarks like Terminal Bench 2.0 and Berkeley's BFCL, and hand-crafted tests targeting specific behaviors.
+
+Every agent interaction gets traced to LangSmith, their observability platform. When something breaks, that failure becomes a new eval—a feedback loop that continuously tightens the system.
+
+The team measures five core metrics per evaluation run: correctness, step ratio, tool call ratio, latency ratio, and solve rate. The last metric—solve rate—captures how quickly an agent progresses through expected steps, scoring zero if the task fails entirely.
+
+Consider their example: a simple query asking for current time and weather. The ideal trajectory hits four steps, four tool calls, roughly eight seconds. An inefficient but technically correct run might balloon to six steps, five tool calls, and fourteen seconds. Both pass correctness checks. Only one ships to production.
+
+This efficiency obsession has practical roots. "Two models that solve the same task can behave very differently in practice," the team noted. Extra turns and unnecessary tool calls translate directly to higher latency, higher costs, and degraded user experience.
+
+The entire evaluation architecture lives in LangChain's Deep Agents repository on GitHub. Teams can run targeted eval subsets using pytest tags—useful for cost control when you only care about specific capabilities like file operations.
+
+LangChain teased upcoming work comparing open-source LLMs against closed frontier models across their eval categories. They're also exploring evals as a mechanism for real-time agent self-improvement—a development worth watching for anyone building production AI systems.
+
+The broader message cuts against the benchmark-maximizing culture that dominates AI development. Sometimes the agent that scores 95% on a thousand tests performs worse than one scoring 90% on fifty carefully chosen ones. Knowing which fifty matters more than hitting arbitrary coverage numbers.
+
+LangChain open-sources evaluation methodology for Deep Agents, emphasizing targeted testing over volume to improve AI agent reliability in production.
+
+LangChain has published its internal methodology for evaluating AI agents, arguing that the industry's obsession with massive test suites is fundamentally misguided. The company's approach, detailed in a March 2026 blog post, centers on a counterintuitive principle: more evaluations don't make better agents.
+
+"Every eval is a vector that shifts the behavior of your agentic system," the LangChain team wrote. The implication? Blindly stacking hundreds of tests creates what they call an "illusion of improvement" while potentially degrading real-world performance.
+
+Deep Agents, LangChain's open-source agent harness, powers both Fleet and Open SWE—their background coding agent now handling a "large fraction" of internal bug-fix PRs. The evaluation framework breaks agent capabilities into six distinct categories: file operations, retrieval, tool use, memory, conversation handling, and summarization.
+
+What makes this interesting is the sourcing. Rather than relying solely on synthetic benchmarks, LangChain pulls evaluation data from three channels: daily dogfooding of their own agents, selected tasks from external benchmarks like Terminal Bench 2.0 and Berkeley's BFCL, and hand-crafted tests targeting specific behaviors.
+
+Every agent interaction gets traced to LangSmith, their observability platform. When something breaks, that failure becomes a new eval—a feedback loop that continuously tightens the system.
+
+The team measures five core metrics per evaluation run: correctness, step ratio, tool call ratio, latency ratio, and solve rate. The last metric—solve rate—captures how quickly an agent progresses through expected steps, scoring zero if the task fails entirely.
+
+Consider their example: a simple query asking for current time and weather. The ideal trajectory hits four steps, four tool calls, roughly eight seconds. An inefficient but technically correct run might balloon to six steps, five tool calls, and fourteen seconds. Both pass correctness checks. Only one ships to production.
+Source: https://Blockchain.News/news/langchain-deep-agents-eval-framework-ai-accuracy]]></description>
+      <content:encoded><![CDATA[LangChain open-sources evaluation methodology for Deep Agents, emphasizing targeted testing over volume to improve AI agent reliability in production.
+
+LangChain has published its internal methodology for evaluating AI agents, arguing that the industry's obsession with massive test suites is fundamentally misguided. The company's approach, detailed in a March 2026 blog post, centers on a counterintuitive principle: more evaluations don't make better agents.
+
+"Every eval is a vector that shifts the behavior of your agentic system," the LangChain team wrote. The implication? Blindly stacking hundreds of tests creates what they call an "illusion of improvement" while potentially degrading real-world performance.
+
+Deep Agents, LangChain's open-source agent harness, powers both Fleet and Open SWE—their background coding agent now handling a "large fraction" of internal bug-fix PRs. The evaluation framework breaks agent capabilities into six distinct categories: file operations, retrieval, tool use, memory, conversation handling, and summarization.
+
+What makes this interesting is the sourcing. Rather than relying solely on synthetic benchmarks, LangChain pulls evaluation data from three channels: daily dogfooding of their own agents, selected tasks from external benchmarks like Terminal Bench 2.0 and Berkeley's BFCL, and hand-crafted tests targeting specific behaviors.
+
+Every agent interaction gets traced to LangSmith, their observability platform. When something breaks, that failure becomes a new eval—a feedback loop that continuously tightens the system.
+
+The team measures five core metrics per evaluation run: correctness, step ratio, tool call ratio, latency ratio, and solve rate. The last metric—solve rate—captures how quickly an agent progresses through expected steps, scoring zero if the task fails entirely.
+
+Consider their example: a simple query asking for current time and weather. The ideal trajectory hits four steps, four tool calls, roughly eight seconds. An inefficient but technically correct run might balloon to six steps, five tool calls, and fourteen seconds. Both pass correctness checks. Only one ships to production.
+
+This efficiency obsession has practical roots. "Two models that solve the same task can behave very differently in practice," the team noted. Extra turns and unnecessary tool calls translate directly to higher latency, higher costs, and degraded user experience.
+
+The entire evaluation architecture lives in LangChain's Deep Agents repository on GitHub. Teams can run targeted eval subsets using pytest tags—useful for cost control when you only care about specific capabilities like file operations.
+
+LangChain teased upcoming work comparing open-source LLMs against closed frontier models across their eval categories. They're also exploring evals as a mechanism for real-time agent self-improvement—a development worth watching for anyone building production AI systems.
+
+The broader message cuts against the benchmark-maximizing culture that dominates AI development. Sometimes the agent that scores 95% on a thousand tests performs worse than one scoring 90% on fifty carefully chosen ones. Knowing which fifty matters more than hitting arbitrary coverage numbers.
+
+LangChain open-sources evaluation methodology for Deep Agents, emphasizing targeted testing over volume to improve AI agent reliability in production.
+
+LangChain has published its internal methodology for evaluating AI agents, arguing that the industry's obsession with massive test suites is fundamentally misguided. The company's approach, detailed in a March 2026 blog post, centers on a counterintuitive principle: more evaluations don't make better agents.
+
+"Every eval is a vector that shifts the behavior of your agentic system," the LangChain team wrote. The implication? Blindly stacking hundreds of tests creates what they call an "illusion of improvement" while potentially degrading real-world performance.
+
+Deep Agents, LangChain's open-source agent harness, powers both Fleet and Open SWE—their background coding agent now handling a "large fraction" of internal bug-fix PRs. The evaluation framework breaks agent capabilities into six distinct categories: file operations, retrieval, tool use, memory, conversation handling, and summarization.
+
+What makes this interesting is the sourcing. Rather than relying solely on synthetic benchmarks, LangChain pulls evaluation data from three channels: daily dogfooding of their own agents, selected tasks from external benchmarks like Terminal Bench 2.0 and Berkeley's BFCL, and hand-crafted tests targeting specific behaviors.
+
+Every agent interaction gets traced to LangSmith, their observability platform. When something breaks, that failure becomes a new eval—a feedback loop that continuously tightens the system.
+
+The team measures five core metrics per evaluation run: correctness, step ratio, tool call ratio, latency ratio, and solve rate. The last metric—solve rate—captures how quickly an agent progresses through expected steps, scoring zero if the task fails entirely.
+
+Consider their example: a simple query asking for current time and weather. The ideal trajectory hits four steps, four tool calls, roughly eight seconds. An inefficient but technically correct run might balloon to six steps, five tool calls, and fourteen seconds. Both pass correctness checks. Only one ships to production.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-56f167fdfacebeb590c05a43e456d520133b6151</guid>
+      <title>LangChain Unveils Agent Middleware for Custom AI Harness Development | LangChain introduces AgentMiddleware system enabling developers to customize AI agent beh... https://Blockchain.News/news/langchain-agent-middleware-custom-harness-development</title>
+      <link>https://Blockchain.News/news/langchain-agent-middleware-custom-harness-development</link>
+      <pubDate>Thu, 26 Mar 2026 15:31:00 GMT</pubDate>
+      <description><![CDATA[Original title: LangChain Unveils Agent Middleware for Custom AI Harness Development
+Summary: LangChain introduces AgentMiddleware system enabling developers to customize AI agent behavior with hooks for PII detection, dynamic tool selection, and production-ready features.
+Article text: LangChain introduces AgentMiddleware system enabling developers to customize AI agent behavior with hooks for PII detection, dynamic tool selection, and production-ready features.
+
+LangChain has released a comprehensive middleware system that lets developers customize AI agent behavior without rebuilding core infrastructure from scratch. The framework, detailed in a March 26, 2026 blog post, introduces six distinct hooks that intercept and modify agent execution at every stage of the loop.
+
+The middleware architecture addresses a persistent pain point in agent development: the gap between demo-ready prototypes and production systems. While basic customization like swapping system prompts or adding tools has always been straightforward, modifying the fundamental agent loop—what happens before model calls, how tools execute, when humans intervene—required extensive custom code.
+
+AgentMiddleware exposes six intervention points. before_agent fires once at invocation for loading memory or validating inputs. before_model runs before each LLM call, useful for trimming history or catching sensitive data. wrap_model_call handles caching, retries, and dynamic tool binding. wrap_tool_call does the same for tool execution. after_model slots in human-in-the-loop workflows. after_agent handles cleanup and notifications.
+
+These middlewares stack. Developers can layer multiple modifications without conflicts.
+
+LangChain ships prebuilt middleware for patterns that keep appearing across production deployments. PIIMiddleware implements before_model and after_model hooks to mask, redact, or hash personally identifiable information—critical for HIPAA compliance where you can't simply prompt your way to legal safety.
+
+LLMToolSelectorMiddleware tackles context bloat by running a fast model to identify relevant tools from a registry before the main call, binding only what's needed. SummarizationMiddleware prevents context overflow by compressing message history when token counts climb too high.
+
+ModelRetryMiddleware wraps API calls with configurable retry logic—retry counts, backoff factors, initial delays for rate limiting. ShellToolMiddleware handles resource initialization and teardown around agent loops.
+
+LangChain built Deep Agents entirely on this middleware stack to validate the architecture. The agent harness runs on create_agent, LangChain's standard entry point, with specialized middleware layered on top: FilesystemMiddleware for file-based context management, SubagentMiddleware for context-isolated subagents, SkillsMiddleware for progressive capability disclosure.
+
+The approach lets teams own different concerns independently. Business logic stays decoupled from core agent code. Reusable middleware can spread across organizations without tight coupling.
+
+LangChain acknowledges that improving model capabilities will eventually absorb some current middleware functions—summarization, tool selection, output trimming might move into models themselves. But deterministic policy enforcement, production guardrails, and business-specific logic won't migrate. Those stay in the harness layer.
+
+Developers can start with create_agent for minimal setups or create_deep_agent for more robust foundations. Custom middleware contributions are accepted through LangChain's integration documentation.
+
+LangChain introduces AgentMiddleware system enabling developers to customize AI agent behavior with hooks for PII detection, dynamic tool selection, and production-ready features.
+
+LangChain has released a comprehensive middleware system that lets developers customize AI agent behavior without rebuilding core infrastructure from scratch. The framework, detailed in a March 26, 2026 blog post, introduces six distinct hooks that intercept and modify agent execution at every stage of the loop.
+
+The middleware architecture addresses a persistent pain point in agent development: the gap between demo-ready prototypes and production systems. While basic customization like swapping system prompts or adding tools has always been straightforward, modifying the fundamental agent loop—what happens before model calls, how tools execute, when humans intervene—required extensive custom code.
+
+AgentMiddleware exposes six intervention points. before_agent fires once at invocation for loading memory or validating inputs. before_model runs before each LLM call, useful for trimming history or catching sensitive data. wrap_model_call handles caching, retries, and dynamic tool binding. wrap_tool_call does the same for tool execution. after_model slots in human-in-the-loop workflows. after_agent handles cleanup and notifications.
+
+These middlewares stack. Developers can layer multiple modifications without conflicts.
+
+LangChain ships prebuilt middleware for patterns that keep appearing across production deployments. PIIMiddleware implements before_model and after_model hooks to mask, redact, or hash personally identifiable information—critical for HIPAA compliance where you can't simply prompt your way to legal safety.
+
+LLMToolSelectorMiddleware tackles context bloat by running a fast model to identify relevant tools from a registry before the main call, binding only what's needed. SummarizationMiddleware prevents context overflow by compressing message history when token counts climb too high.
+
+ModelRetryMiddleware wraps API calls with configurable retry logic—retry counts, backoff factors, initial delays for rate limiting. ShellToolMiddleware handles resource initialization and teardown around agent loops.
+Source: https://Blockchain.News/news/langchain-agent-middleware-custom-harness-development]]></description>
+      <content:encoded><![CDATA[LangChain introduces AgentMiddleware system enabling developers to customize AI agent behavior with hooks for PII detection, dynamic tool selection, and production-ready features.
+
+LangChain has released a comprehensive middleware system that lets developers customize AI agent behavior without rebuilding core infrastructure from scratch. The framework, detailed in a March 26, 2026 blog post, introduces six distinct hooks that intercept and modify agent execution at every stage of the loop.
+
+The middleware architecture addresses a persistent pain point in agent development: the gap between demo-ready prototypes and production systems. While basic customization like swapping system prompts or adding tools has always been straightforward, modifying the fundamental agent loop—what happens before model calls, how tools execute, when humans intervene—required extensive custom code.
+
+AgentMiddleware exposes six intervention points. before_agent fires once at invocation for loading memory or validating inputs. before_model runs before each LLM call, useful for trimming history or catching sensitive data. wrap_model_call handles caching, retries, and dynamic tool binding. wrap_tool_call does the same for tool execution. after_model slots in human-in-the-loop workflows. after_agent handles cleanup and notifications.
+
+These middlewares stack. Developers can layer multiple modifications without conflicts.
+
+LangChain ships prebuilt middleware for patterns that keep appearing across production deployments. PIIMiddleware implements before_model and after_model hooks to mask, redact, or hash personally identifiable information—critical for HIPAA compliance where you can't simply prompt your way to legal safety.
+
+LLMToolSelectorMiddleware tackles context bloat by running a fast model to identify relevant tools from a registry before the main call, binding only what's needed. SummarizationMiddleware prevents context overflow by compressing message history when token counts climb too high.
+
+ModelRetryMiddleware wraps API calls with configurable retry logic—retry counts, backoff factors, initial delays for rate limiting. ShellToolMiddleware handles resource initialization and teardown around agent loops.
+
+LangChain built Deep Agents entirely on this middleware stack to validate the architecture. The agent harness runs on create_agent, LangChain's standard entry point, with specialized middleware layered on top: FilesystemMiddleware for file-based context management, SubagentMiddleware for context-isolated subagents, SkillsMiddleware for progressive capability disclosure.
+
+The approach lets teams own different concerns independently. Business logic stays decoupled from core agent code. Reusable middleware can spread across organizations without tight coupling.
+
+LangChain acknowledges that improving model capabilities will eventually absorb some current middleware functions—summarization, tool selection, output trimming might move into models themselves. But deterministic policy enforcement, production guardrails, and business-specific logic won't migrate. Those stay in the harness layer.
+
+Developers can start with create_agent for minimal setups or create_deep_agent for more robust foundations. Custom middleware contributions are accepted through LangChain's integration documentation.
+
+LangChain introduces AgentMiddleware system enabling developers to customize AI agent behavior with hooks for PII detection, dynamic tool selection, and production-ready features.
+
+LangChain has released a comprehensive middleware system that lets developers customize AI agent behavior without rebuilding core infrastructure from scratch. The framework, detailed in a March 26, 2026 blog post, introduces six distinct hooks that intercept and modify agent execution at every stage of the loop.
+
+The middleware architecture addresses a persistent pain point in agent development: the gap between demo-ready prototypes and production systems. While basic customization like swapping system prompts or adding tools has always been straightforward, modifying the fundamental agent loop—what happens before model calls, how tools execute, when humans intervene—required extensive custom code.
+
+AgentMiddleware exposes six intervention points. before_agent fires once at invocation for loading memory or validating inputs. before_model runs before each LLM call, useful for trimming history or catching sensitive data. wrap_model_call handles caching, retries, and dynamic tool binding. wrap_tool_call does the same for tool execution. after_model slots in human-in-the-loop workflows. after_agent handles cleanup and notifications.
+
+These middlewares stack. Developers can layer multiple modifications without conflicts.
+
+LangChain ships prebuilt middleware for patterns that keep appearing across production deployments. PIIMiddleware implements before_model and after_model hooks to mask, redact, or hash personally identifiable information—critical for HIPAA compliance where you can't simply prompt your way to legal safety.
+
+LLMToolSelectorMiddleware tackles context bloat by running a fast model to identify relevant tools from a registry before the main call, binding only what's needed. SummarizationMiddleware prevents context overflow by compressing message history when token counts climb too high.
+
+ModelRetryMiddleware wraps API calls with configurable retry logic—retry counts, backoff factors, initial delays for rate limiting. ShellToolMiddleware handles resource initialization and teardown around agent loops.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-d7e2b99c10dc8f75905a46eab477e6d9110d7d3c</guid>
       <title>Tether Secures Big Four Audit in Historic First for $184B Stablecoin | Tether engages Big Four accounting firm for its first full independent audit, moving beyo... https://Blockchain.News/news/tether-big-four-audit-usdt-stablecoin</title>
@@ -2329,251 +2590,6 @@ Binance ran 21 Launchpool events in 2024, distributing over $1.75 billion in tok
 Layer in the MegaDrop and HODLer Airdrop programs—which delivered a combined 19.7% yield—and total additional earnings hit approximately $226 per BNB held. That's passive income without selling your underlying position.
 
 What makes this setup interesting for traders is the low-friction compounding loop. Launchpool doesn't require buying new tokens outright—you farm them while maintaining BNB exposure. The more aggressive strategy: convert airdropped tokens back into BNB, increasing your principal for future reward distributions.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-e03efe7b4d9880bf4ca83cd387bfe4cb41877ada</guid>
-      <title>A Taxonomy of Moving Average Interactions - The Essential Nature and Application of Technical Indicators as M... | Technical analysis in speculative markets has long suffered two symmetrical misunderstand... https://Blockchain.News/news/a-taxonomy-of-moving-a...</title>
-      <link>https://Blockchain.News/news/a-taxonomy-of-moving-average-interactions-the-essential-nature-and-application-of-technical-indicators-as-market-state-evaluation-systems</link>
-      <pubDate>Wed, 25 Mar 2026 01:43:22 GMT</pubDate>
-      <description><![CDATA[Original title: A Taxonomy of Moving Average Interactions - The Essential Nature and Application of Technical Indicators as Market State Evaluation Systems
-Summary: Technical analysis in speculative markets has long suffered two symmetrical misunderstandings: blind devotees treat it as a prophetic tool, while fierce detractors dismiss it as pseudoscience. Both
-Article text: Technical analysis in speculative markets has long suffered two symmetrical misunderstandings: blind devotees treat it as a prophetic tool, while fierce detractors dismiss it as pseudoscience. Both positions share a fundamental misidentification of the core function of technical analysis. This essay demonstrates that the essential nature of technical indicators is that of a complete classification tool for market states. Using the moving average system as the primary example, it establishes a three-tier taxonomy of moving average interactions — skim, touch, and intertwine — derives their structural connections to trend continuation and trend reversal, and provides a systematic observational framework for the micro-level analytical work that follows.
-
-The preceding essays established the fundamental epistemological framework for speculative market operations: preference does not participate in decision-making; all judgment rests on examination. In the concrete execution of examination, technical analysis constitutes a core tool within one of three independent screening systems. However, for technical analysis to fulfill its proper role within this framework, its essential function must first be accurately defined, because nearly all users of technical analysis harbor a fundamental misconception about what that function is.
-
-The typical reasoning of the vast majority of technically-oriented market participants proceeds as follows: a certain technical indicator has issued a buy signal, therefore the market will rise, therefore one should buy. Embedded within this chain of reasoning is a fatal presupposition — the technical indicator is endowed with prophetic power, as though it were capable of communicating the future direction of price movement. It is precisely this presupposition that causes nearly all pure technicians to demonstrate astonishing precision in hindsight review while repeatedly falling into failure during actual operations. The precision of hindsight review is an illusion: once a price movement is complete, any technical indicator can be matched against the known outcome, thereby projecting a false appearance of predictive power. Yet in the real-time state where price movement is still unfolding, the same signal may lead to entirely different outcomes under different market conditions, and a prophetic interpretation possesses no capacity whatsoever to deal with this reality.
-
-The true core function of technical analysis is classification. Any technical indicator is, in essence, a device that performs a complete classification of all possible market states and then labels them: under the perspective of this particular indicator, which states belong to the actionable category and which belong to the non-actionable category. Classification itself contains no prophecy about future direction. It merely states that when the market occupies a certain class of states, the probability distribution of historical outcomes favors certain subsequent evolutions over others, and therefore entry during this class of states carries positive expected value. Whether the market in this specific instance actually evolves in the high-probability direction is something classification does not and cannot guarantee.
-
-Once this is understood, technical indicators return from pseudo-oracle to their true identity — classification tools. The value of a classification tool does not lie in every individual classification leading to a correct outcome, but in the cumulative effect of correct classifications producing a statistical edge over a large number of repeated applications. This aligns perfectly with the principle established earlier — "only engage what can be engaged." The classification function of technical indicators is precisely the concrete technical implementation of examination: it informs the operator, through systematic procedure, whether the current market state belongs to the engageable classification.
-
-Among the many families of technical indicators, the moving average system is the most fundamental, most intuitive, and simultaneously most practical evaluation system. An evaluation system, as the term is used here, refers to a framework capable of rendering judgments about the relative strength or weakness of a subject under a defined standard. The moving average system's subject is price action, and its standard is the average price level over different time periods.
-
-Consider the simplest case: when price stands above the 5-day moving average, the current price action is judged as strong under the evaluation standard of the 5-day average — meaning the aggregate market force over the most recent five trading days is directionally upward, and current price resides above this aggregate. However, at the same moment, price may reside below the 20-day moving average, which means that under the evaluation standard of the 20-day average, the current price action is judged as weak — although the most recent 5-day direction is upward, expanding the horizon to 20 days reveals that the aggregate market force remains directionally downward, and current price has not yet broken through this longer-period suppression.
-
-Here arises a problem that is intractable for the prophetic understanding of technical analysis: the same price state produces opposite strength-weakness judgments under different evaluation standards. Which one should be followed? Under a prophetic interpretation, this contradiction is irresolvable, because two indicators have issued contradictory "prophecies," leaving the operator paralyzed. But from the classification perspective, this does not constitute a contradiction at all: moving averages of different periods correspond to classifications at different operational scales. The strong judgment above the 5-day average applies to ultra-short-term classification with intraday or next-day operational horizons; the strength-weakness judgment of the 20-day average applies to short-to-medium-term classification with multi-week operational horizons. Each evaluation standard is independently valid at its corresponding operational scale, and no reconciliation between them is required.
-
-This yields a critically important practical premise: the parameter selection for any moving average system must first be grounded in the operator's actual capital size and operational time horizon. Divorced from this premise, all discussion of parameter superiority loses meaning. For ultra-short-term operators capable of executing intraday round-trip trades, short-period moving average strength on a 1-minute chart may suffice as an entry basis. For institutional operators managing large-scale capital, even daily-chart short-period moving average strength may lack sufficient operational value, because the entry and exit of large capital requires adequate market depth, and such depth can only be assured within trend confirmations at larger scales. Once the internal logic of the moving average system as an evaluation system is grasped, the specific selection of parameters can be flexibly adjusted according to individual circumstances — the underlying principle remains uniform.
-
-The analytical value of the moving average system resides not only in the relationship between individual averages and price, but more importantly in the relationships among averages of different periods. Within a system composed of short-term, medium-term, and long-term moving averages, the relative positional relationships among the averages determine the overall structural state of the market. When the short-term average lies above the medium-term, and the medium-term lies above the long-term, the system is in bullish alignment — the basic structural signature of a systematic bull market. The reverse constitutes bearish alignment — the basic structural signature of a systematic bear market. The precondition for extracting profit is participation in the upward phases of bullish alignment. This is the most fundamental guidance the moving average system provides at the macro level.
-
-Beneath this macro structure, the interactive behaviors among moving averages require finer examination. Treating the short-term average as the fast variable and the long-term average as the slow variable, every instance of approach, contact, or crossing between them constitutes an informational event regarding trend state. Based on the depth and manner of interaction, all moving average interactive behaviors can be subjected to a complete three-tier classification.
-
-The first tier of interaction is termed the skim. Its manifestation is as follows: during its course, the short-term average briefly flattens or undergoes a minor retracement toward the long-term average, but resumes its original trend direction before making substantive contact. The appearance of a skim indicates that the prevailing trend has regained propulsive force after a brief attenuation of momentum, with the fundamental structure of the trend facing no substantive challenge. Skims typically occur during phases when the trend is running with exceptional strength — precisely because trend force is powerful, the short-term average's reversion amplitude is extremely limited, pulled back by trend force before it can even reach the long-term average. However, because a skim also implies that trend momentum is in an extreme state, and no extreme state is sustainable over time, skims are frequently followed by adjustments or oscillations of greater magnitude.
-
-The second tier of interaction is termed the touch. Its manifestation: the short-term average travels to the vicinity of the long-term average, the distance between them narrows to near-contact or brief contact, but the short-term average does not substantively break below (in bullish alignment) or above (in bearish alignment) the long-term average, and subsequently resumes its original trend direction. The touch is the most commonly observed form of moving average interaction during any sustained trend. In bearish alignment, the touch is virtually the standard termination pattern for rally phases — the short-term average rises toward the long-term average during a rally, contacts it, is repelled by bearish trend force, and the rally ends. In bullish alignment, the touch typically signals that an adjustment is nearing completion — the short-term average declines toward the long-term average during a pullback, contacts it, is pulled back upward by bullish trend force, and a new advancing phase commences. However, when encountering a touch in bullish alignment, one must maintain alertness to the possibility that the touch may deepen into the third tier of interaction; should it do so, the operator must transition to the response strategy appropriate for the third tier, guided by program rather than assumption.
-
-The third tier of interaction is termed the intertwine. Its manifestation: the short-term average breaks below or above the long-term average and, following the break, does not quickly separate but instead repeatedly crosses and weaves around the long-term average, producing a complex entangled configuration. The appearance of an intertwine signifies that short-term trend force and long-term trend force have entered a zone of equilibrium, where the inertia of the prevailing trend and the emergence of a new directional impulse are engaged in intense opposition, and the moving average system loses its clear directional guidance within this zone. Intertwines typically arise in two scenarios: the first is a relatively deep medium-term correction within a larger-scale ongoing trend; the second is when the trend itself is gestating a major directional reversal.
-
-Among the three tiers of the interaction taxonomy, the structural linkage between intertwining and trend reversal is the most operationally decisive cognition.
-
-Virtually all major trend reversals are preceded by intertwining at the moving average level. The int...
-Source: https://Blockchain.News/news/a-taxonomy-of-moving-average-interactions-the-essential-nature-and-application-of-technical-indicators-as-market-state-evaluation-systems]]></description>
-      <content:encoded><![CDATA[Technical analysis in speculative markets has long suffered two symmetrical misunderstandings: blind devotees treat it as a prophetic tool, while fierce detractors dismiss it as pseudoscience. Both positions share a fundamental misidentification of the core function of technical analysis. This essay demonstrates that the essential nature of technical indicators is that of a complete classification tool for market states. Using the moving average system as the primary example, it establishes a three-tier taxonomy of moving average interactions — skim, touch, and intertwine — derives their structural connections to trend continuation and trend reversal, and provides a systematic observational framework for the micro-level analytical work that follows.
-
-The preceding essays established the fundamental epistemological framework for speculative market operations: preference does not participate in decision-making; all judgment rests on examination. In the concrete execution of examination, technical analysis constitutes a core tool within one of three independent screening systems. However, for technical analysis to fulfill its proper role within this framework, its essential function must first be accurately defined, because nearly all users of technical analysis harbor a fundamental misconception about what that function is.
-
-The typical reasoning of the vast majority of technically-oriented market participants proceeds as follows: a certain technical indicator has issued a buy signal, therefore the market will rise, therefore one should buy. Embedded within this chain of reasoning is a fatal presupposition — the technical indicator is endowed with prophetic power, as though it were capable of communicating the future direction of price movement. It is precisely this presupposition that causes nearly all pure technicians to demonstrate astonishing precision in hindsight review while repeatedly falling into failure during actual operations. The precision of hindsight review is an illusion: once a price movement is complete, any technical indicator can be matched against the known outcome, thereby projecting a false appearance of predictive power. Yet in the real-time state where price movement is still unfolding, the same signal may lead to entirely different outcomes under different market conditions, and a prophetic interpretation possesses no capacity whatsoever to deal with this reality.
-
-The true core function of technical analysis is classification. Any technical indicator is, in essence, a device that performs a complete classification of all possible market states and then labels them: under the perspective of this particular indicator, which states belong to the actionable category and which belong to the non-actionable category. Classification itself contains no prophecy about future direction. It merely states that when the market occupies a certain class of states, the probability distribution of historical outcomes favors certain subsequent evolutions over others, and therefore entry during this class of states carries positive expected value. Whether the market in this specific instance actually evolves in the high-probability direction is something classification does not and cannot guarantee.
-
-Once this is understood, technical indicators return from pseudo-oracle to their true identity — classification tools. The value of a classification tool does not lie in every individual classification leading to a correct outcome, but in the cumulative effect of correct classifications producing a statistical edge over a large number of repeated applications. This aligns perfectly with the principle established earlier — "only engage what can be engaged." The classification function of technical indicators is precisely the concrete technical implementation of examination: it informs the operator, through systematic procedure, whether the current market state belongs to the engageable classification.
-
-Among the many families of technical indicators, the moving average system is the most fundamental, most intuitive, and simultaneously most practical evaluation system. An evaluation system, as the term is used here, refers to a framework capable of rendering judgments about the relative strength or weakness of a subject under a defined standard. The moving average system's subject is price action, and its standard is the average price level over different time periods.
-
-Consider the simplest case: when price stands above the 5-day moving average, the current price action is judged as strong under the evaluation standard of the 5-day average — meaning the aggregate market force over the most recent five trading days is directionally upward, and current price resides above this aggregate. However, at the same moment, price may reside below the 20-day moving average, which means that under the evaluation standard of the 20-day average, the current price action is judged as weak — although the most recent 5-day direction is upward, expanding the horizon to 20 days reveals that the aggregate market force remains directionally downward, and current price has not yet broken through this longer-period suppression.
-
-Here arises a problem that is intractable for the prophetic understanding of technical analysis: the same price state produces opposite strength-weakness judgments under different evaluation standards. Which one should be followed? Under a prophetic interpretation, this contradiction is irresolvable, because two indicators have issued contradictory "prophecies," leaving the operator paralyzed. But from the classification perspective, this does not constitute a contradiction at all: moving averages of different periods correspond to classifications at different operational scales. The strong judgment above the 5-day average applies to ultra-short-term classification with intraday or next-day operational horizons; the strength-weakness judgment of the 20-day average applies to short-to-medium-term classification with multi-week operational horizons. Each evaluation standard is independently valid at its corresponding operational scale, and no reconciliation between them is required.
-
-This yields a critically important practical premise: the parameter selection for any moving average system must first be grounded in the operator's actual capital size and operational time horizon. Divorced from this premise, all discussion of parameter superiority loses meaning. For ultra-short-term operators capable of executing intraday round-trip trades, short-period moving average strength on a 1-minute chart may suffice as an entry basis. For institutional operators managing large-scale capital, even daily-chart short-period moving average strength may lack sufficient operational value, because the entry and exit of large capital requires adequate market depth, and such depth can only be assured within trend confirmations at larger scales. Once the internal logic of the moving average system as an evaluation system is grasped, the specific selection of parameters can be flexibly adjusted according to individual circumstances — the underlying principle remains uniform.
-
-The analytical value of the moving average system resides not only in the relationship between individual averages and price, but more importantly in the relationships among averages of different periods. Within a system composed of short-term, medium-term, and long-term moving averages, the relative positional relationships among the averages determine the overall structural state of the market. When the short-term average lies above the medium-term, and the medium-term lies above the long-term, the system is in bullish alignment — the basic structural signature of a systematic bull market. The reverse constitutes bearish alignment — the basic structural signature of a systematic bear market. The precondition for extracting profit is participation in the upward phases of bullish alignment. This is the most fundamental guidance the moving average system provides at the macro level.
-
-Beneath this macro structure, the interactive behaviors among moving averages require finer examination. Treating the short-term average as the fast variable and the long-term average as the slow variable, every instance of approach, contact, or crossing between them constitutes an informational event regarding trend state. Based on the depth and manner of interaction, all moving average interactive behaviors can be subjected to a complete three-tier classification.
-
-The first tier of interaction is termed the skim. Its manifestation is as follows: during its course, the short-term average briefly flattens or undergoes a minor retracement toward the long-term average, but resumes its original trend direction before making substantive contact. The appearance of a skim indicates that the prevailing trend has regained propulsive force after a brief attenuation of momentum, with the fundamental structure of the trend facing no substantive challenge. Skims typically occur during phases when the trend is running with exceptional strength — precisely because trend force is powerful, the short-term average's reversion amplitude is extremely limited, pulled back by trend force before it can even reach the long-term average. However, because a skim also implies that trend momentum is in an extreme state, and no extreme state is sustainable over time, skims are frequently followed by adjustments or oscillations of greater magnitude.
-
-The second tier of interaction is termed the touch. Its manifestation: the short-term average travels to the vicinity of the long-term average, the distance between them narrows to near-contact or brief contact, but the short-term average does not substantively break below (in bullish alignment) or above (in bearish alignment) the long-term average, and subsequently resumes its original trend direction. The touch is the most commonly observed form of moving average interaction during any sustained trend. In bearish alignment, the touch is virtually the standard termination pattern for rally phases — the short-term average rises toward the long-term average during a rally, contacts it, is repelled by bearish trend force, and the rally ends. In bullish alignment, the touch typically signals that an adjustment is nearing completion — the short-term average declines toward the long-term average during a pullback, contacts it, is pulled back upward by bullish trend force, and a new advancing phase commences. However, when encountering a touch in bullish alignment, one must maintain alertness to the possibility that the touch may deepen into the third tier of interaction; should it do so, the operator must transition to the response strategy appropriate for the third tier, guided by program rather than assumption.
-
-The third tier of interaction is termed the intertwine. Its manifestation: the short-term average breaks below or above the long-term average and, following the break, does not quickly separate but instead repeatedly crosses and weaves around the long-term average, producing a complex entangled configuration. The appearance of an intertwine signifies that short-term trend force and long-term trend force have entered a zone of equilibrium, where the inertia of the prevailing trend and the emergence of a new directional impulse are engaged in intense opposition, and the moving average system loses its clear directional guidance within this zone. Intertwines typically arise in two scenarios: the first is a relatively deep medium-term correction within a larger-scale ongoing trend; the second is when the trend itself is gestating a major directional reversal.
-
-Among the three tiers of the interaction taxonomy, the structural linkage between intertwining and trend reversal is the most operationally decisive cognition.
-
-Virtually all major trend reversals are preceded by intertwining at the moving average level. The int...]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-df08e72959bea36d98c78b7706b04cbc521011e9</guid>
-      <title>OpenAI Raises $110B at $730B Valuation From Amazon, NVIDIA, SoftBank | OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from... https://Blockchain.News/news/openai-raises-110b-730b-valuation-amazon-nvidia-softbank</title>
-      <link>https://Blockchain.News/news/openai-raises-110b-730b-valuation-amazon-nvidia-softbank</link>
-      <pubDate>Wed, 25 Mar 2026 01:40:53 GMT</pubDate>
-      <description><![CDATA[Original title: OpenAI Raises $110B at $730B Valuation From Amazon, NVIDIA, SoftBank
-Summary: OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from NVIDIA and SoftBank, reaching $730B pre-money valuation.
-Article text: OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from NVIDIA and SoftBank, reaching $730B pre-money valuation.
-
-OpenAI just closed the largest private funding round in tech history—$110 billion at a $730 billion pre-money valuation. Amazon leads with $50 billion, while SoftBank and NVIDIA each committed $30 billion. The deal reshapes the AI infrastructure landscape and puts serious pressure on competitors scrambling for compute resources.
-
-The numbers tell the story of runaway demand. ChatGPT now has 900 million weekly active users and over 50 million paying subscribers. Codex users tripled since January to 1.6 million. More than 9 million business users pay for ChatGPT at work. Sam Altman's company isn't just growing—it's becoming infrastructure.
-
-Amazon's $50 billion isn't just capital. AWS becomes the exclusive third-party cloud provider for OpenAI Frontier, the company's enterprise platform. OpenAI will run on Amazon's custom Trainium chips, giving AWS a massive anchor tenant while OpenAI locks in compute capacity that's increasingly scarce.
-
-NVIDIA's stake secures something money alone can't buy: priority access to next-generation hardware. OpenAI gets 3 gigawatts of dedicated inference capacity and 2 gigawatts of training on Vera Rubin systems—the successor to Blackwell. That's roughly the power consumption of a mid-sized city, devoted to running AI models.
-
-SoftBank's commitment is raising eyebrows. The Japanese conglomerate is pushing against its self-imposed loan-to-value limits with this deal, according to recent reports. Masayoshi Son is also building a $33.3 billion power plant in Ohio specifically for AI data centers—a bet that compute demand will only accelerate.
-
-At $730 billion pre-money, OpenAI is now worth more than most public tech giants. For context, that's roughly Meta's market cap territory. The OpenAI Foundation's stake alone jumped to over $180 billion, making it one of the wealthiest nonprofits on the planet.
-
-Whether that valuation holds depends on execution. OpenAI must convert its user growth into enterprise revenue while fending off Google, Anthropic, and an increasingly capable open-source ecosystem. The infrastructure moat these partnerships create could prove decisive.
-
-This deal has ripple effects across public markets. NVIDIA's compute commitments suggest sustained demand for high-end AI chips through 2027 at minimum. Amazon's exclusive cloud deal could pressure Microsoft's Azure OpenAI partnership terms when they come up for renewal.
-
-SoftBank's aggressive positioning—despite leverage concerns—signals that major institutional players see AI infrastructure as a generational opportunity worth stretching balance sheets to capture. The company's Ohio power plant project, targeting AI data center demand, won't come online for years but represents a massive infrastructure bet.
-
-For crypto markets, the implications are indirect but real. AI-adjacent tokens have historically moved on OpenAI news, though the correlation weakens with each cycle. The bigger story is capital allocation: $110 billion flowing to centralized AI development is $110 billion not flowing elsewhere.
-
-OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from NVIDIA and SoftBank, reaching $730B pre-money valuation.
-
-OpenAI just closed the largest private funding round in tech history—$110 billion at a $730 billion pre-money valuation. Amazon leads with $50 billion, while SoftBank and NVIDIA each committed $30 billion. The deal reshapes the AI infrastructure landscape and puts serious pressure on competitors scrambling for compute resources.
-
-The numbers tell the story of runaway demand. ChatGPT now has 900 million weekly active users and over 50 million paying subscribers. Codex users tripled since January to 1.6 million. More than 9 million business users pay for ChatGPT at work. Sam Altman's company isn't just growing—it's becoming infrastructure.
-
-Amazon's $50 billion isn't just capital. AWS becomes the exclusive third-party cloud provider for OpenAI Frontier, the company's enterprise platform. OpenAI will run on Amazon's custom Trainium chips, giving AWS a massive anchor tenant while OpenAI locks in compute capacity that's increasingly scarce.
-
-NVIDIA's stake secures something money alone can't buy: priority access to next-generation hardware. OpenAI gets 3 gigawatts of dedicated inference capacity and 2 gigawatts of training on Vera Rubin systems—the successor to Blackwell. That's roughly the power consumption of a mid-sized city, devoted to running AI models.
-
-SoftBank's commitment is raising eyebrows. The Japanese conglomerate is pushing against its self-imposed loan-to-value limits with this deal, according to recent reports. Masayoshi Son is also building a $33.3 billion power plant in Ohio specifically for AI data centers—a bet that compute demand will only accelerate.
-
-At $730 billion pre-money, OpenAI is now worth more than most public tech giants. For context, that's roughly Meta's market cap territory. The OpenAI Foundation's stake alone jumped to over $180 billion, making it one of the wealthiest nonprofits on the planet.
-
-Whether that valuation holds depends on execution. OpenAI must convert its user growth into enterprise revenue while fending off Google, Anthropic, and an increasingly capable open-source ecosystem. The infrastructure moat these partnerships create could prove decisive.
-
-This deal has ripple effects across public markets. NVIDIA's compute commitments suggest sustained demand for high-end AI chips through 2027 at minimum. Amazon's exclusive cloud deal could pressure Microsoft's Azure OpenAI partnership terms when they come up for renewal.
-Source: https://Blockchain.News/news/openai-raises-110b-730b-valuation-amazon-nvidia-softbank]]></description>
-      <content:encoded><![CDATA[OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from NVIDIA and SoftBank, reaching $730B pre-money valuation.
-
-OpenAI just closed the largest private funding round in tech history—$110 billion at a $730 billion pre-money valuation. Amazon leads with $50 billion, while SoftBank and NVIDIA each committed $30 billion. The deal reshapes the AI infrastructure landscape and puts serious pressure on competitors scrambling for compute resources.
-
-The numbers tell the story of runaway demand. ChatGPT now has 900 million weekly active users and over 50 million paying subscribers. Codex users tripled since January to 1.6 million. More than 9 million business users pay for ChatGPT at work. Sam Altman's company isn't just growing—it's becoming infrastructure.
-
-Amazon's $50 billion isn't just capital. AWS becomes the exclusive third-party cloud provider for OpenAI Frontier, the company's enterprise platform. OpenAI will run on Amazon's custom Trainium chips, giving AWS a massive anchor tenant while OpenAI locks in compute capacity that's increasingly scarce.
-
-NVIDIA's stake secures something money alone can't buy: priority access to next-generation hardware. OpenAI gets 3 gigawatts of dedicated inference capacity and 2 gigawatts of training on Vera Rubin systems—the successor to Blackwell. That's roughly the power consumption of a mid-sized city, devoted to running AI models.
-
-SoftBank's commitment is raising eyebrows. The Japanese conglomerate is pushing against its self-imposed loan-to-value limits with this deal, according to recent reports. Masayoshi Son is also building a $33.3 billion power plant in Ohio specifically for AI data centers—a bet that compute demand will only accelerate.
-
-At $730 billion pre-money, OpenAI is now worth more than most public tech giants. For context, that's roughly Meta's market cap territory. The OpenAI Foundation's stake alone jumped to over $180 billion, making it one of the wealthiest nonprofits on the planet.
-
-Whether that valuation holds depends on execution. OpenAI must convert its user growth into enterprise revenue while fending off Google, Anthropic, and an increasingly capable open-source ecosystem. The infrastructure moat these partnerships create could prove decisive.
-
-This deal has ripple effects across public markets. NVIDIA's compute commitments suggest sustained demand for high-end AI chips through 2027 at minimum. Amazon's exclusive cloud deal could pressure Microsoft's Azure OpenAI partnership terms when they come up for renewal.
-
-SoftBank's aggressive positioning—despite leverage concerns—signals that major institutional players see AI infrastructure as a generational opportunity worth stretching balance sheets to capture. The company's Ohio power plant project, targeting AI data center demand, won't come online for years but represents a massive infrastructure bet.
-
-For crypto markets, the implications are indirect but real. AI-adjacent tokens have historically moved on OpenAI news, though the correlation weakens with each cycle. The bigger story is capital allocation: $110 billion flowing to centralized AI development is $110 billion not flowing elsewhere.
-
-OpenAI secures historic $110 billion funding round with $50B from Amazon, $30B each from NVIDIA and SoftBank, reaching $730B pre-money valuation.
-
-OpenAI just closed the largest private funding round in tech history—$110 billion at a $730 billion pre-money valuation. Amazon leads with $50 billion, while SoftBank and NVIDIA each committed $30 billion. The deal reshapes the AI infrastructure landscape and puts serious pressure on competitors scrambling for compute resources.
-
-The numbers tell the story of runaway demand. ChatGPT now has 900 million weekly active users and over 50 million paying subscribers. Codex users tripled since January to 1.6 million. More than 9 million business users pay for ChatGPT at work. Sam Altman's company isn't just growing—it's becoming infrastructure.
-
-Amazon's $50 billion isn't just capital. AWS becomes the exclusive third-party cloud provider for OpenAI Frontier, the company's enterprise platform. OpenAI will run on Amazon's custom Trainium chips, giving AWS a massive anchor tenant while OpenAI locks in compute capacity that's increasingly scarce.
-
-NVIDIA's stake secures something money alone can't buy: priority access to next-generation hardware. OpenAI gets 3 gigawatts of dedicated inference capacity and 2 gigawatts of training on Vera Rubin systems—the successor to Blackwell. That's roughly the power consumption of a mid-sized city, devoted to running AI models.
-
-SoftBank's commitment is raising eyebrows. The Japanese conglomerate is pushing against its self-imposed loan-to-value limits with this deal, according to recent reports. Masayoshi Son is also building a $33.3 billion power plant in Ohio specifically for AI data centers—a bet that compute demand will only accelerate.
-
-At $730 billion pre-money, OpenAI is now worth more than most public tech giants. For context, that's roughly Meta's market cap territory. The OpenAI Foundation's stake alone jumped to over $180 billion, making it one of the wealthiest nonprofits on the planet.
-
-Whether that valuation holds depends on execution. OpenAI must convert its user growth into enterprise revenue while fending off Google, Anthropic, and an increasingly capable open-source ecosystem. The infrastructure moat these partnerships create could prove decisive.
-
-This deal has ripple effects across public markets. NVIDIA's compute commitments suggest sustained demand for high-end AI chips through 2027 at minimum. Amazon's exclusive cloud deal could pressure Microsoft's Azure OpenAI partnership terms when they come up for renewal.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-df798739654a9039376def30a288422977fd7e70</guid>
-      <title>Google Expands Gemini AI on Google TV With Three New Features | Google rolls out richer visual answers, educational deep dives, and sports briefs for Gem... https://Blockchain.News/news/google-expands-gemini-ai-google-tv-three-new-features</title>
-      <link>https://Blockchain.News/news/google-expands-gemini-ai-google-tv-three-new-features</link>
-      <pubDate>Tue, 24 Mar 2026 20:10:23 GMT</pubDate>
-      <description><![CDATA[Original title: Google Expands Gemini AI on Google TV With Three New Features
-Summary: Google rolls out richer visual answers, educational deep dives, and sports briefs for Gemini on Google TV starting March 24, 2026 in US and Canada.
-Article text: Google rolls out richer visual answers, educational deep dives, and sports briefs for Gemini on Google TV starting March 24, 2026 in US and Canada.
-
-Google is pushing Gemini deeper into living rooms with three new AI features for Google TV, transforming the platform from passive entertainment device into an interactive information hub. The rollout began March 24, 2026 for Gemini-enabled devices in the U.S. and Canada.
-
-The update targets a familiar frustration: grabbing your phone mid-show to look something up. Google wants your TV to handle that instead.
-
-The first addition, richer visual help, makes Gemini's responses context-aware. Ask about a recipe and you'll get a video tutorial. Query sports scores and a live scorecard appears alongside streaming options. The AI now pulls together visuals, video, and text based on what you're actually asking for rather than delivering generic results.
-
-Deep dives represent the more ambitious play. These narrated visual breakdowns tackle educational topics—health, economics, technology—with interactive follow-up questions built in. Google positions this as "meaningful screen time" for families, walking through subjects like cold plunge physiology or matcha production from scratch. Access comes through asking Gemini directly or hitting the "Learn" section in the Gemini tab.
-
-Sports briefs extend Google's existing news brief format to cover live sports. The feature delivers narrated highlights and game summaries for NBA, NCAA basketball, NHL, MLB, MLS, and NWSL. For fans who miss games but want more than box scores, this fills the gap without endless scrolling through sports apps.
-
-Richer visual help started rolling out March 24 in the U.S. and Canada. Deep dives and sports briefs launched the same day for U.S. users on Gemini-enabled devices, with broader device support expected this spring.
-
-International expansion follows later in 2026. Australia, New Zealand, and Great Britain get the Gemini voice assistant this spring, with additional countries throughout the year. The features require Android TV OS 14 or higher plus an internet connection—limiting access to newer hardware.
-
-Google's AI integration strategy here mirrors its broader approach: embedding Gemini across surfaces where users already spend time. Whether TV viewers actually prefer AI-generated content summaries over traditional browsing remains the open question this rollout will answer.
-
-Google rolls out richer visual answers, educational deep dives, and sports briefs for Gemini on Google TV starting March 24, 2026 in US and Canada.
-
-Google is pushing Gemini deeper into living rooms with three new AI features for Google TV, transforming the platform from passive entertainment device into an interactive information hub. The rollout began March 24, 2026 for Gemini-enabled devices in the U.S. and Canada.
-
-The update targets a familiar frustration: grabbing your phone mid-show to look something up. Google wants your TV to handle that instead.
-
-The first addition, richer visual help, makes Gemini's responses context-aware. Ask about a recipe and you'll get a video tutorial. Query sports scores and a live scorecard appears alongside streaming options. The AI now pulls together visuals, video, and text based on what you're actually asking for rather than delivering generic results.
-
-Deep dives represent the more ambitious play. These narrated visual breakdowns tackle educational topics—health, economics, technology—with interactive follow-up questions built in. Google positions this as "meaningful screen time" for families, walking through subjects like cold plunge physiology or matcha production from scratch. Access comes through asking Gemini directly or hitting the "Learn" section in the Gemini tab.
-
-Sports briefs extend Google's existing news brief format to cover live sports. The feature delivers narrated highlights and game summaries for NBA, NCAA basketball, NHL, MLB, MLS, and NWSL. For fans who miss games but want more than box scores, this fills the gap without endless scrolling through sports apps.
-
-Richer visual help started rolling out March 24 in the U.S. and Canada. Deep dives and sports briefs launched the same day for U.S. users on Gemini-enabled devices, with broader device support expected this spring.
-
-International expansion follows later in 2026. Australia, New Zealand, and Great Britain get the Gemini voice assistant this spring, with additional countries throughout the year. The features require Android TV OS 14 or higher plus an internet connection—limiting access to newer hardware.
-
-Google's AI integration strategy here mirrors its broader approach: embedding Gemini across surfaces where users already spend time. Whether TV viewers actually prefer AI-generated content summaries over traditional browsing remains the open question this rollout will answer.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/google-expands-gemini-ai-google-tv-three-new-features]]></description>
-      <content:encoded><![CDATA[Google rolls out richer visual answers, educational deep dives, and sports briefs for Gemini on Google TV starting March 24, 2026 in US and Canada.
-
-Google is pushing Gemini deeper into living rooms with three new AI features for Google TV, transforming the platform from passive entertainment device into an interactive information hub. The rollout began March 24, 2026 for Gemini-enabled devices in the U.S. and Canada.
-
-The update targets a familiar frustration: grabbing your phone mid-show to look something up. Google wants your TV to handle that instead.
-
-The first addition, richer visual help, makes Gemini's responses context-aware. Ask about a recipe and you'll get a video tutorial. Query sports scores and a live scorecard appears alongside streaming options. The AI now pulls together visuals, video, and text based on what you're actually asking for rather than delivering generic results.
-
-Deep dives represent the more ambitious play. These narrated visual breakdowns tackle educational topics—health, economics, technology—with interactive follow-up questions built in. Google positions this as "meaningful screen time" for families, walking through subjects like cold plunge physiology or matcha production from scratch. Access comes through asking Gemini directly or hitting the "Learn" section in the Gemini tab.
-
-Sports briefs extend Google's existing news brief format to cover live sports. The feature delivers narrated highlights and game summaries for NBA, NCAA basketball, NHL, MLB, MLS, and NWSL. For fans who miss games but want more than box scores, this fills the gap without endless scrolling through sports apps.
-
-Richer visual help started rolling out March 24 in the U.S. and Canada. Deep dives and sports briefs launched the same day for U.S. users on Gemini-enabled devices, with broader device support expected this spring.
-
-International expansion follows later in 2026. Australia, New Zealand, and Great Britain get the Gemini voice assistant this spring, with additional countries throughout the year. The features require Android TV OS 14 or higher plus an internet connection—limiting access to newer hardware.
-
-Google's AI integration strategy here mirrors its broader approach: embedding Gemini across surfaces where users already spend time. Whether TV viewers actually prefer AI-generated content summaries over traditional browsing remains the open question this rollout will answer.
-
-Google rolls out richer visual answers, educational deep dives, and sports briefs for Gemini on Google TV starting March 24, 2026 in US and Canada.
-
-Google is pushing Gemini deeper into living rooms with three new AI features for Google TV, transforming the platform from passive entertainment device into an interactive information hub. The rollout began March 24, 2026 for Gemini-enabled devices in the U.S. and Canada.
-
-The update targets a familiar frustration: grabbing your phone mid-show to look something up. Google wants your TV to handle that instead.
-
-The first addition, richer visual help, makes Gemini's responses context-aware. Ask about a recipe and you'll get a video tutorial. Query sports scores and a live scorecard appears alongside streaming options. The AI now pulls together visuals, video, and text based on what you're actually asking for rather than delivering generic results.
-
-Deep dives represent the more ambitious play. These narrated visual breakdowns tackle educational topics—health, economics, technology—with interactive follow-up questions built in. Google positions this as "meaningful screen time" for families, walking through subjects like cold plunge physiology or matcha production from scratch. Access comes through asking Gemini directly or hitting the "Learn" section in the Gemini tab.
-
-Sports briefs extend Google's existing news brief format to cover live sports. The feature delivers narrated highlights and game summaries for NBA, NCAA basketball, NHL, MLB, MLS, and NWSL. For fans who miss games but want more than box scores, this fills the gap without endless scrolling through sports apps.
-
-Richer visual help started rolling out March 24 in the U.S. and Canada. Deep dives and sports briefs launched the same day for U.S. users on Gemini-enabled devices, with broader device support expected this spring.
-
-International expansion follows later in 2026. Australia, New Zealand, and Great Britain get the Gemini voice assistant this spring, with additional countries throughout the year. The features require Android TV OS 14 or higher plus an internet connection—limiting access to newer hardware.
-
-Google's AI integration strategy here mirrors its broader approach: embedding Gemini across surfaces where users already spend time. Whether TV viewers actually prefer AI-generated content summaries over traditional browsing remains the open question this rollout will answer.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
     </item>
   </channel>
 </rss>
