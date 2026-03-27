@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Thu, 26 Mar 2026 18:59:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 01:58:35 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-8514d78c147d6de5afd7cda3988f596a253df000</guid>
+      <title>NVIDIA MIG Boosts AI Infrastructure ROI by 33% Over Time-Slicing | New NVIDIA benchmarks show Multi-Instance GPU partitioning achieves 1.00 req/s per GPU ve... https://Blockchain.News/news/nvidia-mig-gpu-partitioning-ai-infrastructure-benchmarks</title>
+      <link>https://Blockchain.News/news/nvidia-mig-gpu-partitioning-ai-infrastructure-benchmarks</link>
+      <pubDate>Wed, 25 Mar 2026 17:19:27 GMT</pubDate>
+      <description><![CDATA[Original title: NVIDIA MIG Boosts AI Infrastructure ROI by 33% Over Time-Slicing
+Summary: New NVIDIA benchmarks show Multi-Instance GPU partitioning achieves 1.00 req/s per GPU versus 0.76 for time-slicing in production AI workloads.
+Article text: New NVIDIA benchmarks show Multi-Instance GPU partitioning achieves 1.00 req/s per GPU versus 0.76 for time-slicing in production AI workloads.
+
+NVIDIA has released benchmark data showing its Multi-Instance GPU (MIG) technology delivers 33% higher throughput efficiency than software-based time-slicing for AI inference workloads—a finding that could reshape how enterprises allocate compute resources for production AI deployments.
+
+The tests, conducted on NVIDIA A100 Tensor Core GPUs in a Kubernetes environment, demonstrated MIG achieving approximately 1.00 requests per second per GPU compared to 0.76 req/s for time-slicing configurations. Both approaches maintained 100% success rates with no failures during testing.
+
+Most production AI pipelines suffer from a mismatch between model requirements and hardware allocation. Lightweight models for automatic speech recognition or text-to-speech might need only 10 GB of VRAM but occupy an entire GPU under standard Kubernetes scheduling. NVIDIA's data shows GPU compute utilization often hovers between 0-10% for these support models.
+
+The company tested three configurations using a voice-to-voice AI pipeline: a baseline with dedicated GPUs for each model, time-slicing where ASR and TTS share a GPU through software scheduling, and MIG where hardware physically partitions the GPU into isolated instances with dedicated memory and streaming multiprocessors.
+
+Under heavy load with 50 concurrent users over 375 seconds of sustained interaction, MIG's hardware partitioning eliminated resource contention entirely. Time-slicing showed faster individual task completion for bursty workloads—144.7ms mean TTS latency versus MIG's 168.2ms—but that 23.5ms difference becomes negligible when the LLM bottleneck accounts for roughly 9 seconds of total processing time.
+
+The critical advantage: MIG's fault isolation prevents memory overflow in one process from crashing others sharing the card. Time-slicing's shared execution context means a fatal error propagates across all processes, potentially triggering a GPU reset.
+
+NVIDIA recommends MIG as the default for production environments prioritizing throughput and reliability, while time-slicing suits development, CI/CD pipelines, and proof-of-concept work where minimizing hardware footprint matters more than peak performance.
+
+For organizations running mixed AI workloads, consolidating support models onto partitioned GPUs frees entire cards for LLM instances—the actual compute bottleneck in most generative AI applications. The company has published implementation guides and YAML manifests for Kubernetes deployments through its NIM Operator framework.
+
+New NVIDIA benchmarks show Multi-Instance GPU partitioning achieves 1.00 req/s per GPU versus 0.76 for time-slicing in production AI workloads.
+
+NVIDIA has released benchmark data showing its Multi-Instance GPU (MIG) technology delivers 33% higher throughput efficiency than software-based time-slicing for AI inference workloads—a finding that could reshape how enterprises allocate compute resources for production AI deployments.
+
+The tests, conducted on NVIDIA A100 Tensor Core GPUs in a Kubernetes environment, demonstrated MIG achieving approximately 1.00 requests per second per GPU compared to 0.76 req/s for time-slicing configurations. Both approaches maintained 100% success rates with no failures during testing.
+
+Most production AI pipelines suffer from a mismatch between model requirements and hardware allocation. Lightweight models for automatic speech recognition or text-to-speech might need only 10 GB of VRAM but occupy an entire GPU under standard Kubernetes scheduling. NVIDIA's data shows GPU compute utilization often hovers between 0-10% for these support models.
+
+The company tested three configurations using a voice-to-voice AI pipeline: a baseline with dedicated GPUs for each model, time-slicing where ASR and TTS share a GPU through software scheduling, and MIG where hardware physically partitions the GPU into isolated instances with dedicated memory and streaming multiprocessors.
+
+Under heavy load with 50 concurrent users over 375 seconds of sustained interaction, MIG's hardware partitioning eliminated resource contention entirely. Time-slicing showed faster individual task completion for bursty workloads—144.7ms mean TTS latency versus MIG's 168.2ms—but that 23.5ms difference becomes negligible when the LLM bottleneck accounts for roughly 9 seconds of total processing time.
+
+The critical advantage: MIG's fault isolation prevents memory overflow in one process from crashing others sharing the card. Time-slicing's shared execution context means a fatal error propagates across all processes, potentially triggering a GPU reset.
+
+NVIDIA recommends MIG as the default for production environments prioritizing throughput and reliability, while time-slicing suits development, CI/CD pipelines, and proof-of-concept work where minimizing hardware footprint matters more than peak performance.
+
+For organizations running mixed AI workloads, consolidating support models onto partitioned GPUs frees entire cards for LLM instances—the actual compute bottleneck in most generative AI applications. The company has published implementation guides and YAML manifests for Kubernetes deployments through its NIM Operator framework.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/nvidia-mig-gpu-partitioning-ai-infrastructure-benchmarks]]></description>
+      <content:encoded><![CDATA[New NVIDIA benchmarks show Multi-Instance GPU partitioning achieves 1.00 req/s per GPU versus 0.76 for time-slicing in production AI workloads.
+
+NVIDIA has released benchmark data showing its Multi-Instance GPU (MIG) technology delivers 33% higher throughput efficiency than software-based time-slicing for AI inference workloads—a finding that could reshape how enterprises allocate compute resources for production AI deployments.
+
+The tests, conducted on NVIDIA A100 Tensor Core GPUs in a Kubernetes environment, demonstrated MIG achieving approximately 1.00 requests per second per GPU compared to 0.76 req/s for time-slicing configurations. Both approaches maintained 100% success rates with no failures during testing.
+
+Most production AI pipelines suffer from a mismatch between model requirements and hardware allocation. Lightweight models for automatic speech recognition or text-to-speech might need only 10 GB of VRAM but occupy an entire GPU under standard Kubernetes scheduling. NVIDIA's data shows GPU compute utilization often hovers between 0-10% for these support models.
+
+The company tested three configurations using a voice-to-voice AI pipeline: a baseline with dedicated GPUs for each model, time-slicing where ASR and TTS share a GPU through software scheduling, and MIG where hardware physically partitions the GPU into isolated instances with dedicated memory and streaming multiprocessors.
+
+Under heavy load with 50 concurrent users over 375 seconds of sustained interaction, MIG's hardware partitioning eliminated resource contention entirely. Time-slicing showed faster individual task completion for bursty workloads—144.7ms mean TTS latency versus MIG's 168.2ms—but that 23.5ms difference becomes negligible when the LLM bottleneck accounts for roughly 9 seconds of total processing time.
+
+The critical advantage: MIG's fault isolation prevents memory overflow in one process from crashing others sharing the card. Time-slicing's shared execution context means a fatal error propagates across all processes, potentially triggering a GPU reset.
+
+NVIDIA recommends MIG as the default for production environments prioritizing throughput and reliability, while time-slicing suits development, CI/CD pipelines, and proof-of-concept work where minimizing hardware footprint matters more than peak performance.
+
+For organizations running mixed AI workloads, consolidating support models onto partitioned GPUs frees entire cards for LLM instances—the actual compute bottleneck in most generative AI applications. The company has published implementation guides and YAML manifests for Kubernetes deployments through its NIM Operator framework.
+
+New NVIDIA benchmarks show Multi-Instance GPU partitioning achieves 1.00 req/s per GPU versus 0.76 for time-slicing in production AI workloads.
+
+NVIDIA has released benchmark data showing its Multi-Instance GPU (MIG) technology delivers 33% higher throughput efficiency than software-based time-slicing for AI inference workloads—a finding that could reshape how enterprises allocate compute resources for production AI deployments.
+
+The tests, conducted on NVIDIA A100 Tensor Core GPUs in a Kubernetes environment, demonstrated MIG achieving approximately 1.00 requests per second per GPU compared to 0.76 req/s for time-slicing configurations. Both approaches maintained 100% success rates with no failures during testing.
+
+Most production AI pipelines suffer from a mismatch between model requirements and hardware allocation. Lightweight models for automatic speech recognition or text-to-speech might need only 10 GB of VRAM but occupy an entire GPU under standard Kubernetes scheduling. NVIDIA's data shows GPU compute utilization often hovers between 0-10% for these support models.
+
+The company tested three configurations using a voice-to-voice AI pipeline: a baseline with dedicated GPUs for each model, time-slicing where ASR and TTS share a GPU through software scheduling, and MIG where hardware physically partitions the GPU into isolated instances with dedicated memory and streaming multiprocessors.
+
+Under heavy load with 50 concurrent users over 375 seconds of sustained interaction, MIG's hardware partitioning eliminated resource contention entirely. Time-slicing showed faster individual task completion for bursty workloads—144.7ms mean TTS latency versus MIG's 168.2ms—but that 23.5ms difference becomes negligible when the LLM bottleneck accounts for roughly 9 seconds of total processing time.
+
+The critical advantage: MIG's fault isolation prevents memory overflow in one process from crashing others sharing the card. Time-slicing's shared execution context means a fatal error propagates across all processes, potentially triggering a GPU reset.
+
+NVIDIA recommends MIG as the default for production environments prioritizing throughput and reliability, while time-slicing suits development, CI/CD pipelines, and proof-of-concept work where minimizing hardware footprint matters more than peak performance.
+
+For organizations running mixed AI workloads, consolidating support models onto partitioned GPUs frees entire cards for LLM instances—the actual compute bottleneck in most generative AI applications. The company has published implementation guides and YAML manifests for Kubernetes deployments through its NIM Operator framework.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-f509e0cbdd2ffa7bf691fdd2207633e3f2351947</guid>
+      <title>NVIDIA DRIVE Radar Tech Promises 100x Data Boost for Level 4 Autonomy | NVIDIA unveils centralized radar processing on DRIVE AGX Thor, delivering 100x more senso... https://Blockchain.News/news/nvidia-drive-centralized-radar-level-4-autonomy</title>
+      <link>https://Blockchain.News/news/nvidia-drive-centralized-radar-level-4-autonomy</link>
+      <pubDate>Wed, 25 Mar 2026 16:50:18 GMT</pubDate>
+      <description><![CDATA[Original title: NVIDIA DRIVE Radar Tech Promises 100x Data Boost for Level 4 Autonomy
+Summary: NVIDIA unveils centralized radar processing on DRIVE AGX Thor, delivering 100x more sensor data for L4 autonomous vehicles while cutting hardware costs 30%.
+Article text: NVIDIA unveils centralized radar processing on DRIVE AGX Thor, delivering 100x more sensor data for L4 autonomous vehicles while cutting hardware costs 30%.
+
+NVIDIA just revealed a fundamental shift in how autonomous vehicles will process radar data, and the numbers are striking: 100x more information available to AI systems, 30% lower hardware costs, and 20% reduced power consumption. The company demonstrated the technology running live on its DRIVE AGX Thor platform at GTC 2026 last week.
+
+The core problem NVIDIA is solving? Current automotive radars process data locally on each sensor, then spit out sparse point clouds to the central computer. It's like giving a photographer edge-detection outlines instead of actual photographs. Machine learning engineers have been working with the equivalent of stick figures when full portraits exist inside the sensors.
+
+NVIDIA's approach moves all signal processing from individual radar units to the central DRIVE platform. Raw analog-to-digital converter data streams directly into system memory, where dedicated Programmable Vision Accelerator hardware handles the heavy lifting. The GPU stays free for AI workloads.
+
+The data difference is dramatic. A single long-range radar produces 6 MB of raw ADC data per frame versus just 0.064 MB as a processed point cloud. NVIDIA's demo configuration runs five radar units—one front-facing 8T8R unit and four corner 4T4R sensors—pushing 540 MB/s aggregate versus 4.8 MB/s for traditional setups.
+
+ChengTech, described as the first raw radar partner on the DRIVE platform, provided production-grade hardware for the GTC demonstration. The system processes all five radar feeds at 30 frames per second.
+
+Level 4 autonomy stacks are increasingly built around large models that learn from raw sensor data. Vision-language-action architectures want dense, unprocessed signals—not pre-filtered outputs. Cameras and lidar already work this way on modern platforms. Radar has been the odd one out.
+
+Traditional edge-processed radar also runs duty cycles below 50%, limiting frame rates to around 20 FPS. The memory constraints force sensors to discard intermediate data products like range-FFT cubes and Doppler maps. These are exactly the signal views that recent research papers have shown improve perception performance.
+
+NVIDIA cites work from CVPR 2022 and ICCV 2023 demonstrating neural networks trained on raw ADC signals outperform those limited to point clouds. Centralized processing makes this practical at production scale.
+
+Stripping the digital signal processors and microcontrollers from individual radar units creates simpler, cheaper sensors. NVIDIA claims over 30% unit cost reduction and roughly 20% volume decrease. The streamlined PCB design returns radar hardware to its RF fundamentals.
+
+System-wide power consumption drops approximately 20% by leveraging the efficiency of central domain controllers rather than running multiple edge processors.
+
+NVIDIA has been stacking autonomous driving partnerships aggressively. Hyundai and Kia expanded their strategic relationship with the company on March 16. A deal with Uber announced the same week targets robotaxi deployments across 28 cities by 2028. BYD, Geely, Isuzu, and Nissan are also integrating DRIVE platforms into upcoming vehicles.
+
+NVDA shares traded at $175.20 as of March 24, with the company's market cap sitting at $4.44 trillion. The autonomous vehicle push represents one of several growth vectors beyond its dominant AI datacenter business.
+
+For automakers evaluating L4 development paths, NVIDIA is positioning DRIVE Hyperion as the production-ready reference architecture. The centralized radar capability slots into an existing ecosystem that already handles cameras and lidar with the same software-defined approach. OEMs wanting to explore the technology can work with supported radar vendors through NVIDIA's partner program.
+
+NVIDIA unveils centralized radar processing on DRIVE AGX Thor, delivering 100x more sensor data for L4 autonomous vehicles while cutting hardware costs 30%.
+
+NVIDIA just revealed a fundamental shift in how autonomous vehicles will process radar data, and the numbers are striking: 100x more information available to AI systems, 30% lower hardware costs, and 20% reduced power consumption. The company demonstrated the technology running live on its DRIVE AGX Thor platform at GTC 2026 last week.
+
+The core problem NVIDIA is solving? Current automotive radars process data locally on each sensor, then spit out sparse point clouds to the central computer. It's like giving a photographer edge-detection outlines instead of actual photographs. Machine learning engineers have been working with the equivalent of stick figures when full portraits exist inside the sensors.
+
+NVIDIA's approach moves all signal processing from individual radar units to the central DRIVE platform. Raw analog-to-digital converter data streams directly into system memory, where dedicated Programmable Vision Accelerator hardware handles the heavy lifting. The GPU stays free for AI workloads.
+
+The data difference is dramatic. A single long-range radar produces 6 MB of raw ADC data per frame versus just 0.064 MB as a processed point cloud. NVIDIA's demo configuration runs five radar units—one front-facing 8T8R unit and four corner 4T4R sensors—pushing 540 MB/s aggregate versus 4.8 MB/s for traditional setups.
+
+ChengTech, described as the first raw radar partner on the DRIVE platform, provided production-grade hardware for the GTC demonstration. The system processes all five radar feeds at 30 frames per second.
+Source: https://Blockchain.News/news/nvidia-drive-centralized-radar-level-4-autonomy]]></description>
+      <content:encoded><![CDATA[NVIDIA unveils centralized radar processing on DRIVE AGX Thor, delivering 100x more sensor data for L4 autonomous vehicles while cutting hardware costs 30%.
+
+NVIDIA just revealed a fundamental shift in how autonomous vehicles will process radar data, and the numbers are striking: 100x more information available to AI systems, 30% lower hardware costs, and 20% reduced power consumption. The company demonstrated the technology running live on its DRIVE AGX Thor platform at GTC 2026 last week.
+
+The core problem NVIDIA is solving? Current automotive radars process data locally on each sensor, then spit out sparse point clouds to the central computer. It's like giving a photographer edge-detection outlines instead of actual photographs. Machine learning engineers have been working with the equivalent of stick figures when full portraits exist inside the sensors.
+
+NVIDIA's approach moves all signal processing from individual radar units to the central DRIVE platform. Raw analog-to-digital converter data streams directly into system memory, where dedicated Programmable Vision Accelerator hardware handles the heavy lifting. The GPU stays free for AI workloads.
+
+The data difference is dramatic. A single long-range radar produces 6 MB of raw ADC data per frame versus just 0.064 MB as a processed point cloud. NVIDIA's demo configuration runs five radar units—one front-facing 8T8R unit and four corner 4T4R sensors—pushing 540 MB/s aggregate versus 4.8 MB/s for traditional setups.
+
+ChengTech, described as the first raw radar partner on the DRIVE platform, provided production-grade hardware for the GTC demonstration. The system processes all five radar feeds at 30 frames per second.
+
+Level 4 autonomy stacks are increasingly built around large models that learn from raw sensor data. Vision-language-action architectures want dense, unprocessed signals—not pre-filtered outputs. Cameras and lidar already work this way on modern platforms. Radar has been the odd one out.
+
+Traditional edge-processed radar also runs duty cycles below 50%, limiting frame rates to around 20 FPS. The memory constraints force sensors to discard intermediate data products like range-FFT cubes and Doppler maps. These are exactly the signal views that recent research papers have shown improve perception performance.
+
+NVIDIA cites work from CVPR 2022 and ICCV 2023 demonstrating neural networks trained on raw ADC signals outperform those limited to point clouds. Centralized processing makes this practical at production scale.
+
+Stripping the digital signal processors and microcontrollers from individual radar units creates simpler, cheaper sensors. NVIDIA claims over 30% unit cost reduction and roughly 20% volume decrease. The streamlined PCB design returns radar hardware to its RF fundamentals.
+
+System-wide power consumption drops approximately 20% by leveraging the efficiency of central domain controllers rather than running multiple edge processors.
+
+NVIDIA has been stacking autonomous driving partnerships aggressively. Hyundai and Kia expanded their strategic relationship with the company on March 16. A deal with Uber announced the same week targets robotaxi deployments across 28 cities by 2028. BYD, Geely, Isuzu, and Nissan are also integrating DRIVE platforms into upcoming vehicles.
+
+NVDA shares traded at $175.20 as of March 24, with the company's market cap sitting at $4.44 trillion. The autonomous vehicle push represents one of several growth vectors beyond its dominant AI datacenter business.
+
+For automakers evaluating L4 development paths, NVIDIA is positioning DRIVE Hyperion as the production-ready reference architecture. The centralized radar capability slots into an existing ecosystem that already handles cameras and lidar with the same software-defined approach. OEMs wanting to explore the technology can work with supported radar vendors through NVIDIA's partner program.
+
+NVIDIA unveils centralized radar processing on DRIVE AGX Thor, delivering 100x more sensor data for L4 autonomous vehicles while cutting hardware costs 30%.
+
+NVIDIA just revealed a fundamental shift in how autonomous vehicles will process radar data, and the numbers are striking: 100x more information available to AI systems, 30% lower hardware costs, and 20% reduced power consumption. The company demonstrated the technology running live on its DRIVE AGX Thor platform at GTC 2026 last week.
+
+The core problem NVIDIA is solving? Current automotive radars process data locally on each sensor, then spit out sparse point clouds to the central computer. It's like giving a photographer edge-detection outlines instead of actual photographs. Machine learning engineers have been working with the equivalent of stick figures when full portraits exist inside the sensors.
+
+NVIDIA's approach moves all signal processing from individual radar units to the central DRIVE platform. Raw analog-to-digital converter data streams directly into system memory, where dedicated Programmable Vision Accelerator hardware handles the heavy lifting. The GPU stays free for AI workloads.
+
+The data difference is dramatic. A single long-range radar produces 6 MB of raw ADC data per frame versus just 0.064 MB as a processed point cloud. NVIDIA's demo configuration runs five radar units—one front-facing 8T8R unit and four corner 4T4R sensors—pushing 540 MB/s aggregate versus 4.8 MB/s for traditional setups.
+
+ChengTech, described as the first raw radar partner on the DRIVE platform, provided production-grade hardware for the GTC demonstration. The system processes all five radar feeds at 30 frames per second.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-23412fe2d9ba96be1cbb000f5415dad35f750919</guid>
+      <title>LangChain Launches Shareable Skills for AI Agent Teams in LangSmith Fleet | LangSmith Fleet now lets teams create and share reusable AI agent skills, codifying compa... https://Blockchain.News/news/langchain-langsmith-fleet-shareable-skills-ai-agents</title>
+      <link>https://Blockchain.News/news/langchain-langsmith-fleet-shareable-skills-ai-agents</link>
+      <pubDate>Wed, 25 Mar 2026 16:44:08 GMT</pubDate>
+      <description><![CDATA[Original title: LangChain Launches Shareable Skills for AI Agent Teams in LangSmith Fleet
+Summary: LangSmith Fleet now lets teams create and share reusable AI agent skills, codifying company knowledge for specialized tasks across workspaces.
+Article text: LangSmith Fleet now lets teams create and share reusable AI agent skills, codifying company knowledge for specialized tasks across workspaces.
+
+LangChain has rolled out shareable skills for its LangSmith Fleet platform, giving teams a way to codify institutional knowledge and distribute it across AI agents without manual coordination.
+
+The feature addresses a persistent problem in enterprise AI deployment: agents can reason well but lack the domain-specific knowledge that makes them actually useful. A customer support bot that doesn't understand your SLA tiers treats every ticket identically. The expertise that differentiates good from mediocre agent performance typically lives in employees' heads or scattered across Notion pages and Slack threads.
+
+A skill functions as a persistent briefing document attached to an agent—instructions and domain knowledge that shape behavior for specific tasks. Examples include ticket triage protocols based on SLA tiers, brand voice guidelines for writing agents, or step-by-step refund workflows.
+
+Agents load skills only when relevant, keeping responses focused. Write the knowledge once, share it to your workspace, and every agent can access it. When employees leave, their documented expertise stays.
+
+Fleet offers multiple approaches to building skills:
+
+AI-assisted creation lets users describe what they want in chat. Fleet asks clarifying questions and generates the skill. Previous conversations can be converted to reusable skills at any time.
+
+Auto-generation during agent setup creates relevant skills automatically when you build a new agent. These start private but can be shared to the workspace.
+
+Templates cover common use cases—account briefing, SEO audits, deep research—out of the box.
+
+Manual authoring gives teams full control when they want it.
+
+Skills aren't locked into Fleet. The LangSmith CLI pulls any workspace skill into local development environments with a single command. That same knowledge becomes available to Claude Code, Cursor, Codex, or custom agents without copy-pasting.
+
+LangChain flagged two near-term additions: version pinning with rollback capability (so a bad skill update doesn't break production agents) and multi-owner permissions for collaborative maintenance.
+
+For teams building production AI systems, the update signals LangChain's push toward enterprise collaboration features. The quality gap between generally capable agents and reliably good ones increasingly comes down to instruction quality—and that's exactly what skills are designed to address.
+
+LangSmith Fleet now lets teams create and share reusable AI agent skills, codifying company knowledge for specialized tasks across workspaces.
+
+LangChain has rolled out shareable skills for its LangSmith Fleet platform, giving teams a way to codify institutional knowledge and distribute it across AI agents without manual coordination.
+
+The feature addresses a persistent problem in enterprise AI deployment: agents can reason well but lack the domain-specific knowledge that makes them actually useful. A customer support bot that doesn't understand your SLA tiers treats every ticket identically. The expertise that differentiates good from mediocre agent performance typically lives in employees' heads or scattered across Notion pages and Slack threads.
+
+A skill functions as a persistent briefing document attached to an agent—instructions and domain knowledge that shape behavior for specific tasks. Examples include ticket triage protocols based on SLA tiers, brand voice guidelines for writing agents, or step-by-step refund workflows.
+
+Agents load skills only when relevant, keeping responses focused. Write the knowledge once, share it to your workspace, and every agent can access it. When employees leave, their documented expertise stays.
+
+Fleet offers multiple approaches to building skills:
+
+AI-assisted creation lets users describe what they want in chat. Fleet asks clarifying questions and generates the skill. Previous conversations can be converted to reusable skills at any time.
+Source: https://Blockchain.News/news/langchain-langsmith-fleet-shareable-skills-ai-agents]]></description>
+      <content:encoded><![CDATA[LangSmith Fleet now lets teams create and share reusable AI agent skills, codifying company knowledge for specialized tasks across workspaces.
+
+LangChain has rolled out shareable skills for its LangSmith Fleet platform, giving teams a way to codify institutional knowledge and distribute it across AI agents without manual coordination.
+
+The feature addresses a persistent problem in enterprise AI deployment: agents can reason well but lack the domain-specific knowledge that makes them actually useful. A customer support bot that doesn't understand your SLA tiers treats every ticket identically. The expertise that differentiates good from mediocre agent performance typically lives in employees' heads or scattered across Notion pages and Slack threads.
+
+A skill functions as a persistent briefing document attached to an agent—instructions and domain knowledge that shape behavior for specific tasks. Examples include ticket triage protocols based on SLA tiers, brand voice guidelines for writing agents, or step-by-step refund workflows.
+
+Agents load skills only when relevant, keeping responses focused. Write the knowledge once, share it to your workspace, and every agent can access it. When employees leave, their documented expertise stays.
+
+Fleet offers multiple approaches to building skills:
+
+AI-assisted creation lets users describe what they want in chat. Fleet asks clarifying questions and generates the skill. Previous conversations can be converted to reusable skills at any time.
+
+Auto-generation during agent setup creates relevant skills automatically when you build a new agent. These start private but can be shared to the workspace.
+
+Templates cover common use cases—account briefing, SEO audits, deep research—out of the box.
+
+Manual authoring gives teams full control when they want it.
+
+Skills aren't locked into Fleet. The LangSmith CLI pulls any workspace skill into local development environments with a single command. That same knowledge becomes available to Claude Code, Cursor, Codex, or custom agents without copy-pasting.
+
+LangChain flagged two near-term additions: version pinning with rollback capability (so a bad skill update doesn't break production agents) and multi-owner permissions for collaborative maintenance.
+
+For teams building production AI systems, the update signals LangChain's push toward enterprise collaboration features. The quality gap between generally capable agents and reliably good ones increasingly comes down to instruction quality—and that's exactly what skills are designed to address.
+
+LangSmith Fleet now lets teams create and share reusable AI agent skills, codifying company knowledge for specialized tasks across workspaces.
+
+LangChain has rolled out shareable skills for its LangSmith Fleet platform, giving teams a way to codify institutional knowledge and distribute it across AI agents without manual coordination.
+
+The feature addresses a persistent problem in enterprise AI deployment: agents can reason well but lack the domain-specific knowledge that makes them actually useful. A customer support bot that doesn't understand your SLA tiers treats every ticket identically. The expertise that differentiates good from mediocre agent performance typically lives in employees' heads or scattered across Notion pages and Slack threads.
+
+A skill functions as a persistent briefing document attached to an agent—instructions and domain knowledge that shape behavior for specific tasks. Examples include ticket triage protocols based on SLA tiers, brand voice guidelines for writing agents, or step-by-step refund workflows.
+
+Agents load skills only when relevant, keeping responses focused. Write the knowledge once, share it to your workspace, and every agent can access it. When employees leave, their documented expertise stays.
+
+Fleet offers multiple approaches to building skills:
+
+AI-assisted creation lets users describe what they want in chat. Fleet asks clarifying questions and generates the skill. Previous conversations can be converted to reusable skills at any time.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-3fe4298e34d4e2533c630a56af63f0db7a62163a</guid>
       <title>Tether&apos;s QVAC Brings Billion-Parameter AI Training to Smartphones | Tether launches BitNet LoRA framework enabling AI model fine-tuning on consumer devices,... https://Blockchain.News/news/tether-qvac-bitnet-lora-smartphone-ai-training</title>
@@ -2329,267 +2590,6 @@ Some traders are running a simple loop: convert airdropped tokens back to BNB im
 Binance recently redesigned its Launchpool interface (app only for now) and launched a consolidated BNB information page. The updates improve visibility into airdrop allocations and add push notifications for new launches—useful for anyone trying to maximize participation rates.
 
 Worth remembering: BNB still functions as an actual utility token. Holders get up to 25% off Spot and Margin trading fees, 10% off Futures, and it remains the gas token for BNB Chain transactions. The yield opportunities sit on top of these base use cases rather than replacing them.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-dea5c7b90f831c4d32791f8e7842c7265d26619e</guid>
-      <title>Ray Serve Upgrade Delivers 88% Lower Latency for AI Inference at Scale | Anyscale announces major Ray Serve optimizations with HAProxy and gRPC, achieving 11.1x t... https://Blockchain.News/news/ray-serve-upgrade-88-percent-lower-latency-ai-inference</title>
-      <link>https://Blockchain.News/news/ray-serve-upgrade-88-percent-lower-latency-ai-inference</link>
-      <pubDate>Tue, 24 Mar 2026 16:58:59 GMT</pubDate>
-      <description><![CDATA[Original title: Ray Serve Upgrade Delivers 88% Lower Latency for AI Inference at Scale
-Summary: Anyscale announces major Ray Serve optimizations with HAProxy and gRPC, achieving 11.1x throughput gains for LLM inference workloads on enterprise deployments.
-Article text: Anyscale announces major Ray Serve optimizations with HAProxy and gRPC, achieving 11.1x throughput gains for LLM inference workloads on enterprise deployments.
-
-Anyscale has shipped substantial performance upgrades to Ray Serve that slash P99 latency by up to 88% and boost throughput by 11.1x for large language model inference workloads. The improvements, available in Ray 2.55+, address scaling bottlenecks that have plagued enterprise AI deployments running latency-sensitive applications.
-
-The upgrades center on two architectural changes: HAProxy integration for ingress traffic and direct gRPC communication between deployment replicas. Both bypass Python-based components that previously created chokepoints under heavy load.
-
-In benchmark testing of a deep learning recommendation model pipeline, the optimized configuration pushed throughput from 490 to 1,573 queries per second while cutting P99 latency by 75%. At 400 concurrent users, the performance gap widened dramatically as Ray Serve's default Python proxy saturated while HAProxy continued scaling.
-
-For LLM inference specifically, the results proved even more striking. Running GPT-class models on H100 GPUs at 256 concurrent users per replica, throughput scaled linearly with replica count when using HAProxy—something the default configuration couldn't achieve as the Python process hit its ceiling.
-
-Streaming workloads saw 8.9x throughput improvements, while unary request patterns hit the full 11.1x gain.
-
-The core problem: Ray Serve's default proxy runs on Python's asyncio, which struggles at high concurrency. HAProxy, written in C and battle-tested across production systems globally, handles the same traffic with significantly less overhead.
-
-The second optimization targets inter-deployment communication. Previously, when one deployment called another, Ray Serve routed everything through Ray Core's actor task system—useful for complex orchestration but overkill for simple request-response patterns. The new gRPC option establishes direct channels between replica actors, serializing with protobuf instead of going through Ray's object store.
-
-Benchmarks show gRPC alone delivers 1.5x throughput improvement for unary calls and 2.4x for streaming at equivalent latency targets.
-
-These aren't academic improvements. Companies running recommendation systems, real-time fraud detection, or customer-facing LLM applications have consistently hit Ray Serve's scaling limits. The partnership with Google Kubernetes Engine that drove these optimizations suggests enterprise demand was substantial enough to prioritize the work.
-
-A single environment variable—RAY_SERVE_USE_GRPC_BY_DEFAULT—enables the gRPC transport. HAProxy activation requires cluster-level configuration but integrates with existing Kubernetes deployments.
-
-Anyscale is working toward making both optimizations the default for all inter-deployment communication, with an RFC currently under discussion. For teams already running Ray Serve in production, the upgrade path is straightforward: update to Ray 2.55+ and flip the appropriate flags.
-
-The benchmark code is publicly available on GitHub for teams wanting to validate performance gains against their specific workloads before deploying.
-
-Anyscale announces major Ray Serve optimizations with HAProxy and gRPC, achieving 11.1x throughput gains for LLM inference workloads on enterprise deployments.
-
-Anyscale has shipped substantial performance upgrades to Ray Serve that slash P99 latency by up to 88% and boost throughput by 11.1x for large language model inference workloads. The improvements, available in Ray 2.55+, address scaling bottlenecks that have plagued enterprise AI deployments running latency-sensitive applications.
-
-The upgrades center on two architectural changes: HAProxy integration for ingress traffic and direct gRPC communication between deployment replicas. Both bypass Python-based components that previously created chokepoints under heavy load.
-
-In benchmark testing of a deep learning recommendation model pipeline, the optimized configuration pushed throughput from 490 to 1,573 queries per second while cutting P99 latency by 75%. At 400 concurrent users, the performance gap widened dramatically as Ray Serve's default Python proxy saturated while HAProxy continued scaling.
-
-For LLM inference specifically, the results proved even more striking. Running GPT-class models on H100 GPUs at 256 concurrent users per replica, throughput scaled linearly with replica count when using HAProxy—something the default configuration couldn't achieve as the Python process hit its ceiling.
-
-Streaming workloads saw 8.9x throughput improvements, while unary request patterns hit the full 11.1x gain.
-
-The core problem: Ray Serve's default proxy runs on Python's asyncio, which struggles at high concurrency. HAProxy, written in C and battle-tested across production systems globally, handles the same traffic with significantly less overhead.
-Source: https://Blockchain.News/news/ray-serve-upgrade-88-percent-lower-latency-ai-inference]]></description>
-      <content:encoded><![CDATA[Anyscale announces major Ray Serve optimizations with HAProxy and gRPC, achieving 11.1x throughput gains for LLM inference workloads on enterprise deployments.
-
-Anyscale has shipped substantial performance upgrades to Ray Serve that slash P99 latency by up to 88% and boost throughput by 11.1x for large language model inference workloads. The improvements, available in Ray 2.55+, address scaling bottlenecks that have plagued enterprise AI deployments running latency-sensitive applications.
-
-The upgrades center on two architectural changes: HAProxy integration for ingress traffic and direct gRPC communication between deployment replicas. Both bypass Python-based components that previously created chokepoints under heavy load.
-
-In benchmark testing of a deep learning recommendation model pipeline, the optimized configuration pushed throughput from 490 to 1,573 queries per second while cutting P99 latency by 75%. At 400 concurrent users, the performance gap widened dramatically as Ray Serve's default Python proxy saturated while HAProxy continued scaling.
-
-For LLM inference specifically, the results proved even more striking. Running GPT-class models on H100 GPUs at 256 concurrent users per replica, throughput scaled linearly with replica count when using HAProxy—something the default configuration couldn't achieve as the Python process hit its ceiling.
-
-Streaming workloads saw 8.9x throughput improvements, while unary request patterns hit the full 11.1x gain.
-
-The core problem: Ray Serve's default proxy runs on Python's asyncio, which struggles at high concurrency. HAProxy, written in C and battle-tested across production systems globally, handles the same traffic with significantly less overhead.
-
-The second optimization targets inter-deployment communication. Previously, when one deployment called another, Ray Serve routed everything through Ray Core's actor task system—useful for complex orchestration but overkill for simple request-response patterns. The new gRPC option establishes direct channels between replica actors, serializing with protobuf instead of going through Ray's object store.
-
-Benchmarks show gRPC alone delivers 1.5x throughput improvement for unary calls and 2.4x for streaming at equivalent latency targets.
-
-These aren't academic improvements. Companies running recommendation systems, real-time fraud detection, or customer-facing LLM applications have consistently hit Ray Serve's scaling limits. The partnership with Google Kubernetes Engine that drove these optimizations suggests enterprise demand was substantial enough to prioritize the work.
-
-A single environment variable—RAY_SERVE_USE_GRPC_BY_DEFAULT—enables the gRPC transport. HAProxy activation requires cluster-level configuration but integrates with existing Kubernetes deployments.
-
-Anyscale is working toward making both optimizations the default for all inter-deployment communication, with an RFC currently under discussion. For teams already running Ray Serve in production, the upgrade path is straightforward: update to Ray 2.55+ and flip the appropriate flags.
-
-The benchmark code is publicly available on GitHub for teams wanting to validate performance gains against their specific workloads before deploying.
-
-Anyscale announces major Ray Serve optimizations with HAProxy and gRPC, achieving 11.1x throughput gains for LLM inference workloads on enterprise deployments.
-
-Anyscale has shipped substantial performance upgrades to Ray Serve that slash P99 latency by up to 88% and boost throughput by 11.1x for large language model inference workloads. The improvements, available in Ray 2.55+, address scaling bottlenecks that have plagued enterprise AI deployments running latency-sensitive applications.
-
-The upgrades center on two architectural changes: HAProxy integration for ingress traffic and direct gRPC communication between deployment replicas. Both bypass Python-based components that previously created chokepoints under heavy load.
-
-In benchmark testing of a deep learning recommendation model pipeline, the optimized configuration pushed throughput from 490 to 1,573 queries per second while cutting P99 latency by 75%. At 400 concurrent users, the performance gap widened dramatically as Ray Serve's default Python proxy saturated while HAProxy continued scaling.
-
-For LLM inference specifically, the results proved even more striking. Running GPT-class models on H100 GPUs at 256 concurrent users per replica, throughput scaled linearly with replica count when using HAProxy—something the default configuration couldn't achieve as the Python process hit its ceiling.
-
-Streaming workloads saw 8.9x throughput improvements, while unary request patterns hit the full 11.1x gain.
-
-The core problem: Ray Serve's default proxy runs on Python's asyncio, which struggles at high concurrency. HAProxy, written in C and battle-tested across production systems globally, handles the same traffic with significantly less overhead.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-9ec1f6c56f8f9cdae8accdb9148cbb895a481027</guid>
-      <title>GitHub Copilot SDK Enables AI-Powered Developer Tools in React Native Apps | GitHub&apos;s Copilot SDK lets developers embed AI agents into applications. New tutorial show... https://Blockchain.News/news/github-copilot-sdk-react-native-integration-tutorial</title>
-      <link>https://Blockchain.News/news/github-copilot-sdk-react-native-integration-tutorial</link>
-      <pubDate>Tue, 24 Mar 2026 16:36:48 GMT</pubDate>
-      <description><![CDATA[Original title: GitHub Copilot SDK Enables AI-Powered Developer Tools in React Native Apps
-Summary: GitHub's Copilot SDK lets developers embed AI agents into applications. New tutorial shows server-side integration patterns for mobile apps.
-Article text: GitHub's Copilot SDK lets developers embed AI agents into applications. New tutorial shows server-side integration patterns for mobile apps.
-
-GitHub published a detailed technical guide on integrating its Copilot SDK into mobile applications, demonstrating how developers can embed the same AI that powers Copilot Chat into custom tools. The tutorial, released March 24, 2026, walks through building an issue triage app that generates AI-powered summaries for GitHub issues.
-
-The Copilot SDK, which entered technical preview in January 2026, provides access to GitHub's production-tested agent runtime without requiring developers to build planning, tool orchestration, or context management from scratch. The SDK supports Node.js/TypeScript, Python, Go, and .NET, with Java support in development.
-
-The key technical constraint? React Native apps can't directly use the SDK. It requires a Node.js runtime and the Copilot CLI binary, which manages communication via JSON-RPC. This forces a server-side integration pattern.
-
-According to the tutorial authored by GitHub Senior Developer Advocate Andrea Griffiths, this architecture offers several advantages: a single SDK instance serves all mobile clients, API credentials stay on the server rather than in decompilable app bundles, and every prompt passes through centralized logging for debugging.
-
-The implementation follows a strict lifecycle: start() → createSession() → sendAndWait() → disconnect() → stop(). Griffiths emphasized that skipping the cleanup calls causes memory leaks—a lesson she reportedly learned after spending two hours debugging the issue.
-
-The tutorial reveals that structured metadata produces better AI summaries than raw text dumps. The recommended prompt format includes issue title, number, repository, state, labels, creation date, and author—context that helps the model adjust recommendations based on whether an issue comes from a first-time contributor versus a core maintainer.
-
-The SDK's sendAndWait() method accepts a timeout parameter in milliseconds. Griffiths suggests setting it high enough for complex issues but low enough that users don't stare at spinners indefinitely.
-
-AI services fail. The tutorial addresses this directly with a fallback system: subscription errors return a 403 status so clients can display clear messages, while other failures trigger a metadata-based summary built from existing issue data. The app continues functioning even when AI is unavailable.
-
-Summaries are generated on-demand rather than preemptively, keeping API costs down and avoiding wasted calls when users swipe past issues without reading them. Once generated, summaries are cached on the issue object—no second API call needed if a user returns to the same issue.
-
-Developers need the Copilot CLI installed on their server, a GitHub Copilot subscription (or BYOK configuration with their own API keys), and proper authentication via the CLI or environment variable. The SDK package sits at version 0.1.14.
-
-The source code for the demo app, called IssueCrush, is available on GitHub. The broader implication for crypto and Web3 developers: the same patterns could apply to building AI-powered tools for smart contract auditing, on-chain data analysis, or automated documentation—anywhere structured technical data benefits from AI summarization.
-
-GitHub's Copilot SDK lets developers embed AI agents into applications. New tutorial shows server-side integration patterns for mobile apps.
-
-GitHub published a detailed technical guide on integrating its Copilot SDK into mobile applications, demonstrating how developers can embed the same AI that powers Copilot Chat into custom tools. The tutorial, released March 24, 2026, walks through building an issue triage app that generates AI-powered summaries for GitHub issues.
-
-The Copilot SDK, which entered technical preview in January 2026, provides access to GitHub's production-tested agent runtime without requiring developers to build planning, tool orchestration, or context management from scratch. The SDK supports Node.js/TypeScript, Python, Go, and .NET, with Java support in development.
-
-The key technical constraint? React Native apps can't directly use the SDK. It requires a Node.js runtime and the Copilot CLI binary, which manages communication via JSON-RPC. This forces a server-side integration pattern.
-
-According to the tutorial authored by GitHub Senior Developer Advocate Andrea Griffiths, this architecture offers several advantages: a single SDK instance serves all mobile clients, API credentials stay on the server rather than in decompilable app bundles, and every prompt passes through centralized logging for debugging.
-
-The implementation follows a strict lifecycle: start() → createSession() → sendAndWait() → disconnect() → stop(). Griffiths emphasized that skipping the cleanup calls causes memory leaks—a lesson she reportedly learned after spending two hours debugging the issue.
-
-The tutorial reveals that structured metadata produces better AI summaries than raw text dumps. The recommended prompt format includes issue title, number, repository, state, labels, creation date, and author—context that helps the model adjust recommendations based on whether an issue comes from a first-time contributor versus a core maintainer.
-
-The SDK's sendAndWait() method accepts a timeout parameter in milliseconds. Griffiths suggests setting it high enough for complex issues but low enough that users don't stare at spinners indefinitely.
-Source: https://Blockchain.News/news/github-copilot-sdk-react-native-integration-tutorial]]></description>
-      <content:encoded><![CDATA[GitHub's Copilot SDK lets developers embed AI agents into applications. New tutorial shows server-side integration patterns for mobile apps.
-
-GitHub published a detailed technical guide on integrating its Copilot SDK into mobile applications, demonstrating how developers can embed the same AI that powers Copilot Chat into custom tools. The tutorial, released March 24, 2026, walks through building an issue triage app that generates AI-powered summaries for GitHub issues.
-
-The Copilot SDK, which entered technical preview in January 2026, provides access to GitHub's production-tested agent runtime without requiring developers to build planning, tool orchestration, or context management from scratch. The SDK supports Node.js/TypeScript, Python, Go, and .NET, with Java support in development.
-
-The key technical constraint? React Native apps can't directly use the SDK. It requires a Node.js runtime and the Copilot CLI binary, which manages communication via JSON-RPC. This forces a server-side integration pattern.
-
-According to the tutorial authored by GitHub Senior Developer Advocate Andrea Griffiths, this architecture offers several advantages: a single SDK instance serves all mobile clients, API credentials stay on the server rather than in decompilable app bundles, and every prompt passes through centralized logging for debugging.
-
-The implementation follows a strict lifecycle: start() → createSession() → sendAndWait() → disconnect() → stop(). Griffiths emphasized that skipping the cleanup calls causes memory leaks—a lesson she reportedly learned after spending two hours debugging the issue.
-
-The tutorial reveals that structured metadata produces better AI summaries than raw text dumps. The recommended prompt format includes issue title, number, repository, state, labels, creation date, and author—context that helps the model adjust recommendations based on whether an issue comes from a first-time contributor versus a core maintainer.
-
-The SDK's sendAndWait() method accepts a timeout parameter in milliseconds. Griffiths suggests setting it high enough for complex issues but low enough that users don't stare at spinners indefinitely.
-
-AI services fail. The tutorial addresses this directly with a fallback system: subscription errors return a 403 status so clients can display clear messages, while other failures trigger a metadata-based summary built from existing issue data. The app continues functioning even when AI is unavailable.
-
-Summaries are generated on-demand rather than preemptively, keeping API costs down and avoiding wasted calls when users swipe past issues without reading them. Once generated, summaries are cached on the issue object—no second API call needed if a user returns to the same issue.
-
-Developers need the Copilot CLI installed on their server, a GitHub Copilot subscription (or BYOK configuration with their own API keys), and proper authentication via the CLI or environment variable. The SDK package sits at version 0.1.14.
-
-The source code for the demo app, called IssueCrush, is available on GitHub. The broader implication for crypto and Web3 developers: the same patterns could apply to building AI-powered tools for smart contract auditing, on-chain data analysis, or automated documentation—anywhere structured technical data benefits from AI summarization.
-
-GitHub's Copilot SDK lets developers embed AI agents into applications. New tutorial shows server-side integration patterns for mobile apps.
-
-GitHub published a detailed technical guide on integrating its Copilot SDK into mobile applications, demonstrating how developers can embed the same AI that powers Copilot Chat into custom tools. The tutorial, released March 24, 2026, walks through building an issue triage app that generates AI-powered summaries for GitHub issues.
-
-The Copilot SDK, which entered technical preview in January 2026, provides access to GitHub's production-tested agent runtime without requiring developers to build planning, tool orchestration, or context management from scratch. The SDK supports Node.js/TypeScript, Python, Go, and .NET, with Java support in development.
-
-The key technical constraint? React Native apps can't directly use the SDK. It requires a Node.js runtime and the Copilot CLI binary, which manages communication via JSON-RPC. This forces a server-side integration pattern.
-
-According to the tutorial authored by GitHub Senior Developer Advocate Andrea Griffiths, this architecture offers several advantages: a single SDK instance serves all mobile clients, API credentials stay on the server rather than in decompilable app bundles, and every prompt passes through centralized logging for debugging.
-
-The implementation follows a strict lifecycle: start() → createSession() → sendAndWait() → disconnect() → stop(). Griffiths emphasized that skipping the cleanup calls causes memory leaks—a lesson she reportedly learned after spending two hours debugging the issue.
-
-The tutorial reveals that structured metadata produces better AI summaries than raw text dumps. The recommended prompt format includes issue title, number, repository, state, labels, creation date, and author—context that helps the model adjust recommendations based on whether an issue comes from a first-time contributor versus a core maintainer.
-
-The SDK's sendAndWait() method accepts a timeout parameter in milliseconds. Griffiths suggests setting it high enough for complex issues but low enough that users don't stare at spinners indefinitely.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-9c9e752d7121409362af209c8458adde3f24a35c</guid>
-      <title>NVIDIA Unveils Nemotron 3 Agent Stack at GTC 2026 Targeting Enterprise AI | NVIDIA launches full Nemotron 3 model family at GTC 2026, featuring 120B-parameter Super... https://Blockchain.News/news/nvidia-nemotron-3-agent-stack-gtc-2026-enterprise-ai</title>
-      <link>https://Blockchain.News/news/nvidia-nemotron-3-agent-stack-gtc-2026-enterprise-ai</link>
-      <pubDate>Tue, 24 Mar 2026 16:28:48 GMT</pubDate>
-      <description><![CDATA[Original title: NVIDIA Unveils Nemotron 3 Agent Stack at GTC 2026 Targeting Enterprise AI
-Summary: NVIDIA launches full Nemotron 3 model family at GTC 2026, featuring 120B-parameter Super model with 5x throughput gains and multimodal safety capabilities.
-Article text: NVIDIA launches full Nemotron 3 model family at GTC 2026, featuring 120B-parameter Super model with 5x throughput gains and multimodal safety capabilities.
-
-NVIDIA dropped its complete Nemotron 3 agent stack at GTC 2026, giving developers a unified toolkit for building production-grade AI systems that can reason, see, hear, and police themselves. The release marks a significant expansion from the initial December 2025 announcement, with the company now shipping models purpose-built for multi-agent orchestration across enterprise workflows.
-
-The centerpiece is Nemotron 3 Super, a 120B-parameter hybrid model that activates just 12B parameters per inference pass. NVIDIA claims up to 5x higher throughput compared to previous generations when running in NVFP4 precision on Blackwell GPUs. The model handles 1M-token context windows—critical for agent systems where conversation histories can balloon to 15x standard chat lengths.
-
-Multi-agent systems face what NVIDIA calls "context explosion" and "thinking tax"—the computational burden of maintaining massive token histories while performing chain-of-thought reasoning at every decision point. Super's latent MoE architecture calls four expert specialists for the inference cost of one, compressing tokens before they reach the experts.
-
-A configurable "thinking budget" lets developers cap chain-of-thought reasoning to keep latency predictable. On the Artificial Analysis Intelligence Index for open-weight models under 250B parameters, Nemotron 3 Super ranks among the top performers while landing in what the benchmark calls the "most attractive" efficiency quadrant.
-
-Nemotron 3 Content Safety is a 4B-parameter model that screens both text and images for unsafe content. Built on Gemma-3-4B with an adapter-based classification head, it hits approximately 84% accuracy on multimodal, multilingual safety benchmarks—outperforming alternatives while maintaining latency suitable for inline production moderation.
-
-The model covers 23 content categories including hate, harassment, violence, and unauthorized advice. NVIDIA trained it on human-annotated real-world images rather than primarily synthetic data, supporting 12 languages with zero-shot generalization beyond them.
-
-Nemotron 3 VoiceChat, currently in early access, is a 12B-parameter end-to-end speech model targeting sub-300ms latency for full-duplex conversations. It processes 80ms audio chunks faster than real-time, eliminating the traditional ASR-LLM-TTS cascade that introduces multiple failure points.
-
-For document retrieval, Llama Nemotron Embed VL and Rerank VL handle visual document search—PDFs with charts, scanned contracts, tables—that text-only systems miss entirely. The 1.7B-parameter embedding model sits on the Pareto frontier for accuracy versus throughput on a single H100.
-
-NVIDIA also previewed Nemotron 3 Nano Omni, described as the first open native omni-understanding model with video reasoning enhanced through audio transcription. The company said to expect release updates soon.
-
-With NVIDIA's market cap sitting at $4.5 trillion as of March 2026, the Nemotron family represents the company's bet that enterprise AI adoption hinges on giving developers open, customizable models they can tune and deploy within their own security perimeters. All models ship under NVIDIA's permissive open model license, with weights, training data, and development recipes available on Hugging Face.
-
-The NeMo Agent Toolkit, released alongside the models, profiles and optimizes agentic systems from LangChain, AutoGen, and AWS Strands without code changes—addressing the operational complexity that's kept many agent deployments stuck in prototype phase.
-
-NVIDIA launches full Nemotron 3 model family at GTC 2026, featuring 120B-parameter Super model with 5x throughput gains and multimodal safety capabilities.
-
-NVIDIA dropped its complete Nemotron 3 agent stack at GTC 2026, giving developers a unified toolkit for building production-grade AI systems that can reason, see, hear, and police themselves. The release marks a significant expansion from the initial December 2025 announcement, with the company now shipping models purpose-built for multi-agent orchestration across enterprise workflows.
-
-The centerpiece is Nemotron 3 Super, a 120B-parameter hybrid model that activates just 12B parameters per inference pass. NVIDIA claims up to 5x higher throughput compared to previous generations when running in NVFP4 precision on Blackwell GPUs. The model handles 1M-token context windows—critical for agent systems where conversation histories can balloon to 15x standard chat lengths.
-
-Multi-agent systems face what NVIDIA calls "context explosion" and "thinking tax"—the computational burden of maintaining massive token histories while performing chain-of-thought reasoning at every decision point. Super's latent MoE architecture calls four expert specialists for the inference cost of one, compressing tokens before they reach the experts.
-
-A configurable "thinking budget" lets developers cap chain-of-thought reasoning to keep latency predictable. On the Artificial Analysis Intelligence Index for open-weight models under 250B parameters, Nemotron 3 Super ranks among the top performers while landing in what the benchmark calls the "most attractive" efficiency quadrant.
-
-Nemotron 3 Content Safety is a 4B-parameter model that screens both text and images for unsafe content. Built on Gemma-3-4B with an adapter-based classification head, it hits approximately 84% accuracy on multimodal, multilingual safety benchmarks—outperforming alternatives while maintaining latency suitable for inline production moderation.
-
-The model covers 23 content categories including hate, harassment, violence, and unauthorized advice. NVIDIA trained it on human-annotated real-world images rather than primarily synthetic data, supporting 12 languages with zero-shot generalization beyond them.
-
-Nemotron 3 VoiceChat, currently in early access, is a 12B-parameter end-to-end speech model targeting sub-300ms latency for full-duplex conversations. It processes 80ms audio chunks faster than real-time, eliminating the traditional ASR-LLM-TTS cascade that introduces multiple failure points.
-Source: https://Blockchain.News/news/nvidia-nemotron-3-agent-stack-gtc-2026-enterprise-ai]]></description>
-      <content:encoded><![CDATA[NVIDIA launches full Nemotron 3 model family at GTC 2026, featuring 120B-parameter Super model with 5x throughput gains and multimodal safety capabilities.
-
-NVIDIA dropped its complete Nemotron 3 agent stack at GTC 2026, giving developers a unified toolkit for building production-grade AI systems that can reason, see, hear, and police themselves. The release marks a significant expansion from the initial December 2025 announcement, with the company now shipping models purpose-built for multi-agent orchestration across enterprise workflows.
-
-The centerpiece is Nemotron 3 Super, a 120B-parameter hybrid model that activates just 12B parameters per inference pass. NVIDIA claims up to 5x higher throughput compared to previous generations when running in NVFP4 precision on Blackwell GPUs. The model handles 1M-token context windows—critical for agent systems where conversation histories can balloon to 15x standard chat lengths.
-
-Multi-agent systems face what NVIDIA calls "context explosion" and "thinking tax"—the computational burden of maintaining massive token histories while performing chain-of-thought reasoning at every decision point. Super's latent MoE architecture calls four expert specialists for the inference cost of one, compressing tokens before they reach the experts.
-
-A configurable "thinking budget" lets developers cap chain-of-thought reasoning to keep latency predictable. On the Artificial Analysis Intelligence Index for open-weight models under 250B parameters, Nemotron 3 Super ranks among the top performers while landing in what the benchmark calls the "most attractive" efficiency quadrant.
-
-Nemotron 3 Content Safety is a 4B-parameter model that screens both text and images for unsafe content. Built on Gemma-3-4B with an adapter-based classification head, it hits approximately 84% accuracy on multimodal, multilingual safety benchmarks—outperforming alternatives while maintaining latency suitable for inline production moderation.
-
-The model covers 23 content categories including hate, harassment, violence, and unauthorized advice. NVIDIA trained it on human-annotated real-world images rather than primarily synthetic data, supporting 12 languages with zero-shot generalization beyond them.
-
-Nemotron 3 VoiceChat, currently in early access, is a 12B-parameter end-to-end speech model targeting sub-300ms latency for full-duplex conversations. It processes 80ms audio chunks faster than real-time, eliminating the traditional ASR-LLM-TTS cascade that introduces multiple failure points.
-
-For document retrieval, Llama Nemotron Embed VL and Rerank VL handle visual document search—PDFs with charts, scanned contracts, tables—that text-only systems miss entirely. The 1.7B-parameter embedding model sits on the Pareto frontier for accuracy versus throughput on a single H100.
-
-NVIDIA also previewed Nemotron 3 Nano Omni, described as the first open native omni-understanding model with video reasoning enhanced through audio transcription. The company said to expect release updates soon.
-
-With NVIDIA's market cap sitting at $4.5 trillion as of March 2026, the Nemotron family represents the company's bet that enterprise AI adoption hinges on giving developers open, customizable models they can tune and deploy within their own security perimeters. All models ship under NVIDIA's permissive open model license, with weights, training data, and development recipes available on Hugging Face.
-
-The NeMo Agent Toolkit, released alongside the models, profiles and optimizes agentic systems from LangChain, AutoGen, and AWS Strands without code changes—addressing the operational complexity that's kept many agent deployments stuck in prototype phase.
-
-NVIDIA launches full Nemotron 3 model family at GTC 2026, featuring 120B-parameter Super model with 5x throughput gains and multimodal safety capabilities.
-
-NVIDIA dropped its complete Nemotron 3 agent stack at GTC 2026, giving developers a unified toolkit for building production-grade AI systems that can reason, see, hear, and police themselves. The release marks a significant expansion from the initial December 2025 announcement, with the company now shipping models purpose-built for multi-agent orchestration across enterprise workflows.
-
-The centerpiece is Nemotron 3 Super, a 120B-parameter hybrid model that activates just 12B parameters per inference pass. NVIDIA claims up to 5x higher throughput compared to previous generations when running in NVFP4 precision on Blackwell GPUs. The model handles 1M-token context windows—critical for agent systems where conversation histories can balloon to 15x standard chat lengths.
-
-Multi-agent systems face what NVIDIA calls "context explosion" and "thinking tax"—the computational burden of maintaining massive token histories while performing chain-of-thought reasoning at every decision point. Super's latent MoE architecture calls four expert specialists for the inference cost of one, compressing tokens before they reach the experts.
-
-A configurable "thinking budget" lets developers cap chain-of-thought reasoning to keep latency predictable. On the Artificial Analysis Intelligence Index for open-weight models under 250B parameters, Nemotron 3 Super ranks among the top performers while landing in what the benchmark calls the "most attractive" efficiency quadrant.
-
-Nemotron 3 Content Safety is a 4B-parameter model that screens both text and images for unsafe content. Built on Gemma-3-4B with an adapter-based classification head, it hits approximately 84% accuracy on multimodal, multilingual safety benchmarks—outperforming alternatives while maintaining latency suitable for inline production moderation.
-
-The model covers 23 content categories including hate, harassment, violence, and unauthorized advice. NVIDIA trained it on human-annotated real-world images rather than primarily synthetic data, supporting 12 languages with zero-shot generalization beyond them.
-
-Nemotron 3 VoiceChat, currently in early access, is a 12B-parameter end-to-end speech model targeting sub-300ms latency for full-duplex conversations. It processes 80ms audio chunks faster than real-time, eliminating the traditional ASR-LLM-TTS cascade that introduces multiple failure points.]]></content:encoded>
     </item>
   </channel>
 </rss>
