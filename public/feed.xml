@@ -4,16 +4,346 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Mon, 30 Mar 2026 02:03:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:21:34 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-b4cff4e37321e2be519d049642d612af1af48714</guid>
+      <title>Paxos Unveils $1M Bug Bounty Program Covering PYUSD, PAXG, USDG Smart Contracts | Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin a... https://Blockchain.News/news/paxos-1m-bug-bounty-cantina-pyusd-paxg-usdg</title>
+      <link>https://Blockchain.News/news/paxos-1m-bug-bounty-cantina-pyusd-paxg-usdg</link>
+      <pubDate>Fri, 27 Mar 2026 16:28:40 GMT</pubDate>
+      <description><![CDATA[Original title: Paxos Unveils $1M Bug Bounty Program Covering PYUSD, PAXG, USDG Smart Contracts
+Summary: Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin and gold token contracts plus Web2 infrastructure in security push.
+Article text: Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin and gold token contracts plus Web2 infrastructure in security push.
+
+Paxos is putting $1 million on the table for security researchers who can break its infrastructure. The regulated blockchain company launched a comprehensive bug bounty program on Cantina, covering smart contracts for USDG, PYUSD, and PAXG, along with its Web2 services, APIs, and domains.
+
+The top payout—$1 million in USDG—targets critical vulnerabilities that could compromise the company's core systems. That's not a marketing number. Paxos explicitly wants "the best researchers in the world going deep" on its code.
+
+What makes this program notable is its breadth. Most crypto bug bounties focus narrowly on smart contracts. Paxos is including cross-chain infrastructure, public-facing products, and traditional web services—essentially mapping the program to how actual attackers would probe for weaknesses.
+
+The timing connects to commitments Paxos made when launching USDG on Aave v3. The company told Aave, LlamaRisk, and the broader community it would formalize external security testing. This delivers on that promise.
+
+For now, the program remains restricted to researchers already active in Cantina's network. Paxos chose the platform specifically for its Web3-native focus and community of specialists who understand the unique threat surface of tokenized assets.
+
+Researchers outside the network can request access through Cantina's program page. The company indicated it will expand access after the initial invitation-only phase.
+
+The covered tokens represent significant value. PAXG, the gold-backed token, currently sits at a market cap of approximately $2.33 billion with recent 24-hour gains of 1.85%. Just this week, Paxos executed a $4.38 million PAXG transfer to institutional market maker B2C2, signaling continued institutional activity around the token.
+
+PYUSD, PayPal's stablecoin built on Paxos infrastructure, adds another layer of exposure. Any vulnerability in these contracts could affect both retail and institutional users across multiple platforms.
+
+Paxos operates under regulatory oversight from the OCC through its national trust charter, making security failures particularly costly from both financial and compliance perspectives.
+
+The company is also hiring for its security team, suggesting this bounty program is part of a broader security infrastructure buildout rather than a one-off initiative.
+
+Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin and gold token contracts plus Web2 infrastructure in security push.
+
+Paxos is putting $1 million on the table for security researchers who can break its infrastructure. The regulated blockchain company launched a comprehensive bug bounty program on Cantina, covering smart contracts for USDG, PYUSD, and PAXG, along with its Web2 services, APIs, and domains.
+
+The top payout—$1 million in USDG—targets critical vulnerabilities that could compromise the company's core systems. That's not a marketing number. Paxos explicitly wants "the best researchers in the world going deep" on its code.
+
+What makes this program notable is its breadth. Most crypto bug bounties focus narrowly on smart contracts. Paxos is including cross-chain infrastructure, public-facing products, and traditional web services—essentially mapping the program to how actual attackers would probe for weaknesses.
+
+The timing connects to commitments Paxos made when launching USDG on Aave v3. The company told Aave, LlamaRisk, and the broader community it would formalize external security testing. This delivers on that promise.
+
+For now, the program remains restricted to researchers already active in Cantina's network. Paxos chose the platform specifically for its Web3-native focus and community of specialists who understand the unique threat surface of tokenized assets.
+
+Researchers outside the network can request access through Cantina's program page. The company indicated it will expand access after the initial invitation-only phase.
+
+The covered tokens represent significant value. PAXG, the gold-backed token, currently sits at a market cap of approximately $2.33 billion with recent 24-hour gains of 1.85%. Just this week, Paxos executed a $4.38 million PAXG transfer to institutional market maker B2C2, signaling continued institutional activity around the token.
+
+PYUSD, PayPal's stablecoin built on Paxos infrastructure, adds another layer of exposure. Any vulnerability in these contracts could affect both retail and institutional users across multiple platforms.
+Source: https://Blockchain.News/news/paxos-1m-bug-bounty-cantina-pyusd-paxg-usdg]]></description>
+      <content:encoded><![CDATA[Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin and gold token contracts plus Web2 infrastructure in security push.
+
+Paxos is putting $1 million on the table for security researchers who can break its infrastructure. The regulated blockchain company launched a comprehensive bug bounty program on Cantina, covering smart contracts for USDG, PYUSD, and PAXG, along with its Web2 services, APIs, and domains.
+
+The top payout—$1 million in USDG—targets critical vulnerabilities that could compromise the company's core systems. That's not a marketing number. Paxos explicitly wants "the best researchers in the world going deep" on its code.
+
+What makes this program notable is its breadth. Most crypto bug bounties focus narrowly on smart contracts. Paxos is including cross-chain infrastructure, public-facing products, and traditional web services—essentially mapping the program to how actual attackers would probe for weaknesses.
+
+The timing connects to commitments Paxos made when launching USDG on Aave v3. The company told Aave, LlamaRisk, and the broader community it would formalize external security testing. This delivers on that promise.
+
+For now, the program remains restricted to researchers already active in Cantina's network. Paxos chose the platform specifically for its Web3-native focus and community of specialists who understand the unique threat surface of tokenized assets.
+
+Researchers outside the network can request access through Cantina's program page. The company indicated it will expand access after the initial invitation-only phase.
+
+The covered tokens represent significant value. PAXG, the gold-backed token, currently sits at a market cap of approximately $2.33 billion with recent 24-hour gains of 1.85%. Just this week, Paxos executed a $4.38 million PAXG transfer to institutional market maker B2C2, signaling continued institutional activity around the token.
+
+PYUSD, PayPal's stablecoin built on Paxos infrastructure, adds another layer of exposure. Any vulnerability in these contracts could affect both retail and institutional users across multiple platforms.
+
+Paxos operates under regulatory oversight from the OCC through its national trust charter, making security failures particularly costly from both financial and compliance perspectives.
+
+The company is also hiring for its security team, suggesting this bounty program is part of a broader security infrastructure buildout rather than a one-off initiative.
+
+Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin and gold token contracts plus Web2 infrastructure in security push.
+
+Paxos is putting $1 million on the table for security researchers who can break its infrastructure. The regulated blockchain company launched a comprehensive bug bounty program on Cantina, covering smart contracts for USDG, PYUSD, and PAXG, along with its Web2 services, APIs, and domains.
+
+The top payout—$1 million in USDG—targets critical vulnerabilities that could compromise the company's core systems. That's not a marketing number. Paxos explicitly wants "the best researchers in the world going deep" on its code.
+
+What makes this program notable is its breadth. Most crypto bug bounties focus narrowly on smart contracts. Paxos is including cross-chain infrastructure, public-facing products, and traditional web services—essentially mapping the program to how actual attackers would probe for weaknesses.
+
+The timing connects to commitments Paxos made when launching USDG on Aave v3. The company told Aave, LlamaRisk, and the broader community it would formalize external security testing. This delivers on that promise.
+
+For now, the program remains restricted to researchers already active in Cantina's network. Paxos chose the platform specifically for its Web3-native focus and community of specialists who understand the unique threat surface of tokenized assets.
+
+Researchers outside the network can request access through Cantina's program page. The company indicated it will expand access after the initial invitation-only phase.
+
+The covered tokens represent significant value. PAXG, the gold-backed token, currently sits at a market cap of approximately $2.33 billion with recent 24-hour gains of 1.85%. Just this week, Paxos executed a $4.38 million PAXG transfer to institutional market maker B2C2, signaling continued institutional activity around the token.
+
+PYUSD, PayPal's stablecoin built on Paxos infrastructure, adds another layer of exposure. Any vulnerability in these contracts could affect both retail and institutional users across multiple platforms.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-a629687e23de1806ccbfe72c81ecb4c9de30f0a7</guid>
+      <title>Harvey AI Hits $11B Valuation as Legal AI Adoption Reaches Tipping Point | Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now... https://Blockchain.News/news/harvey-ai-11b-valuation-legal-adoption-tipping-point</title>
+      <link>https://Blockchain.News/news/harvey-ai-11b-valuation-legal-adoption-tipping-point</link>
+      <pubDate>Fri, 27 Mar 2026 15:38:03 GMT</pubDate>
+      <description><![CDATA[Original title: Harvey AI Hits $11B Valuation as Legal AI Adoption Reaches Tipping Point
+Summary: Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now deploy legal AI tools. Here's how top firms are using it.
+Article text: Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now deploy legal AI tools. Here's how top firms are using it.
+
+Legal AI startup Harvey just closed a $200 million funding round that values the company at $11 billion—a staggering figure that reflects how quickly generative AI is reshaping professional services. The timing isn't coincidental: new survey data shows half of UK law firms have already deployed legal-specific AI tools, though only 20% have embedded them into standard workflows.
+
+That gap between experimentation and operational change? That's where the real money is.
+
+The Briefing AI Leaders Community Index surveyed more than 70 senior leaders across leading UK law firms and found adoption accelerating across the full lifecycle of legal work—summarization, data extraction, document review, due diligence, research, drafting, and knowledge management.
+
+Harvey's growth trajectory backs this up. The platform now claims over 100,000 lawyers across more than 1,300 organizations in 60 countries. Founded in 2022 by Winston Weinberg, a former securities litigator, and Gabriel Pereyra from Google DeepMind, the company has moved from startup curiosity to enterprise standard faster than most legal tech plays.
+
+Forget the generic "AI will transform everything" pitch. Here's what's actually working:
+
+Summarization at Honigman: The firm delivered a complete set of deposition summaries plus thematic analysis in under a day. Previous timeline? Several associates working for two weeks. The workflow handles new transcripts without restarting the entire process.
+
+Data extraction at Haynes Boone: Projects that required months of manual review now complete in hours. Director of Practice Innovation Tony Capecci put it bluntly: attorneys focus on validating outputs and drawing insights rather than combing through documents.
+
+Document review at King & Wood Mallesons: Teams centralize massive document sets—like steering committee minutes—into shared workspaces for continuous analysis. The same dataset gets reused across multiple workflows, from witness identification to affidavit drafting.
+
+German firm Hengeler Mueller offers perhaps the most compelling use case for time-sensitive deal work. Pierre Zickert, their Head of Legal Technology, says Harvey helps teams "gain a rapid overview of large data rooms" and identify key documents "significantly more efficiently than has ever been possible by human effort."
+
+What's notable: even trainees days into the firm are building sophisticated workflow agents for due diligence. Not basic prompts—structured logic applied in real client work.
+
+The $11 billion valuation—up from previous rounds—signals investor confidence that legal AI isn't just a productivity tool but a fundamental shift in how professional services operate. Harvey competes in a space that includes Casetext (acquired by Thomson Reuters), Luminance, and various LLM wrappers, but its enterprise penetration suggests it's pulling ahead.
+
+The 30-point gap between firms deploying AI (50%) and those embedding it in workflows (20%) represents the next battleground. Vendors that can close that gap—turning experiments into daily operations—will capture the lion's share of legal tech spending.
+
+For law firms still on the sidelines, the competitive pressure is building. When your rival delivers deposition analysis in a day instead of two weeks, that's not just efficiency—it's a pricing advantage.
+
+Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now deploy legal AI tools. Here's how top firms are using it.
+
+Legal AI startup Harvey just closed a $200 million funding round that values the company at $11 billion—a staggering figure that reflects how quickly generative AI is reshaping professional services. The timing isn't coincidental: new survey data shows half of UK law firms have already deployed legal-specific AI tools, though only 20% have embedded them into standard workflows.
+
+That gap between experimentation and operational change? That's where the real money is.
+
+The Briefing AI Leaders Community Index surveyed more than 70 senior leaders across leading UK law firms and found adoption accelerating across the full lifecycle of legal work—summarization, data extraction, document review, due diligence, research, drafting, and knowledge management.
+
+Harvey's growth trajectory backs this up. The platform now claims over 100,000 lawyers across more than 1,300 organizations in 60 countries. Founded in 2022 by Winston Weinberg, a former securities litigator, and Gabriel Pereyra from Google DeepMind, the company has moved from startup curiosity to enterprise standard faster than most legal tech plays.
+
+Forget the generic "AI will transform everything" pitch. Here's what's actually working:
+Source: https://Blockchain.News/news/harvey-ai-11b-valuation-legal-adoption-tipping-point]]></description>
+      <content:encoded><![CDATA[Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now deploy legal AI tools. Here's how top firms are using it.
+
+Legal AI startup Harvey just closed a $200 million funding round that values the company at $11 billion—a staggering figure that reflects how quickly generative AI is reshaping professional services. The timing isn't coincidental: new survey data shows half of UK law firms have already deployed legal-specific AI tools, though only 20% have embedded them into standard workflows.
+
+That gap between experimentation and operational change? That's where the real money is.
+
+The Briefing AI Leaders Community Index surveyed more than 70 senior leaders across leading UK law firms and found adoption accelerating across the full lifecycle of legal work—summarization, data extraction, document review, due diligence, research, drafting, and knowledge management.
+
+Harvey's growth trajectory backs this up. The platform now claims over 100,000 lawyers across more than 1,300 organizations in 60 countries. Founded in 2022 by Winston Weinberg, a former securities litigator, and Gabriel Pereyra from Google DeepMind, the company has moved from startup curiosity to enterprise standard faster than most legal tech plays.
+
+Forget the generic "AI will transform everything" pitch. Here's what's actually working:
+
+Summarization at Honigman: The firm delivered a complete set of deposition summaries plus thematic analysis in under a day. Previous timeline? Several associates working for two weeks. The workflow handles new transcripts without restarting the entire process.
+
+Data extraction at Haynes Boone: Projects that required months of manual review now complete in hours. Director of Practice Innovation Tony Capecci put it bluntly: attorneys focus on validating outputs and drawing insights rather than combing through documents.
+
+Document review at King & Wood Mallesons: Teams centralize massive document sets—like steering committee minutes—into shared workspaces for continuous analysis. The same dataset gets reused across multiple workflows, from witness identification to affidavit drafting.
+
+German firm Hengeler Mueller offers perhaps the most compelling use case for time-sensitive deal work. Pierre Zickert, their Head of Legal Technology, says Harvey helps teams "gain a rapid overview of large data rooms" and identify key documents "significantly more efficiently than has ever been possible by human effort."
+
+What's notable: even trainees days into the firm are building sophisticated workflow agents for due diligence. Not basic prompts—structured logic applied in real client work.
+
+The $11 billion valuation—up from previous rounds—signals investor confidence that legal AI isn't just a productivity tool but a fundamental shift in how professional services operate. Harvey competes in a space that includes Casetext (acquired by Thomson Reuters), Luminance, and various LLM wrappers, but its enterprise penetration suggests it's pulling ahead.
+
+The 30-point gap between firms deploying AI (50%) and those embedding it in workflows (20%) represents the next battleground. Vendors that can close that gap—turning experiments into daily operations—will capture the lion's share of legal tech spending.
+
+For law firms still on the sidelines, the competitive pressure is building. When your rival delivers deposition analysis in a day instead of two weeks, that's not just efficiency—it's a pricing advantage.
+
+Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now deploy legal AI tools. Here's how top firms are using it.
+
+Legal AI startup Harvey just closed a $200 million funding round that values the company at $11 billion—a staggering figure that reflects how quickly generative AI is reshaping professional services. The timing isn't coincidental: new survey data shows half of UK law firms have already deployed legal-specific AI tools, though only 20% have embedded them into standard workflows.
+
+That gap between experimentation and operational change? That's where the real money is.
+
+The Briefing AI Leaders Community Index surveyed more than 70 senior leaders across leading UK law firms and found adoption accelerating across the full lifecycle of legal work—summarization, data extraction, document review, due diligence, research, drafting, and knowledge management.
+
+Harvey's growth trajectory backs this up. The platform now claims over 100,000 lawyers across more than 1,300 organizations in 60 countries. Founded in 2022 by Winston Weinberg, a former securities litigator, and Gabriel Pereyra from Google DeepMind, the company has moved from startup curiosity to enterprise standard faster than most legal tech plays.
+
+Forget the generic "AI will transform everything" pitch. Here's what's actually working:]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-87718f152ba23f67ac1dcb830db5d6a347c370a2</guid>
+      <title>Circle Brings USDC and CCTP to Pharos L1 Ahead of Mainnet Launch | Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-... https://Blockchain.News/news/circle-usdc-cctp-pharos-l1-mainnet-integration</title>
+      <link>https://Blockchain.News/news/circle-usdc-cctp-pharos-l1-mainnet-integration</link>
+      <pubDate>Fri, 27 Mar 2026 15:24:08 GMT</pubDate>
+      <description><![CDATA[Original title: Circle Brings USDC and CCTP to Pharos L1 Ahead of Mainnet Launch
+Summary: Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-focused L1 blockchain preparing for mainnet with $10M incubator program.
+Article text: Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-focused L1 blockchain preparing for mainnet with $10M incubator program.
+
+Circle is expanding USDC's reach to yet another blockchain, announcing that its stablecoin and Cross-Chain Transfer Protocol will integrate with Pharos, a layer-1 network targeting tokenized real-world assets and regulated DeFi applications.
+
+The integration positions USDC as the primary settlement and collateral asset across Pharos' ecosystem, which is currently running a private testnet ahead of a public mainnet release. Developers can already experiment with testnet USDC via Circle's faucet.
+
+Pharos isn't trying to be another general-purpose smart contract platform. The EVM-compatible L1 is specifically architected for compliance-aware financial infrastructure—think tokenized commodities, private credit, treasuries, and regulated lending protocols.
+
+The network features sub-second finality and parallel execution across both EVM and WASM environments. More notably, it's built with strong connectivity to Asia-Pacific markets, a region where regulatory clarity around digital assets has been accelerating.
+
+For institutions already using USDC—which currently holds a $78.05 billion market cap—Pharos offers infrastructure designed around their operational requirements rather than retrofitted for compliance.
+
+The CCTP integration may prove more significant than the USDC listing itself. Cross-chain bridges have been a persistent security headache, with billions lost to exploits over the years. CCTP sidesteps this by burning USDC on the source chain and minting native tokens on the destination—no wrapped assets, no third-party bridge risk.
+
+Users will have two options: Standard Transfer for lower fees or Fast Transfer for time-sensitive moves. For payment providers and institutions managing liquidity across multiple networks, this standardized mechanism simplifies reconciliation considerably.
+
+Pharos is backing the integration with a $10 million incubator program specifically targeting DeFi applications built around USDC. The program includes funding, mentorship, and technical resources—standard accelerator fare, but the USDC focus signals where Pharos expects ecosystem activity to concentrate.
+
+This comes at an interesting time for Circle. Recent reports indicate USDC has seen outflows as liquidity shifts toward USDT, and Citigroup analysts have suggested U.S. restrictions could slow USDC growth. Expanding to compliance-focused chains like Pharos represents a strategic pivot toward institutional use cases where regulatory alignment is a feature, not a bug.
+
+The mainnet launch date remains unannounced, but testnet integration is live now. For those tracking RWA tokenization trends, Pharos' approach—combining high throughput with compliance infrastructure—could attract significant institutional capital if execution matches the pitch.
+
+USDC's contract address on Pharos testnet is already public: 0xcfc8330f4bcab529c625d12781b1c19466a9fc8b. Mainnet details will follow as the launch approaches.
+
+Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-focused L1 blockchain preparing for mainnet with $10M incubator program.
+
+Circle is expanding USDC's reach to yet another blockchain, announcing that its stablecoin and Cross-Chain Transfer Protocol will integrate with Pharos, a layer-1 network targeting tokenized real-world assets and regulated DeFi applications.
+
+The integration positions USDC as the primary settlement and collateral asset across Pharos' ecosystem, which is currently running a private testnet ahead of a public mainnet release. Developers can already experiment with testnet USDC via Circle's faucet.
+
+Pharos isn't trying to be another general-purpose smart contract platform. The EVM-compatible L1 is specifically architected for compliance-aware financial infrastructure—think tokenized commodities, private credit, treasuries, and regulated lending protocols.
+
+The network features sub-second finality and parallel execution across both EVM and WASM environments. More notably, it's built with strong connectivity to Asia-Pacific markets, a region where regulatory clarity around digital assets has been accelerating.
+
+For institutions already using USDC—which currently holds a $78.05 billion market cap—Pharos offers infrastructure designed around their operational requirements rather than retrofitted for compliance.
+
+The CCTP integration may prove more significant than the USDC listing itself. Cross-chain bridges have been a persistent security headache, with billions lost to exploits over the years. CCTP sidesteps this by burning USDC on the source chain and minting native tokens on the destination—no wrapped assets, no third-party bridge risk.
+
+Users will have two options: Standard Transfer for lower fees or Fast Transfer for time-sensitive moves. For payment providers and institutions managing liquidity across multiple networks, this standardized mechanism simplifies reconciliation considerably.
+Source: https://Blockchain.News/news/circle-usdc-cctp-pharos-l1-mainnet-integration]]></description>
+      <content:encoded><![CDATA[Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-focused L1 blockchain preparing for mainnet with $10M incubator program.
+
+Circle is expanding USDC's reach to yet another blockchain, announcing that its stablecoin and Cross-Chain Transfer Protocol will integrate with Pharos, a layer-1 network targeting tokenized real-world assets and regulated DeFi applications.
+
+The integration positions USDC as the primary settlement and collateral asset across Pharos' ecosystem, which is currently running a private testnet ahead of a public mainnet release. Developers can already experiment with testnet USDC via Circle's faucet.
+
+Pharos isn't trying to be another general-purpose smart contract platform. The EVM-compatible L1 is specifically architected for compliance-aware financial infrastructure—think tokenized commodities, private credit, treasuries, and regulated lending protocols.
+
+The network features sub-second finality and parallel execution across both EVM and WASM environments. More notably, it's built with strong connectivity to Asia-Pacific markets, a region where regulatory clarity around digital assets has been accelerating.
+
+For institutions already using USDC—which currently holds a $78.05 billion market cap—Pharos offers infrastructure designed around their operational requirements rather than retrofitted for compliance.
+
+The CCTP integration may prove more significant than the USDC listing itself. Cross-chain bridges have been a persistent security headache, with billions lost to exploits over the years. CCTP sidesteps this by burning USDC on the source chain and minting native tokens on the destination—no wrapped assets, no third-party bridge risk.
+
+Users will have two options: Standard Transfer for lower fees or Fast Transfer for time-sensitive moves. For payment providers and institutions managing liquidity across multiple networks, this standardized mechanism simplifies reconciliation considerably.
+
+Pharos is backing the integration with a $10 million incubator program specifically targeting DeFi applications built around USDC. The program includes funding, mentorship, and technical resources—standard accelerator fare, but the USDC focus signals where Pharos expects ecosystem activity to concentrate.
+
+This comes at an interesting time for Circle. Recent reports indicate USDC has seen outflows as liquidity shifts toward USDT, and Citigroup analysts have suggested U.S. restrictions could slow USDC growth. Expanding to compliance-focused chains like Pharos represents a strategic pivot toward institutional use cases where regulatory alignment is a feature, not a bug.
+
+The mainnet launch date remains unannounced, but testnet integration is live now. For those tracking RWA tokenization trends, Pharos' approach—combining high throughput with compliance infrastructure—could attract significant institutional capital if execution matches the pitch.
+
+USDC's contract address on Pharos testnet is already public: 0xcfc8330f4bcab529c625d12781b1c19466a9fc8b. Mainnet details will follow as the launch approaches.
+
+Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-focused L1 blockchain preparing for mainnet with $10M incubator program.
+
+Circle is expanding USDC's reach to yet another blockchain, announcing that its stablecoin and Cross-Chain Transfer Protocol will integrate with Pharos, a layer-1 network targeting tokenized real-world assets and regulated DeFi applications.
+
+The integration positions USDC as the primary settlement and collateral asset across Pharos' ecosystem, which is currently running a private testnet ahead of a public mainnet release. Developers can already experiment with testnet USDC via Circle's faucet.
+
+Pharos isn't trying to be another general-purpose smart contract platform. The EVM-compatible L1 is specifically architected for compliance-aware financial infrastructure—think tokenized commodities, private credit, treasuries, and regulated lending protocols.
+
+The network features sub-second finality and parallel execution across both EVM and WASM environments. More notably, it's built with strong connectivity to Asia-Pacific markets, a region where regulatory clarity around digital assets has been accelerating.
+
+For institutions already using USDC—which currently holds a $78.05 billion market cap—Pharos offers infrastructure designed around their operational requirements rather than retrofitted for compliance.
+
+The CCTP integration may prove more significant than the USDC listing itself. Cross-chain bridges have been a persistent security headache, with billions lost to exploits over the years. CCTP sidesteps this by burning USDC on the source chain and minting native tokens on the destination—no wrapped assets, no third-party bridge risk.
+
+Users will have two options: Standard Transfer for lower fees or Fast Transfer for time-sensitive moves. For payment providers and institutions managing liquidity across multiple networks, this standardized mechanism simplifies reconciliation considerably.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-d0e0a3be1e873af9cb089fded7bf58a7da7ac16d</guid>
       <title>Tether Freezes $4.2B in Illicit Funds, Earns OSCE Recognition | OSCE report highlights Tether&apos;s role in combating human trafficking through blockchain tr... https://Blockchain.News/news/tether-freezes-4-2b-illicit-funds-osce-recognition</title>
       <link>https://Blockchain.News/news/tether-freezes-4-2b-illicit-funds-osce-recognition</link>
       <pubDate>Fri, 27 Mar 2026 15:17:08 GMT</pubDate>
       <description><![CDATA[Original title: Tether Freezes $4.2B in Illicit Funds, Earns OSCE Recognition
-Summary: OSCE report highlights Tether's role in combating human trafficking through blockchain tracing, with $4.2 billion frozen across 340 law enforcement partnerships. (Read More)
+Summary: OSCE report highlights Tether's role in combating human trafficking through blockchain tracing, with $4.2 billion frozen across 340 law enforcement partnerships.
+Article text: OSCE report highlights Tether's role in combating human trafficking through blockchain tracing, with $4.2 billion frozen across 340 law enforcement partnerships.
+
+Tether has frozen approximately $4.2 billion in assets tied to illicit activity, according to new figures released alongside an Organization for Security and Co-operation in Europe report that credits the stablecoin issuer for its role in combating human trafficking networks.
+
+The OSCE's report, titled "Following the Money 2.0 – A Collaborative Approach to Human Trafficking Investigations Involving Virtual Assets," specifically acknowledges Tether's compliance team for contributing data analysis and drafting assistance. The 57-nation security organization examined how digital assets are being exploited by criminal networks while arguing that blockchain's transparency can actually strengthen financial crime investigations when paired with private sector cooperation.
+
+Numbers tell the story here. Tether has worked with more than 340 law enforcement agencies across 65 countries. One highlighted case involved the company assisting authorities in freezing roughly $225 million linked to large-scale cyber-enabled crime networks. Beyond freezing, Tether maintains the ability to burn tokens entirely and reissue funds directly to victims or authorities coordinating investigations.
+
+"Bad actors will always seek to exploit emerging technologies, but the same technology can also be used to stop them," said Paolo Ardoino, Tether's CEO. "Blockchain transparency, combined with the ability to act in coordination with law enforcement, can meaningfully improve the speed and effectiveness of investigations."
+
+The recognition comes as stablecoin issuers face increasing regulatory scrutiny worldwide. Tether's proactive compliance approach—freezing wallets on law enforcement request and maintaining direct communication channels with investigators—contrasts sharply with the "code is law" ethos that dominated early crypto philosophy.
+
+Critics have long argued that stablecoins facilitate money laundering due to their dollar-pegged stability and ease of transfer. The OSCE report flips this narrative somewhat, noting that while criminals benefit from the speed and borderless nature of digital assets, these same characteristics give investigators better tracking tools than traditional cash-based systems offer.
+
+For Tether, which issues USDT with a market cap exceeding $140 billion, the OSCE endorsement provides valuable credibility ammunition as MiCA regulations reshape European crypto markets and U.S. stablecoin legislation advances through Congress. Whether regulators ultimately view centralized stablecoins as compliance partners or systemic risks remains the multi-billion dollar question heading into 2026's second half.
+
+OSCE report highlights Tether's role in combating human trafficking through blockchain tracing, with $4.2 billion frozen across 340 law enforcement partnerships.
+
+Tether has frozen approximately $4.2 billion in assets tied to illicit activity, according to new figures released alongside an Organization for Security and Co-operation in Europe report that credits the stablecoin issuer for its role in combating human trafficking networks.
+
+The OSCE's report, titled "Following the Money 2.0 – A Collaborative Approach to Human Trafficking Investigations Involving Virtual Assets," specifically acknowledges Tether's compliance team for contributing data analysis and drafting assistance. The 57-nation security organization examined how digital assets are being exploited by criminal networks while arguing that blockchain's transparency can actually strengthen financial crime investigations when paired with private sector cooperation.
+
+Numbers tell the story here. Tether has worked with more than 340 law enforcement agencies across 65 countries. One highlighted case involved the company assisting authorities in freezing roughly $225 million linked to large-scale cyber-enabled crime networks. Beyond freezing, Tether maintains the ability to burn tokens entirely and reissue funds directly to victims or authorities coordinating investigations.
+
+"Bad actors will always seek to exploit emerging technologies, but the same technology can also be used to stop them," said Paolo Ardoino, Tether's CEO. "Blockchain transparency, combined with the ability to act in coordination with law enforcement, can meaningfully improve the speed and effectiveness of investigations."
+
+The recognition comes as stablecoin issuers face increasing regulatory scrutiny worldwide. Tether's proactive compliance approach—freezing wallets on law enforcement request and maintaining direct communication channels with investigators—contrasts sharply with the "code is law" ethos that dominated early crypto philosophy.
+
+Critics have long argued that stablecoins facilitate money laundering due to their dollar-pegged stability and ease of transfer. The OSCE report flips this narrative somewhat, noting that while criminals benefit from the speed and borderless nature of digital assets, these same characteristics give investigators better tracking tools than traditional cash-based systems offer.
+
+For Tether, which issues USDT with a market cap exceeding $140 billion, the OSCE endorsement provides valuable credibility ammunition as MiCA regulations reshape European crypto markets and U.S. stablecoin legislation advances through Congress. Whether regulators ultimately view centralized stablecoins as compliance partners or systemic risks remains the multi-billion dollar question heading into 2026's second half.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
 Source: https://Blockchain.News/news/tether-freezes-4-2b-illicit-funds-osce-recognition]]></description>
-      <content:encoded><![CDATA[OSCE report highlights Tether's role in combating human trafficking through blockchain tracing, with $4.2 billion frozen across 340 law enforcement partnerships. (Read More)]]></content:encoded>
+      <content:encoded><![CDATA[OSCE report highlights Tether's role in combating human trafficking through blockchain tracing, with $4.2 billion frozen across 340 law enforcement partnerships.
+
+Tether has frozen approximately $4.2 billion in assets tied to illicit activity, according to new figures released alongside an Organization for Security and Co-operation in Europe report that credits the stablecoin issuer for its role in combating human trafficking networks.
+
+The OSCE's report, titled "Following the Money 2.0 – A Collaborative Approach to Human Trafficking Investigations Involving Virtual Assets," specifically acknowledges Tether's compliance team for contributing data analysis and drafting assistance. The 57-nation security organization examined how digital assets are being exploited by criminal networks while arguing that blockchain's transparency can actually strengthen financial crime investigations when paired with private sector cooperation.
+
+Numbers tell the story here. Tether has worked with more than 340 law enforcement agencies across 65 countries. One highlighted case involved the company assisting authorities in freezing roughly $225 million linked to large-scale cyber-enabled crime networks. Beyond freezing, Tether maintains the ability to burn tokens entirely and reissue funds directly to victims or authorities coordinating investigations.
+
+"Bad actors will always seek to exploit emerging technologies, but the same technology can also be used to stop them," said Paolo Ardoino, Tether's CEO. "Blockchain transparency, combined with the ability to act in coordination with law enforcement, can meaningfully improve the speed and effectiveness of investigations."
+
+The recognition comes as stablecoin issuers face increasing regulatory scrutiny worldwide. Tether's proactive compliance approach—freezing wallets on law enforcement request and maintaining direct communication channels with investigators—contrasts sharply with the "code is law" ethos that dominated early crypto philosophy.
+
+Critics have long argued that stablecoins facilitate money laundering due to their dollar-pegged stability and ease of transfer. The OSCE report flips this narrative somewhat, noting that while criminals benefit from the speed and borderless nature of digital assets, these same characteristics give investigators better tracking tools than traditional cash-based systems offer.
+
+For Tether, which issues USDT with a market cap exceeding $140 billion, the OSCE endorsement provides valuable credibility ammunition as MiCA regulations reshape European crypto markets and U.S. stablecoin legislation advances through Congress. Whether regulators ultimately view centralized stablecoins as compliance partners or systemic risks remains the multi-billion dollar question heading into 2026's second half.
+
+OSCE report highlights Tether's role in combating human trafficking through blockchain tracing, with $4.2 billion frozen across 340 law enforcement partnerships.
+
+Tether has frozen approximately $4.2 billion in assets tied to illicit activity, according to new figures released alongside an Organization for Security and Co-operation in Europe report that credits the stablecoin issuer for its role in combating human trafficking networks.
+
+The OSCE's report, titled "Following the Money 2.0 – A Collaborative Approach to Human Trafficking Investigations Involving Virtual Assets," specifically acknowledges Tether's compliance team for contributing data analysis and drafting assistance. The 57-nation security organization examined how digital assets are being exploited by criminal networks while arguing that blockchain's transparency can actually strengthen financial crime investigations when paired with private sector cooperation.
+
+Numbers tell the story here. Tether has worked with more than 340 law enforcement agencies across 65 countries. One highlighted case involved the company assisting authorities in freezing roughly $225 million linked to large-scale cyber-enabled crime networks. Beyond freezing, Tether maintains the ability to burn tokens entirely and reissue funds directly to victims or authorities coordinating investigations.
+
+"Bad actors will always seek to exploit emerging technologies, but the same technology can also be used to stop them," said Paolo Ardoino, Tether's CEO. "Blockchain transparency, combined with the ability to act in coordination with law enforcement, can meaningfully improve the speed and effectiveness of investigations."
+
+The recognition comes as stablecoin issuers face increasing regulatory scrutiny worldwide. Tether's proactive compliance approach—freezing wallets on law enforcement request and maintaining direct communication channels with investigators—contrasts sharply with the "code is law" ethos that dominated early crypto philosophy.
+
+Critics have long argued that stablecoins facilitate money laundering due to their dollar-pegged stability and ease of transfer. The OSCE report flips this narrative somewhat, noting that while criminals benefit from the speed and borderless nature of digital assets, these same characteristics give investigators better tracking tools than traditional cash-based systems offer.
+
+For Tether, which issues USDT with a market cap exceeding $140 billion, the OSCE endorsement provides valuable credibility ammunition as MiCA regulations reshape European crypto markets and U.S. stablecoin legislation advances through Congress. Whether regulators ultimately view centralized stablecoins as compliance partners or systemic risks remains the multi-billion dollar question heading into 2026's second half.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
     </item>
     <item>
       <guid isPermaLink="false">xfeed-ec1e25d3325503e05d4bf7f62fda231abb0c45dc</guid>
@@ -2268,251 +2598,6 @@ LangChain ships prebuilt middleware for patterns that keep appearing across prod
 LLMToolSelectorMiddleware tackles context bloat by running a fast model to identify relevant tools from a registry before the main call, binding only what's needed. SummarizationMiddleware prevents context overflow by compressing message history when token counts climb too high.
 
 ModelRetryMiddleware wraps API calls with configurable retry logic—retry counts, backoff factors, initial delays for rate limiting. ShellToolMiddleware handles resource initialization and teardown around agent loops.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-d7e2b99c10dc8f75905a46eab477e6d9110d7d3c</guid>
-      <title>Tether Secures Big Four Audit in Historic First for $184B Stablecoin | Tether engages Big Four accounting firm for its first full independent audit, moving beyo... https://Blockchain.News/news/tether-big-four-audit-usdt-stablecoin</title>
-      <link>https://Blockchain.News/news/tether-big-four-audit-usdt-stablecoin</link>
-      <pubDate>Thu, 26 Mar 2026 13:38:39 GMT</pubDate>
-      <description><![CDATA[Original title: Tether Secures Big Four Audit in Historic First for $184B Stablecoin
-Summary: Tether engages Big Four accounting firm for its first full independent audit, moving beyond attestations as USDT market cap hits $184 billion.
-Article text: Tether engages Big Four accounting firm for its first full independent audit, moving beyond attestations as USDT market cap hits $184 billion.
-
-Tether has finally pulled the trigger on what critics have demanded for years—a full independent audit from a Big Four accounting firm. The stablecoin giant announced March 24 that it has formally engaged one of the world's top four auditors to conduct a comprehensive review of its financial statements, reserves, and internal controls.
-
-This isn't another attestation. For the uninitiated, attestations are point-in-time snapshots that verify reserve balances on a specific date. A full audit digs deeper—examining systems, controls, and financial reporting over an extended period. The distinction matters enormously for a company sitting on $184 billion in market cap and serving over 550 million users globally.
-
-Tether has faced persistent questions about its reserve backing since its early days. The company has published quarterly attestations from BDO Italia, but skeptics argued these fell short of the transparency standard expected from an issuer of this scale. The move to a Big Four audit directly addresses that criticism.
-
-The groundwork has been years in the making. Tether appointed Simon McWilliams as Chief Financial Officer in early 2025 specifically to prepare the company's internal architecture for this level of scrutiny. Multiple audit firms participated in a competitive selection process that concluded weeks ago, with the winning firm conducting comprehensive assessments during onboarding.
-
-"The Big Four Firm was selected through a competitive process because the organisation is already operating at Big Four audit standard," McWilliams stated. "The audit will be delivered."
-
-The practical implications depend on what the audit reveals. If Tether's reserves check out as fully backed and highly liquid—as the company claims—this removes a significant overhang that has dogged USDT for years. Institutional players who avoided USDT due to transparency concerns may reconsider.
-
-Tether also disclosed it will be "moving listed securities over the coming days" as part of ongoing reserve optimization. The audit will provide visibility into these holdings and the broader reserve composition.
-
-CEO Paolo Ardoino framed the move as setting a new benchmark: "Trust is built when institutions are willing to open themselves fully to scrutiny."
-
-That's pointed language aimed at competitors. Circle publishes monthly attestations for USDC, but hasn't undergone a full Big Four audit either. If Tether successfully completes this process, pressure mounts on every major stablecoin issuer to match that standard.
-
-The timing aligns with increasing regulatory attention on stablecoins globally. A clean audit from a Big Four firm positions Tether favorably as jurisdictions finalize their frameworks.
-
-Tether hasn't named the specific firm or provided a completion timeline. Given the scale—described as potentially the largest inaugural audit in financial market history—expect this process to take months rather than weeks.
-
-Tether engages Big Four accounting firm for its first full independent audit, moving beyond attestations as USDT market cap hits $184 billion.
-
-Tether has finally pulled the trigger on what critics have demanded for years—a full independent audit from a Big Four accounting firm. The stablecoin giant announced March 24 that it has formally engaged one of the world's top four auditors to conduct a comprehensive review of its financial statements, reserves, and internal controls.
-
-This isn't another attestation. For the uninitiated, attestations are point-in-time snapshots that verify reserve balances on a specific date. A full audit digs deeper—examining systems, controls, and financial reporting over an extended period. The distinction matters enormously for a company sitting on $184 billion in market cap and serving over 550 million users globally.
-
-Tether has faced persistent questions about its reserve backing since its early days. The company has published quarterly attestations from BDO Italia, but skeptics argued these fell short of the transparency standard expected from an issuer of this scale. The move to a Big Four audit directly addresses that criticism.
-
-The groundwork has been years in the making. Tether appointed Simon McWilliams as Chief Financial Officer in early 2025 specifically to prepare the company's internal architecture for this level of scrutiny. Multiple audit firms participated in a competitive selection process that concluded weeks ago, with the winning firm conducting comprehensive assessments during onboarding.
-
-"The Big Four Firm was selected through a competitive process because the organisation is already operating at Big Four audit standard," McWilliams stated. "The audit will be delivered."
-
-The practical implications depend on what the audit reveals. If Tether's reserves check out as fully backed and highly liquid—as the company claims—this removes a significant overhang that has dogged USDT for years. Institutional players who avoided USDT due to transparency concerns may reconsider.
-
-Tether also disclosed it will be "moving listed securities over the coming days" as part of ongoing reserve optimization. The audit will provide visibility into these holdings and the broader reserve composition.
-Source: https://Blockchain.News/news/tether-big-four-audit-usdt-stablecoin]]></description>
-      <content:encoded><![CDATA[Tether engages Big Four accounting firm for its first full independent audit, moving beyond attestations as USDT market cap hits $184 billion.
-
-Tether has finally pulled the trigger on what critics have demanded for years—a full independent audit from a Big Four accounting firm. The stablecoin giant announced March 24 that it has formally engaged one of the world's top four auditors to conduct a comprehensive review of its financial statements, reserves, and internal controls.
-
-This isn't another attestation. For the uninitiated, attestations are point-in-time snapshots that verify reserve balances on a specific date. A full audit digs deeper—examining systems, controls, and financial reporting over an extended period. The distinction matters enormously for a company sitting on $184 billion in market cap and serving over 550 million users globally.
-
-Tether has faced persistent questions about its reserve backing since its early days. The company has published quarterly attestations from BDO Italia, but skeptics argued these fell short of the transparency standard expected from an issuer of this scale. The move to a Big Four audit directly addresses that criticism.
-
-The groundwork has been years in the making. Tether appointed Simon McWilliams as Chief Financial Officer in early 2025 specifically to prepare the company's internal architecture for this level of scrutiny. Multiple audit firms participated in a competitive selection process that concluded weeks ago, with the winning firm conducting comprehensive assessments during onboarding.
-
-"The Big Four Firm was selected through a competitive process because the organisation is already operating at Big Four audit standard," McWilliams stated. "The audit will be delivered."
-
-The practical implications depend on what the audit reveals. If Tether's reserves check out as fully backed and highly liquid—as the company claims—this removes a significant overhang that has dogged USDT for years. Institutional players who avoided USDT due to transparency concerns may reconsider.
-
-Tether also disclosed it will be "moving listed securities over the coming days" as part of ongoing reserve optimization. The audit will provide visibility into these holdings and the broader reserve composition.
-
-CEO Paolo Ardoino framed the move as setting a new benchmark: "Trust is built when institutions are willing to open themselves fully to scrutiny."
-
-That's pointed language aimed at competitors. Circle publishes monthly attestations for USDC, but hasn't undergone a full Big Four audit either. If Tether successfully completes this process, pressure mounts on every major stablecoin issuer to match that standard.
-
-The timing aligns with increasing regulatory attention on stablecoins globally. A clean audit from a Big Four firm positions Tether favorably as jurisdictions finalize their frameworks.
-
-Tether hasn't named the specific firm or provided a completion timeline. Given the scale—described as potentially the largest inaugural audit in financial market history—expect this process to take months rather than weeks.
-
-Tether engages Big Four accounting firm for its first full independent audit, moving beyond attestations as USDT market cap hits $184 billion.
-
-Tether has finally pulled the trigger on what critics have demanded for years—a full independent audit from a Big Four accounting firm. The stablecoin giant announced March 24 that it has formally engaged one of the world's top four auditors to conduct a comprehensive review of its financial statements, reserves, and internal controls.
-
-This isn't another attestation. For the uninitiated, attestations are point-in-time snapshots that verify reserve balances on a specific date. A full audit digs deeper—examining systems, controls, and financial reporting over an extended period. The distinction matters enormously for a company sitting on $184 billion in market cap and serving over 550 million users globally.
-
-Tether has faced persistent questions about its reserve backing since its early days. The company has published quarterly attestations from BDO Italia, but skeptics argued these fell short of the transparency standard expected from an issuer of this scale. The move to a Big Four audit directly addresses that criticism.
-
-The groundwork has been years in the making. Tether appointed Simon McWilliams as Chief Financial Officer in early 2025 specifically to prepare the company's internal architecture for this level of scrutiny. Multiple audit firms participated in a competitive selection process that concluded weeks ago, with the winning firm conducting comprehensive assessments during onboarding.
-
-"The Big Four Firm was selected through a competitive process because the organisation is already operating at Big Four audit standard," McWilliams stated. "The audit will be delivered."
-
-The practical implications depend on what the audit reveals. If Tether's reserves check out as fully backed and highly liquid—as the company claims—this removes a significant overhang that has dogged USDT for years. Institutional players who avoided USDT due to transparency concerns may reconsider.
-
-Tether also disclosed it will be "moving listed securities over the coming days" as part of ongoing reserve optimization. The audit will provide visibility into these holdings and the broader reserve composition.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-df8e19ed74a9065e97efbc34c1e89ef3d0e9334f</guid>
-      <title>Meta Unveils TRIBE v2 AI Model That Predicts Human Brain Activity | Meta releases TRIBE v2, an AI foundation model trained on 700+ subjects that creates digi... https://Blockchain.News/news/meta-tribe-v2-brain-prediction-ai-model</title>
-      <link>https://Blockchain.News/news/meta-tribe-v2-brain-prediction-ai-model</link>
-      <pubDate>Thu, 26 Mar 2026 13:29:39 GMT</pubDate>
-      <description><![CDATA[Original title: Meta Unveils TRIBE v2 AI Model That Predicts Human Brain Activity
-Summary: Meta releases TRIBE v2, an AI foundation model trained on 700+ subjects that creates digital twins of human neural responses to visual and audio stimuli.
-Article text: Meta releases TRIBE v2, an AI foundation model trained on 700+ subjects that creates digital twins of human neural responses to visual and audio stimuli.
-
-Meta has released TRIBE v2, a foundation model capable of predicting human brain activity in response to images, sounds, videos, and text. The TRImodal Brain Encoder represents the company's first AI system designed to function as a digital twin of human neural processing.
-
-The model builds on Meta's Algonauts 2025 award-winning architecture but scales dramatically in scope. While the original version trained on low-resolution fMRI recordings from just four individuals, TRIBE v2 incorporates data from more than 700 healthy volunteers exposed to diverse media inputs including podcasts, videos, images, and written content.
-
-What makes TRIBE v2 potentially significant for researchers is its zero-shot capability. The model can predict high-resolution fMRI brain activity for new subjects, different languages, and novel tasks without requiring additional training data. According to Meta, this consistently outperforms standard modeling approaches in neuroscience research.
-
-The practical application here is efficiency. Neuroscience experiments traditionally require human subjects for each hypothesis test—an expensive, time-consuming process with significant ethical oversight requirements. A reliable digital model of brain responses could let researchers run preliminary tests computationally before committing to human trials.
-
-Meta is releasing the research paper, model weights, and code under a Creative Commons BY-NC license, meaning non-commercial use is permitted. The company has also launched a demo website for researchers to explore the model's capabilities.
-
-The release fits within Meta's broader push into brain-computer interface research, an area where the company has invested heavily through its Reality Labs division. While TRIBE v2 focuses on understanding brain responses rather than direct neural interfaces, the underlying research could inform future products in the AR/VR space where predicting user perception matters.
-
-For the AI research community, the open release of a model trained on such extensive neuroimaging data provides a new tool for studying how biological neural networks process multimodal information—insights that could eventually feed back into artificial neural network design.
-
-Meta releases TRIBE v2, an AI foundation model trained on 700+ subjects that creates digital twins of human neural responses to visual and audio stimuli.
-
-Meta has released TRIBE v2, a foundation model capable of predicting human brain activity in response to images, sounds, videos, and text. The TRImodal Brain Encoder represents the company's first AI system designed to function as a digital twin of human neural processing.
-
-The model builds on Meta's Algonauts 2025 award-winning architecture but scales dramatically in scope. While the original version trained on low-resolution fMRI recordings from just four individuals, TRIBE v2 incorporates data from more than 700 healthy volunteers exposed to diverse media inputs including podcasts, videos, images, and written content.
-
-What makes TRIBE v2 potentially significant for researchers is its zero-shot capability. The model can predict high-resolution fMRI brain activity for new subjects, different languages, and novel tasks without requiring additional training data. According to Meta, this consistently outperforms standard modeling approaches in neuroscience research.
-
-The practical application here is efficiency. Neuroscience experiments traditionally require human subjects for each hypothesis test—an expensive, time-consuming process with significant ethical oversight requirements. A reliable digital model of brain responses could let researchers run preliminary tests computationally before committing to human trials.
-
-Meta is releasing the research paper, model weights, and code under a Creative Commons BY-NC license, meaning non-commercial use is permitted. The company has also launched a demo website for researchers to explore the model's capabilities.
-
-The release fits within Meta's broader push into brain-computer interface research, an area where the company has invested heavily through its Reality Labs division. While TRIBE v2 focuses on understanding brain responses rather than direct neural interfaces, the underlying research could inform future products in the AR/VR space where predicting user perception matters.
-
-For the AI research community, the open release of a model trained on such extensive neuroimaging data provides a new tool for studying how biological neural networks process multimodal information—insights that could eventually feed back into artificial neural network design.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/meta-tribe-v2-brain-prediction-ai-model]]></description>
-      <content:encoded><![CDATA[Meta releases TRIBE v2, an AI foundation model trained on 700+ subjects that creates digital twins of human neural responses to visual and audio stimuli.
-
-Meta has released TRIBE v2, a foundation model capable of predicting human brain activity in response to images, sounds, videos, and text. The TRImodal Brain Encoder represents the company's first AI system designed to function as a digital twin of human neural processing.
-
-The model builds on Meta's Algonauts 2025 award-winning architecture but scales dramatically in scope. While the original version trained on low-resolution fMRI recordings from just four individuals, TRIBE v2 incorporates data from more than 700 healthy volunteers exposed to diverse media inputs including podcasts, videos, images, and written content.
-
-What makes TRIBE v2 potentially significant for researchers is its zero-shot capability. The model can predict high-resolution fMRI brain activity for new subjects, different languages, and novel tasks without requiring additional training data. According to Meta, this consistently outperforms standard modeling approaches in neuroscience research.
-
-The practical application here is efficiency. Neuroscience experiments traditionally require human subjects for each hypothesis test—an expensive, time-consuming process with significant ethical oversight requirements. A reliable digital model of brain responses could let researchers run preliminary tests computationally before committing to human trials.
-
-Meta is releasing the research paper, model weights, and code under a Creative Commons BY-NC license, meaning non-commercial use is permitted. The company has also launched a demo website for researchers to explore the model's capabilities.
-
-The release fits within Meta's broader push into brain-computer interface research, an area where the company has invested heavily through its Reality Labs division. While TRIBE v2 focuses on understanding brain responses rather than direct neural interfaces, the underlying research could inform future products in the AR/VR space where predicting user perception matters.
-
-For the AI research community, the open release of a model trained on such extensive neuroimaging data provides a new tool for studying how biological neural networks process multimodal information—insights that could eventually feed back into artificial neural network design.
-
-Meta releases TRIBE v2, an AI foundation model trained on 700+ subjects that creates digital twins of human neural responses to visual and audio stimuli.
-
-Meta has released TRIBE v2, a foundation model capable of predicting human brain activity in response to images, sounds, videos, and text. The TRImodal Brain Encoder represents the company's first AI system designed to function as a digital twin of human neural processing.
-
-The model builds on Meta's Algonauts 2025 award-winning architecture but scales dramatically in scope. While the original version trained on low-resolution fMRI recordings from just four individuals, TRIBE v2 incorporates data from more than 700 healthy volunteers exposed to diverse media inputs including podcasts, videos, images, and written content.
-
-What makes TRIBE v2 potentially significant for researchers is its zero-shot capability. The model can predict high-resolution fMRI brain activity for new subjects, different languages, and novel tasks without requiring additional training data. According to Meta, this consistently outperforms standard modeling approaches in neuroscience research.
-
-The practical application here is efficiency. Neuroscience experiments traditionally require human subjects for each hypothesis test—an expensive, time-consuming process with significant ethical oversight requirements. A reliable digital model of brain responses could let researchers run preliminary tests computationally before committing to human trials.
-
-Meta is releasing the research paper, model weights, and code under a Creative Commons BY-NC license, meaning non-commercial use is permitted. The company has also launched a demo website for researchers to explore the model's capabilities.
-
-The release fits within Meta's broader push into brain-computer interface research, an area where the company has invested heavily through its Reality Labs division. While TRIBE v2 focuses on understanding brain responses rather than direct neural interfaces, the underlying research could inform future products in the AR/VR space where predicting user perception matters.
-
-For the AI research community, the open release of a model trained on such extensive neuroimaging data provides a new tool for studying how biological neural networks process multimodal information—insights that could eventually feed back into artificial neural network design.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-175d4c9be5094221b8bf93b53365b38dbed72804</guid>
-      <title>NVIDIA GeForce NOW Adds Screamer, Honkai Star Rail 4.1 Update | NVIDIA&apos;s cloud gaming service GeForce NOW expands library with five new titles including... https://Blockchain.News/news/nvidia-geforce-now-screamer-honkai-star-rail-march-2026</title>
-      <link>https://Blockchain.News/news/nvidia-geforce-now-screamer-honkai-star-rail-march-2026</link>
-      <pubDate>Thu, 26 Mar 2026 13:22:39 GMT</pubDate>
-      <description><![CDATA[Original title: NVIDIA GeForce NOW Adds Screamer, Honkai Star Rail 4.1 Update
-Summary: NVIDIA's cloud gaming service GeForce NOW expands library with five new titles including retro racer Screamer and Honkai Star Rail's latest content update.
-Article text: NVIDIA's cloud gaming service GeForce NOW expands library with five new titles including retro racer Screamer and Honkai Star Rail's latest content update.
-
-NVIDIA's GeForce NOW cloud gaming service added five new titles to its streaming library this week, headlined by Milestone's retro-inspired arcade racer Screamer and a major content update for miHoYo's popular RPG Honkai: Star Rail.
-
-The March 26 update brings Screamer as an RTX 5080-ready title on Steam, marking another push by NVIDIA to showcase its latest graphics hardware through cloud delivery. The game channels 1990s arcade racing aesthetics with modern visual polish—a combination that benefits from GeForce NOW's low-latency streaming infrastructure.
-
-Honkai: Star Rail's Version 4.1 update, titled "Unraveled for Daybreak," introduces a new playable character, Ashveil, along with fresh story content set at an interstellar festival called Star Rail FEST. The update includes new zones, the Wispae War Saga mode, and expanded Divergent Universe content. Cloud streaming eliminates the multi-gigabyte download typically required for major game updates.
-
-The remaining additions round out the week's offerings: King's Quest arrived via Ubisoft on March 25, while BATTLETECH became available through Xbox Game Pass. Despot's Game and Diablo II: Resurrected also joined the supported library.
-
-This follows NVIDIA's announcement earlier in March that 15 games would join GeForce NOW throughout the month. The company has also been expanding its VR capabilities, boosting streaming support to 90 FPS for Apple Vision Pro, Meta Quest, and Pico headsets for Ultimate tier subscribers as of March 19.
-
-GeForce NOW operates on a tiered subscription model, with free access offering limited features and paid Performance and Ultimate tiers providing higher resolutions, faster frame rates, and priority server access. The service streams games users already own from platforms like Steam, Epic Games, and Ubisoft Connect, rather than requiring separate purchases.
-
-For NVIDIA investors tracking the company's services revenue, GeForce NOW represents a recurring revenue stream that complements hardware sales while keeping users engaged with the GeForce ecosystem regardless of their local GPU capabilities.
-
-NVIDIA's cloud gaming service GeForce NOW expands library with five new titles including retro racer Screamer and Honkai Star Rail's latest content update.
-
-NVIDIA's GeForce NOW cloud gaming service added five new titles to its streaming library this week, headlined by Milestone's retro-inspired arcade racer Screamer and a major content update for miHoYo's popular RPG Honkai: Star Rail.
-
-The March 26 update brings Screamer as an RTX 5080-ready title on Steam, marking another push by NVIDIA to showcase its latest graphics hardware through cloud delivery. The game channels 1990s arcade racing aesthetics with modern visual polish—a combination that benefits from GeForce NOW's low-latency streaming infrastructure.
-
-Honkai: Star Rail's Version 4.1 update, titled "Unraveled for Daybreak," introduces a new playable character, Ashveil, along with fresh story content set at an interstellar festival called Star Rail FEST. The update includes new zones, the Wispae War Saga mode, and expanded Divergent Universe content. Cloud streaming eliminates the multi-gigabyte download typically required for major game updates.
-
-The remaining additions round out the week's offerings: King's Quest arrived via Ubisoft on March 25, while BATTLETECH became available through Xbox Game Pass. Despot's Game and Diablo II: Resurrected also joined the supported library.
-
-This follows NVIDIA's announcement earlier in March that 15 games would join GeForce NOW throughout the month. The company has also been expanding its VR capabilities, boosting streaming support to 90 FPS for Apple Vision Pro, Meta Quest, and Pico headsets for Ultimate tier subscribers as of March 19.
-
-GeForce NOW operates on a tiered subscription model, with free access offering limited features and paid Performance and Ultimate tiers providing higher resolutions, faster frame rates, and priority server access. The service streams games users already own from platforms like Steam, Epic Games, and Ubisoft Connect, rather than requiring separate purchases.
-
-For NVIDIA investors tracking the company's services revenue, GeForce NOW represents a recurring revenue stream that complements hardware sales while keeping users engaged with the GeForce ecosystem regardless of their local GPU capabilities.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/nvidia-geforce-now-screamer-honkai-star-rail-march-2026]]></description>
-      <content:encoded><![CDATA[NVIDIA's cloud gaming service GeForce NOW expands library with five new titles including retro racer Screamer and Honkai Star Rail's latest content update.
-
-NVIDIA's GeForce NOW cloud gaming service added five new titles to its streaming library this week, headlined by Milestone's retro-inspired arcade racer Screamer and a major content update for miHoYo's popular RPG Honkai: Star Rail.
-
-The March 26 update brings Screamer as an RTX 5080-ready title on Steam, marking another push by NVIDIA to showcase its latest graphics hardware through cloud delivery. The game channels 1990s arcade racing aesthetics with modern visual polish—a combination that benefits from GeForce NOW's low-latency streaming infrastructure.
-
-Honkai: Star Rail's Version 4.1 update, titled "Unraveled for Daybreak," introduces a new playable character, Ashveil, along with fresh story content set at an interstellar festival called Star Rail FEST. The update includes new zones, the Wispae War Saga mode, and expanded Divergent Universe content. Cloud streaming eliminates the multi-gigabyte download typically required for major game updates.
-
-The remaining additions round out the week's offerings: King's Quest arrived via Ubisoft on March 25, while BATTLETECH became available through Xbox Game Pass. Despot's Game and Diablo II: Resurrected also joined the supported library.
-
-This follows NVIDIA's announcement earlier in March that 15 games would join GeForce NOW throughout the month. The company has also been expanding its VR capabilities, boosting streaming support to 90 FPS for Apple Vision Pro, Meta Quest, and Pico headsets for Ultimate tier subscribers as of March 19.
-
-GeForce NOW operates on a tiered subscription model, with free access offering limited features and paid Performance and Ultimate tiers providing higher resolutions, faster frame rates, and priority server access. The service streams games users already own from platforms like Steam, Epic Games, and Ubisoft Connect, rather than requiring separate purchases.
-
-For NVIDIA investors tracking the company's services revenue, GeForce NOW represents a recurring revenue stream that complements hardware sales while keeping users engaged with the GeForce ecosystem regardless of their local GPU capabilities.
-
-NVIDIA's cloud gaming service GeForce NOW expands library with five new titles including retro racer Screamer and Honkai Star Rail's latest content update.
-
-NVIDIA's GeForce NOW cloud gaming service added five new titles to its streaming library this week, headlined by Milestone's retro-inspired arcade racer Screamer and a major content update for miHoYo's popular RPG Honkai: Star Rail.
-
-The March 26 update brings Screamer as an RTX 5080-ready title on Steam, marking another push by NVIDIA to showcase its latest graphics hardware through cloud delivery. The game channels 1990s arcade racing aesthetics with modern visual polish—a combination that benefits from GeForce NOW's low-latency streaming infrastructure.
-
-Honkai: Star Rail's Version 4.1 update, titled "Unraveled for Daybreak," introduces a new playable character, Ashveil, along with fresh story content set at an interstellar festival called Star Rail FEST. The update includes new zones, the Wispae War Saga mode, and expanded Divergent Universe content. Cloud streaming eliminates the multi-gigabyte download typically required for major game updates.
-
-The remaining additions round out the week's offerings: King's Quest arrived via Ubisoft on March 25, while BATTLETECH became available through Xbox Game Pass. Despot's Game and Diablo II: Resurrected also joined the supported library.
-
-This follows NVIDIA's announcement earlier in March that 15 games would join GeForce NOW throughout the month. The company has also been expanding its VR capabilities, boosting streaming support to 90 FPS for Apple Vision Pro, Meta Quest, and Pico headsets for Ultimate tier subscribers as of March 19.
-
-GeForce NOW operates on a tiered subscription model, with free access offering limited features and paid Performance and Ultimate tiers providing higher resolutions, faster frame rates, and priority server access. The service streams games users already own from platforms like Steam, Epic Games, and Ubisoft Connect, rather than requiring separate purchases.
-
-For NVIDIA investors tracking the company's services revenue, GeForce NOW represents a recurring revenue stream that complements hardware sales while keeping users engaged with the GeForce ecosystem regardless of their local GPU capabilities.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
     </item>
   </channel>
 </rss>
