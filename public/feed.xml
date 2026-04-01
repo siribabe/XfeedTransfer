@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Wed, 01 Apr 2026 13:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 18:55:50 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-2380847732089eba2466b096cc6d953a4487b814</guid>
+      <title>Telegram Launches AI Editor and Bot-Building Bots in Major Platform Update | Telegram&apos;s March 2026 update introduces AI-powered text editing via Cocoon Network, self-... https://Blockchain.News/news/telegram-ai-editor-bot-management-march-2026-update</title>
+      <link>https://Blockchain.News/news/telegram-ai-editor-bot-management-march-2026-update</link>
+      <pubDate>Tue, 31 Mar 2026 21:35:49 GMT</pubDate>
+      <description><![CDATA[Original title: Telegram Launches AI Editor and Bot-Building Bots in Major Platform Update
+Summary: Telegram's March 2026 update introduces AI-powered text editing via Cocoon Network, self-replicating bots, and 10+ new poll features across all apps.
+Article text: Telegram's March 2026 update introduces AI-powered text editing via Cocoon Network, self-replicating bots, and 10+ new poll features across all apps.
+
+Telegram rolled out its most AI-focused update yet on March 31, 2026, introducing a built-in text editor powered by open-source AI models and a Bot API upgrade that lets bots create and manage other bots autonomously.
+
+The messaging platform, which has become increasingly central to crypto communities and trading groups, now offers AI text transformation directly in the message bar. Users can translate, rewrite in different styles, or fix grammar in two taps—with all processing handled through the Cocoon Network for what Telegram calls "zero access" to user data.
+
+The new AI Editor activates after typing more than three lines of text, offering style options ranging from practical (Formal, Short) to quirky (Viking, Biblical, Tribal). Users can combine translation with style changes—theoretically letting someone write a message in casual English and send it as formal Japanese.
+
+What's notable here: Telegram explicitly states the feature uses open-source AI models processed through Cocoon Network's "confidential environment." For crypto traders who've grown wary of AI tools harvesting conversation data, this architecture matters. Whether Cocoon's privacy claims hold up to scrutiny remains to be seen, but the approach differs from competitors who process AI requests on their own servers.
+
+The more significant update for the crypto ecosystem might be the Bot API expansion. Telegram bots can now create and manage other bots on behalf of users—no coding required.
+
+This opens doors for AI-powered bot builders to proliferate across the platform. Expect a wave of trading alert bots, portfolio trackers, and community management tools created by people who've never written a line of code. The flip side? Potentially more scam bots and spam as the barrier to deployment drops to zero.
+
+Telegram added over 10 new poll features, several of which directly benefit trading communities:
+
+For trading groups running sentiment checks or governance votes, the time-limited hidden results feature prevents bandwagon voting. The ability to see who voted for what adds accountability—useful for groups tracking member conviction on calls.
+
+The update also brings native support for iOS Live Photos and Android Motion Photos across all Telegram apps, plus a document scanner for iOS users.
+
+Notably, Telegram added security warnings for users of third-party Telegram apps. A new alert appears on their profiles warning that messages sent to them "may be less secure." It's a subtle push toward official apps while acknowledging the platform's open-source ecosystem.
+
+For crypto users, the AI and bot updates position Telegram to compete more directly with Discord's growing AI integrations. Whether the privacy-first approach attracts users fleeing data-hungry alternatives—or whether the bot-building-bots feature creates new attack vectors—should become clear in the coming months.
+
+Telegram's March 2026 update introduces AI-powered text editing via Cocoon Network, self-replicating bots, and 10+ new poll features across all apps.
+
+Telegram rolled out its most AI-focused update yet on March 31, 2026, introducing a built-in text editor powered by open-source AI models and a Bot API upgrade that lets bots create and manage other bots autonomously.
+
+The messaging platform, which has become increasingly central to crypto communities and trading groups, now offers AI text transformation directly in the message bar. Users can translate, rewrite in different styles, or fix grammar in two taps—with all processing handled through the Cocoon Network for what Telegram calls "zero access" to user data.
+
+The new AI Editor activates after typing more than three lines of text, offering style options ranging from practical (Formal, Short) to quirky (Viking, Biblical, Tribal). Users can combine translation with style changes—theoretically letting someone write a message in casual English and send it as formal Japanese.
+
+What's notable here: Telegram explicitly states the feature uses open-source AI models processed through Cocoon Network's "confidential environment." For crypto traders who've grown wary of AI tools harvesting conversation data, this architecture matters. Whether Cocoon's privacy claims hold up to scrutiny remains to be seen, but the approach differs from competitors who process AI requests on their own servers.
+
+The more significant update for the crypto ecosystem might be the Bot API expansion. Telegram bots can now create and manage other bots on behalf of users—no coding required.
+
+This opens doors for AI-powered bot builders to proliferate across the platform. Expect a wave of trading alert bots, portfolio trackers, and community management tools created by people who've never written a line of code. The flip side? Potentially more scam bots and spam as the barrier to deployment drops to zero.
+
+Telegram added over 10 new poll features, several of which directly benefit trading communities:
+Source: https://Blockchain.News/news/telegram-ai-editor-bot-management-march-2026-update]]></description>
+      <content:encoded><![CDATA[Telegram's March 2026 update introduces AI-powered text editing via Cocoon Network, self-replicating bots, and 10+ new poll features across all apps.
+
+Telegram rolled out its most AI-focused update yet on March 31, 2026, introducing a built-in text editor powered by open-source AI models and a Bot API upgrade that lets bots create and manage other bots autonomously.
+
+The messaging platform, which has become increasingly central to crypto communities and trading groups, now offers AI text transformation directly in the message bar. Users can translate, rewrite in different styles, or fix grammar in two taps—with all processing handled through the Cocoon Network for what Telegram calls "zero access" to user data.
+
+The new AI Editor activates after typing more than three lines of text, offering style options ranging from practical (Formal, Short) to quirky (Viking, Biblical, Tribal). Users can combine translation with style changes—theoretically letting someone write a message in casual English and send it as formal Japanese.
+
+What's notable here: Telegram explicitly states the feature uses open-source AI models processed through Cocoon Network's "confidential environment." For crypto traders who've grown wary of AI tools harvesting conversation data, this architecture matters. Whether Cocoon's privacy claims hold up to scrutiny remains to be seen, but the approach differs from competitors who process AI requests on their own servers.
+
+The more significant update for the crypto ecosystem might be the Bot API expansion. Telegram bots can now create and manage other bots on behalf of users—no coding required.
+
+This opens doors for AI-powered bot builders to proliferate across the platform. Expect a wave of trading alert bots, portfolio trackers, and community management tools created by people who've never written a line of code. The flip side? Potentially more scam bots and spam as the barrier to deployment drops to zero.
+
+Telegram added over 10 new poll features, several of which directly benefit trading communities:
+
+For trading groups running sentiment checks or governance votes, the time-limited hidden results feature prevents bandwagon voting. The ability to see who voted for what adds accountability—useful for groups tracking member conviction on calls.
+
+The update also brings native support for iOS Live Photos and Android Motion Photos across all Telegram apps, plus a document scanner for iOS users.
+
+Notably, Telegram added security warnings for users of third-party Telegram apps. A new alert appears on their profiles warning that messages sent to them "may be less secure." It's a subtle push toward official apps while acknowledging the platform's open-source ecosystem.
+
+For crypto users, the AI and bot updates position Telegram to compete more directly with Discord's growing AI integrations. Whether the privacy-first approach attracts users fleeing data-hungry alternatives—or whether the bot-building-bots feature creates new attack vectors—should become clear in the coming months.
+
+Telegram's March 2026 update introduces AI-powered text editing via Cocoon Network, self-replicating bots, and 10+ new poll features across all apps.
+
+Telegram rolled out its most AI-focused update yet on March 31, 2026, introducing a built-in text editor powered by open-source AI models and a Bot API upgrade that lets bots create and manage other bots autonomously.
+
+The messaging platform, which has become increasingly central to crypto communities and trading groups, now offers AI text transformation directly in the message bar. Users can translate, rewrite in different styles, or fix grammar in two taps—with all processing handled through the Cocoon Network for what Telegram calls "zero access" to user data.
+
+The new AI Editor activates after typing more than three lines of text, offering style options ranging from practical (Formal, Short) to quirky (Viking, Biblical, Tribal). Users can combine translation with style changes—theoretically letting someone write a message in casual English and send it as formal Japanese.
+
+What's notable here: Telegram explicitly states the feature uses open-source AI models processed through Cocoon Network's "confidential environment." For crypto traders who've grown wary of AI tools harvesting conversation data, this architecture matters. Whether Cocoon's privacy claims hold up to scrutiny remains to be seen, but the approach differs from competitors who process AI requests on their own servers.
+
+The more significant update for the crypto ecosystem might be the Bot API expansion. Telegram bots can now create and manage other bots on behalf of users—no coding required.
+
+This opens doors for AI-powered bot builders to proliferate across the platform. Expect a wave of trading alert bots, portfolio trackers, and community management tools created by people who've never written a line of code. The flip side? Potentially more scam bots and spam as the barrier to deployment drops to zero.
+
+Telegram added over 10 new poll features, several of which directly benefit trading communities:]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-c621eb080eb24bb3c63597c220a78eb4b2ee5f9c</guid>
+      <title>BNB Chain Pushes RWA Adoption at NYC Summit With $3.3B Already Tokenized | BNB Chain executives outline real-world asset strategy at Digital Asset Summit, highlight... https://Blockchain.News/news/bnb-chain-rwa-adoption-nyc-summit-3-3b-tokenized</title>
+      <link>https://Blockchain.News/news/bnb-chain-rwa-adoption-nyc-summit-3-3b-tokenized</link>
+      <pubDate>Tue, 31 Mar 2026 20:14:37 GMT</pubDate>
+      <description><![CDATA[Original title: BNB Chain Pushes RWA Adoption at NYC Summit With $3.3B Already Tokenized
+Summary: BNB Chain executives outline real-world asset strategy at Digital Asset Summit, highlighting $1.5B in RWAs used as DeFi collateral and 40% of global stablecoin volume.
+Article text: BNB Chain executives outline real-world asset strategy at Digital Asset Summit, highlighting $1.5B in RWAs used as DeFi collateral and 40% of global stablecoin volume.
+
+BNB Chain made its case for real-world asset dominance at Blockworks' Digital Asset Summit in New York this week, with executives arguing the network's existing user base and stablecoin activity give it a structural edge over competitors chasing institutional tokenization deals.
+
+The pitch from Nina, BNB Chain's Executive Director of Growth, and Luke, Head of Business Development, boiled down to a simple observation: getting assets onchain is no longer the hard part. Making them useful afterward is.
+
+BNB Chain currently hosts over $3.3 billion in tokenized real-world assets across more than 42,000 holders, according to RWA.xyz data. More telling is how those assets are being deployed—roughly $1.5 billion sits locked in lending protocols as collateral, with approximately $300 million actively borrowed against it.
+
+The network's stablecoin metrics add context to why institutions might care. BNB Chain holds around $17 billion in stablecoins across 58 million holders, processing approximately $333 billion in transfer volume over 30 days. That represents about 40% of global stablecoin transactions—a figure that suggests genuine commercial activity rather than wash trading or bot volume.
+
+BNB trades at $613.63 as of Tuesday, down 0.38% over 24 hours, with a market cap of $83.67 billion.
+
+Luke's panel remarks cut to the core tension in RWA tokenization. "Finance will move to where users already are," he noted, pointing to networks where people "transact, spend, transfer stablecoins… and have that activity base."
+
+The implication is pointed. Plenty of chains can mint a tokenized Treasury or fractionalized real estate product. Fewer can guarantee that asset lands somewhere with actual liquidity and trading activity. A perfectly structured tokenized bond sitting in a wallet with no market makers and no borrowing demand might as well be a PDF.
+
+BNB Chain's technical specs support high-frequency use cases—0.45 second block times, roughly one-second finality, and throughput up to 6,000 transactions per second. That matters less for buy-and-hold institutional products than for DeFi integrations where assets need to move fast.
+
+Commodities and equities are seeing the most traction. Gold and silver tokenization fits naturally given existing retail demand and volatility. BNB Chain now hosts over 250 tokenized stocks and indexes, capturing a meaningful share of onchain equity trading volume.
+
+The network's DEX activity reinforces the distribution argument. BNB Chain recorded $1.71 billion in 24-hour DEX volume earlier this month, briefly surpassing Solana. Fee revenue has followed similar patterns, with BNB Chain leading daily fee generation in January.
+
+Tether Gold's expansion to BNB Chain last year added another data point, arriving as the tokenized gold market approached $5 billion globally.
+
+For institutions evaluating where to issue tokenized products, the decision increasingly comes down to post-issuance utility. Can the asset be used as collateral? Is there secondary market liquidity? Do wallets with real users actually support it?
+
+BNB Chain's integration with Trust Wallet—which claims hundreds of millions of users globally—provides distribution that purpose-built institutional chains struggle to match.
+
+Whether that advantage holds depends on regulatory clarity and whether traditional finance players prioritize existing crypto-native liquidity over bespoke permissioned environments. The next 12 months should answer that question.
+
+BNB Chain executives outline real-world asset strategy at Digital Asset Summit, highlighting $1.5B in RWAs used as DeFi collateral and 40% of global stablecoin volume.
+
+BNB Chain made its case for real-world asset dominance at Blockworks' Digital Asset Summit in New York this week, with executives arguing the network's existing user base and stablecoin activity give it a structural edge over competitors chasing institutional tokenization deals.
+
+The pitch from Nina, BNB Chain's Executive Director of Growth, and Luke, Head of Business Development, boiled down to a simple observation: getting assets onchain is no longer the hard part. Making them useful afterward is.
+
+BNB Chain currently hosts over $3.3 billion in tokenized real-world assets across more than 42,000 holders, according to RWA.xyz data. More telling is how those assets are being deployed—roughly $1.5 billion sits locked in lending protocols as collateral, with approximately $300 million actively borrowed against it.
+
+The network's stablecoin metrics add context to why institutions might care. BNB Chain holds around $17 billion in stablecoins across 58 million holders, processing approximately $333 billion in transfer volume over 30 days. That represents about 40% of global stablecoin transactions—a figure that suggests genuine commercial activity rather than wash trading or bot volume.
+Source: https://Blockchain.News/news/bnb-chain-rwa-adoption-nyc-summit-3-3b-tokenized]]></description>
+      <content:encoded><![CDATA[BNB Chain executives outline real-world asset strategy at Digital Asset Summit, highlighting $1.5B in RWAs used as DeFi collateral and 40% of global stablecoin volume.
+
+BNB Chain made its case for real-world asset dominance at Blockworks' Digital Asset Summit in New York this week, with executives arguing the network's existing user base and stablecoin activity give it a structural edge over competitors chasing institutional tokenization deals.
+
+The pitch from Nina, BNB Chain's Executive Director of Growth, and Luke, Head of Business Development, boiled down to a simple observation: getting assets onchain is no longer the hard part. Making them useful afterward is.
+
+BNB Chain currently hosts over $3.3 billion in tokenized real-world assets across more than 42,000 holders, according to RWA.xyz data. More telling is how those assets are being deployed—roughly $1.5 billion sits locked in lending protocols as collateral, with approximately $300 million actively borrowed against it.
+
+The network's stablecoin metrics add context to why institutions might care. BNB Chain holds around $17 billion in stablecoins across 58 million holders, processing approximately $333 billion in transfer volume over 30 days. That represents about 40% of global stablecoin transactions—a figure that suggests genuine commercial activity rather than wash trading or bot volume.
+
+BNB trades at $613.63 as of Tuesday, down 0.38% over 24 hours, with a market cap of $83.67 billion.
+
+Luke's panel remarks cut to the core tension in RWA tokenization. "Finance will move to where users already are," he noted, pointing to networks where people "transact, spend, transfer stablecoins… and have that activity base."
+
+The implication is pointed. Plenty of chains can mint a tokenized Treasury or fractionalized real estate product. Fewer can guarantee that asset lands somewhere with actual liquidity and trading activity. A perfectly structured tokenized bond sitting in a wallet with no market makers and no borrowing demand might as well be a PDF.
+
+BNB Chain's technical specs support high-frequency use cases—0.45 second block times, roughly one-second finality, and throughput up to 6,000 transactions per second. That matters less for buy-and-hold institutional products than for DeFi integrations where assets need to move fast.
+
+Commodities and equities are seeing the most traction. Gold and silver tokenization fits naturally given existing retail demand and volatility. BNB Chain now hosts over 250 tokenized stocks and indexes, capturing a meaningful share of onchain equity trading volume.
+
+The network's DEX activity reinforces the distribution argument. BNB Chain recorded $1.71 billion in 24-hour DEX volume earlier this month, briefly surpassing Solana. Fee revenue has followed similar patterns, with BNB Chain leading daily fee generation in January.
+
+Tether Gold's expansion to BNB Chain last year added another data point, arriving as the tokenized gold market approached $5 billion globally.
+
+For institutions evaluating where to issue tokenized products, the decision increasingly comes down to post-issuance utility. Can the asset be used as collateral? Is there secondary market liquidity? Do wallets with real users actually support it?
+
+BNB Chain's integration with Trust Wallet—which claims hundreds of millions of users globally—provides distribution that purpose-built institutional chains struggle to match.
+
+Whether that advantage holds depends on regulatory clarity and whether traditional finance players prioritize existing crypto-native liquidity over bespoke permissioned environments. The next 12 months should answer that question.
+
+BNB Chain executives outline real-world asset strategy at Digital Asset Summit, highlighting $1.5B in RWAs used as DeFi collateral and 40% of global stablecoin volume.
+
+BNB Chain made its case for real-world asset dominance at Blockworks' Digital Asset Summit in New York this week, with executives arguing the network's existing user base and stablecoin activity give it a structural edge over competitors chasing institutional tokenization deals.
+
+The pitch from Nina, BNB Chain's Executive Director of Growth, and Luke, Head of Business Development, boiled down to a simple observation: getting assets onchain is no longer the hard part. Making them useful afterward is.
+
+BNB Chain currently hosts over $3.3 billion in tokenized real-world assets across more than 42,000 holders, according to RWA.xyz data. More telling is how those assets are being deployed—roughly $1.5 billion sits locked in lending protocols as collateral, with approximately $300 million actively borrowed against it.
+
+The network's stablecoin metrics add context to why institutions might care. BNB Chain holds around $17 billion in stablecoins across 58 million holders, processing approximately $333 billion in transfer volume over 30 days. That represents about 40% of global stablecoin transactions—a figure that suggests genuine commercial activity rather than wash trading or bot volume.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-70c64c682495f44c5dfeaaf1145de4c3c434e68b</guid>
+      <title>Circle Unveils Star DKG Protocol for Hardware-Secured Crypto Wallets | Circle Research publishes Star DKG, a new distributed key generation protocol enabling se... https://Blockchain.News/news/circle-star-dkg-protocol-hardware-wallets</title>
+      <link>https://Blockchain.News/news/circle-star-dkg-protocol-hardware-wallets</link>
+      <pubDate>Tue, 31 Mar 2026 19:30:00 GMT</pubDate>
+      <description><![CDATA[Original title: Circle Unveils Star DKG Protocol for Hardware-Secured Crypto Wallets
+Summary: Circle Research publishes Star DKG, a new distributed key generation protocol enabling secure multi-device wallets with non-exportable hardware keys.
+Article text: Circle Research publishes Star DKG, a new distributed key generation protocol enabling secure multi-device wallets with non-exportable hardware keys.
+
+Circle Research has published a new distributed key generation protocol called Star DKG (SDKG), designed specifically for crypto wallets that use hardware-enforced key isolation—addressing a technical gap that's plagued production MPC systems.
+
+The protocol, detailed in a preprint on arXiv, tackles a fundamental conflict: standard DKG protocols assume you can export, reshare, or rerun key shares to verify consistency. Modern hardware security modules, TEEs, and cloud KMS systems explicitly prevent this. SDKG works with these constraints rather than against them.
+
+Most production MPC wallets today split private keys across multiple devices—your phone, a hardware wallet, a service provider's infrastructure. No single device holds the complete key, and transactions require multiple parties to co-sign.
+
+The problem? Traditional DKG protocols were built assuming shares could be moved around, opened for inspection, or regenerated under different conditions. Hardware security boundaries that prevent key export—the very feature that makes them secure—break these assumptions.
+
+"If your consistency proof needs 'open your share' or 'rerun the same proof with a different challenge,' a rollback-resistant enclave/KMS profile simply won't let you do that," Circle's researchers note in the technical writeup.
+
+SDKG separates two concerns that classic DKG protocols bundle together: keeping shares confidential and ensuring all parties agree on a consistent key. The hardware handles confidentiality; SDKG handles consistency through three mechanisms.
+
+First, Unique Structure Verification (USV) creates certificates that let anyone derive the correct public key from the transcript without accessing the underlying secret. Second, the protocol uses straight-line extractable proofs that work without rewinding—critical for rollback-resistant hardware. Third, new devices get enrolled through hardware-to-hardware sealing, bypassing the need to reshare keys.
+
+The base protocol transcript runs approximately 11-13 KiB at 128-bit security. Additional recovery devices can be added post-setup without regenerating the wallet's public key.
+
+SDKG targets what Circle calls the "mandatory co-signer" architecture—where a service provider must participate in every signing ceremony for compliance, risk controls, or fraud detection. The structure resembles a star: the service sits at the center, with user devices (primary and recovery) at the endpoints.
+
+This isn't general-purpose threshold cryptography. The protocol specifically handles 1+1-out-of-3 configurations rather than arbitrary t-of-n setups. That's a deliberate tradeoff—matching how institutional and consumer wallets actually deploy in production.
+
+DKG research has accelerated recently. SSV DAO launched a DKG tool in January 2024 to improve validator key security, and distributed key architecture for blockchain wallets has seen significant academic attention through early 2025. Circle's contribution addresses a specific deployment reality: the gap between theoretical DKG security proofs and what actually works on TEEs, HSMs, and cloud key management services.
+
+The protocol comes with caveats. Security proofs assume an idealized KeyBox abstraction rather than specific hardware. Like most DKG protocols, a malicious party can selectively abort—fairness isn't guaranteed. Circle also notes this is research, not a product announcement, though the company has obvious commercial interest given its wallet infrastructure business.
+
+For teams building multi-device custody solutions on hardware security modules, the preprint offers both a formal explanation of why traditional approaches fail and a concrete alternative. The full paper includes deployment mapping and a checklist for matching KeyBox profiles to real hardware families.
+
+Circle Research publishes Star DKG, a new distributed key generation protocol enabling secure multi-device wallets with non-exportable hardware keys.
+
+Circle Research has published a new distributed key generation protocol called Star DKG (SDKG), designed specifically for crypto wallets that use hardware-enforced key isolation—addressing a technical gap that's plagued production MPC systems.
+
+The protocol, detailed in a preprint on arXiv, tackles a fundamental conflict: standard DKG protocols assume you can export, reshare, or rerun key shares to verify consistency. Modern hardware security modules, TEEs, and cloud KMS systems explicitly prevent this. SDKG works with these constraints rather than against them.
+
+Most production MPC wallets today split private keys across multiple devices—your phone, a hardware wallet, a service provider's infrastructure. No single device holds the complete key, and transactions require multiple parties to co-sign.
+
+The problem? Traditional DKG protocols were built assuming shares could be moved around, opened for inspection, or regenerated under different conditions. Hardware security boundaries that prevent key export—the very feature that makes them secure—break these assumptions.
+
+"If your consistency proof needs 'open your share' or 'rerun the same proof with a different challenge,' a rollback-resistant enclave/KMS profile simply won't let you do that," Circle's researchers note in the technical writeup.
+Source: https://Blockchain.News/news/circle-star-dkg-protocol-hardware-wallets]]></description>
+      <content:encoded><![CDATA[Circle Research publishes Star DKG, a new distributed key generation protocol enabling secure multi-device wallets with non-exportable hardware keys.
+
+Circle Research has published a new distributed key generation protocol called Star DKG (SDKG), designed specifically for crypto wallets that use hardware-enforced key isolation—addressing a technical gap that's plagued production MPC systems.
+
+The protocol, detailed in a preprint on arXiv, tackles a fundamental conflict: standard DKG protocols assume you can export, reshare, or rerun key shares to verify consistency. Modern hardware security modules, TEEs, and cloud KMS systems explicitly prevent this. SDKG works with these constraints rather than against them.
+
+Most production MPC wallets today split private keys across multiple devices—your phone, a hardware wallet, a service provider's infrastructure. No single device holds the complete key, and transactions require multiple parties to co-sign.
+
+The problem? Traditional DKG protocols were built assuming shares could be moved around, opened for inspection, or regenerated under different conditions. Hardware security boundaries that prevent key export—the very feature that makes them secure—break these assumptions.
+
+"If your consistency proof needs 'open your share' or 'rerun the same proof with a different challenge,' a rollback-resistant enclave/KMS profile simply won't let you do that," Circle's researchers note in the technical writeup.
+
+SDKG separates two concerns that classic DKG protocols bundle together: keeping shares confidential and ensuring all parties agree on a consistent key. The hardware handles confidentiality; SDKG handles consistency through three mechanisms.
+
+First, Unique Structure Verification (USV) creates certificates that let anyone derive the correct public key from the transcript without accessing the underlying secret. Second, the protocol uses straight-line extractable proofs that work without rewinding—critical for rollback-resistant hardware. Third, new devices get enrolled through hardware-to-hardware sealing, bypassing the need to reshare keys.
+
+The base protocol transcript runs approximately 11-13 KiB at 128-bit security. Additional recovery devices can be added post-setup without regenerating the wallet's public key.
+
+SDKG targets what Circle calls the "mandatory co-signer" architecture—where a service provider must participate in every signing ceremony for compliance, risk controls, or fraud detection. The structure resembles a star: the service sits at the center, with user devices (primary and recovery) at the endpoints.
+
+This isn't general-purpose threshold cryptography. The protocol specifically handles 1+1-out-of-3 configurations rather than arbitrary t-of-n setups. That's a deliberate tradeoff—matching how institutional and consumer wallets actually deploy in production.
+
+DKG research has accelerated recently. SSV DAO launched a DKG tool in January 2024 to improve validator key security, and distributed key architecture for blockchain wallets has seen significant academic attention through early 2025. Circle's contribution addresses a specific deployment reality: the gap between theoretical DKG security proofs and what actually works on TEEs, HSMs, and cloud key management services.
+
+The protocol comes with caveats. Security proofs assume an idealized KeyBox abstraction rather than specific hardware. Like most DKG protocols, a malicious party can selectively abort—fairness isn't guaranteed. Circle also notes this is research, not a product announcement, though the company has obvious commercial interest given its wallet infrastructure business.
+
+For teams building multi-device custody solutions on hardware security modules, the preprint offers both a formal explanation of why traditional approaches fail and a concrete alternative. The full paper includes deployment mapping and a checklist for matching KeyBox profiles to real hardware families.
+
+Circle Research publishes Star DKG, a new distributed key generation protocol enabling secure multi-device wallets with non-exportable hardware keys.
+
+Circle Research has published a new distributed key generation protocol called Star DKG (SDKG), designed specifically for crypto wallets that use hardware-enforced key isolation—addressing a technical gap that's plagued production MPC systems.
+
+The protocol, detailed in a preprint on arXiv, tackles a fundamental conflict: standard DKG protocols assume you can export, reshare, or rerun key shares to verify consistency. Modern hardware security modules, TEEs, and cloud KMS systems explicitly prevent this. SDKG works with these constraints rather than against them.
+
+Most production MPC wallets today split private keys across multiple devices—your phone, a hardware wallet, a service provider's infrastructure. No single device holds the complete key, and transactions require multiple parties to co-sign.
+
+The problem? Traditional DKG protocols were built assuming shares could be moved around, opened for inspection, or regenerated under different conditions. Hardware security boundaries that prevent key export—the very feature that makes them secure—break these assumptions.
+
+"If your consistency proof needs 'open your share' or 'rerun the same proof with a different challenge,' a rollback-resistant enclave/KMS profile simply won't let you do that," Circle's researchers note in the technical writeup.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-caf38f806dd4192a172d3df024efffbf4a824958</guid>
       <title>USA₮ Picks Celo as First Expansion Chain Beyond Ethereum | Tether-backed regulated stablecoin USA₮ launches on Celo, bringing federally compliant di... https://Blockchain.News/news/usat-stablecoin-launches-celo-first-chain-after-ethereum</title>
@@ -2353,267 +2614,6 @@ Disclaimer: Cryptocurrency price predictions are speculative and involve signifi
 FLOKI trades sideways at $0.00002855 with neutral RSI at 45.30. Technical analysis points to potential $0.000035 breakout target within 4 weeks as meme coin sector stabilizes.
 
 • Short-term target (1 week): $0.000030 • Medium-term forecast (1 month): $0.000025-$0.000035 range • Bullish breakout level: $0.000035 • Critical support: $0.000025]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-b4cff4e37321e2be519d049642d612af1af48714</guid>
-      <title>Paxos Unveils $1M Bug Bounty Program Covering PYUSD, PAXG, USDG Smart Contracts | Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin a... https://Blockchain.News/news/paxos-1m-bug-bounty-cantina-pyusd-paxg-usdg</title>
-      <link>https://Blockchain.News/news/paxos-1m-bug-bounty-cantina-pyusd-paxg-usdg</link>
-      <pubDate>Fri, 27 Mar 2026 16:28:40 GMT</pubDate>
-      <description><![CDATA[Original title: Paxos Unveils $1M Bug Bounty Program Covering PYUSD, PAXG, USDG Smart Contracts
-Summary: Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin and gold token contracts plus Web2 infrastructure in security push.
-Article text: Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin and gold token contracts plus Web2 infrastructure in security push.
-
-Paxos is putting $1 million on the table for security researchers who can break its infrastructure. The regulated blockchain company launched a comprehensive bug bounty program on Cantina, covering smart contracts for USDG, PYUSD, and PAXG, along with its Web2 services, APIs, and domains.
-
-The top payout—$1 million in USDG—targets critical vulnerabilities that could compromise the company's core systems. That's not a marketing number. Paxos explicitly wants "the best researchers in the world going deep" on its code.
-
-What makes this program notable is its breadth. Most crypto bug bounties focus narrowly on smart contracts. Paxos is including cross-chain infrastructure, public-facing products, and traditional web services—essentially mapping the program to how actual attackers would probe for weaknesses.
-
-The timing connects to commitments Paxos made when launching USDG on Aave v3. The company told Aave, LlamaRisk, and the broader community it would formalize external security testing. This delivers on that promise.
-
-For now, the program remains restricted to researchers already active in Cantina's network. Paxos chose the platform specifically for its Web3-native focus and community of specialists who understand the unique threat surface of tokenized assets.
-
-Researchers outside the network can request access through Cantina's program page. The company indicated it will expand access after the initial invitation-only phase.
-
-The covered tokens represent significant value. PAXG, the gold-backed token, currently sits at a market cap of approximately $2.33 billion with recent 24-hour gains of 1.85%. Just this week, Paxos executed a $4.38 million PAXG transfer to institutional market maker B2C2, signaling continued institutional activity around the token.
-
-PYUSD, PayPal's stablecoin built on Paxos infrastructure, adds another layer of exposure. Any vulnerability in these contracts could affect both retail and institutional users across multiple platforms.
-
-Paxos operates under regulatory oversight from the OCC through its national trust charter, making security failures particularly costly from both financial and compliance perspectives.
-
-The company is also hiring for its security team, suggesting this bounty program is part of a broader security infrastructure buildout rather than a one-off initiative.
-
-Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin and gold token contracts plus Web2 infrastructure in security push.
-
-Paxos is putting $1 million on the table for security researchers who can break its infrastructure. The regulated blockchain company launched a comprehensive bug bounty program on Cantina, covering smart contracts for USDG, PYUSD, and PAXG, along with its Web2 services, APIs, and domains.
-
-The top payout—$1 million in USDG—targets critical vulnerabilities that could compromise the company's core systems. That's not a marketing number. Paxos explicitly wants "the best researchers in the world going deep" on its code.
-
-What makes this program notable is its breadth. Most crypto bug bounties focus narrowly on smart contracts. Paxos is including cross-chain infrastructure, public-facing products, and traditional web services—essentially mapping the program to how actual attackers would probe for weaknesses.
-
-The timing connects to commitments Paxos made when launching USDG on Aave v3. The company told Aave, LlamaRisk, and the broader community it would formalize external security testing. This delivers on that promise.
-
-For now, the program remains restricted to researchers already active in Cantina's network. Paxos chose the platform specifically for its Web3-native focus and community of specialists who understand the unique threat surface of tokenized assets.
-
-Researchers outside the network can request access through Cantina's program page. The company indicated it will expand access after the initial invitation-only phase.
-
-The covered tokens represent significant value. PAXG, the gold-backed token, currently sits at a market cap of approximately $2.33 billion with recent 24-hour gains of 1.85%. Just this week, Paxos executed a $4.38 million PAXG transfer to institutional market maker B2C2, signaling continued institutional activity around the token.
-
-PYUSD, PayPal's stablecoin built on Paxos infrastructure, adds another layer of exposure. Any vulnerability in these contracts could affect both retail and institutional users across multiple platforms.
-Source: https://Blockchain.News/news/paxos-1m-bug-bounty-cantina-pyusd-paxg-usdg]]></description>
-      <content:encoded><![CDATA[Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin and gold token contracts plus Web2 infrastructure in security push.
-
-Paxos is putting $1 million on the table for security researchers who can break its infrastructure. The regulated blockchain company launched a comprehensive bug bounty program on Cantina, covering smart contracts for USDG, PYUSD, and PAXG, along with its Web2 services, APIs, and domains.
-
-The top payout—$1 million in USDG—targets critical vulnerabilities that could compromise the company's core systems. That's not a marketing number. Paxos explicitly wants "the best researchers in the world going deep" on its code.
-
-What makes this program notable is its breadth. Most crypto bug bounties focus narrowly on smart contracts. Paxos is including cross-chain infrastructure, public-facing products, and traditional web services—essentially mapping the program to how actual attackers would probe for weaknesses.
-
-The timing connects to commitments Paxos made when launching USDG on Aave v3. The company told Aave, LlamaRisk, and the broader community it would formalize external security testing. This delivers on that promise.
-
-For now, the program remains restricted to researchers already active in Cantina's network. Paxos chose the platform specifically for its Web3-native focus and community of specialists who understand the unique threat surface of tokenized assets.
-
-Researchers outside the network can request access through Cantina's program page. The company indicated it will expand access after the initial invitation-only phase.
-
-The covered tokens represent significant value. PAXG, the gold-backed token, currently sits at a market cap of approximately $2.33 billion with recent 24-hour gains of 1.85%. Just this week, Paxos executed a $4.38 million PAXG transfer to institutional market maker B2C2, signaling continued institutional activity around the token.
-
-PYUSD, PayPal's stablecoin built on Paxos infrastructure, adds another layer of exposure. Any vulnerability in these contracts could affect both retail and institutional users across multiple platforms.
-
-Paxos operates under regulatory oversight from the OCC through its national trust charter, making security failures particularly costly from both financial and compliance perspectives.
-
-The company is also hiring for its security team, suggesting this bounty program is part of a broader security infrastructure buildout rather than a one-off initiative.
-
-Paxos launches $1 million bug bounty on Cantina platform, covering all major stablecoin and gold token contracts plus Web2 infrastructure in security push.
-
-Paxos is putting $1 million on the table for security researchers who can break its infrastructure. The regulated blockchain company launched a comprehensive bug bounty program on Cantina, covering smart contracts for USDG, PYUSD, and PAXG, along with its Web2 services, APIs, and domains.
-
-The top payout—$1 million in USDG—targets critical vulnerabilities that could compromise the company's core systems. That's not a marketing number. Paxos explicitly wants "the best researchers in the world going deep" on its code.
-
-What makes this program notable is its breadth. Most crypto bug bounties focus narrowly on smart contracts. Paxos is including cross-chain infrastructure, public-facing products, and traditional web services—essentially mapping the program to how actual attackers would probe for weaknesses.
-
-The timing connects to commitments Paxos made when launching USDG on Aave v3. The company told Aave, LlamaRisk, and the broader community it would formalize external security testing. This delivers on that promise.
-
-For now, the program remains restricted to researchers already active in Cantina's network. Paxos chose the platform specifically for its Web3-native focus and community of specialists who understand the unique threat surface of tokenized assets.
-
-Researchers outside the network can request access through Cantina's program page. The company indicated it will expand access after the initial invitation-only phase.
-
-The covered tokens represent significant value. PAXG, the gold-backed token, currently sits at a market cap of approximately $2.33 billion with recent 24-hour gains of 1.85%. Just this week, Paxos executed a $4.38 million PAXG transfer to institutional market maker B2C2, signaling continued institutional activity around the token.
-
-PYUSD, PayPal's stablecoin built on Paxos infrastructure, adds another layer of exposure. Any vulnerability in these contracts could affect both retail and institutional users across multiple platforms.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-a629687e23de1806ccbfe72c81ecb4c9de30f0a7</guid>
-      <title>Harvey AI Hits $11B Valuation as Legal AI Adoption Reaches Tipping Point | Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now... https://Blockchain.News/news/harvey-ai-11b-valuation-legal-adoption-tipping-point</title>
-      <link>https://Blockchain.News/news/harvey-ai-11b-valuation-legal-adoption-tipping-point</link>
-      <pubDate>Fri, 27 Mar 2026 15:38:03 GMT</pubDate>
-      <description><![CDATA[Original title: Harvey AI Hits $11B Valuation as Legal AI Adoption Reaches Tipping Point
-Summary: Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now deploy legal AI tools. Here's how top firms are using it.
-Article text: Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now deploy legal AI tools. Here's how top firms are using it.
-
-Legal AI startup Harvey just closed a $200 million funding round that values the company at $11 billion—a staggering figure that reflects how quickly generative AI is reshaping professional services. The timing isn't coincidental: new survey data shows half of UK law firms have already deployed legal-specific AI tools, though only 20% have embedded them into standard workflows.
-
-That gap between experimentation and operational change? That's where the real money is.
-
-The Briefing AI Leaders Community Index surveyed more than 70 senior leaders across leading UK law firms and found adoption accelerating across the full lifecycle of legal work—summarization, data extraction, document review, due diligence, research, drafting, and knowledge management.
-
-Harvey's growth trajectory backs this up. The platform now claims over 100,000 lawyers across more than 1,300 organizations in 60 countries. Founded in 2022 by Winston Weinberg, a former securities litigator, and Gabriel Pereyra from Google DeepMind, the company has moved from startup curiosity to enterprise standard faster than most legal tech plays.
-
-Forget the generic "AI will transform everything" pitch. Here's what's actually working:
-
-Summarization at Honigman: The firm delivered a complete set of deposition summaries plus thematic analysis in under a day. Previous timeline? Several associates working for two weeks. The workflow handles new transcripts without restarting the entire process.
-
-Data extraction at Haynes Boone: Projects that required months of manual review now complete in hours. Director of Practice Innovation Tony Capecci put it bluntly: attorneys focus on validating outputs and drawing insights rather than combing through documents.
-
-Document review at King & Wood Mallesons: Teams centralize massive document sets—like steering committee minutes—into shared workspaces for continuous analysis. The same dataset gets reused across multiple workflows, from witness identification to affidavit drafting.
-
-German firm Hengeler Mueller offers perhaps the most compelling use case for time-sensitive deal work. Pierre Zickert, their Head of Legal Technology, says Harvey helps teams "gain a rapid overview of large data rooms" and identify key documents "significantly more efficiently than has ever been possible by human effort."
-
-What's notable: even trainees days into the firm are building sophisticated workflow agents for due diligence. Not basic prompts—structured logic applied in real client work.
-
-The $11 billion valuation—up from previous rounds—signals investor confidence that legal AI isn't just a productivity tool but a fundamental shift in how professional services operate. Harvey competes in a space that includes Casetext (acquired by Thomson Reuters), Luminance, and various LLM wrappers, but its enterprise penetration suggests it's pulling ahead.
-
-The 30-point gap between firms deploying AI (50%) and those embedding it in workflows (20%) represents the next battleground. Vendors that can close that gap—turning experiments into daily operations—will capture the lion's share of legal tech spending.
-
-For law firms still on the sidelines, the competitive pressure is building. When your rival delivers deposition analysis in a day instead of two weeks, that's not just efficiency—it's a pricing advantage.
-
-Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now deploy legal AI tools. Here's how top firms are using it.
-
-Legal AI startup Harvey just closed a $200 million funding round that values the company at $11 billion—a staggering figure that reflects how quickly generative AI is reshaping professional services. The timing isn't coincidental: new survey data shows half of UK law firms have already deployed legal-specific AI tools, though only 20% have embedded them into standard workflows.
-
-That gap between experimentation and operational change? That's where the real money is.
-
-The Briefing AI Leaders Community Index surveyed more than 70 senior leaders across leading UK law firms and found adoption accelerating across the full lifecycle of legal work—summarization, data extraction, document review, due diligence, research, drafting, and knowledge management.
-
-Harvey's growth trajectory backs this up. The platform now claims over 100,000 lawyers across more than 1,300 organizations in 60 countries. Founded in 2022 by Winston Weinberg, a former securities litigator, and Gabriel Pereyra from Google DeepMind, the company has moved from startup curiosity to enterprise standard faster than most legal tech plays.
-
-Forget the generic "AI will transform everything" pitch. Here's what's actually working:
-Source: https://Blockchain.News/news/harvey-ai-11b-valuation-legal-adoption-tipping-point]]></description>
-      <content:encoded><![CDATA[Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now deploy legal AI tools. Here's how top firms are using it.
-
-Legal AI startup Harvey just closed a $200 million funding round that values the company at $11 billion—a staggering figure that reflects how quickly generative AI is reshaping professional services. The timing isn't coincidental: new survey data shows half of UK law firms have already deployed legal-specific AI tools, though only 20% have embedded them into standard workflows.
-
-That gap between experimentation and operational change? That's where the real money is.
-
-The Briefing AI Leaders Community Index surveyed more than 70 senior leaders across leading UK law firms and found adoption accelerating across the full lifecycle of legal work—summarization, data extraction, document review, due diligence, research, drafting, and knowledge management.
-
-Harvey's growth trajectory backs this up. The platform now claims over 100,000 lawyers across more than 1,300 organizations in 60 countries. Founded in 2022 by Winston Weinberg, a former securities litigator, and Gabriel Pereyra from Google DeepMind, the company has moved from startup curiosity to enterprise standard faster than most legal tech plays.
-
-Forget the generic "AI will transform everything" pitch. Here's what's actually working:
-
-Summarization at Honigman: The firm delivered a complete set of deposition summaries plus thematic analysis in under a day. Previous timeline? Several associates working for two weeks. The workflow handles new transcripts without restarting the entire process.
-
-Data extraction at Haynes Boone: Projects that required months of manual review now complete in hours. Director of Practice Innovation Tony Capecci put it bluntly: attorneys focus on validating outputs and drawing insights rather than combing through documents.
-
-Document review at King & Wood Mallesons: Teams centralize massive document sets—like steering committee minutes—into shared workspaces for continuous analysis. The same dataset gets reused across multiple workflows, from witness identification to affidavit drafting.
-
-German firm Hengeler Mueller offers perhaps the most compelling use case for time-sensitive deal work. Pierre Zickert, their Head of Legal Technology, says Harvey helps teams "gain a rapid overview of large data rooms" and identify key documents "significantly more efficiently than has ever been possible by human effort."
-
-What's notable: even trainees days into the firm are building sophisticated workflow agents for due diligence. Not basic prompts—structured logic applied in real client work.
-
-The $11 billion valuation—up from previous rounds—signals investor confidence that legal AI isn't just a productivity tool but a fundamental shift in how professional services operate. Harvey competes in a space that includes Casetext (acquired by Thomson Reuters), Luminance, and various LLM wrappers, but its enterprise penetration suggests it's pulling ahead.
-
-The 30-point gap between firms deploying AI (50%) and those embedding it in workflows (20%) represents the next battleground. Vendors that can close that gap—turning experiments into daily operations—will capture the lion's share of legal tech spending.
-
-For law firms still on the sidelines, the competitive pressure is building. When your rival delivers deposition analysis in a day instead of two weeks, that's not just efficiency—it's a pricing advantage.
-
-Harvey AI secures $200M funding at $11B valuation as survey shows 50% of UK law firms now deploy legal AI tools. Here's how top firms are using it.
-
-Legal AI startup Harvey just closed a $200 million funding round that values the company at $11 billion—a staggering figure that reflects how quickly generative AI is reshaping professional services. The timing isn't coincidental: new survey data shows half of UK law firms have already deployed legal-specific AI tools, though only 20% have embedded them into standard workflows.
-
-That gap between experimentation and operational change? That's where the real money is.
-
-The Briefing AI Leaders Community Index surveyed more than 70 senior leaders across leading UK law firms and found adoption accelerating across the full lifecycle of legal work—summarization, data extraction, document review, due diligence, research, drafting, and knowledge management.
-
-Harvey's growth trajectory backs this up. The platform now claims over 100,000 lawyers across more than 1,300 organizations in 60 countries. Founded in 2022 by Winston Weinberg, a former securities litigator, and Gabriel Pereyra from Google DeepMind, the company has moved from startup curiosity to enterprise standard faster than most legal tech plays.
-
-Forget the generic "AI will transform everything" pitch. Here's what's actually working:]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-87718f152ba23f67ac1dcb830db5d6a347c370a2</guid>
-      <title>Circle Brings USDC and CCTP to Pharos L1 Ahead of Mainnet Launch | Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-... https://Blockchain.News/news/circle-usdc-cctp-pharos-l1-mainnet-integration</title>
-      <link>https://Blockchain.News/news/circle-usdc-cctp-pharos-l1-mainnet-integration</link>
-      <pubDate>Fri, 27 Mar 2026 15:24:08 GMT</pubDate>
-      <description><![CDATA[Original title: Circle Brings USDC and CCTP to Pharos L1 Ahead of Mainnet Launch
-Summary: Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-focused L1 blockchain preparing for mainnet with $10M incubator program.
-Article text: Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-focused L1 blockchain preparing for mainnet with $10M incubator program.
-
-Circle is expanding USDC's reach to yet another blockchain, announcing that its stablecoin and Cross-Chain Transfer Protocol will integrate with Pharos, a layer-1 network targeting tokenized real-world assets and regulated DeFi applications.
-
-The integration positions USDC as the primary settlement and collateral asset across Pharos' ecosystem, which is currently running a private testnet ahead of a public mainnet release. Developers can already experiment with testnet USDC via Circle's faucet.
-
-Pharos isn't trying to be another general-purpose smart contract platform. The EVM-compatible L1 is specifically architected for compliance-aware financial infrastructure—think tokenized commodities, private credit, treasuries, and regulated lending protocols.
-
-The network features sub-second finality and parallel execution across both EVM and WASM environments. More notably, it's built with strong connectivity to Asia-Pacific markets, a region where regulatory clarity around digital assets has been accelerating.
-
-For institutions already using USDC—which currently holds a $78.05 billion market cap—Pharos offers infrastructure designed around their operational requirements rather than retrofitted for compliance.
-
-The CCTP integration may prove more significant than the USDC listing itself. Cross-chain bridges have been a persistent security headache, with billions lost to exploits over the years. CCTP sidesteps this by burning USDC on the source chain and minting native tokens on the destination—no wrapped assets, no third-party bridge risk.
-
-Users will have two options: Standard Transfer for lower fees or Fast Transfer for time-sensitive moves. For payment providers and institutions managing liquidity across multiple networks, this standardized mechanism simplifies reconciliation considerably.
-
-Pharos is backing the integration with a $10 million incubator program specifically targeting DeFi applications built around USDC. The program includes funding, mentorship, and technical resources—standard accelerator fare, but the USDC focus signals where Pharos expects ecosystem activity to concentrate.
-
-This comes at an interesting time for Circle. Recent reports indicate USDC has seen outflows as liquidity shifts toward USDT, and Citigroup analysts have suggested U.S. restrictions could slow USDC growth. Expanding to compliance-focused chains like Pharos represents a strategic pivot toward institutional use cases where regulatory alignment is a feature, not a bug.
-
-The mainnet launch date remains unannounced, but testnet integration is live now. For those tracking RWA tokenization trends, Pharos' approach—combining high throughput with compliance infrastructure—could attract significant institutional capital if execution matches the pitch.
-
-USDC's contract address on Pharos testnet is already public: 0xcfc8330f4bcab529c625d12781b1c19466a9fc8b. Mainnet details will follow as the launch approaches.
-
-Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-focused L1 blockchain preparing for mainnet with $10M incubator program.
-
-Circle is expanding USDC's reach to yet another blockchain, announcing that its stablecoin and Cross-Chain Transfer Protocol will integrate with Pharos, a layer-1 network targeting tokenized real-world assets and regulated DeFi applications.
-
-The integration positions USDC as the primary settlement and collateral asset across Pharos' ecosystem, which is currently running a private testnet ahead of a public mainnet release. Developers can already experiment with testnet USDC via Circle's faucet.
-
-Pharos isn't trying to be another general-purpose smart contract platform. The EVM-compatible L1 is specifically architected for compliance-aware financial infrastructure—think tokenized commodities, private credit, treasuries, and regulated lending protocols.
-
-The network features sub-second finality and parallel execution across both EVM and WASM environments. More notably, it's built with strong connectivity to Asia-Pacific markets, a region where regulatory clarity around digital assets has been accelerating.
-
-For institutions already using USDC—which currently holds a $78.05 billion market cap—Pharos offers infrastructure designed around their operational requirements rather than retrofitted for compliance.
-
-The CCTP integration may prove more significant than the USDC listing itself. Cross-chain bridges have been a persistent security headache, with billions lost to exploits over the years. CCTP sidesteps this by burning USDC on the source chain and minting native tokens on the destination—no wrapped assets, no third-party bridge risk.
-
-Users will have two options: Standard Transfer for lower fees or Fast Transfer for time-sensitive moves. For payment providers and institutions managing liquidity across multiple networks, this standardized mechanism simplifies reconciliation considerably.
-Source: https://Blockchain.News/news/circle-usdc-cctp-pharos-l1-mainnet-integration]]></description>
-      <content:encoded><![CDATA[Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-focused L1 blockchain preparing for mainnet with $10M incubator program.
-
-Circle is expanding USDC's reach to yet another blockchain, announcing that its stablecoin and Cross-Chain Transfer Protocol will integrate with Pharos, a layer-1 network targeting tokenized real-world assets and regulated DeFi applications.
-
-The integration positions USDC as the primary settlement and collateral asset across Pharos' ecosystem, which is currently running a private testnet ahead of a public mainnet release. Developers can already experiment with testnet USDC via Circle's faucet.
-
-Pharos isn't trying to be another general-purpose smart contract platform. The EVM-compatible L1 is specifically architected for compliance-aware financial infrastructure—think tokenized commodities, private credit, treasuries, and regulated lending protocols.
-
-The network features sub-second finality and parallel execution across both EVM and WASM environments. More notably, it's built with strong connectivity to Asia-Pacific markets, a region where regulatory clarity around digital assets has been accelerating.
-
-For institutions already using USDC—which currently holds a $78.05 billion market cap—Pharos offers infrastructure designed around their operational requirements rather than retrofitted for compliance.
-
-The CCTP integration may prove more significant than the USDC listing itself. Cross-chain bridges have been a persistent security headache, with billions lost to exploits over the years. CCTP sidesteps this by burning USDC on the source chain and minting native tokens on the destination—no wrapped assets, no third-party bridge risk.
-
-Users will have two options: Standard Transfer for lower fees or Fast Transfer for time-sensitive moves. For payment providers and institutions managing liquidity across multiple networks, this standardized mechanism simplifies reconciliation considerably.
-
-Pharos is backing the integration with a $10 million incubator program specifically targeting DeFi applications built around USDC. The program includes funding, mentorship, and technical resources—standard accelerator fare, but the USDC focus signals where Pharos expects ecosystem activity to concentrate.
-
-This comes at an interesting time for Circle. Recent reports indicate USDC has seen outflows as liquidity shifts toward USDT, and Citigroup analysts have suggested U.S. restrictions could slow USDC growth. Expanding to compliance-focused chains like Pharos represents a strategic pivot toward institutional use cases where regulatory alignment is a feature, not a bug.
-
-The mainnet launch date remains unannounced, but testnet integration is live now. For those tracking RWA tokenization trends, Pharos' approach—combining high throughput with compliance infrastructure—could attract significant institutional capital if execution matches the pitch.
-
-USDC's contract address on Pharos testnet is already public: 0xcfc8330f4bcab529c625d12781b1c19466a9fc8b. Mainnet details will follow as the launch approaches.
-
-Circle announces USDC and cross-chain transfer protocol integration with Pharos, the RWA-focused L1 blockchain preparing for mainnet with $10M incubator program.
-
-Circle is expanding USDC's reach to yet another blockchain, announcing that its stablecoin and Cross-Chain Transfer Protocol will integrate with Pharos, a layer-1 network targeting tokenized real-world assets and regulated DeFi applications.
-
-The integration positions USDC as the primary settlement and collateral asset across Pharos' ecosystem, which is currently running a private testnet ahead of a public mainnet release. Developers can already experiment with testnet USDC via Circle's faucet.
-
-Pharos isn't trying to be another general-purpose smart contract platform. The EVM-compatible L1 is specifically architected for compliance-aware financial infrastructure—think tokenized commodities, private credit, treasuries, and regulated lending protocols.
-
-The network features sub-second finality and parallel execution across both EVM and WASM environments. More notably, it's built with strong connectivity to Asia-Pacific markets, a region where regulatory clarity around digital assets has been accelerating.
-
-For institutions already using USDC—which currently holds a $78.05 billion market cap—Pharos offers infrastructure designed around their operational requirements rather than retrofitted for compliance.
-
-The CCTP integration may prove more significant than the USDC listing itself. Cross-chain bridges have been a persistent security headache, with billions lost to exploits over the years. CCTP sidesteps this by burning USDC on the source chain and minting native tokens on the destination—no wrapped assets, no third-party bridge risk.
-
-Users will have two options: Standard Transfer for lower fees or Fast Transfer for time-sensitive moves. For payment providers and institutions managing liquidity across multiple networks, this standardized mechanism simplifies reconciliation considerably.]]></content:encoded>
     </item>
   </channel>
 </rss>
