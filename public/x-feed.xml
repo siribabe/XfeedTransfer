@@ -4,30 +4,30 @@
     <title>X Feed Transfer Generated Posts</title>
     <link>https://siribabe.github.io/XfeedTransfer/x-feed.xml</link>
     <description>Generated X-ready posts produced from source articles</description>
-    <lastBuildDate>Sat, 04 Apr 2026 01:50:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 06:55:09 GMT</lastBuildDate>
     <item>
-      <guid isPermaLink="false">xpost-2d3689f73e347f1abd9d0fdc12f36df1f7e936db</guid>
-      <title>Git GPU latency wars spark: GH200 hits single-digit microseconds in STAC-ML, shaking FPGA bets. 4.61μs @ 99th percentile, multi-instance stability. 🟢 Open source dl-lowl... https://Blockchain.News/news/nvidia-gh200-microsecond-latency-trading-benchmark #AI #Trading #GPUs</title>
-      <link>https://Blockchain.News/news/nvidia-gh200-microsecond-latency-trading-benchmark</link>
-      <pubDate>Thu, 02 Apr 2026 17:08:26 GMT</pubDate>
-      <description><![CDATA[Git GPU latency wars spark: GH200 hits single-digit microseconds in STAC-ML, shaking FPGA bets. 4.61μs @ 99th percentile, multi-instance stability. 🟢 Open source dl-lowl... https://Blockchain.News/news/nvidia-gh200-microsecond-latency-trading-benchmark #AI #Trading #GPUs]]></description>
-      <content:encoded><![CDATA[Git GPU latency wars spark: GH200 hits single-digit microseconds in STAC-ML, shaking FPGA bets. 4.61μs @ 99th percentile, multi-instance stability. 🟢 Open source dl-lowl... https://Blockchain.News/news/nvidia-gh200-microsecond-latency-trading-benchmark #AI #Trading #GPUs]]></content:encoded>
+      <guid isPermaLink="false">xpost-69e7d4dd941fc95861f7ed8d8cb077c473d9a64e</guid>
+      <title>Ray 2.55 fixes downtime zombies in MoE AI infra—DP groups fail-safe, not the whole cluster. 🚀 https://Blockchain.News/news/ray-255-fault-tolerance-vllm-wideep-deployments #ai #rayserve #deeplearning</title>
+      <link>https://Blockchain.News/news/ray-255-fault-tolerance-vllm-wideep-deployments</link>
+      <pubDate>Thu, 02 Apr 2026 18:35:25 GMT</pubDate>
+      <description><![CDATA[Ray 2.55 fixes downtime zombies in MoE AI infra—DP groups fail-safe, not the whole cluster. 🚀 https://Blockchain.News/news/ray-255-fault-tolerance-vllm-wideep-deployments #ai #rayserve #deeplearning]]></description>
+      <content:encoded><![CDATA[Ray 2.55 fixes downtime zombies in MoE AI infra—DP groups fail-safe, not the whole cluster. 🚀 https://Blockchain.News/news/ray-255-fault-tolerance-vllm-wideep-deployments #ai #rayserve #deeplearning]]></content:encoded>
     </item>
     <item>
-      <guid isPermaLink="false">xpost-98c7a862379da5fbdf20c1d5d3a1d117122cb509</guid>
-      <title>Gemma 4 goes local: NVIDIA now supports Google’s multimodal models across Blackwell, Jetson, and RTX for on‑prem deployment. 🔒🤖 https://Blockchain.News/news/nvidia-optimizes-google-gemma-4-edge-ai-deployment #AI #EdgeAI #Gemma4</title>
-      <link>https://Blockchain.News/news/nvidia-optimizes-google-gemma-4-edge-ai-deployment</link>
-      <pubDate>Thu, 02 Apr 2026 16:59:26 GMT</pubDate>
-      <description><![CDATA[Gemma 4 goes local: NVIDIA now supports Google’s multimodal models across Blackwell, Jetson, and RTX for on‑prem deployment. 🔒🤖 https://Blockchain.News/news/nvidia-optimizes-google-gemma-4-edge-ai-deployment #AI #EdgeAI #Gemma4]]></description>
-      <content:encoded><![CDATA[Gemma 4 goes local: NVIDIA now supports Google’s multimodal models across Blackwell, Jetson, and RTX for on‑prem deployment. 🔒🤖 https://Blockchain.News/news/nvidia-optimizes-google-gemma-4-edge-ai-deployment #AI #EdgeAI #Gemma4]]></content:encoded>
+      <guid isPermaLink="false">xpost-7db71048356b798c2bc41dcf82d240a9062a4099</guid>
+      <title>Open-weight AI just slashes cost without losing bite. GLM-5 and MiniMax M2.7 rival Claude/GPT on agent tasks at ~1/10th the price. 🚀 https://Blockchain.News/news/open-ai-models-match-frontier-performance-lower-cost #AI #OpenModels #LangChain</title>
+      <link>https://Blockchain.News/news/open-ai-models-match-frontier-performance-lower-cost</link>
+      <pubDate>Thu, 02 Apr 2026 18:27:25 GMT</pubDate>
+      <description><![CDATA[Open-weight AI just slashes cost without losing bite. GLM-5 and MiniMax M2.7 rival Claude/GPT on agent tasks at ~1/10th the price. 🚀 https://Blockchain.News/news/open-ai-models-match-frontier-performance-lower-cost #AI #OpenModels #LangChain]]></description>
+      <content:encoded><![CDATA[Open-weight AI just slashes cost without losing bite. GLM-5 and MiniMax M2.7 rival Claude/GPT on agent tasks at ~1/10th the price. 🚀 https://Blockchain.News/news/open-ai-models-match-frontier-performance-lower-cost #AI #OpenModels #LangChain]]></content:encoded>
     </item>
     <item>
-      <guid isPermaLink="false">xpost-6c517bb3c48f2ffc294733e4f88d5f435f5796d4</guid>
-      <title>IOTA powers real-world trade—Starfish on testnet, Kenya to UK live links. 🛰️ Trade docs stay at source as TWIN connects KenTrade, KRA, and TLIP across ports. https://Blockchain.News/news/iota-starfish-consensus-twin-trade-network-kenya-uk-q1-2026 #IOTA #TradeTech #DLT</title>
-      <link>https://Blockchain.News/news/iota-starfish-consensus-twin-trade-network-kenya-uk-q1-2026</link>
-      <pubDate>Thu, 02 Apr 2026 15:24:11 GMT</pubDate>
-      <description><![CDATA[IOTA powers real-world trade—Starfish on testnet, Kenya to UK live links. 🛰️ Trade docs stay at source as TWIN connects KenTrade, KRA, and TLIP across ports. https://Blockchain.News/news/iota-starfish-consensus-twin-trade-network-kenya-uk-q1-2026 #IOTA #TradeTech #DLT]]></description>
-      <content:encoded><![CDATA[IOTA powers real-world trade—Starfish on testnet, Kenya to UK live links. 🛰️ Trade docs stay at source as TWIN connects KenTrade, KRA, and TLIP across ports. https://Blockchain.News/news/iota-starfish-consensus-twin-trade-network-kenya-uk-q1-2026 #IOTA #TradeTech #DLT]]></content:encoded>
+      <guid isPermaLink="false">xpost-8eff5f7144ca544536dfec756019b52be2cc693c</guid>
+      <title>Binance backs Ukraine’s Web3 push with a $500K Digital Resilience Lab—tangible support, real infrastructure, real risk. 🔥 Explore what this collaboration aims to build... https://Blockchain.News/news/binance-ukraine-digital-resilience-lab-500k-web3 #Web3 #Ukraine #Crypto</title>
+      <link>https://Blockchain.News/news/binance-ukraine-digital-resilience-lab-500k-web3</link>
+      <pubDate>Thu, 02 Apr 2026 17:16:26 GMT</pubDate>
+      <description><![CDATA[Binance backs Ukraine’s Web3 push with a $500K Digital Resilience Lab—tangible support, real infrastructure, real risk. 🔥 Explore what this collaboration aims to build... https://Blockchain.News/news/binance-ukraine-digital-resilience-lab-500k-web3 #Web3 #Ukraine #Crypto]]></description>
+      <content:encoded><![CDATA[Binance backs Ukraine’s Web3 push with a $500K Digital Resilience Lab—tangible support, real infrastructure, real risk. 🔥 Explore what this collaboration aims to build... https://Blockchain.News/news/binance-ukraine-digital-resilience-lab-500k-web3 #Web3 #Ukraine #Crypto]]></content:encoded>
     </item>
   </channel>
 </rss>
