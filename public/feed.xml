@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Tue, 14 Apr 2026 07:24:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 13:17:24 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-e2c0bc28e564b4c902e8de8747e8664ba607f396</guid>
+      <title>Silo Finance Launches Risk-Isolated Lending Markets on Injective (INJ) | Silo v3 brings isolated lending vaults to Injective (INJ)with a unique collateral-debt sw... https://Blockchain.News/news/silo-finance-launches-risk-isolated-lending-injective</title>
+      <link>https://Blockchain.News/news/silo-finance-launches-risk-isolated-lending-injective</link>
+      <pubDate>Tue, 14 Apr 2026 06:27:09 GMT</pubDate>
+      <description><![CDATA[Original title: Silo Finance Launches Risk-Isolated Lending Markets on Injective (INJ)
+Summary: Silo v3 brings isolated lending vaults to Injective (INJ)with a unique collateral-debt swap mechanism that protects lenders when DEX liquidity fails.
+Article text: Silo v3 brings isolated lending vaults to Injective (INJ)with a unique collateral-debt swap mechanism that protects lenders when DEX liquidity fails.
+
+Silo Finance has deployed its v3 lending protocol on Injective, introducing isolated credit markets that operate differently from pooled lending giants like Aave and Morpho. The first market—yINJ/INJ—is now live at app.silo.finance.
+
+The deployment marks Injective's first isolated lending infrastructure from a protocol that claims zero bad debt through the 2022-2023 market turmoil.
+
+Traditional lending protocols pool assets together. When one collateral type fails—think UST's collapse or various exploit scenarios—the damage spreads across the entire system. Lenders with zero exposure to the failing asset still eat losses.
+
+Silo takes a different approach. Each market pairs exactly two assets in separate vaults with their own oracle, interest rate model, and liquidation parameters. Supply INJ in the yINJ/INJ market, and your risk exposure is limited to those two assets. Period.
+
+The more interesting innovation is what Silo calls the Collateral-Debt Swap (CDS). Standard liquidations assume someone will buy underwater collateral on a DEX to repay lenders. That assumption breaks when liquidity dries up—exactly when you need it most.
+
+When DEX liquidations can't clear a position efficiently, Silo's internal mechanism kicks in. The protocol writes off the borrower's debt and distributes collateral directly to lenders on a pro-rata basis. Liquidation fees flow to depositors as additional yield rather than disappearing to MEV bots.
+
+Two immutable thresholds govern liquidation behavior. Hit the first threshold and standard DEX liquidations trigger. Cross the higher collateral-debt swap threshold and the internal mechanism activates. Both can operate in the same market depending on conditions.
+
+Interest rates adjust based on utilization—staying competitive when demand is balanced, climbing sharply as capacity fills. Partial liquidations mean a temporary price dip reduces your position without necessarily wiping it entirely.
+
+Markets are permissionless to deploy through Silo's factory contracts, though the team reviews configurations before listing on the app. Once listed, parameters lock permanently. The protocol uses ERC-4626 vault standards, making integration with yield aggregators straightforward.
+
+Every market on Silo displays risk scoring, liquidation paths, oracle sources, and collateral behavior under stress directly in the interface. Most protocols bury this information in governance forums and contract code.
+
+For Injective (INJ)users, this means evaluating risk yourself rather than trusting someone else's assessment—assuming you're willing to do the homework.
+
+Injective gains lending infrastructure that doesn't depend on external liquidity depth to remain solvent. That's a meaningful upgrade for a chain positioning itself around sophisticated financial applications.
+
+Whether Silo's isolated model attracts meaningful TVL on Injective remains to be seen. The yINJ/INJ market is live now, with additional pairs reportedly coming. Builders interested in deploying custom lending markets can access Silo's permissionless factory for any two-asset combination with asset-specific risk parameters.
+
+The protocol is backed by Binance and investors including Jump Crypto, Pantera, and Mark Cuban.
+
+Silo v3 brings isolated lending vaults to Injective (INJ)with a unique collateral-debt swap mechanism that protects lenders when DEX liquidity fails.
+
+Silo Finance has deployed its v3 lending protocol on Injective, introducing isolated credit markets that operate differently from pooled lending giants like Aave and Morpho. The first market—yINJ/INJ—is now live at app.silo.finance.
+
+The deployment marks Injective's first isolated lending infrastructure from a protocol that claims zero bad debt through the 2022-2023 market turmoil.
+
+Traditional lending protocols pool assets together. When one collateral type fails—think UST's collapse or various exploit scenarios—the damage spreads across the entire system. Lenders with zero exposure to the failing asset still eat losses.
+
+Silo takes a different approach. Each market pairs exactly two assets in separate vaults with their own oracle, interest rate model, and liquidation parameters. Supply INJ in the yINJ/INJ market, and your risk exposure is limited to those two assets. Period.
+Source: https://Blockchain.News/news/silo-finance-launches-risk-isolated-lending-injective]]></description>
+      <content:encoded><![CDATA[Silo v3 brings isolated lending vaults to Injective (INJ)with a unique collateral-debt swap mechanism that protects lenders when DEX liquidity fails.
+
+Silo Finance has deployed its v3 lending protocol on Injective, introducing isolated credit markets that operate differently from pooled lending giants like Aave and Morpho. The first market—yINJ/INJ—is now live at app.silo.finance.
+
+The deployment marks Injective's first isolated lending infrastructure from a protocol that claims zero bad debt through the 2022-2023 market turmoil.
+
+Traditional lending protocols pool assets together. When one collateral type fails—think UST's collapse or various exploit scenarios—the damage spreads across the entire system. Lenders with zero exposure to the failing asset still eat losses.
+
+Silo takes a different approach. Each market pairs exactly two assets in separate vaults with their own oracle, interest rate model, and liquidation parameters. Supply INJ in the yINJ/INJ market, and your risk exposure is limited to those two assets. Period.
+
+The more interesting innovation is what Silo calls the Collateral-Debt Swap (CDS). Standard liquidations assume someone will buy underwater collateral on a DEX to repay lenders. That assumption breaks when liquidity dries up—exactly when you need it most.
+
+When DEX liquidations can't clear a position efficiently, Silo's internal mechanism kicks in. The protocol writes off the borrower's debt and distributes collateral directly to lenders on a pro-rata basis. Liquidation fees flow to depositors as additional yield rather than disappearing to MEV bots.
+
+Two immutable thresholds govern liquidation behavior. Hit the first threshold and standard DEX liquidations trigger. Cross the higher collateral-debt swap threshold and the internal mechanism activates. Both can operate in the same market depending on conditions.
+
+Interest rates adjust based on utilization—staying competitive when demand is balanced, climbing sharply as capacity fills. Partial liquidations mean a temporary price dip reduces your position without necessarily wiping it entirely.
+
+Markets are permissionless to deploy through Silo's factory contracts, though the team reviews configurations before listing on the app. Once listed, parameters lock permanently. The protocol uses ERC-4626 vault standards, making integration with yield aggregators straightforward.
+
+Every market on Silo displays risk scoring, liquidation paths, oracle sources, and collateral behavior under stress directly in the interface. Most protocols bury this information in governance forums and contract code.
+
+For Injective (INJ)users, this means evaluating risk yourself rather than trusting someone else's assessment—assuming you're willing to do the homework.
+
+Injective gains lending infrastructure that doesn't depend on external liquidity depth to remain solvent. That's a meaningful upgrade for a chain positioning itself around sophisticated financial applications.
+
+Whether Silo's isolated model attracts meaningful TVL on Injective remains to be seen. The yINJ/INJ market is live now, with additional pairs reportedly coming. Builders interested in deploying custom lending markets can access Silo's permissionless factory for any two-asset combination with asset-specific risk parameters.
+
+The protocol is backed by Binance and investors including Jump Crypto, Pantera, and Mark Cuban.
+
+Silo v3 brings isolated lending vaults to Injective (INJ)with a unique collateral-debt swap mechanism that protects lenders when DEX liquidity fails.
+
+Silo Finance has deployed its v3 lending protocol on Injective, introducing isolated credit markets that operate differently from pooled lending giants like Aave and Morpho. The first market—yINJ/INJ—is now live at app.silo.finance.
+
+The deployment marks Injective's first isolated lending infrastructure from a protocol that claims zero bad debt through the 2022-2023 market turmoil.
+
+Traditional lending protocols pool assets together. When one collateral type fails—think UST's collapse or various exploit scenarios—the damage spreads across the entire system. Lenders with zero exposure to the failing asset still eat losses.
+
+Silo takes a different approach. Each market pairs exactly two assets in separate vaults with their own oracle, interest rate model, and liquidation parameters. Supply INJ in the yINJ/INJ market, and your risk exposure is limited to those two assets. Period.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-6add70d531ea74ae2406a2370b8385c72ad5054b</guid>
+      <title>Circle Skills Now Integrates Vercel for One-Click USDC App Deployment | Circle&apos;s AI coding toolkit adds Vercel integration, letting developers build and deploy s... https://Blockchain.News/news/circle-skills-vercel-integration-usdc-app-deployment</title>
+      <link>https://Blockchain.News/news/circle-skills-vercel-integration-usdc-app-deployment</link>
+      <pubDate>Tue, 14 Apr 2026 06:18:09 GMT</pubDate>
+      <description><![CDATA[Original title: Circle Skills Now Integrates Vercel for One-Click USDC App Deployment
+Summary: Circle's AI coding toolkit adds Vercel integration, letting developers build and deploy stablecoin apps in a single workflow using natural language prompts.
+Article text: Circle's AI coding toolkit adds Vercel integration, letting developers build and deploy stablecoin apps in a single workflow using natural language prompts.
+
+Circle has expanded its AI development toolkit to include Vercel deployment capabilities, creating what the company calls a "prompt to deployment" workflow for building stablecoin-powered applications.
+
+The integration means developers can now describe an app in plain English, have an AI coding agent build it using Circle's USDC infrastructure, and deploy it to a live URL—all without leaving their development environment.
+
+The setup requires installing two skill packages through the skills.sh ecosystem, an open marketplace for AI coding agent capabilities. Once installed, developers can use agents like Claude Code or OpenAI Codex to interpret prompts and generate functional code.
+
+Here's what makes this different from typical AI code generation: the agent loads context before writing anything. When you ask it to build a payment app on Circle's Arc Testnet, it first pulls in the relevant skill modules—network configuration, USDC contract addresses, wallet flow patterns—then applies those patterns to your specific request.
+
+Circle demonstrated the workflow with a payment request application. A developer prompts the agent to create an app where users can generate shareable payment links, accept USDC, and verify transactions onchain. The agent handles the Arc Testnet configuration, pulls the canonical USDC contract address, and structures the ERC-20 interactions correctly.
+
+The Vercel integration then takes the working local build and pushes it to production with a public URL.
+
+Circle Skills launched in mid-March 2026 as an open-source toolkit for stablecoin development. The initial release focused on providing templates and best-practice guidance for USDC payments, cross-chain transfers via Circle's CCTP protocol, and wallet operations.
+
+The Vercel addition addresses a gap in that original workflow. Building the app was one thing; getting it live required developers to switch contexts and handle deployment separately. Now both steps happen in sequence within the same agent session.
+
+The toolkit supports Circle's Arc blockchain, which remains in testnet. Developers can experiment with the full workflow using test USDC before moving to production chains.
+
+The practical value here is speed and error reduction. AI agents without specialized context tend to hallucinate contract addresses or misconfigure network settings. By loading Circle's verified patterns first, the agent starts from correct infrastructure rather than guessing.
+
+For teams building payment products, this compresses the prototype-to-demo timeline significantly. Whether that translates to production-ready applications depends on the complexity of what you're building—a simple payment link generator differs from a full treasury management system.
+
+Circle notes the tool provides "architectural templates and guidance rather than automatically generating code," suggesting developers should still review and understand what the agent produces.
+
+The deployed example Circle created is publicly accessible, giving developers a reference point for what the workflow can produce.
+
+Circle's AI coding toolkit adds Vercel integration, letting developers build and deploy stablecoin apps in a single workflow using natural language prompts.
+
+Circle has expanded its AI development toolkit to include Vercel deployment capabilities, creating what the company calls a "prompt to deployment" workflow for building stablecoin-powered applications.
+
+The integration means developers can now describe an app in plain English, have an AI coding agent build it using Circle's USDC infrastructure, and deploy it to a live URL—all without leaving their development environment.
+
+The setup requires installing two skill packages through the skills.sh ecosystem, an open marketplace for AI coding agent capabilities. Once installed, developers can use agents like Claude Code or OpenAI Codex to interpret prompts and generate functional code.
+
+Here's what makes this different from typical AI code generation: the agent loads context before writing anything. When you ask it to build a payment app on Circle's Arc Testnet, it first pulls in the relevant skill modules—network configuration, USDC contract addresses, wallet flow patterns—then applies those patterns to your specific request.
+
+Circle demonstrated the workflow with a payment request application. A developer prompts the agent to create an app where users can generate shareable payment links, accept USDC, and verify transactions onchain. The agent handles the Arc Testnet configuration, pulls the canonical USDC contract address, and structures the ERC-20 interactions correctly.
+Source: https://Blockchain.News/news/circle-skills-vercel-integration-usdc-app-deployment]]></description>
+      <content:encoded><![CDATA[Circle's AI coding toolkit adds Vercel integration, letting developers build and deploy stablecoin apps in a single workflow using natural language prompts.
+
+Circle has expanded its AI development toolkit to include Vercel deployment capabilities, creating what the company calls a "prompt to deployment" workflow for building stablecoin-powered applications.
+
+The integration means developers can now describe an app in plain English, have an AI coding agent build it using Circle's USDC infrastructure, and deploy it to a live URL—all without leaving their development environment.
+
+The setup requires installing two skill packages through the skills.sh ecosystem, an open marketplace for AI coding agent capabilities. Once installed, developers can use agents like Claude Code or OpenAI Codex to interpret prompts and generate functional code.
+
+Here's what makes this different from typical AI code generation: the agent loads context before writing anything. When you ask it to build a payment app on Circle's Arc Testnet, it first pulls in the relevant skill modules—network configuration, USDC contract addresses, wallet flow patterns—then applies those patterns to your specific request.
+
+Circle demonstrated the workflow with a payment request application. A developer prompts the agent to create an app where users can generate shareable payment links, accept USDC, and verify transactions onchain. The agent handles the Arc Testnet configuration, pulls the canonical USDC contract address, and structures the ERC-20 interactions correctly.
+
+The Vercel integration then takes the working local build and pushes it to production with a public URL.
+
+Circle Skills launched in mid-March 2026 as an open-source toolkit for stablecoin development. The initial release focused on providing templates and best-practice guidance for USDC payments, cross-chain transfers via Circle's CCTP protocol, and wallet operations.
+
+The Vercel addition addresses a gap in that original workflow. Building the app was one thing; getting it live required developers to switch contexts and handle deployment separately. Now both steps happen in sequence within the same agent session.
+
+The toolkit supports Circle's Arc blockchain, which remains in testnet. Developers can experiment with the full workflow using test USDC before moving to production chains.
+
+The practical value here is speed and error reduction. AI agents without specialized context tend to hallucinate contract addresses or misconfigure network settings. By loading Circle's verified patterns first, the agent starts from correct infrastructure rather than guessing.
+
+For teams building payment products, this compresses the prototype-to-demo timeline significantly. Whether that translates to production-ready applications depends on the complexity of what you're building—a simple payment link generator differs from a full treasury management system.
+
+Circle notes the tool provides "architectural templates and guidance rather than automatically generating code," suggesting developers should still review and understand what the agent produces.
+
+The deployed example Circle created is publicly accessible, giving developers a reference point for what the workflow can produce.
+
+Circle's AI coding toolkit adds Vercel integration, letting developers build and deploy stablecoin apps in a single workflow using natural language prompts.
+
+Circle has expanded its AI development toolkit to include Vercel deployment capabilities, creating what the company calls a "prompt to deployment" workflow for building stablecoin-powered applications.
+
+The integration means developers can now describe an app in plain English, have an AI coding agent build it using Circle's USDC infrastructure, and deploy it to a live URL—all without leaving their development environment.
+
+The setup requires installing two skill packages through the skills.sh ecosystem, an open marketplace for AI coding agent capabilities. Once installed, developers can use agents like Claude Code or OpenAI Codex to interpret prompts and generate functional code.
+
+Here's what makes this different from typical AI code generation: the agent loads context before writing anything. When you ask it to build a payment app on Circle's Arc Testnet, it first pulls in the relevant skill modules—network configuration, USDC contract addresses, wallet flow patterns—then applies those patterns to your specific request.
+
+Circle demonstrated the workflow with a payment request application. A developer prompts the agent to create an app where users can generate shareable payment links, accept USDC, and verify transactions onchain. The agent handles the Arc Testnet configuration, pulls the canonical USDC contract address, and structures the ERC-20 interactions correctly.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-9ee65199e3fc27b2c62545bc44fc0a0124727b2a</guid>
+      <title>Stablecoin Regulation Gap Widens as GENIUS Act Advances | With stablecoin market cap at $130B and federal rules advancing, understanding regulated... https://Blockchain.News/news/stablecoin-regulation-gap-widens-genius-act-advances</title>
+      <link>https://Blockchain.News/news/stablecoin-regulation-gap-widens-genius-act-advances</link>
+      <pubDate>Tue, 14 Apr 2026 06:11:09 GMT</pubDate>
+      <description><![CDATA[Original title: Stablecoin Regulation Gap Widens as GENIUS Act Advances
+Summary: With stablecoin market cap at $130B and federal rules advancing, understanding regulated vs unregulated issuers has never mattered more for traders.
+Article text: With stablecoin market cap at $130B and federal rules advancing, understanding regulated vs unregulated issuers has never mattered more for traders.
+
+The stablecoin market has shrunk to $130 billion after fourteen consecutive months of decline, and the gap between regulated and unregulated issuers is becoming a critical factor for traders evaluating counterparty risk.
+
+Paxos, which holds a national trust charter from the OCC, laid out the structural differences in stark terms this week: regulated stablecoins offer enforceable redemption rights and independently audited reserves, while unregulated alternatives may provide neither.
+
+The distinction isn't about marketing claims—it's about legal structure. Regulated stablecoins like PYUSD operate under licensed financial institutions with mandatory reserve requirements. These issuers must maintain 1:1 backing in high-quality liquid assets, submit to regular third-party attestations, and provide holders with legally enforceable redemption rights.
+
+Unregulated stablecoins? Redemption can be suspended at the issuer's discretion. Reserve figures, when published at all, are often self-reported. And in an insolvency scenario, holders may have zero legal recourse.
+
+S&P Global Ratings made this concrete in its 2025 stablecoin assessment. USDG earned a "Strong" stability rating, while Tether's USDT received a downgrade over reserve composition concerns. The rating agency identified regulatory status and reserve quality as the primary variables determining stablecoin stability.
+
+The regulatory landscape is shifting fast. Treasury proposed rules in early April to implement the GENIUS Act's anti-money laundering requirements for stablecoin issuers. The FDIC has proposed separate rules for supervised stablecoin issuers and insured depository institutions.
+
+Fed Governor Michael Barr has flagged illicit financing and financial stability risks as key concerns, pushing for effective regulatory implementation. Meanwhile, Hong Kong's Monetary Authority granted stablecoin issuer licenses in April, signaling that regulated ecosystems are forming globally.
+
+The TerraUSD collapse in 2022—which vaporized roughly $40 billion—remains the cautionary tale. That algorithmic stablecoin had no fiat reserves and no regulatory backstop. When confidence cracked, holders had nowhere to turn.
+
+For traders and institutions, the checklist is straightforward: Does the issuer hold a recognized financial license? Are reserves independently attested on a regular schedule? Are redemption terms published in enforceable legal documents? Can you actually access regulatory filings?
+
+A state money transmitter license doesn't cut it—those permit fund transfers but don't impose stablecoin-specific reserve or redemption requirements. National banking charters, MPI licenses, and e-money institution authorizations carry substantively different obligations.
+
+With federal stablecoin legislation advancing and market capitalization under pressure, the regulatory status of your stablecoin holdings isn't an abstract compliance question. It's a direct measure of whether you can get your dollars back when you need them.
+
+With stablecoin market cap at $130B and federal rules advancing, understanding regulated vs unregulated issuers has never mattered more for traders.
+
+The stablecoin market has shrunk to $130 billion after fourteen consecutive months of decline, and the gap between regulated and unregulated issuers is becoming a critical factor for traders evaluating counterparty risk.
+
+Paxos, which holds a national trust charter from the OCC, laid out the structural differences in stark terms this week: regulated stablecoins offer enforceable redemption rights and independently audited reserves, while unregulated alternatives may provide neither.
+
+The distinction isn't about marketing claims—it's about legal structure. Regulated stablecoins like PYUSD operate under licensed financial institutions with mandatory reserve requirements. These issuers must maintain 1:1 backing in high-quality liquid assets, submit to regular third-party attestations, and provide holders with legally enforceable redemption rights.
+
+Unregulated stablecoins? Redemption can be suspended at the issuer's discretion. Reserve figures, when published at all, are often self-reported. And in an insolvency scenario, holders may have zero legal recourse.
+
+S&P Global Ratings made this concrete in its 2025 stablecoin assessment. USDG earned a "Strong" stability rating, while Tether's USDT received a downgrade over reserve composition concerns. The rating agency identified regulatory status and reserve quality as the primary variables determining stablecoin stability.
+
+The regulatory landscape is shifting fast. Treasury proposed rules in early April to implement the GENIUS Act's anti-money laundering requirements for stablecoin issuers. The FDIC has proposed separate rules for supervised stablecoin issuers and insured depository institutions.
+
+Fed Governor Michael Barr has flagged illicit financing and financial stability risks as key concerns, pushing for effective regulatory implementation. Meanwhile, Hong Kong's Monetary Authority granted stablecoin issuer licenses in April, signaling that regulated ecosystems are forming globally.
+Source: https://Blockchain.News/news/stablecoin-regulation-gap-widens-genius-act-advances]]></description>
+      <content:encoded><![CDATA[With stablecoin market cap at $130B and federal rules advancing, understanding regulated vs unregulated issuers has never mattered more for traders.
+
+The stablecoin market has shrunk to $130 billion after fourteen consecutive months of decline, and the gap between regulated and unregulated issuers is becoming a critical factor for traders evaluating counterparty risk.
+
+Paxos, which holds a national trust charter from the OCC, laid out the structural differences in stark terms this week: regulated stablecoins offer enforceable redemption rights and independently audited reserves, while unregulated alternatives may provide neither.
+
+The distinction isn't about marketing claims—it's about legal structure. Regulated stablecoins like PYUSD operate under licensed financial institutions with mandatory reserve requirements. These issuers must maintain 1:1 backing in high-quality liquid assets, submit to regular third-party attestations, and provide holders with legally enforceable redemption rights.
+
+Unregulated stablecoins? Redemption can be suspended at the issuer's discretion. Reserve figures, when published at all, are often self-reported. And in an insolvency scenario, holders may have zero legal recourse.
+
+S&P Global Ratings made this concrete in its 2025 stablecoin assessment. USDG earned a "Strong" stability rating, while Tether's USDT received a downgrade over reserve composition concerns. The rating agency identified regulatory status and reserve quality as the primary variables determining stablecoin stability.
+
+The regulatory landscape is shifting fast. Treasury proposed rules in early April to implement the GENIUS Act's anti-money laundering requirements for stablecoin issuers. The FDIC has proposed separate rules for supervised stablecoin issuers and insured depository institutions.
+
+Fed Governor Michael Barr has flagged illicit financing and financial stability risks as key concerns, pushing for effective regulatory implementation. Meanwhile, Hong Kong's Monetary Authority granted stablecoin issuer licenses in April, signaling that regulated ecosystems are forming globally.
+
+The TerraUSD collapse in 2022—which vaporized roughly $40 billion—remains the cautionary tale. That algorithmic stablecoin had no fiat reserves and no regulatory backstop. When confidence cracked, holders had nowhere to turn.
+
+For traders and institutions, the checklist is straightforward: Does the issuer hold a recognized financial license? Are reserves independently attested on a regular schedule? Are redemption terms published in enforceable legal documents? Can you actually access regulatory filings?
+
+A state money transmitter license doesn't cut it—those permit fund transfers but don't impose stablecoin-specific reserve or redemption requirements. National banking charters, MPI licenses, and e-money institution authorizations carry substantively different obligations.
+
+With federal stablecoin legislation advancing and market capitalization under pressure, the regulatory status of your stablecoin holdings isn't an abstract compliance question. It's a direct measure of whether you can get your dollars back when you need them.
+
+With stablecoin market cap at $130B and federal rules advancing, understanding regulated vs unregulated issuers has never mattered more for traders.
+
+The stablecoin market has shrunk to $130 billion after fourteen consecutive months of decline, and the gap between regulated and unregulated issuers is becoming a critical factor for traders evaluating counterparty risk.
+
+Paxos, which holds a national trust charter from the OCC, laid out the structural differences in stark terms this week: regulated stablecoins offer enforceable redemption rights and independently audited reserves, while unregulated alternatives may provide neither.
+
+The distinction isn't about marketing claims—it's about legal structure. Regulated stablecoins like PYUSD operate under licensed financial institutions with mandatory reserve requirements. These issuers must maintain 1:1 backing in high-quality liquid assets, submit to regular third-party attestations, and provide holders with legally enforceable redemption rights.
+
+Unregulated stablecoins? Redemption can be suspended at the issuer's discretion. Reserve figures, when published at all, are often self-reported. And in an insolvency scenario, holders may have zero legal recourse.
+
+S&P Global Ratings made this concrete in its 2025 stablecoin assessment. USDG earned a "Strong" stability rating, while Tether's USDT received a downgrade over reserve composition concerns. The rating agency identified regulatory status and reserve quality as the primary variables determining stablecoin stability.
+
+The regulatory landscape is shifting fast. Treasury proposed rules in early April to implement the GENIUS Act's anti-money laundering requirements for stablecoin issuers. The FDIC has proposed separate rules for supervised stablecoin issuers and insured depository institutions.
+
+Fed Governor Michael Barr has flagged illicit financing and financial stability risks as key concerns, pushing for effective regulatory implementation. Meanwhile, Hong Kong's Monetary Authority granted stablecoin issuer licenses in April, signaling that regulated ecosystems are forming globally.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-59759f6bd75e44cd18ce6333099746870f2b6bed</guid>
       <title>MiniMax M2.7 Boosts AI Workflows on NVIDIA Platforms [E2E] | NVIDIA&apos;s MiniMax M2.7 delivers efficiency and scalability for complex AI applications, fe... https://Blockchain.News/news/minimax-m27-nvidia-ai-workflows-e2e-20260413113017</title>
@@ -2345,267 +2606,6 @@ Breakout Play: Enter above $2,270 with stop-loss at $2,224 (pivot support), targ
 Support Play: Accumulate near $2,190-$2,150 support zone with stop-loss below $2,100, targeting $2,300 resistance.
 
 Range Trading: Given the current consolidation pattern, traders might consider buying near $2,150 support and selling near $2,270 resistance until a clear directional break occurs.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-072949496abf2aee4950ca03db7118d27c56edc7</guid>
-      <title>BTC Price Prediction: Targets $76,000 by May 2026 as Technical Momentum Builds | Bitcoin trades at $72,766 with RSI at 60.40 showing neutral momentum. Technical analysis... https://Blockchain.News/news/20260411-price-prediction-btc-targets-76000-by-may-2026-as</title>
-      <link>https://Blockchain.News/news/20260411-price-prediction-btc-targets-76000-by-may-2026-as</link>
-      <pubDate>Sat, 11 Apr 2026 08:18:58 GMT</pubDate>
-      <description><![CDATA[Original title: BTC Price Prediction: Targets $76,000 by May 2026 as Technical Momentum Builds
-Summary: Bitcoin trades at $72,766 with RSI at 60.40 showing neutral momentum. Technical analysis suggests potential breakout to $76,000 resistance level within 4 weeks.
-Article text: Bitcoin trades at $72,766 with RSI at 60.40 showing neutral momentum. Technical analysis suggests potential breakout to $76,000 resistance level within 4 weeks.
-
-Bitcoin continues its consolidation phase above the critical $70,000 psychological level, with current price action suggesting a potential bullish breakout in the coming weeks. As of April 11, 2026, BTC trades at $72,766.54, representing a 1.62% gain in the past 24 hours.
-
-• Short-term target (1 week): $74,500 • Medium-term forecast (1 month): $76,000-$78,000 range • Bullish breakout level: $74,500 • Critical support: $70,633
-
-According to CryptoRank.io (@CryptoRank_io), "$BTC is trying to hold above the $70K level amid fresh US–Iran headlines $Gold remains near $4,670." This observation aligns with current price action showing Bitcoin's resilience above this key psychological barrier.
-
-Standard Chartered's Geoffrey Kendrick maintains an ambitious Bitcoin forecast of $150,000, though this represents a longer-term outlook extending beyond our immediate prediction timeframe.
-
-While specific analyst predictions remain limited in the short term, on-chain metrics from major data platforms continue to support a constructive outlook for Bitcoin's price trajectory.
-
-The current technical setup presents a compelling case for continued upside momentum. Bitcoin's RSI sits at 60.40, indicating neutral territory with room for additional gains before reaching overbought conditions.
-
-The MACD histogram reading of 0.0000 suggests momentary bearish momentum, but this appears to be consolidation rather than a reversal signal. Bitcoin's position at 0.90 on the Bollinger Bands scale places it near the upper resistance band at $73,668.52, indicating strong recent performance.
-
-Key moving averages paint a mixed but generally supportive picture. While BTC trades above shorter-term SMAs (7-day at $71,199 and 20-day at $69,158), it remains below the 200-day SMA at $88,101, suggesting the longer-term trend requires further confirmation.
-
-Critical support levels emerge at $71,699 (immediate) and $70,632 (strong support), while resistance targets sit at $73,633 (immediate) and $74,500 (strong resistance).
-
-A break above the immediate resistance at $73,633 would likely trigger momentum toward the strong resistance level at $74,500. Sustained trading above this level could propel Bitcoin toward our medium-term Bitcoin forecast target of $76,000-$78,000 within the next month.
-
-The bullish case strengthens if Bitcoin can maintain its current Bollinger Band position while RSI moves toward 70 without reaching extreme overbought conditions. Volume confirmation above 1.1 billion would support this upward trajectory.
-
-Failure to hold above the $71,699 immediate support could trigger a pullback toward the strong support at $70,632. A breakdown below this level might target the 50-day SMA at $69,100, representing a 5% decline from current levels.
-
-The primary risk factor remains Bitcoin's position below the 200-day moving average, which could limit sustained rallies without broader market confirmation.
-
-Conservative entry points emerge on any pullback toward $71,500-$71,800, offering favorable risk-reward ratios. Aggressive traders might consider entries above $73,700 on confirmed breakout momentum with stop-losses at $72,000.
-
-Risk management suggests position sizing that allows for 3-5% portfolio exposure, with stop-losses placed below the $70,600 strong support level to limit downside risk.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Our BTC price prediction anticipates a measured advance toward $76,000 within the next month, supported by current technical momentum and analyst sentiment. The neutral RSI reading provides room for additional gains, while support levels offer downside protection.
-
-However, traders should remain cautious of Bitcoin's position relative to longer-term moving averages and monitor volume confirmation for sustained moves. This Bitcoin forecast carries moderate confidence given mixed technical signals, and investors should always conduct their own research before making trading decisions.
-
-Disclaimer: Cryptocurrency price predictions are speculative and subject to high volatility. Past performance does not guarantee future results. Always invest responsibly and never risk more than you can afford to lose.
-Source: https://Blockchain.News/news/20260411-price-prediction-btc-targets-76000-by-may-2026-as]]></description>
-      <content:encoded><![CDATA[Bitcoin trades at $72,766 with RSI at 60.40 showing neutral momentum. Technical analysis suggests potential breakout to $76,000 resistance level within 4 weeks.
-
-Bitcoin continues its consolidation phase above the critical $70,000 psychological level, with current price action suggesting a potential bullish breakout in the coming weeks. As of April 11, 2026, BTC trades at $72,766.54, representing a 1.62% gain in the past 24 hours.
-
-• Short-term target (1 week): $74,500 • Medium-term forecast (1 month): $76,000-$78,000 range • Bullish breakout level: $74,500 • Critical support: $70,633
-
-According to CryptoRank.io (@CryptoRank_io), "$BTC is trying to hold above the $70K level amid fresh US–Iran headlines $Gold remains near $4,670." This observation aligns with current price action showing Bitcoin's resilience above this key psychological barrier.
-
-Standard Chartered's Geoffrey Kendrick maintains an ambitious Bitcoin forecast of $150,000, though this represents a longer-term outlook extending beyond our immediate prediction timeframe.
-
-While specific analyst predictions remain limited in the short term, on-chain metrics from major data platforms continue to support a constructive outlook for Bitcoin's price trajectory.
-
-The current technical setup presents a compelling case for continued upside momentum. Bitcoin's RSI sits at 60.40, indicating neutral territory with room for additional gains before reaching overbought conditions.
-
-The MACD histogram reading of 0.0000 suggests momentary bearish momentum, but this appears to be consolidation rather than a reversal signal. Bitcoin's position at 0.90 on the Bollinger Bands scale places it near the upper resistance band at $73,668.52, indicating strong recent performance.
-
-Key moving averages paint a mixed but generally supportive picture. While BTC trades above shorter-term SMAs (7-day at $71,199 and 20-day at $69,158), it remains below the 200-day SMA at $88,101, suggesting the longer-term trend requires further confirmation.
-
-Critical support levels emerge at $71,699 (immediate) and $70,632 (strong support), while resistance targets sit at $73,633 (immediate) and $74,500 (strong resistance).
-
-A break above the immediate resistance at $73,633 would likely trigger momentum toward the strong resistance level at $74,500. Sustained trading above this level could propel Bitcoin toward our medium-term Bitcoin forecast target of $76,000-$78,000 within the next month.
-
-The bullish case strengthens if Bitcoin can maintain its current Bollinger Band position while RSI moves toward 70 without reaching extreme overbought conditions. Volume confirmation above 1.1 billion would support this upward trajectory.
-
-Failure to hold above the $71,699 immediate support could trigger a pullback toward the strong support at $70,632. A breakdown below this level might target the 50-day SMA at $69,100, representing a 5% decline from current levels.
-
-The primary risk factor remains Bitcoin's position below the 200-day moving average, which could limit sustained rallies without broader market confirmation.
-
-Conservative entry points emerge on any pullback toward $71,500-$71,800, offering favorable risk-reward ratios. Aggressive traders might consider entries above $73,700 on confirmed breakout momentum with stop-losses at $72,000.
-
-Risk management suggests position sizing that allows for 3-5% portfolio exposure, with stop-losses placed below the $70,600 strong support level to limit downside risk.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Our BTC price prediction anticipates a measured advance toward $76,000 within the next month, supported by current technical momentum and analyst sentiment. The neutral RSI reading provides room for additional gains, while support levels offer downside protection.
-
-However, traders should remain cautious of Bitcoin's position relative to longer-term moving averages and monitor volume confirmation for sustained moves. This Bitcoin forecast carries moderate confidence given mixed technical signals, and investors should always conduct their own research before making trading decisions.
-
-Disclaimer: Cryptocurrency price predictions are speculative and subject to high volatility. Past performance does not guarantee future results. Always invest responsibly and never risk more than you can afford to lose.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-855750d87cf6d9eef133a8210b5328c940d385fd</guid>
-      <title>Anthropic Warns AI-Powered Cyberattacks Will Surge Within 24 Months | Anthropic releases security guidelines as Project Glasswing reveals frontier AI models ca... https://Blockchain.News/news/anthropic-ai-cyberattack-warning-project-glasswing</title>
-      <link>https://Blockchain.News/news/anthropic-ai-cyberattack-warning-project-glasswing</link>
-      <pubDate>Fri, 10 Apr 2026 23:18:38 GMT</pubDate>
-      <description><![CDATA[Original title: Anthropic Warns AI-Powered Cyberattacks Will Surge Within 24 Months
-Summary: Anthropic releases security guidelines as Project Glasswing reveals frontier AI models can now find and exploit vulnerabilities faster than human defenders.
-Article text: Anthropic releases security guidelines as Project Glasswing reveals frontier AI models can now find and exploit vulnerabilities faster than human defenders.
-
-Anthropic dropped a sobering assessment this week: within two years, AI models will uncover vast numbers of software vulnerabilities that have sat unnoticed in code for years—and chain them into working exploits. The company's security teams released detailed defensive recommendations alongside Project Glasswing, their initiative to deploy Claude Mythos Preview's capabilities for cyber defense.
-
-The math here isn't complicated. If attackers can use frontier models to automate vulnerability discovery and exploit generation, the window between a patch dropping and a working exploit appearing shrinks dramatically. Anthropic's security engineers have watched this happen in their own testing.
-
-According to Anthropic's technical findings, AI models excel at recognizing signatures of known vulnerabilities in unpatched systems. Reversing a patch into a working exploit—exactly the kind of mechanical analysis these models handle well—used to require specialized skills. Now it's becoming automated.
-
-The company noted that publicly available models below Mythos capability levels can already find serious vulnerabilities that traditional code reviews missed for extended periods. Mozilla Firefox vulnerabilities discovered through AI scanning serve as one documented example.
-
-Anthropic's recommendations prioritize controls that hold even against attackers with unlimited patience and AI assistance. Friction-based security measures—extra pivot hops, rate limits, non-standard ports—lose effectiveness when adversaries can grind through tedious steps automatically.
-
-Patch velocity matters more than ever. Internet-facing applications should receive patches within 24 hours of an exploit becoming available. The CISA Known Exploited Vulnerabilities catalog should be treated as an emergency queue. Anthropic recommends using EPSS (Exploit Prediction Scoring System) for prioritizing everything else.
-
-Prepare for 10x vulnerability report volume. Over the next two years, intake and triage processes will face pressure they've never experienced. Organizations still running weekly spreadsheet meetings won't keep pace.
-
-Scan your own code with frontier models before attackers do. This was Anthropic's single most emphasized recommendation. Legacy code that predates current review practices—especially code whose original authors have moved on—represents the highest-value target for proactive scanning.
-
-The guidance pushes hard toward hardware-bound credentials and identity-based service isolation. A compromised build server shouldn't reach production databases. A compromised laptop shouldn't touch build infrastructure.
-
-Static API keys, embedded credentials, and shared service-account passwords are described as "among the first things an attacker with model-assisted code analysis will find."
-
-Organizations without dedicated security teams got specific advice: enable automatic updates everywhere, prefer managed services over self-hosting, use passkeys or hardware security keys, and turn on free security tooling from code hosts like GitHub's Dependabot and CodeQL.
-
-Open-source maintainers should expect increased vulnerability report volume—some valuable, some automated noise. Publishing a SECURITY.md with clear intake processes helps separate signal from spam.
-
-Anthropic committed to updating this guidance as Project Glasswing progresses. For enterprises tracking SOC 2 and ISO 27001 compliance, most recommendations map directly to existing controls. The difference now is urgency.
-
-Anthropic releases security guidelines as Project Glasswing reveals frontier AI models can now find and exploit vulnerabilities faster than human defenders.
-
-Anthropic dropped a sobering assessment this week: within two years, AI models will uncover vast numbers of software vulnerabilities that have sat unnoticed in code for years—and chain them into working exploits. The company's security teams released detailed defensive recommendations alongside Project Glasswing, their initiative to deploy Claude Mythos Preview's capabilities for cyber defense.
-
-The math here isn't complicated. If attackers can use frontier models to automate vulnerability discovery and exploit generation, the window between a patch dropping and a working exploit appearing shrinks dramatically. Anthropic's security engineers have watched this happen in their own testing.
-
-According to Anthropic's technical findings, AI models excel at recognizing signatures of known vulnerabilities in unpatched systems. Reversing a patch into a working exploit—exactly the kind of mechanical analysis these models handle well—used to require specialized skills. Now it's becoming automated.
-
-The company noted that publicly available models below Mythos capability levels can already find serious vulnerabilities that traditional code reviews missed for extended periods. Mozilla Firefox vulnerabilities discovered through AI scanning serve as one documented example.
-
-Anthropic's recommendations prioritize controls that hold even against attackers with unlimited patience and AI assistance. Friction-based security measures—extra pivot hops, rate limits, non-standard ports—lose effectiveness when adversaries can grind through tedious steps automatically.
-Source: https://Blockchain.News/news/anthropic-ai-cyberattack-warning-project-glasswing]]></description>
-      <content:encoded><![CDATA[Anthropic releases security guidelines as Project Glasswing reveals frontier AI models can now find and exploit vulnerabilities faster than human defenders.
-
-Anthropic dropped a sobering assessment this week: within two years, AI models will uncover vast numbers of software vulnerabilities that have sat unnoticed in code for years—and chain them into working exploits. The company's security teams released detailed defensive recommendations alongside Project Glasswing, their initiative to deploy Claude Mythos Preview's capabilities for cyber defense.
-
-The math here isn't complicated. If attackers can use frontier models to automate vulnerability discovery and exploit generation, the window between a patch dropping and a working exploit appearing shrinks dramatically. Anthropic's security engineers have watched this happen in their own testing.
-
-According to Anthropic's technical findings, AI models excel at recognizing signatures of known vulnerabilities in unpatched systems. Reversing a patch into a working exploit—exactly the kind of mechanical analysis these models handle well—used to require specialized skills. Now it's becoming automated.
-
-The company noted that publicly available models below Mythos capability levels can already find serious vulnerabilities that traditional code reviews missed for extended periods. Mozilla Firefox vulnerabilities discovered through AI scanning serve as one documented example.
-
-Anthropic's recommendations prioritize controls that hold even against attackers with unlimited patience and AI assistance. Friction-based security measures—extra pivot hops, rate limits, non-standard ports—lose effectiveness when adversaries can grind through tedious steps automatically.
-
-Patch velocity matters more than ever. Internet-facing applications should receive patches within 24 hours of an exploit becoming available. The CISA Known Exploited Vulnerabilities catalog should be treated as an emergency queue. Anthropic recommends using EPSS (Exploit Prediction Scoring System) for prioritizing everything else.
-
-Prepare for 10x vulnerability report volume. Over the next two years, intake and triage processes will face pressure they've never experienced. Organizations still running weekly spreadsheet meetings won't keep pace.
-
-Scan your own code with frontier models before attackers do. This was Anthropic's single most emphasized recommendation. Legacy code that predates current review practices—especially code whose original authors have moved on—represents the highest-value target for proactive scanning.
-
-The guidance pushes hard toward hardware-bound credentials and identity-based service isolation. A compromised build server shouldn't reach production databases. A compromised laptop shouldn't touch build infrastructure.
-
-Static API keys, embedded credentials, and shared service-account passwords are described as "among the first things an attacker with model-assisted code analysis will find."
-
-Organizations without dedicated security teams got specific advice: enable automatic updates everywhere, prefer managed services over self-hosting, use passkeys or hardware security keys, and turn on free security tooling from code hosts like GitHub's Dependabot and CodeQL.
-
-Open-source maintainers should expect increased vulnerability report volume—some valuable, some automated noise. Publishing a SECURITY.md with clear intake processes helps separate signal from spam.
-
-Anthropic committed to updating this guidance as Project Glasswing progresses. For enterprises tracking SOC 2 and ISO 27001 compliance, most recommendations map directly to existing controls. The difference now is urgency.
-
-Anthropic releases security guidelines as Project Glasswing reveals frontier AI models can now find and exploit vulnerabilities faster than human defenders.
-
-Anthropic dropped a sobering assessment this week: within two years, AI models will uncover vast numbers of software vulnerabilities that have sat unnoticed in code for years—and chain them into working exploits. The company's security teams released detailed defensive recommendations alongside Project Glasswing, their initiative to deploy Claude Mythos Preview's capabilities for cyber defense.
-
-The math here isn't complicated. If attackers can use frontier models to automate vulnerability discovery and exploit generation, the window between a patch dropping and a working exploit appearing shrinks dramatically. Anthropic's security engineers have watched this happen in their own testing.
-
-According to Anthropic's technical findings, AI models excel at recognizing signatures of known vulnerabilities in unpatched systems. Reversing a patch into a working exploit—exactly the kind of mechanical analysis these models handle well—used to require specialized skills. Now it's becoming automated.
-
-The company noted that publicly available models below Mythos capability levels can already find serious vulnerabilities that traditional code reviews missed for extended periods. Mozilla Firefox vulnerabilities discovered through AI scanning serve as one documented example.
-
-Anthropic's recommendations prioritize controls that hold even against attackers with unlimited patience and AI assistance. Friction-based security measures—extra pivot hops, rate limits, non-standard ports—lose effectiveness when adversaries can grind through tedious steps automatically.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-b6e30c7aa0970067d0305fff8e535fdfea36009e</guid>
-      <title>Anthropic Reveals Claude Code Tool Design Philosophy Behind AI Agent Development | Anthropic engineers detail how they build and refine AI agent tools for Claude Code, intr... https://Blockchain.News/news/anthropic-claude-code-tool-design-ai-agents</title>
-      <link>https://Blockchain.News/news/anthropic-claude-code-tool-design-ai-agents</link>
-      <pubDate>Fri, 10 Apr 2026 19:10:46 GMT</pubDate>
-      <description><![CDATA[Original title: Anthropic Reveals Claude Code Tool Design Philosophy Behind AI Agent Development
-Summary: Anthropic engineers detail how they build and refine AI agent tools for Claude Code, introducing progressive disclosure techniques that shape AI development.
-Article text: Anthropic engineers detail how they build and refine AI agent tools for Claude Code, introducing progressive disclosure techniques that shape AI development.
-
-Anthropic has pulled back the curtain on how its engineering team designs tools for Claude Code, the company's AI-powered software development assistant. The detailed technical breakdown, published April 10, offers rare insight into the iterative process behind building effective AI agent systems.
-
-The $380 billion AI safety company's approach centers on what engineer Thariq Shihipar calls "seeing like an agent" — essentially understanding how an AI model perceives and interacts with the tools it's given.
-
-Building Claude's question-asking capability took three attempts. The team first tried adding a question parameter to an existing tool, which confused the model when user answers conflicted with generated plans. A second attempt using modified markdown formatting proved unreliable — Claude would "append extra sentences, drop options, or abandon the structure altogether."
-
-The winning solution: a dedicated AskUserQuestion tool that triggers a modal interface, blocking the agent's loop until users respond. The structured approach worked because, as Shihipar notes, "even the best designed tool doesn't work if Claude doesn't understand how to call it."
-
-The team's experience with task management reveals how model improvements can render existing tools obsolete. Early versions of Claude Code used a TodoWrite tool with system reminders every five turns to keep the model on track.
-
-As models improved, this became counterproductive. Claude started treating the todo list as immutable rather than adapting when circumstances changed. The solution was replacing TodoWrite with a more flexible Task tool that supports dependencies and cross-subagent communication.
-
-Perhaps the most significant shift involved how Claude finds context. The initial release used retrieval-augmented generation (RAG), pre-indexing codebases and feeding relevant snippets to Claude. While fast, this approach was fragile and meant Claude was "given this context instead of finding the context itself."
-
-Giving Claude a Grep tool changed the dynamic entirely. Combined with Agent Skills — which allow recursive file discovery — the model went from being unable to build its own context to performing "nested search across several layers of files to find the exact context it needed."
-
-Claude Code currently operates with roughly 20 tools, and Anthropic maintains a high bar for additions. Each new tool represents another decision point for the model to evaluate.
-
-When users needed Claude to answer questions about Claude Code itself, the team avoided adding another tool. Instead, they built a specialized subagent that searches documentation in its own context and returns only the answer, keeping the main agent's context clean.
-
-This "progressive disclosure" approach — letting agents incrementally discover relevant information — has become central to Anthropic's design philosophy. It echoes the company's broader focus on creating AI systems that are helpful without becoming unwieldy or unpredictable.
-
-For developers building their own agent systems, the takeaway is clear: tool design requires constant iteration as model capabilities evolve. What helps an AI today might constrain it tomorrow.
-
-Anthropic engineers detail how they build and refine AI agent tools for Claude Code, introducing progressive disclosure techniques that shape AI development.
-
-Anthropic has pulled back the curtain on how its engineering team designs tools for Claude Code, the company's AI-powered software development assistant. The detailed technical breakdown, published April 10, offers rare insight into the iterative process behind building effective AI agent systems.
-
-The $380 billion AI safety company's approach centers on what engineer Thariq Shihipar calls "seeing like an agent" — essentially understanding how an AI model perceives and interacts with the tools it's given.
-
-Building Claude's question-asking capability took three attempts. The team first tried adding a question parameter to an existing tool, which confused the model when user answers conflicted with generated plans. A second attempt using modified markdown formatting proved unreliable — Claude would "append extra sentences, drop options, or abandon the structure altogether."
-
-The winning solution: a dedicated AskUserQuestion tool that triggers a modal interface, blocking the agent's loop until users respond. The structured approach worked because, as Shihipar notes, "even the best designed tool doesn't work if Claude doesn't understand how to call it."
-
-The team's experience with task management reveals how model improvements can render existing tools obsolete. Early versions of Claude Code used a TodoWrite tool with system reminders every five turns to keep the model on track.
-
-As models improved, this became counterproductive. Claude started treating the todo list as immutable rather than adapting when circumstances changed. The solution was replacing TodoWrite with a more flexible Task tool that supports dependencies and cross-subagent communication.
-Source: https://Blockchain.News/news/anthropic-claude-code-tool-design-ai-agents]]></description>
-      <content:encoded><![CDATA[Anthropic engineers detail how they build and refine AI agent tools for Claude Code, introducing progressive disclosure techniques that shape AI development.
-
-Anthropic has pulled back the curtain on how its engineering team designs tools for Claude Code, the company's AI-powered software development assistant. The detailed technical breakdown, published April 10, offers rare insight into the iterative process behind building effective AI agent systems.
-
-The $380 billion AI safety company's approach centers on what engineer Thariq Shihipar calls "seeing like an agent" — essentially understanding how an AI model perceives and interacts with the tools it's given.
-
-Building Claude's question-asking capability took three attempts. The team first tried adding a question parameter to an existing tool, which confused the model when user answers conflicted with generated plans. A second attempt using modified markdown formatting proved unreliable — Claude would "append extra sentences, drop options, or abandon the structure altogether."
-
-The winning solution: a dedicated AskUserQuestion tool that triggers a modal interface, blocking the agent's loop until users respond. The structured approach worked because, as Shihipar notes, "even the best designed tool doesn't work if Claude doesn't understand how to call it."
-
-The team's experience with task management reveals how model improvements can render existing tools obsolete. Early versions of Claude Code used a TodoWrite tool with system reminders every five turns to keep the model on track.
-
-As models improved, this became counterproductive. Claude started treating the todo list as immutable rather than adapting when circumstances changed. The solution was replacing TodoWrite with a more flexible Task tool that supports dependencies and cross-subagent communication.
-
-Perhaps the most significant shift involved how Claude finds context. The initial release used retrieval-augmented generation (RAG), pre-indexing codebases and feeding relevant snippets to Claude. While fast, this approach was fragile and meant Claude was "given this context instead of finding the context itself."
-
-Giving Claude a Grep tool changed the dynamic entirely. Combined with Agent Skills — which allow recursive file discovery — the model went from being unable to build its own context to performing "nested search across several layers of files to find the exact context it needed."
-
-Claude Code currently operates with roughly 20 tools, and Anthropic maintains a high bar for additions. Each new tool represents another decision point for the model to evaluate.
-
-When users needed Claude to answer questions about Claude Code itself, the team avoided adding another tool. Instead, they built a specialized subagent that searches documentation in its own context and returns only the answer, keeping the main agent's context clean.
-
-This "progressive disclosure" approach — letting agents incrementally discover relevant information — has become central to Anthropic's design philosophy. It echoes the company's broader focus on creating AI systems that are helpful without becoming unwieldy or unpredictable.
-
-For developers building their own agent systems, the takeaway is clear: tool design requires constant iteration as model capabilities evolve. What helps an AI today might constrain it tomorrow.
-
-Anthropic engineers detail how they build and refine AI agent tools for Claude Code, introducing progressive disclosure techniques that shape AI development.
-
-Anthropic has pulled back the curtain on how its engineering team designs tools for Claude Code, the company's AI-powered software development assistant. The detailed technical breakdown, published April 10, offers rare insight into the iterative process behind building effective AI agent systems.
-
-The $380 billion AI safety company's approach centers on what engineer Thariq Shihipar calls "seeing like an agent" — essentially understanding how an AI model perceives and interacts with the tools it's given.
-
-Building Claude's question-asking capability took three attempts. The team first tried adding a question parameter to an existing tool, which confused the model when user answers conflicted with generated plans. A second attempt using modified markdown formatting proved unreliable — Claude would "append extra sentences, drop options, or abandon the structure altogether."
-
-The winning solution: a dedicated AskUserQuestion tool that triggers a modal interface, blocking the agent's loop until users respond. The structured approach worked because, as Shihipar notes, "even the best designed tool doesn't work if Claude doesn't understand how to call it."
-
-The team's experience with task management reveals how model improvements can render existing tools obsolete. Early versions of Claude Code used a TodoWrite tool with system reminders every five turns to keep the model on track.
-
-As models improved, this became counterproductive. Claude started treating the todo list as immutable rather than adapting when circumstances changed. The solution was replacing TodoWrite with a more flexible Task tool that supports dependencies and cross-subagent communication.]]></content:encoded>
     </item>
   </channel>
 </rss>
