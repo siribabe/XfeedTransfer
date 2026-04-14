@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Tue, 14 Apr 2026 02:06:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:24:43 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-59759f6bd75e44cd18ce6333099746870f2b6bed</guid>
+      <title>MiniMax M2.7 Boosts AI Workflows on NVIDIA Platforms [E2E] | NVIDIA&apos;s MiniMax M2.7 delivers efficiency and scalability for complex AI applications, fe... https://Blockchain.News/news/minimax-m27-nvidia-ai-workflows-e2e-20260413113017</title>
+      <link>https://Blockchain.News/news/minimax-m27-nvidia-ai-workflows-e2e-20260413113017</link>
+      <pubDate>Mon, 13 Apr 2026 11:35:23 GMT</pubDate>
+      <description><![CDATA[Original title: MiniMax M2.7 Boosts AI Workflows on NVIDIA Platforms [E2E]
+Summary: NVIDIA's MiniMax M2.7 delivers efficiency and scalability for complex AI applications, featuring advanced MoE architecture and open-source integrations. [E2E]
+Article text: NVIDIA's MiniMax M2.7 delivers efficiency and scalability for complex AI applications, featuring advanced MoE architecture and open-source integrations. [E2E]
+
+MiniMax M2.7, the latest model in NVIDIA's MiniMax series, promises significant advancements in scalable agentic workflows for complex AI applications. Announced on April 12, 2026, it builds upon the MiniMax M2.5 foundation with enhanced sparse Mixture-of-Experts (MoE) architecture, making it a key player in reasoning tasks, machine learning research, and engineering workflows.
+
+The MiniMax M2.7 model boasts an impressive 230 billion total parameters while maintaining efficiency by activating only 4.3% of these parameters during inference—roughly 10 billion active per token. This is achieved using smart routing mechanisms that select relevant experts for each input, reducing computational overhead without sacrificing capability.
+
+The MoE design incorporates advanced techniques like Rotary Position Embeddings (RoPE) and Query-Key Root Mean Square Normalization (QK RMSNorm), enabling stable training at scale. Its extended input context length of up to 200k tokens makes it especially suited for long-form reasoning and coding challenges. With 256 local experts activated per token through an optimized top-k routing system, the model effectively balances scalability and precision.
+
+Notably, NVIDIA has integrated MiniMax M2.7 into its open-source ecosystem via frameworks like vLLM and SGLang to optimize inference performance further. The QK RMSNorm Kernel allows better overlap between computation and communication tasks, while FP8 MoE modular kernels improve throughput on high-performance GPUs like NVIDIA Blackwell Ultra.
+
+NVIDIA reports up to a 2.5x improvement in throughput within one month using vLLM optimizations, with similar gains seen in SGLang implementations reaching a 2.7x increase in throughput under identical conditions.
+
+MiniMax M2.7 is available via multiple platforms to suit varied deployment needs:
+
+This release solidifies NVIDIA’s position as a leader in scaling large language models efficiently while democratizing access through open standards and integrations with popular frameworks like Hugging Face. For developers working on real-time autonomous agents or massive-scale reasoning tasks, MiniMax M2.7 provides a compelling solution that balances performance with cost-effectiveness.
+
+The model can be deployed today via build.nvidia.com, offering users a chance to test its capabilities directly or integrate them into production environments seamlessly.
+
+NVIDIA's MiniMax M2.7 delivers efficiency and scalability for complex AI applications, featuring advanced MoE architecture and open-source integrations. [E2E]
+
+MiniMax M2.7, the latest model in NVIDIA's MiniMax series, promises significant advancements in scalable agentic workflows for complex AI applications. Announced on April 12, 2026, it builds upon the MiniMax M2.5 foundation with enhanced sparse Mixture-of-Experts (MoE) architecture, making it a key player in reasoning tasks, machine learning research, and engineering workflows.
+
+The MiniMax M2.7 model boasts an impressive 230 billion total parameters while maintaining efficiency by activating only 4.3% of these parameters during inference—roughly 10 billion active per token. This is achieved using smart routing mechanisms that select relevant experts for each input, reducing computational overhead without sacrificing capability.
+
+The MoE design incorporates advanced techniques like Rotary Position Embeddings (RoPE) and Query-Key Root Mean Square Normalization (QK RMSNorm), enabling stable training at scale. Its extended input context length of up to 200k tokens makes it especially suited for long-form reasoning and coding challenges. With 256 local experts activated per token through an optimized top-k routing system, the model effectively balances scalability and precision.
+
+Notably, NVIDIA has integrated MiniMax M2.7 into its open-source ecosystem via frameworks like vLLM and SGLang to optimize inference performance further. The QK RMSNorm Kernel allows better overlap between computation and communication tasks, while FP8 MoE modular kernels improve throughput on high-performance GPUs like NVIDIA Blackwell Ultra.
+
+NVIDIA reports up to a 2.5x improvement in throughput within one month using vLLM optimizations, with similar gains seen in SGLang implementations reaching a 2.7x increase in throughput under identical conditions.
+
+MiniMax M2.7 is available via multiple platforms to suit varied deployment needs:
+
+This release solidifies NVIDIA’s position as a leader in scaling large language models efficiently while democratizing access through open standards and integrations with popular frameworks like Hugging Face. For developers working on real-time autonomous agents or massive-scale reasoning tasks, MiniMax M2.7 provides a compelling solution that balances performance with cost-effectiveness.
+
+The model can be deployed today via build.nvidia.com, offering users a chance to test its capabilities directly or integrate them into production environments seamlessly.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/minimax-m27-nvidia-ai-workflows-e2e-20260413113017]]></description>
+      <content:encoded><![CDATA[NVIDIA's MiniMax M2.7 delivers efficiency and scalability for complex AI applications, featuring advanced MoE architecture and open-source integrations. [E2E]
+
+MiniMax M2.7, the latest model in NVIDIA's MiniMax series, promises significant advancements in scalable agentic workflows for complex AI applications. Announced on April 12, 2026, it builds upon the MiniMax M2.5 foundation with enhanced sparse Mixture-of-Experts (MoE) architecture, making it a key player in reasoning tasks, machine learning research, and engineering workflows.
+
+The MiniMax M2.7 model boasts an impressive 230 billion total parameters while maintaining efficiency by activating only 4.3% of these parameters during inference—roughly 10 billion active per token. This is achieved using smart routing mechanisms that select relevant experts for each input, reducing computational overhead without sacrificing capability.
+
+The MoE design incorporates advanced techniques like Rotary Position Embeddings (RoPE) and Query-Key Root Mean Square Normalization (QK RMSNorm), enabling stable training at scale. Its extended input context length of up to 200k tokens makes it especially suited for long-form reasoning and coding challenges. With 256 local experts activated per token through an optimized top-k routing system, the model effectively balances scalability and precision.
+
+Notably, NVIDIA has integrated MiniMax M2.7 into its open-source ecosystem via frameworks like vLLM and SGLang to optimize inference performance further. The QK RMSNorm Kernel allows better overlap between computation and communication tasks, while FP8 MoE modular kernels improve throughput on high-performance GPUs like NVIDIA Blackwell Ultra.
+
+NVIDIA reports up to a 2.5x improvement in throughput within one month using vLLM optimizations, with similar gains seen in SGLang implementations reaching a 2.7x increase in throughput under identical conditions.
+
+MiniMax M2.7 is available via multiple platforms to suit varied deployment needs:
+
+This release solidifies NVIDIA’s position as a leader in scaling large language models efficiently while democratizing access through open standards and integrations with popular frameworks like Hugging Face. For developers working on real-time autonomous agents or massive-scale reasoning tasks, MiniMax M2.7 provides a compelling solution that balances performance with cost-effectiveness.
+
+The model can be deployed today via build.nvidia.com, offering users a chance to test its capabilities directly or integrate them into production environments seamlessly.
+
+NVIDIA's MiniMax M2.7 delivers efficiency and scalability for complex AI applications, featuring advanced MoE architecture and open-source integrations. [E2E]
+
+MiniMax M2.7, the latest model in NVIDIA's MiniMax series, promises significant advancements in scalable agentic workflows for complex AI applications. Announced on April 12, 2026, it builds upon the MiniMax M2.5 foundation with enhanced sparse Mixture-of-Experts (MoE) architecture, making it a key player in reasoning tasks, machine learning research, and engineering workflows.
+
+The MiniMax M2.7 model boasts an impressive 230 billion total parameters while maintaining efficiency by activating only 4.3% of these parameters during inference—roughly 10 billion active per token. This is achieved using smart routing mechanisms that select relevant experts for each input, reducing computational overhead without sacrificing capability.
+
+The MoE design incorporates advanced techniques like Rotary Position Embeddings (RoPE) and Query-Key Root Mean Square Normalization (QK RMSNorm), enabling stable training at scale. Its extended input context length of up to 200k tokens makes it especially suited for long-form reasoning and coding challenges. With 256 local experts activated per token through an optimized top-k routing system, the model effectively balances scalability and precision.
+
+Notably, NVIDIA has integrated MiniMax M2.7 into its open-source ecosystem via frameworks like vLLM and SGLang to optimize inference performance further. The QK RMSNorm Kernel allows better overlap between computation and communication tasks, while FP8 MoE modular kernels improve throughput on high-performance GPUs like NVIDIA Blackwell Ultra.
+
+NVIDIA reports up to a 2.5x improvement in throughput within one month using vLLM optimizations, with similar gains seen in SGLang implementations reaching a 2.7x increase in throughput under identical conditions.
+
+MiniMax M2.7 is available via multiple platforms to suit varied deployment needs:
+
+This release solidifies NVIDIA’s position as a leader in scaling large language models efficiently while democratizing access through open standards and integrations with popular frameworks like Hugging Face. For developers working on real-time autonomous agents or massive-scale reasoning tasks, MiniMax M2.7 provides a compelling solution that balances performance with cost-effectiveness.
+
+The model can be deployed today via build.nvidia.com, offering users a chance to test its capabilities directly or integrate them into production environments seamlessly.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-bc10b7d5231c78f990b62093f5e84b997e23a411</guid>
+      <title>ATOM Price Prediction: Targets $1.85 Recovery by May 2026 | ATOM Price Prediction Summary • Short-term target (1 week): $1.77 • Medium-term forecast... https://Blockchain.News/news/20260413-atom-price-prediction-targets-185-recovery-by-may-2026</title>
+      <link>https://Blockchain.News/news/20260413-atom-price-prediction-targets-185-recovery-by-may-2026</link>
+      <pubDate>Mon, 13 Apr 2026 11:32:10 GMT</pubDate>
+      <description><![CDATA[Original title: ATOM Price Prediction: Targets $1.85 Recovery by May 2026
+Summary: ATOM Price Prediction Summary • Short-term target (1 week): $1.77 • Medium-term forecast (1 month): $1.69-$1.85 range • Bullish breakout level: $1.82 • Critical support: $1.69 What Crypto Ana...
+Article text: ATOM Price Prediction Summary • Short-term target (1 week): $1.77 • Medium-term forecast (1 month): $1.69-$1.85 range • Bullish breakout level: $1.82 • Critical support: $1.69 What Crypto Ana...
+
+• Short-term target (1 week): $1.77 • Medium-term forecast (1 month): $1.69-$1.85 range • Bullish breakout level: $1.82 • Critical support: $1.69
+
+While specific analyst predictions are limited for the past 24 hours, recent technical analyses from blockchain data platforms provide insights into ATOM's trajectory. According to recent market analysis, Cosmos shows mixed signals with technical indicators suggesting a consolidation phase around current levels.
+
+On-chain metrics indicate that ATOM's trading volume remains moderate at $1.09 million on Binance, reflecting steady but not overwhelming interest. The cryptocurrency has maintained relatively tight trading ranges, suggesting accumulation rather than distribution patterns.
+
+The current ATOM price prediction landscape reveals several key technical factors influencing Cosmos's short-term outlook. At $1.73, ATOM sits precisely at its 20-day simple moving average ($1.72), indicating equilibrium between buyers and sellers.
+
+The RSI reading of 45.23 places Cosmos in neutral territory, neither overbought nor oversold. This positioning suggests room for movement in either direction based on broader market catalysts. The MACD histogram at -0.0000 shows minimal bearish momentum, indicating the recent downtrend may be losing steam.
+
+Bollinger Bands analysis reveals ATOM trading at 0.54 position between the bands, with the upper band at $1.82 and lower band at $1.62. This positioning suggests ATOM has moderate upside potential before hitting technical resistance.
+
+Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
+
+The Average True Range (ATR) of $0.06 indicates relatively low volatility, which could either signal accumulation or lack of directional conviction among traders.
+
+The optimistic Cosmos forecast points toward a recovery to $1.77 in the near term, aligning with the 7-day moving average resistance. A break above this level could propel ATOM toward the upper Bollinger Band at $1.82, representing a 5% upside from current levels.
+
+For a stronger bullish case, ATOM would need to reclaim the $1.85 level, which recent analyses have identified as key resistance. This move would require increased volume and broader crypto market support.
+
+The ultimate bullish target sits at the 50-day moving average of $1.80, which has served as dynamic resistance. Breaking this level with conviction could signal the start of a larger recovery toward previous highs.
+
+The bearish ATOM price prediction scenario centers around the failure to hold the $1.71 immediate support level. A break below this point could trigger selling pressure toward the $1.69 strong support zone.
+
+Further weakness could see Cosmos testing the lower Bollinger Band at $1.62, representing a potential 6% downside from current levels. This scenario would likely unfold if broader cryptocurrency markets face headwinds or if ATOM-specific fundamentals deteriorate.
+
+The most concerning bearish target would be a breakdown below $1.60, which could open the door to deeper corrections toward psychological support levels.
+
+Based on current technical positioning, potential ATOM buyers should consider a layered approach. The immediate support at $1.71 offers a logical entry point for those seeking to capitalize on potential bounces.
+
+More conservative investors might wait for a clear break above $1.75 resistance before establishing positions, using the $1.69 level as a stop-loss reference point. This strategy provides a favorable risk-reward ratio given the proximity to support levels.
+
+For swing traders, the $1.69-$1.77 range presents opportunities for range-bound trading strategies. However, given the neutral momentum indicators, position sizing should remain conservative until clearer directional signals emerge.
+
+Risk management remains crucial, with stop-losses recommended below the $1.69 strong support level to limit downside exposure in case of broader market weakness.
+
+The current ATOM price prediction suggests a consolidation phase with slight bullish bias toward $1.77-$1.85 over the coming weeks. While momentum indicators remain neutral, the technical setup favors patient accumulation near support levels rather than aggressive positioning.
+Source: https://Blockchain.News/news/20260413-atom-price-prediction-targets-185-recovery-by-may-2026]]></description>
+      <content:encoded><![CDATA[ATOM Price Prediction Summary • Short-term target (1 week): $1.77 • Medium-term forecast (1 month): $1.69-$1.85 range • Bullish breakout level: $1.82 • Critical support: $1.69 What Crypto Ana...
+
+• Short-term target (1 week): $1.77 • Medium-term forecast (1 month): $1.69-$1.85 range • Bullish breakout level: $1.82 • Critical support: $1.69
+
+While specific analyst predictions are limited for the past 24 hours, recent technical analyses from blockchain data platforms provide insights into ATOM's trajectory. According to recent market analysis, Cosmos shows mixed signals with technical indicators suggesting a consolidation phase around current levels.
+
+On-chain metrics indicate that ATOM's trading volume remains moderate at $1.09 million on Binance, reflecting steady but not overwhelming interest. The cryptocurrency has maintained relatively tight trading ranges, suggesting accumulation rather than distribution patterns.
+
+The current ATOM price prediction landscape reveals several key technical factors influencing Cosmos's short-term outlook. At $1.73, ATOM sits precisely at its 20-day simple moving average ($1.72), indicating equilibrium between buyers and sellers.
+
+The RSI reading of 45.23 places Cosmos in neutral territory, neither overbought nor oversold. This positioning suggests room for movement in either direction based on broader market catalysts. The MACD histogram at -0.0000 shows minimal bearish momentum, indicating the recent downtrend may be losing steam.
+
+Bollinger Bands analysis reveals ATOM trading at 0.54 position between the bands, with the upper band at $1.82 and lower band at $1.62. This positioning suggests ATOM has moderate upside potential before hitting technical resistance.
+
+Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
+
+The Average True Range (ATR) of $0.06 indicates relatively low volatility, which could either signal accumulation or lack of directional conviction among traders.
+
+The optimistic Cosmos forecast points toward a recovery to $1.77 in the near term, aligning with the 7-day moving average resistance. A break above this level could propel ATOM toward the upper Bollinger Band at $1.82, representing a 5% upside from current levels.
+
+For a stronger bullish case, ATOM would need to reclaim the $1.85 level, which recent analyses have identified as key resistance. This move would require increased volume and broader crypto market support.
+
+The ultimate bullish target sits at the 50-day moving average of $1.80, which has served as dynamic resistance. Breaking this level with conviction could signal the start of a larger recovery toward previous highs.
+
+The bearish ATOM price prediction scenario centers around the failure to hold the $1.71 immediate support level. A break below this point could trigger selling pressure toward the $1.69 strong support zone.
+
+Further weakness could see Cosmos testing the lower Bollinger Band at $1.62, representing a potential 6% downside from current levels. This scenario would likely unfold if broader cryptocurrency markets face headwinds or if ATOM-specific fundamentals deteriorate.
+
+The most concerning bearish target would be a breakdown below $1.60, which could open the door to deeper corrections toward psychological support levels.
+
+Based on current technical positioning, potential ATOM buyers should consider a layered approach. The immediate support at $1.71 offers a logical entry point for those seeking to capitalize on potential bounces.
+
+More conservative investors might wait for a clear break above $1.75 resistance before establishing positions, using the $1.69 level as a stop-loss reference point. This strategy provides a favorable risk-reward ratio given the proximity to support levels.
+
+For swing traders, the $1.69-$1.77 range presents opportunities for range-bound trading strategies. However, given the neutral momentum indicators, position sizing should remain conservative until clearer directional signals emerge.
+
+Risk management remains crucial, with stop-losses recommended below the $1.69 strong support level to limit downside exposure in case of broader market weakness.
+
+The current ATOM price prediction suggests a consolidation phase with slight bullish bias toward $1.77-$1.85 over the coming weeks. While momentum indicators remain neutral, the technical setup favors patient accumulation near support levels rather than aggressive positioning.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-3ebaa708170f220843f8039f77a83a153f7b26e7</guid>
+      <title>BCH Price Prediction: Bitcoin Cash Eyes $440 Recovery After Testing Support | BCH Price Prediction Summary • Short-term target (1 week): $440 • Medium-term forecast (1... https://Blockchain.News/news/20260413-price-prediction-bch-bitcoin-cash-eyes-440-recover...</title>
+      <link>https://Blockchain.News/news/20260413-price-prediction-bch-bitcoin-cash-eyes-440-recovery-after</link>
+      <pubDate>Mon, 13 Apr 2026 11:26:19 GMT</pubDate>
+      <description><![CDATA[Original title: BCH Price Prediction: Bitcoin Cash Eyes $440 Recovery After Testing Support
+Summary: BCH Price Prediction Summary • Short-term target (1 week): $440 • Medium-term forecast (1 month): $430-$450 range • Bullish breakout level: $432 • Critical support: $417 What Crypto Analysts...
+Article text: BCH Price Prediction Summary • Short-term target (1 week): $440 • Medium-term forecast (1 month): $430-$450 range • Bullish breakout level: $432 • Critical support: $417 What Crypto Analysts...
+
+• Short-term target (1 week): $440 • Medium-term forecast (1 month): $430-$450 range • Bullish breakout level: $432 • Critical support: $417
+
+While specific analyst predictions are limited for Bitcoin Cash in recent trading sessions, on-chain metrics and technical data suggest BCH is at a critical juncture. According to market data from major exchanges, Bitcoin Cash has been consolidating in a tight range after experiencing selling pressure over the past several weeks.
+
+The lack of fresh institutional commentary on BCH reflects the cryptocurrency's current position as traders await clearer directional signals. Market sentiment appears cautious as Bitcoin Cash trades significantly below its longer-term moving averages.
+
+Bitcoin Cash is currently trading at $425.70, showing modest gains of 0.21% in the past 24 hours. The technical picture presents a mixed but slightly bearish outlook based on key indicators.
+
+The RSI reading of 38.01 places BCH in neutral territory, though closer to oversold conditions. This suggests potential for a bounce if buying interest emerges. However, the MACD histogram at 0.0000 indicates bearish momentum, with the MACD line at -10.54 confirming the downward pressure.
+
+Bitcoin Cash's position within the Bollinger Bands is particularly telling. With a %B position of 0.14, BCH is trading very close to the lower band at $416.63, suggesting the cryptocurrency may be approaching oversold territory. The middle band (20-day SMA) sits at $448.76, representing a significant resistance level.
+
+Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
+
+All major moving averages remain above the current price, with the 7-day SMA at $436.97, 20-day SMA at $448.76, and 200-day SMA at $530.90. This configuration indicates BCH is in a longer-term downtrend that needs to be broken for sustained recovery.
+
+Key support levels are identified at $420.93 (immediate) and $416.17 (strong support), while resistance awaits at $429.03 and $432.37.
+
+If Bitcoin Cash can break above the immediate resistance at $429.03, the path opens toward $432.37 and potentially the 7-day moving average at $437. A sustained move above $440 would target the 20-day SMA at $448.76, representing a 5% upside from current levels.
+
+The bullish case requires BCH to maintain above $420 support while building volume on any upward moves. A break above the middle Bollinger Band would signal renewed buying interest and could push BCH toward $460 in the medium term.
+
+Failure to hold the $420.93 support level could trigger further selling toward the strong support at $416.17. A break below this level would expose BCH to a test of the lower Bollinger Band at $416.63, with potential downside extending to $400.
+
+The bearish momentum indicated by the MACD suggests any rallies may be met with selling pressure, particularly around the $430-$435 resistance zone.
+
+For traders considering Bitcoin Cash positions, the current price near $425 offers a reasonable risk-reward setup. Conservative entry points would be on any dip toward $420-$422, with stop-losses placed below $416.
+
+More aggressive traders might consider buying on a break above $430 with confirmation volume, targeting the $440-$450 zone. Given the daily ATR of $12.93, position sizing should account for BCH's current volatility.
+
+Risk management is crucial given the bearish medium-term trend. Any BCH price prediction should factor in the cryptocurrency's tendency for sharp moves in both directions.
+
+The Bitcoin Cash forecast suggests a period of consolidation with slight upside bias over the next week. While technical indicators show mixed signals, the oversold positioning near Bollinger Band support provides a foundation for potential recovery.
+
+BCH price prediction models point toward $440 as a reasonable short-term target, though sustained moves above $450 would require broader market support and increased trading volume. Traders should remain cautious of the prevailing bearish momentum while watching for signs of accumulation near current support levels.
+
+This Bitcoin Cash forecast is for informational purposes only and should not be considered financial advice. Cryptocurrency markets are highly volatile and unpredictable. Always conduct your own research and consider your risk tolerance before making investment decisions.
+Source: https://Blockchain.News/news/20260413-price-prediction-bch-bitcoin-cash-eyes-440-recovery-after]]></description>
+      <content:encoded><![CDATA[BCH Price Prediction Summary • Short-term target (1 week): $440 • Medium-term forecast (1 month): $430-$450 range • Bullish breakout level: $432 • Critical support: $417 What Crypto Analysts...
+
+• Short-term target (1 week): $440 • Medium-term forecast (1 month): $430-$450 range • Bullish breakout level: $432 • Critical support: $417
+
+While specific analyst predictions are limited for Bitcoin Cash in recent trading sessions, on-chain metrics and technical data suggest BCH is at a critical juncture. According to market data from major exchanges, Bitcoin Cash has been consolidating in a tight range after experiencing selling pressure over the past several weeks.
+
+The lack of fresh institutional commentary on BCH reflects the cryptocurrency's current position as traders await clearer directional signals. Market sentiment appears cautious as Bitcoin Cash trades significantly below its longer-term moving averages.
+
+Bitcoin Cash is currently trading at $425.70, showing modest gains of 0.21% in the past 24 hours. The technical picture presents a mixed but slightly bearish outlook based on key indicators.
+
+The RSI reading of 38.01 places BCH in neutral territory, though closer to oversold conditions. This suggests potential for a bounce if buying interest emerges. However, the MACD histogram at 0.0000 indicates bearish momentum, with the MACD line at -10.54 confirming the downward pressure.
+
+Bitcoin Cash's position within the Bollinger Bands is particularly telling. With a %B position of 0.14, BCH is trading very close to the lower band at $416.63, suggesting the cryptocurrency may be approaching oversold territory. The middle band (20-day SMA) sits at $448.76, representing a significant resistance level.
+
+Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
+
+All major moving averages remain above the current price, with the 7-day SMA at $436.97, 20-day SMA at $448.76, and 200-day SMA at $530.90. This configuration indicates BCH is in a longer-term downtrend that needs to be broken for sustained recovery.
+
+Key support levels are identified at $420.93 (immediate) and $416.17 (strong support), while resistance awaits at $429.03 and $432.37.
+
+If Bitcoin Cash can break above the immediate resistance at $429.03, the path opens toward $432.37 and potentially the 7-day moving average at $437. A sustained move above $440 would target the 20-day SMA at $448.76, representing a 5% upside from current levels.
+
+The bullish case requires BCH to maintain above $420 support while building volume on any upward moves. A break above the middle Bollinger Band would signal renewed buying interest and could push BCH toward $460 in the medium term.
+
+Failure to hold the $420.93 support level could trigger further selling toward the strong support at $416.17. A break below this level would expose BCH to a test of the lower Bollinger Band at $416.63, with potential downside extending to $400.
+
+The bearish momentum indicated by the MACD suggests any rallies may be met with selling pressure, particularly around the $430-$435 resistance zone.
+
+For traders considering Bitcoin Cash positions, the current price near $425 offers a reasonable risk-reward setup. Conservative entry points would be on any dip toward $420-$422, with stop-losses placed below $416.
+
+More aggressive traders might consider buying on a break above $430 with confirmation volume, targeting the $440-$450 zone. Given the daily ATR of $12.93, position sizing should account for BCH's current volatility.
+
+Risk management is crucial given the bearish medium-term trend. Any BCH price prediction should factor in the cryptocurrency's tendency for sharp moves in both directions.
+
+The Bitcoin Cash forecast suggests a period of consolidation with slight upside bias over the next week. While technical indicators show mixed signals, the oversold positioning near Bollinger Band support provides a foundation for potential recovery.
+
+BCH price prediction models point toward $440 as a reasonable short-term target, though sustained moves above $450 would require broader market support and increased trading volume. Traders should remain cautious of the prevailing bearish momentum while watching for signs of accumulation near current support levels.
+
+This Bitcoin Cash forecast is for informational purposes only and should not be considered financial advice. Cryptocurrency markets are highly volatile and unpredictable. Always conduct your own research and consider your risk tolerance before making investment decisions.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-7f6d29fb443350dee476bf277c8f2caa1f2004b9</guid>
       <title>ADA Price Prediction: Cardano Eyes $0.26 Recovery as Technical Indicators Signal Potential Bounce | ADA price prediction shows potential recovery to $0.26 resistance level as Cardano trades... https://Blockchain.News/news/20260413-price-prediction-ada-cardano...</title>
@@ -2345,267 +2606,6 @@ The winning solution: a dedicated AskUserQuestion tool that triggers a modal int
 The team's experience with task management reveals how model improvements can render existing tools obsolete. Early versions of Claude Code used a TodoWrite tool with system reminders every five turns to keep the model on track.
 
 As models improved, this became counterproductive. Claude started treating the todo list as immutable rather than adapting when circumstances changed. The solution was replacing TodoWrite with a more flexible Task tool that supports dependencies and cross-subagent communication.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-682cf28ea056b9d2862b21008006f0276548eb91</guid>
-      <title>Anthropic Releases Multi-Agent AI Coordination Framework for Developers | Anthropic publishes comprehensive guide to five multi-agent AI coordination patterns, off... https://Blockchain.News/news/anthropic-multi-agent-coordination-patterns-framework</title>
-      <link>https://Blockchain.News/news/anthropic-multi-agent-coordination-patterns-framework</link>
-      <pubDate>Fri, 10 Apr 2026 18:06:36 GMT</pubDate>
-      <description><![CDATA[Original title: Anthropic Releases Multi-Agent AI Coordination Framework for Developers
-Summary: Anthropic publishes comprehensive guide to five multi-agent AI coordination patterns, offering developers practical frameworks for building complex autonomous systems.
-Article text: Anthropic publishes comprehensive guide to five multi-agent AI coordination patterns, offering developers practical frameworks for building complex autonomous systems.
-
-Anthropic has published a detailed technical guide outlining five distinct coordination patterns for multi-agent AI systems, providing developers with a practical framework for building autonomous applications that require multiple AI agents working together.
-
-The guide, released through Claude's official blog, addresses a growing pain point in AI development: teams choosing overly complex architectures when simpler solutions would suffice. Anthropic's recommendation is blunt—start with the simplest pattern that could work and evolve from there.
-
-The framework breaks down multi-agent coordination into five approaches, each suited to different use cases:
-
-Generator-verifier pairs one agent that produces output with another that evaluates it against explicit criteria. Think code generation where one agent writes code while another runs tests. Anthropic warns this pattern fails when teams implement the loop without defining what verification actually means—creating "the illusion of quality control without the substance."
-
-Orchestrator-subagent uses a hierarchical structure where a lead agent delegates bounded tasks. Claude Code already uses this approach, dispatching background subagents to search large codebases while the main agent continues primary work.
-
-Agent teams differ from orchestrator-subagent in one critical way: worker persistence. Instead of terminating after each task, teammates stay alive across assignments, accumulating domain knowledge. This works well for large-scale migrations where each agent develops familiarity with its assigned component.
-
-Message bus architecture suits event-driven pipelines where workflow emerges from events rather than predetermined sequences. Security operations systems exemplify this—alerts route to specialized agents based on type, with new agent capabilities plugging in without rewiring existing connections.
-
-Shared state removes central coordinators entirely. Agents read from and write to a persistent store directly, building on each other's discoveries in real time. Research synthesis systems benefit here, where one agent's findings immediately inform another's investigation.
-
-Anthropic doesn't shy away from documenting failure modes. Generator-verifier loops can stall indefinitely if the generator can't address feedback—maximum iteration limits with fallback strategies are essential. Orchestrator-subagent creates information bottlenecks; critical details often get lost when routing through a central coordinator.
-
-Agent teams struggle when work isn't truly independent. Shared resources compound problems—multiple agents editing the same file creates conflicts requiring careful partitioning. Message bus architectures make debugging harder since tracing event cascades across five agents requires meticulous logging.
-
-Shared state risks reactive loops where agents keep responding to each other's updates without converging, burning tokens indefinitely. The solution: first-class termination conditions like time budgets or convergence thresholds.
-
-For most applications, Anthropic recommends beginning with orchestrator-subagent. It handles the widest range of problems with minimal coordination overhead. Production systems often combine patterns—orchestrator-subagent for overall workflow with shared state for collaboration-heavy subtasks.
-
-The company plans follow-up posts examining each pattern with production implementations and case studies. For developers building AI applications that require multiple agents—whether for code review, security operations, or research synthesis—this framework provides concrete guidance on matching architecture to actual requirements rather than perceived sophistication.
-
-Anthropic publishes comprehensive guide to five multi-agent AI coordination patterns, offering developers practical frameworks for building complex autonomous systems.
-
-Anthropic has published a detailed technical guide outlining five distinct coordination patterns for multi-agent AI systems, providing developers with a practical framework for building autonomous applications that require multiple AI agents working together.
-
-The guide, released through Claude's official blog, addresses a growing pain point in AI development: teams choosing overly complex architectures when simpler solutions would suffice. Anthropic's recommendation is blunt—start with the simplest pattern that could work and evolve from there.
-
-The framework breaks down multi-agent coordination into five approaches, each suited to different use cases:
-
-Generator-verifier pairs one agent that produces output with another that evaluates it against explicit criteria. Think code generation where one agent writes code while another runs tests. Anthropic warns this pattern fails when teams implement the loop without defining what verification actually means—creating "the illusion of quality control without the substance."
-
-Orchestrator-subagent uses a hierarchical structure where a lead agent delegates bounded tasks. Claude Code already uses this approach, dispatching background subagents to search large codebases while the main agent continues primary work.
-Source: https://Blockchain.News/news/anthropic-multi-agent-coordination-patterns-framework]]></description>
-      <content:encoded><![CDATA[Anthropic publishes comprehensive guide to five multi-agent AI coordination patterns, offering developers practical frameworks for building complex autonomous systems.
-
-Anthropic has published a detailed technical guide outlining five distinct coordination patterns for multi-agent AI systems, providing developers with a practical framework for building autonomous applications that require multiple AI agents working together.
-
-The guide, released through Claude's official blog, addresses a growing pain point in AI development: teams choosing overly complex architectures when simpler solutions would suffice. Anthropic's recommendation is blunt—start with the simplest pattern that could work and evolve from there.
-
-The framework breaks down multi-agent coordination into five approaches, each suited to different use cases:
-
-Generator-verifier pairs one agent that produces output with another that evaluates it against explicit criteria. Think code generation where one agent writes code while another runs tests. Anthropic warns this pattern fails when teams implement the loop without defining what verification actually means—creating "the illusion of quality control without the substance."
-
-Orchestrator-subagent uses a hierarchical structure where a lead agent delegates bounded tasks. Claude Code already uses this approach, dispatching background subagents to search large codebases while the main agent continues primary work.
-
-Agent teams differ from orchestrator-subagent in one critical way: worker persistence. Instead of terminating after each task, teammates stay alive across assignments, accumulating domain knowledge. This works well for large-scale migrations where each agent develops familiarity with its assigned component.
-
-Message bus architecture suits event-driven pipelines where workflow emerges from events rather than predetermined sequences. Security operations systems exemplify this—alerts route to specialized agents based on type, with new agent capabilities plugging in without rewiring existing connections.
-
-Shared state removes central coordinators entirely. Agents read from and write to a persistent store directly, building on each other's discoveries in real time. Research synthesis systems benefit here, where one agent's findings immediately inform another's investigation.
-
-Anthropic doesn't shy away from documenting failure modes. Generator-verifier loops can stall indefinitely if the generator can't address feedback—maximum iteration limits with fallback strategies are essential. Orchestrator-subagent creates information bottlenecks; critical details often get lost when routing through a central coordinator.
-
-Agent teams struggle when work isn't truly independent. Shared resources compound problems—multiple agents editing the same file creates conflicts requiring careful partitioning. Message bus architectures make debugging harder since tracing event cascades across five agents requires meticulous logging.
-
-Shared state risks reactive loops where agents keep responding to each other's updates without converging, burning tokens indefinitely. The solution: first-class termination conditions like time budgets or convergence thresholds.
-
-For most applications, Anthropic recommends beginning with orchestrator-subagent. It handles the widest range of problems with minimal coordination overhead. Production systems often combine patterns—orchestrator-subagent for overall workflow with shared state for collaboration-heavy subtasks.
-
-The company plans follow-up posts examining each pattern with production implementations and case studies. For developers building AI applications that require multiple agents—whether for code review, security operations, or research synthesis—this framework provides concrete guidance on matching architecture to actual requirements rather than perceived sophistication.
-
-Anthropic publishes comprehensive guide to five multi-agent AI coordination patterns, offering developers practical frameworks for building complex autonomous systems.
-
-Anthropic has published a detailed technical guide outlining five distinct coordination patterns for multi-agent AI systems, providing developers with a practical framework for building autonomous applications that require multiple AI agents working together.
-
-The guide, released through Claude's official blog, addresses a growing pain point in AI development: teams choosing overly complex architectures when simpler solutions would suffice. Anthropic's recommendation is blunt—start with the simplest pattern that could work and evolve from there.
-
-The framework breaks down multi-agent coordination into five approaches, each suited to different use cases:
-
-Generator-verifier pairs one agent that produces output with another that evaluates it against explicit criteria. Think code generation where one agent writes code while another runs tests. Anthropic warns this pattern fails when teams implement the loop without defining what verification actually means—creating "the illusion of quality control without the substance."
-
-Orchestrator-subagent uses a hierarchical structure where a lead agent delegates bounded tasks. Claude Code already uses this approach, dispatching background subagents to search large codebases while the main agent continues primary work.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-b732557640d0fe9fc0c5a02207db541a20ee6d6b</guid>
-      <title>WLD Token Unlock Rate Drops 43% in July as Supply Pressure Eases | Worldcoin&apos;s daily WLD token unlocks will fall from 5.1M to 2.9M starting July 24, 2026, p... https://Blockchain.News/news/wld-token-unlock-rate-drops-43-percent-july-2026</title>
-      <link>https://Blockchain.News/news/wld-token-unlock-rate-drops-43-percent-july-2026</link>
-      <pubDate>Fri, 10 Apr 2026 15:34:32 GMT</pubDate>
-      <description><![CDATA[Original title: WLD Token Unlock Rate Drops 43% in July as Supply Pressure Eases
-Summary: Worldcoin's daily WLD token unlocks will fall from 5.1M to 2.9M starting July 24, 2026, potentially reducing sell pressure on the struggling token.
-Article text: Worldcoin's daily WLD token unlocks will fall from 5.1M to 2.9M starting July 24, 2026, potentially reducing sell pressure on the struggling token.
-
-Worldcoin's WLD token is about to get some relief from its persistent supply overhang. Starting July 24, 2026, daily token unlocks will decrease by 43%—dropping from roughly 5.1 million WLD per day to 2.9 million WLD.
-
-The reduction comes automatically under existing vesting schedules, with no cliff events or sudden dumps to worry about. Tokens will continue unlocking linearly, just at a significantly slower pace.
-
-As of April 10, 2026, about 4.9 billion WLD tokens are unlocked—49% of the total 10 billion supply cap. Of those, 3.3 billion are actually circulating in the market. The gap between unlocked and circulating supply suggests substantial holdings remain in treasury or haven't hit exchanges yet.
-
-WLD currently trades at $0.27 with a market cap of $875.68 million. The token gained 2.79% over the past 24 hours, though it remains well below historical highs.
-
-Token unlocks have been a persistent headache for WLD holders. Back in March 2028, the World Foundation's subsidiary sold $65 million in WLD through OTC deals when the token hit all-time lows—exactly the kind of supply pressure that erodes confidence.
-
-The original tokenomics allocated 75% of supply to the World Community and 25% split among the team, TFH investors, and a small reserve. In July 2024, the project extended lock-ups for team and investor tokens, pushing the majority of those allocations to vest over five years through July 2028.
-
-That extension helped, but daily unlocks still dump millions of tokens into a market that's struggled to absorb them. Cutting that flow by nearly half should reduce selling pressure meaningfully.
-
-Sam Altman's biometric identity project has had a rocky run despite some bright spots. The token spiked 40% in September 2025 on reports that OpenAI was planning a biometric-enabled X competitor, and an Oracle partnership that same month drove adoption higher.
-
-But regulatory scrutiny over iris-scanning privacy practices and general skepticism about the project's centralized control have kept sentiment mixed. The World Chain Layer 2 launch and World App upgrades expanded utility, though WLD's price action suggests the market wants to see sustained demand growth before getting excited.
-
-The July 24 unlock reduction marks the three-year anniversary of WLD's launch. The final token tranche unlocks 15 years from that date—2038—so this is a long game. For traders watching near-term catalysts, the reduced daily supply hitting markets could provide a floor if demand stays constant. Whether that translates to price appreciation depends on whether Worldcoin can convert its 3.3 billion circulating tokens into actual economic activity rather than just exchange inventory.
-
-Worldcoin's daily WLD token unlocks will fall from 5.1M to 2.9M starting July 24, 2026, potentially reducing sell pressure on the struggling token.
-
-Worldcoin's WLD token is about to get some relief from its persistent supply overhang. Starting July 24, 2026, daily token unlocks will decrease by 43%—dropping from roughly 5.1 million WLD per day to 2.9 million WLD.
-
-The reduction comes automatically under existing vesting schedules, with no cliff events or sudden dumps to worry about. Tokens will continue unlocking linearly, just at a significantly slower pace.
-
-As of April 10, 2026, about 4.9 billion WLD tokens are unlocked—49% of the total 10 billion supply cap. Of those, 3.3 billion are actually circulating in the market. The gap between unlocked and circulating supply suggests substantial holdings remain in treasury or haven't hit exchanges yet.
-
-WLD currently trades at $0.27 with a market cap of $875.68 million. The token gained 2.79% over the past 24 hours, though it remains well below historical highs.
-
-Token unlocks have been a persistent headache for WLD holders. Back in March 2028, the World Foundation's subsidiary sold $65 million in WLD through OTC deals when the token hit all-time lows—exactly the kind of supply pressure that erodes confidence.
-
-The original tokenomics allocated 75% of supply to the World Community and 25% split among the team, TFH investors, and a small reserve. In July 2024, the project extended lock-ups for team and investor tokens, pushing the majority of those allocations to vest over five years through July 2028.
-
-That extension helped, but daily unlocks still dump millions of tokens into a market that's struggled to absorb them. Cutting that flow by nearly half should reduce selling pressure meaningfully.
-
-Sam Altman's biometric identity project has had a rocky run despite some bright spots. The token spiked 40% in September 2025 on reports that OpenAI was planning a biometric-enabled X competitor, and an Oracle partnership that same month drove adoption higher.
-Source: https://Blockchain.News/news/wld-token-unlock-rate-drops-43-percent-july-2026]]></description>
-      <content:encoded><![CDATA[Worldcoin's daily WLD token unlocks will fall from 5.1M to 2.9M starting July 24, 2026, potentially reducing sell pressure on the struggling token.
-
-Worldcoin's WLD token is about to get some relief from its persistent supply overhang. Starting July 24, 2026, daily token unlocks will decrease by 43%—dropping from roughly 5.1 million WLD per day to 2.9 million WLD.
-
-The reduction comes automatically under existing vesting schedules, with no cliff events or sudden dumps to worry about. Tokens will continue unlocking linearly, just at a significantly slower pace.
-
-As of April 10, 2026, about 4.9 billion WLD tokens are unlocked—49% of the total 10 billion supply cap. Of those, 3.3 billion are actually circulating in the market. The gap between unlocked and circulating supply suggests substantial holdings remain in treasury or haven't hit exchanges yet.
-
-WLD currently trades at $0.27 with a market cap of $875.68 million. The token gained 2.79% over the past 24 hours, though it remains well below historical highs.
-
-Token unlocks have been a persistent headache for WLD holders. Back in March 2028, the World Foundation's subsidiary sold $65 million in WLD through OTC deals when the token hit all-time lows—exactly the kind of supply pressure that erodes confidence.
-
-The original tokenomics allocated 75% of supply to the World Community and 25% split among the team, TFH investors, and a small reserve. In July 2024, the project extended lock-ups for team and investor tokens, pushing the majority of those allocations to vest over five years through July 2028.
-
-That extension helped, but daily unlocks still dump millions of tokens into a market that's struggled to absorb them. Cutting that flow by nearly half should reduce selling pressure meaningfully.
-
-Sam Altman's biometric identity project has had a rocky run despite some bright spots. The token spiked 40% in September 2025 on reports that OpenAI was planning a biometric-enabled X competitor, and an Oracle partnership that same month drove adoption higher.
-
-But regulatory scrutiny over iris-scanning privacy practices and general skepticism about the project's centralized control have kept sentiment mixed. The World Chain Layer 2 launch and World App upgrades expanded utility, though WLD's price action suggests the market wants to see sustained demand growth before getting excited.
-
-The July 24 unlock reduction marks the three-year anniversary of WLD's launch. The final token tranche unlocks 15 years from that date—2038—so this is a long game. For traders watching near-term catalysts, the reduced daily supply hitting markets could provide a floor if demand stays constant. Whether that translates to price appreciation depends on whether Worldcoin can convert its 3.3 billion circulating tokens into actual economic activity rather than just exchange inventory.
-
-Worldcoin's daily WLD token unlocks will fall from 5.1M to 2.9M starting July 24, 2026, potentially reducing sell pressure on the struggling token.
-
-Worldcoin's WLD token is about to get some relief from its persistent supply overhang. Starting July 24, 2026, daily token unlocks will decrease by 43%—dropping from roughly 5.1 million WLD per day to 2.9 million WLD.
-
-The reduction comes automatically under existing vesting schedules, with no cliff events or sudden dumps to worry about. Tokens will continue unlocking linearly, just at a significantly slower pace.
-
-As of April 10, 2026, about 4.9 billion WLD tokens are unlocked—49% of the total 10 billion supply cap. Of those, 3.3 billion are actually circulating in the market. The gap between unlocked and circulating supply suggests substantial holdings remain in treasury or haven't hit exchanges yet.
-
-WLD currently trades at $0.27 with a market cap of $875.68 million. The token gained 2.79% over the past 24 hours, though it remains well below historical highs.
-
-Token unlocks have been a persistent headache for WLD holders. Back in March 2028, the World Foundation's subsidiary sold $65 million in WLD through OTC deals when the token hit all-time lows—exactly the kind of supply pressure that erodes confidence.
-
-The original tokenomics allocated 75% of supply to the World Community and 25% split among the team, TFH investors, and a small reserve. In July 2024, the project extended lock-ups for team and investor tokens, pushing the majority of those allocations to vest over five years through July 2028.
-
-That extension helped, but daily unlocks still dump millions of tokens into a market that's struggled to absorb them. Cutting that flow by nearly half should reduce selling pressure meaningfully.
-
-Sam Altman's biometric identity project has had a rocky run despite some bright spots. The token spiked 40% in September 2025 on reports that OpenAI was planning a biometric-enabled X competitor, and an Oracle partnership that same month drove adoption higher.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-c4e2fbf0993c6b940799a28a1b1c268b7b961c4d</guid>
-      <title>Circle Unveils Full Interop Stack to Power $110B+ USDC Crosschain Network | Circle expands CCTP beyond USDC to support EURC, USYC, and third-party assets. Gateway hi... https://Blockchain.News/news/circle-interop-stack-usdc-crosschain-expansion-2026</title>
-      <link>https://Blockchain.News/news/circle-interop-stack-usdc-crosschain-expansion-2026</link>
-      <pubDate>Fri, 10 Apr 2026 14:59:49 GMT</pubDate>
-      <description><![CDATA[Original title: Circle Unveils Full Interop Stack to Power $110B+ USDC Crosschain Network
-Summary: Circle expands CCTP beyond USDC to support EURC, USYC, and third-party assets. Gateway hits $400M monthly volume with sub-500ms settlement across 12 chains.
-Article text: Circle expands CCTP beyond USDC to support EURC, USYC, and third-party assets. Gateway hits $400M monthly volume with sub-500ms settlement across 12 chains.
-
-Circle has laid out its most comprehensive interoperability roadmap yet, detailing infrastructure upgrades that would extend its crosschain capabilities beyond USDC to tokenized real-world assets, institutional funds, and third-party digital assets. The announcement comes as CCTP surpasses $110 billion in cumulative transfer volume across more than 20 chains since its April 2023 launch.
-
-The company's Circle Gateway service—which provides businesses with chain-agnostic USDC balances accessible in under 500 milliseconds—processed $400 million in March 2026. April volume had already reached $230 million by the 9th, suggesting continued acceleration in demand for instant crosschain liquidity.
-
-Gateway eliminates the need for businesses to pre-position capital across multiple chains. Instead of manually rebalancing funds, users can access USDC instantly wherever demand emerges. The service also enables what Circle calls "nanopayments"—gas-free USDC transfers as small as $0.000001, designed for high-frequency use cases like AI agent transactions and per-request content access.
-
-Later this year, Circle plans to extend CCTP's burn-and-mint model beyond USDC to include EURC, USYC (the tokenized Hashnote fund), and cirBTC. More significantly, the protocol will open to third-party asset issuers working with Circle, allowing them to tap the same crosschain distribution infrastructure.
-
-This matters for the growing tokenized asset market. Asset issuers currently face fragmented liquidity when deploying across multiple chains. Under the expanded model, issuers can originate assets on Arc—Circle's institutional-focused Layer-1—and distribute across 20+ chains through CCTP from a single management point.
-
-Arc itself is positioned as a liquidity hub with sub-second settlement finality, stablecoin gas fees, and a geographically distributed institutional validator set. Circle describes it as a "coordination layer for issuance and liquidity routing."
-
-Circle is rolling out several orchestration services to simplify crosschain development. Bridge Kit provides SDK methods for implementing crosschain flows with CCTP and automatic forwarding. Deposit Kit, currently in development, aims to enable one-click crosschain deposits that hide underlying chain complexity from end users.
-
-Two additional services address persistent developer pain points. Circle Fee Service bundles all crosschain fees into a single upfront quote, collecting them on the source chain and providing exact destination amounts. Circle Workflows coordinates multi-step operations across chains—fund movement, contract execution, settlement—as unified actions rather than fragile sequential transactions.
-
-The company also announced USDC Bridge, a consumer-facing app built on CCTP infrastructure that gives individuals direct access to crosschain transfers without relying on third-party bridges.
-
-Circle's interop stack represents a bet that crosschain infrastructure will become as fundamental to digital assets as TCP/IP became to the internet. The company is positioning itself not just as a stablecoin issuer but as the plumbing layer for institutional asset movement.
-
-For traders and institutions, the practical implications include faster settlement (seconds rather than waiting for source chain finality), reduced capital requirements (no pre-positioning across chains), and eventually, seamless access to tokenized RWAs through the same infrastructure currently moving USDC.
-
-Hyperliquid has already integrated crosschain USDC funding, and RockawayX uses Gateway to reduce liquidity fragmentation. AI platform OpenMind is testing nanopayments for agent-to-agent transactions—an early signal of how this infrastructure might support emerging autonomous economic activity.
-
-The expanded CCTP launch is expected later in 2026. Circle is soliciting feedback from developers and asset issuers building crosschain products.
-
-Circle expands CCTP beyond USDC to support EURC, USYC, and third-party assets. Gateway hits $400M monthly volume with sub-500ms settlement across 12 chains.
-
-Circle has laid out its most comprehensive interoperability roadmap yet, detailing infrastructure upgrades that would extend its crosschain capabilities beyond USDC to tokenized real-world assets, institutional funds, and third-party digital assets. The announcement comes as CCTP surpasses $110 billion in cumulative transfer volume across more than 20 chains since its April 2023 launch.
-
-The company's Circle Gateway service—which provides businesses with chain-agnostic USDC balances accessible in under 500 milliseconds—processed $400 million in March 2026. April volume had already reached $230 million by the 9th, suggesting continued acceleration in demand for instant crosschain liquidity.
-
-Gateway eliminates the need for businesses to pre-position capital across multiple chains. Instead of manually rebalancing funds, users can access USDC instantly wherever demand emerges. The service also enables what Circle calls "nanopayments"—gas-free USDC transfers as small as $0.000001, designed for high-frequency use cases like AI agent transactions and per-request content access.
-
-Later this year, Circle plans to extend CCTP's burn-and-mint model beyond USDC to include EURC, USYC (the tokenized Hashnote fund), and cirBTC. More significantly, the protocol will open to third-party asset issuers working with Circle, allowing them to tap the same crosschain distribution infrastructure.
-
-This matters for the growing tokenized asset market. Asset issuers currently face fragmented liquidity when deploying across multiple chains. Under the expanded model, issuers can originate assets on Arc—Circle's institutional-focused Layer-1—and distribute across 20+ chains through CCTP from a single management point.
-Source: https://Blockchain.News/news/circle-interop-stack-usdc-crosschain-expansion-2026]]></description>
-      <content:encoded><![CDATA[Circle expands CCTP beyond USDC to support EURC, USYC, and third-party assets. Gateway hits $400M monthly volume with sub-500ms settlement across 12 chains.
-
-Circle has laid out its most comprehensive interoperability roadmap yet, detailing infrastructure upgrades that would extend its crosschain capabilities beyond USDC to tokenized real-world assets, institutional funds, and third-party digital assets. The announcement comes as CCTP surpasses $110 billion in cumulative transfer volume across more than 20 chains since its April 2023 launch.
-
-The company's Circle Gateway service—which provides businesses with chain-agnostic USDC balances accessible in under 500 milliseconds—processed $400 million in March 2026. April volume had already reached $230 million by the 9th, suggesting continued acceleration in demand for instant crosschain liquidity.
-
-Gateway eliminates the need for businesses to pre-position capital across multiple chains. Instead of manually rebalancing funds, users can access USDC instantly wherever demand emerges. The service also enables what Circle calls "nanopayments"—gas-free USDC transfers as small as $0.000001, designed for high-frequency use cases like AI agent transactions and per-request content access.
-
-Later this year, Circle plans to extend CCTP's burn-and-mint model beyond USDC to include EURC, USYC (the tokenized Hashnote fund), and cirBTC. More significantly, the protocol will open to third-party asset issuers working with Circle, allowing them to tap the same crosschain distribution infrastructure.
-
-This matters for the growing tokenized asset market. Asset issuers currently face fragmented liquidity when deploying across multiple chains. Under the expanded model, issuers can originate assets on Arc—Circle's institutional-focused Layer-1—and distribute across 20+ chains through CCTP from a single management point.
-
-Arc itself is positioned as a liquidity hub with sub-second settlement finality, stablecoin gas fees, and a geographically distributed institutional validator set. Circle describes it as a "coordination layer for issuance and liquidity routing."
-
-Circle is rolling out several orchestration services to simplify crosschain development. Bridge Kit provides SDK methods for implementing crosschain flows with CCTP and automatic forwarding. Deposit Kit, currently in development, aims to enable one-click crosschain deposits that hide underlying chain complexity from end users.
-
-Two additional services address persistent developer pain points. Circle Fee Service bundles all crosschain fees into a single upfront quote, collecting them on the source chain and providing exact destination amounts. Circle Workflows coordinates multi-step operations across chains—fund movement, contract execution, settlement—as unified actions rather than fragile sequential transactions.
-
-The company also announced USDC Bridge, a consumer-facing app built on CCTP infrastructure that gives individuals direct access to crosschain transfers without relying on third-party bridges.
-
-Circle's interop stack represents a bet that crosschain infrastructure will become as fundamental to digital assets as TCP/IP became to the internet. The company is positioning itself not just as a stablecoin issuer but as the plumbing layer for institutional asset movement.
-
-For traders and institutions, the practical implications include faster settlement (seconds rather than waiting for source chain finality), reduced capital requirements (no pre-positioning across chains), and eventually, seamless access to tokenized RWAs through the same infrastructure currently moving USDC.
-
-Hyperliquid has already integrated crosschain USDC funding, and RockawayX uses Gateway to reduce liquidity fragmentation. AI platform OpenMind is testing nanopayments for agent-to-agent transactions—an early signal of how this infrastructure might support emerging autonomous economic activity.
-
-The expanded CCTP launch is expected later in 2026. Circle is soliciting feedback from developers and asset issuers building crosschain products.
-
-Circle expands CCTP beyond USDC to support EURC, USYC, and third-party assets. Gateway hits $400M monthly volume with sub-500ms settlement across 12 chains.
-
-Circle has laid out its most comprehensive interoperability roadmap yet, detailing infrastructure upgrades that would extend its crosschain capabilities beyond USDC to tokenized real-world assets, institutional funds, and third-party digital assets. The announcement comes as CCTP surpasses $110 billion in cumulative transfer volume across more than 20 chains since its April 2023 launch.
-
-The company's Circle Gateway service—which provides businesses with chain-agnostic USDC balances accessible in under 500 milliseconds—processed $400 million in March 2026. April volume had already reached $230 million by the 9th, suggesting continued acceleration in demand for instant crosschain liquidity.
-
-Gateway eliminates the need for businesses to pre-position capital across multiple chains. Instead of manually rebalancing funds, users can access USDC instantly wherever demand emerges. The service also enables what Circle calls "nanopayments"—gas-free USDC transfers as small as $0.000001, designed for high-frequency use cases like AI agent transactions and per-request content access.
-
-Later this year, Circle plans to extend CCTP's burn-and-mint model beyond USDC to include EURC, USYC (the tokenized Hashnote fund), and cirBTC. More significantly, the protocol will open to third-party asset issuers working with Circle, allowing them to tap the same crosschain distribution infrastructure.
-
-This matters for the growing tokenized asset market. Asset issuers currently face fragmented liquidity when deploying across multiple chains. Under the expanded model, issuers can originate assets on Arc—Circle's institutional-focused Layer-1—and distribute across 20+ chains through CCTP from a single management point.]]></content:encoded>
     </item>
   </channel>
 </rss>
