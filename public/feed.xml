@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Wed, 15 Apr 2026 07:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:16:18 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-7af7434091c5a26c8289b582fff5a9801ce06c0c</guid>
+      <title>Visa Becomes Anchor Validator on Tempo Blockchain for Stablecoin Payments | Visa launches in-house validator node on Stripe&apos;s Tempo blockchain, joining anchor valida... https://Blockchain.News/news/visa-anchor-validator-tempo-blockchain-stablecoin-payments</title>
+      <link>https://Blockchain.News/news/visa-anchor-validator-tempo-blockchain-stablecoin-payments</link>
+      <pubDate>Tue, 14 Apr 2026 18:50:24 GMT</pubDate>
+      <description><![CDATA[Original title: Visa Becomes Anchor Validator on Tempo Blockchain for Stablecoin Payments
+Summary: Visa launches in-house validator node on Stripe's Tempo blockchain, joining anchor validators for stablecoin settlement as payment giants race to build crypto infrastructure.
+Article text: Visa launches in-house validator node on Stripe's Tempo blockchain, joining anchor validators for stablecoin settlement as payment giants race to build crypto infrastructure.
+
+Visa has officially entered the transaction validation business. The payments giant launched an in-house validator node on Tempo, the Layer 1 blockchain co-developed by Stripe and Paradigm, marking its deepest operational commitment to blockchain infrastructure yet.
+
+The node, developed over six months with Tempo's engineering team, positions Visa as an "anchor validator" alongside Stripe and Zodia Custody. Unlike simply integrating blockchain payments, Visa is now directly verifying and processing transactions on a network built specifically for real-time stablecoin settlement.
+
+Tempo isn't another general-purpose blockchain. Launched to mainnet in March 2026, it's purpose-built for payments with some notable design choices that appeal to traditional finance players.
+
+Transaction fees target one-tenth of a cent—paid directly in USD stablecoins rather than a native gas token. That eliminates a major friction point for institutions that don't want treasury exposure to volatile crypto assets. The network claims over 100,000 transactions per second with sub-second finality, specs that actually matter for payment processing at scale.
+
+The validator role isn't purely symbolic. Validators on Tempo earn stablecoin-denominated rewards when selected to package transactions into blocks, giving Visa direct economic participation in network activity.
+
+Visa's move reflects a broader pattern: major payment companies aren't just accepting crypto—they're building the infrastructure.
+
+Stripe acquired stablecoin platform Bridge for $1.1 billion in October 2024, then launched stablecoin accounts for businesses in over 100 countries. Mastercard followed with its $1.8 billion acquisition of BVNK last month, gaining stablecoin payment capabilities across 130 countries.
+
+Visa has taken a different approach, preferring to build rather than buy. The company expanded its settlement platform last July to support PayPal USD and Euro Coin across networks including Stellar and Avalanche. It also runs a validator on the Canton Network for privacy-focused institutional payments.
+
+The Tempo validator adds direct blockchain operations to that portfolio. Visa is no longer just a bridge between crypto and traditional payments—it's becoming embedded in the transaction layer itself.
+
+The infrastructure buildout comes as stablecoin adoption accelerates. Total market cap reached nearly $319 billion at publication, up from $307.5 billion at the start of 2026—a roughly $11.5 billion increase in under four months.
+
+Tempo's design attracted input from an unusual coalition during development: Mastercard, UBS, Deutsche Bank, OpenAI, and Shopify all contributed to the blockchain's specifications. That kind of institutional involvement before mainnet launch suggests serious enterprise interest in stablecoin-native payment rails.
+
+Visa's expanded stablecoin card partnership with Bridge now covers 18 countries, with plans to reach over 100 markets by year-end. The Tempo validator gives the company operational presence on yet another network where those transactions might eventually settle.
+
+For traders watching institutional adoption metrics, Visa running its own blockchain infrastructure represents a different category of commitment than partnership announcements or pilot programs. The six-month development timeline and in-house operation signal this isn't a press release play.
+
+Visa launches in-house validator node on Stripe's Tempo blockchain, joining anchor validators for stablecoin settlement as payment giants race to build crypto infrastructure.
+
+Visa has officially entered the transaction validation business. The payments giant launched an in-house validator node on Tempo, the Layer 1 blockchain co-developed by Stripe and Paradigm, marking its deepest operational commitment to blockchain infrastructure yet.
+
+The node, developed over six months with Tempo's engineering team, positions Visa as an "anchor validator" alongside Stripe and Zodia Custody. Unlike simply integrating blockchain payments, Visa is now directly verifying and processing transactions on a network built specifically for real-time stablecoin settlement.
+
+Tempo isn't another general-purpose blockchain. Launched to mainnet in March 2026, it's purpose-built for payments with some notable design choices that appeal to traditional finance players.
+
+Transaction fees target one-tenth of a cent—paid directly in USD stablecoins rather than a native gas token. That eliminates a major friction point for institutions that don't want treasury exposure to volatile crypto assets. The network claims over 100,000 transactions per second with sub-second finality, specs that actually matter for payment processing at scale.
+
+The validator role isn't purely symbolic. Validators on Tempo earn stablecoin-denominated rewards when selected to package transactions into blocks, giving Visa direct economic participation in network activity.
+Source: https://Blockchain.News/news/visa-anchor-validator-tempo-blockchain-stablecoin-payments]]></description>
+      <content:encoded><![CDATA[Visa launches in-house validator node on Stripe's Tempo blockchain, joining anchor validators for stablecoin settlement as payment giants race to build crypto infrastructure.
+
+Visa has officially entered the transaction validation business. The payments giant launched an in-house validator node on Tempo, the Layer 1 blockchain co-developed by Stripe and Paradigm, marking its deepest operational commitment to blockchain infrastructure yet.
+
+The node, developed over six months with Tempo's engineering team, positions Visa as an "anchor validator" alongside Stripe and Zodia Custody. Unlike simply integrating blockchain payments, Visa is now directly verifying and processing transactions on a network built specifically for real-time stablecoin settlement.
+
+Tempo isn't another general-purpose blockchain. Launched to mainnet in March 2026, it's purpose-built for payments with some notable design choices that appeal to traditional finance players.
+
+Transaction fees target one-tenth of a cent—paid directly in USD stablecoins rather than a native gas token. That eliminates a major friction point for institutions that don't want treasury exposure to volatile crypto assets. The network claims over 100,000 transactions per second with sub-second finality, specs that actually matter for payment processing at scale.
+
+The validator role isn't purely symbolic. Validators on Tempo earn stablecoin-denominated rewards when selected to package transactions into blocks, giving Visa direct economic participation in network activity.
+
+Visa's move reflects a broader pattern: major payment companies aren't just accepting crypto—they're building the infrastructure.
+
+Stripe acquired stablecoin platform Bridge for $1.1 billion in October 2024, then launched stablecoin accounts for businesses in over 100 countries. Mastercard followed with its $1.8 billion acquisition of BVNK last month, gaining stablecoin payment capabilities across 130 countries.
+
+Visa has taken a different approach, preferring to build rather than buy. The company expanded its settlement platform last July to support PayPal USD and Euro Coin across networks including Stellar and Avalanche. It also runs a validator on the Canton Network for privacy-focused institutional payments.
+
+The Tempo validator adds direct blockchain operations to that portfolio. Visa is no longer just a bridge between crypto and traditional payments—it's becoming embedded in the transaction layer itself.
+
+The infrastructure buildout comes as stablecoin adoption accelerates. Total market cap reached nearly $319 billion at publication, up from $307.5 billion at the start of 2026—a roughly $11.5 billion increase in under four months.
+
+Tempo's design attracted input from an unusual coalition during development: Mastercard, UBS, Deutsche Bank, OpenAI, and Shopify all contributed to the blockchain's specifications. That kind of institutional involvement before mainnet launch suggests serious enterprise interest in stablecoin-native payment rails.
+
+Visa's expanded stablecoin card partnership with Bridge now covers 18 countries, with plans to reach over 100 markets by year-end. The Tempo validator gives the company operational presence on yet another network where those transactions might eventually settle.
+
+For traders watching institutional adoption metrics, Visa running its own blockchain infrastructure represents a different category of commitment than partnership announcements or pilot programs. The six-month development timeline and in-house operation signal this isn't a press release play.
+
+Visa launches in-house validator node on Stripe's Tempo blockchain, joining anchor validators for stablecoin settlement as payment giants race to build crypto infrastructure.
+
+Visa has officially entered the transaction validation business. The payments giant launched an in-house validator node on Tempo, the Layer 1 blockchain co-developed by Stripe and Paradigm, marking its deepest operational commitment to blockchain infrastructure yet.
+
+The node, developed over six months with Tempo's engineering team, positions Visa as an "anchor validator" alongside Stripe and Zodia Custody. Unlike simply integrating blockchain payments, Visa is now directly verifying and processing transactions on a network built specifically for real-time stablecoin settlement.
+
+Tempo isn't another general-purpose blockchain. Launched to mainnet in March 2026, it's purpose-built for payments with some notable design choices that appeal to traditional finance players.
+
+Transaction fees target one-tenth of a cent—paid directly in USD stablecoins rather than a native gas token. That eliminates a major friction point for institutions that don't want treasury exposure to volatile crypto assets. The network claims over 100,000 transactions per second with sub-second finality, specs that actually matter for payment processing at scale.
+
+The validator role isn't purely symbolic. Validators on Tempo earn stablecoin-denominated rewards when selected to package transactions into blocks, giving Visa direct economic participation in network activity.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-f586b9b2976823c668be1ec79eadf8d319d1a0e5</guid>
+      <title>Harvey AI Processes 700K Daily Legal Tasks as Agentic AI Reshapes Law | Legal AI startup Harvey reveals its platform handles 700,000+ daily tasks and extracts 50... https://Blockchain.News/news/harvey-ai-700k-daily-legal-tasks-agentic-platform</title>
+      <link>https://Blockchain.News/news/harvey-ai-700k-daily-legal-tasks-agentic-platform</link>
+      <pubDate>Tue, 14 Apr 2026 17:48:22 GMT</pubDate>
+      <description><![CDATA[Original title: Harvey AI Processes 700K Daily Legal Tasks as Agentic AI Reshapes Law
+Summary: Legal AI startup Harvey reveals its platform handles 700,000+ daily tasks and extracts 50 million contract terms weekly as agentic AI transforms legal work.
+Article text: Legal AI startup Harvey reveals its platform handles 700,000+ daily tasks and extracts 50 million contract terms weekly as agentic AI transforms legal work.
+
+Legal AI startup Harvey has quietly built one of the most active enterprise AI deployments in the market, processing over 700,000 tasks daily and extracting more than 50 million contract terms every week. The company disclosed these figures while outlining its vision for agentic AI in legal work.
+
+The numbers matter because they represent real production workloads, not pilot programs or demos. While much of the AI industry debates what "agentic" actually means, Harvey claims it's been running this way for some time—and the throughput data suggests enterprise clients are actually using it.
+
+Harvey's approach splits legal work into distinct categories requiring different AI treatment. Repeatable tasks—contract review checklists, compliance checks, regulatory monitoring—get handled by agents following structured steps with zero variance. Think factory floor precision applied to document processing.
+
+Complex work operates differently. For multi-step matters like full transaction analysis or fund formation lifecycle management, Harvey's agents generate a plan that lawyers review before execution begins. The system logs routine decisions but pauses for human input on anything outside the playbook or materially changing direction.
+
+This isn't AI replacing lawyers. It's AI handling the execution while lawyers provide judgment on the hard calls. The distinction matters for enterprise adoption—law firms and corporate legal teams need audit trails and human oversight baked in, not bolted on.
+
+Foundation models crossed a threshold. They can now maintain coherence across longer tasks and produce consistent outputs with less variance than even a year ago. Harvey had already built infrastructure for this kind of execution through features like Deep Analysis. The models finally caught up to what the architecture could support.
+
+For enterprise software investors and legal tech watchers, Harvey's scale provides a benchmark. Processing 50 million terms weekly suggests deep integration with client workflows, not surface-level adoption. That kind of stickiness typically translates to strong retention metrics.
+
+The company positions its platform as a "legal operating system"—ambitious framing that implies becoming the default layer between lawyers and their work product. Whether that vision pans out depends on whether the 700,000 daily tasks keep growing and whether competitors can match the execution quality at similar scale.
+
+Harvey says it's building toward agents that compound knowledge over time, getting smarter the longer clients use them. That's the real moat play: not just processing volume, but learning from it.
+
+Legal AI startup Harvey reveals its platform handles 700,000+ daily tasks and extracts 50 million contract terms weekly as agentic AI transforms legal work.
+
+Legal AI startup Harvey has quietly built one of the most active enterprise AI deployments in the market, processing over 700,000 tasks daily and extracting more than 50 million contract terms every week. The company disclosed these figures while outlining its vision for agentic AI in legal work.
+
+The numbers matter because they represent real production workloads, not pilot programs or demos. While much of the AI industry debates what "agentic" actually means, Harvey claims it's been running this way for some time—and the throughput data suggests enterprise clients are actually using it.
+
+Harvey's approach splits legal work into distinct categories requiring different AI treatment. Repeatable tasks—contract review checklists, compliance checks, regulatory monitoring—get handled by agents following structured steps with zero variance. Think factory floor precision applied to document processing.
+
+Complex work operates differently. For multi-step matters like full transaction analysis or fund formation lifecycle management, Harvey's agents generate a plan that lawyers review before execution begins. The system logs routine decisions but pauses for human input on anything outside the playbook or materially changing direction.
+
+This isn't AI replacing lawyers. It's AI handling the execution while lawyers provide judgment on the hard calls. The distinction matters for enterprise adoption—law firms and corporate legal teams need audit trails and human oversight baked in, not bolted on.
+
+Foundation models crossed a threshold. They can now maintain coherence across longer tasks and produce consistent outputs with less variance than even a year ago. Harvey had already built infrastructure for this kind of execution through features like Deep Analysis. The models finally caught up to what the architecture could support.
+
+For enterprise software investors and legal tech watchers, Harvey's scale provides a benchmark. Processing 50 million terms weekly suggests deep integration with client workflows, not surface-level adoption. That kind of stickiness typically translates to strong retention metrics.
+
+The company positions its platform as a "legal operating system"—ambitious framing that implies becoming the default layer between lawyers and their work product. Whether that vision pans out depends on whether the 700,000 daily tasks keep growing and whether competitors can match the execution quality at similar scale.
+
+Harvey says it's building toward agents that compound knowledge over time, getting smarter the longer clients use them. That's the real moat play: not just processing volume, but learning from it.
+Source: https://Blockchain.News/news/harvey-ai-700k-daily-legal-tasks-agentic-platform]]></description>
+      <content:encoded><![CDATA[Legal AI startup Harvey reveals its platform handles 700,000+ daily tasks and extracts 50 million contract terms weekly as agentic AI transforms legal work.
+
+Legal AI startup Harvey has quietly built one of the most active enterprise AI deployments in the market, processing over 700,000 tasks daily and extracting more than 50 million contract terms every week. The company disclosed these figures while outlining its vision for agentic AI in legal work.
+
+The numbers matter because they represent real production workloads, not pilot programs or demos. While much of the AI industry debates what "agentic" actually means, Harvey claims it's been running this way for some time—and the throughput data suggests enterprise clients are actually using it.
+
+Harvey's approach splits legal work into distinct categories requiring different AI treatment. Repeatable tasks—contract review checklists, compliance checks, regulatory monitoring—get handled by agents following structured steps with zero variance. Think factory floor precision applied to document processing.
+
+Complex work operates differently. For multi-step matters like full transaction analysis or fund formation lifecycle management, Harvey's agents generate a plan that lawyers review before execution begins. The system logs routine decisions but pauses for human input on anything outside the playbook or materially changing direction.
+
+This isn't AI replacing lawyers. It's AI handling the execution while lawyers provide judgment on the hard calls. The distinction matters for enterprise adoption—law firms and corporate legal teams need audit trails and human oversight baked in, not bolted on.
+
+Foundation models crossed a threshold. They can now maintain coherence across longer tasks and produce consistent outputs with less variance than even a year ago. Harvey had already built infrastructure for this kind of execution through features like Deep Analysis. The models finally caught up to what the architecture could support.
+
+For enterprise software investors and legal tech watchers, Harvey's scale provides a benchmark. Processing 50 million terms weekly suggests deep integration with client workflows, not surface-level adoption. That kind of stickiness typically translates to strong retention metrics.
+
+The company positions its platform as a "legal operating system"—ambitious framing that implies becoming the default layer between lawyers and their work product. Whether that vision pans out depends on whether the 700,000 daily tasks keep growing and whether competitors can match the execution quality at similar scale.
+
+Harvey says it's building toward agents that compound knowledge over time, getting smarter the longer clients use them. That's the real moat play: not just processing volume, but learning from it.
+
+Legal AI startup Harvey reveals its platform handles 700,000+ daily tasks and extracts 50 million contract terms weekly as agentic AI transforms legal work.
+
+Legal AI startup Harvey has quietly built one of the most active enterprise AI deployments in the market, processing over 700,000 tasks daily and extracting more than 50 million contract terms every week. The company disclosed these figures while outlining its vision for agentic AI in legal work.
+
+The numbers matter because they represent real production workloads, not pilot programs or demos. While much of the AI industry debates what "agentic" actually means, Harvey claims it's been running this way for some time—and the throughput data suggests enterprise clients are actually using it.
+
+Harvey's approach splits legal work into distinct categories requiring different AI treatment. Repeatable tasks—contract review checklists, compliance checks, regulatory monitoring—get handled by agents following structured steps with zero variance. Think factory floor precision applied to document processing.
+
+Complex work operates differently. For multi-step matters like full transaction analysis or fund formation lifecycle management, Harvey's agents generate a plan that lawyers review before execution begins. The system logs routine decisions but pauses for human input on anything outside the playbook or materially changing direction.
+
+This isn't AI replacing lawyers. It's AI handling the execution while lawyers provide judgment on the hard calls. The distinction matters for enterprise adoption—law firms and corporate legal teams need audit trails and human oversight baked in, not bolted on.
+
+Foundation models crossed a threshold. They can now maintain coherence across longer tasks and produce consistent outputs with less variance than even a year ago. Harvey had already built infrastructure for this kind of execution through features like Deep Analysis. The models finally caught up to what the architecture could support.
+
+For enterprise software investors and legal tech watchers, Harvey's scale provides a benchmark. Processing 50 million terms weekly suggests deep integration with client workflows, not surface-level adoption. That kind of stickiness typically translates to strong retention metrics.
+
+The company positions its platform as a "legal operating system"—ambitious framing that implies becoming the default layer between lawyers and their work product. Whether that vision pans out depends on whether the 700,000 daily tasks keep growing and whether competitors can match the execution quality at similar scale.
+
+Harvey says it's building toward agents that compound knowledge over time, getting smarter the longer clients use them. That's the real moat play: not just processing volume, but learning from it.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-1dc117cf99ccd1b0282dfcf24354cd642e5f0d87</guid>
+      <title>Anthropic Launches Claude Code Routines for Automated Development Workflows | Claude Code&apos;s new routines feature enables scheduled and event-driven AI automations for... https://Blockchain.News/news/anthropic-claude-code-routines-automated-development</title>
+      <link>https://Blockchain.News/news/anthropic-claude-code-routines-automated-development</link>
+      <pubDate>Tue, 14 Apr 2026 17:17:02 GMT</pubDate>
+      <description><![CDATA[Original title: Anthropic Launches Claude Code Routines for Automated Development Workflows
+Summary: Claude Code's new routines feature enables scheduled and event-driven AI automations for code review, bug fixes, and deployment verification without local infrastructure.
+Article text: Claude Code's new routines feature enables scheduled and event-driven AI automations for code review, bug fixes, and deployment verification without local infrastructure.
+
+Anthropic has rolled out a research preview of routines for Claude Code, allowing developers to configure AI-powered automations that run on schedules, respond to API calls, or trigger from GitHub events—all without keeping a laptop open or managing custom infrastructure.
+
+The feature addresses a friction point that's plagued developer automation: managing cron jobs, servers, and tooling just to get an AI assistant to handle repetitive tasks. Routines bundle prompts, repository access, and connectors into packages that execute on Anthropic's web infrastructure.
+
+Scheduled routines work on hourly, nightly, or weekly cadences. A team could configure one to pull the top bug from Linear at 2am, attempt a fix, and open a draft PR before anyone wakes up. Developers already using the /schedule command in Claude Code's CLI will find those tasks automatically converted to scheduled routines.
+
+API routines get their own endpoints and auth tokens. POST a message, get back a session URL. This opens integration possibilities with alerting systems, deployment pipelines, and internal tools. One use case already emerging: Datadog alerts trigger a routine that pulls traces, correlates them with recent deployments, and drafts a fix before on-call engineers even open the page.
+
+Webhook routines—starting with GitHub—subscribe to repository events. Claude spins up a session for each matching PR and continues monitoring for comments and CI failures. Teams are using this for automated code review against custom checklists and even cross-language library ports, where a Python SDK change automatically generates a matching Go SDK PR.
+
+Beta users have gravitated toward a few workflows. Nightly backlog triage labels and assigns new issues, then posts summaries to Slack. Weekly docs-drift scans catch documentation that references changed APIs and open update PRs automatically. Deploy verification routines run smoke checks and scan error logs, posting go/no-go decisions to release channels.
+
+The feedback-to-fix pipeline stands out: a docs feedback widget sends reports directly to a routine, which opens a session with the relevant repo and drafts changes without human intervention on the initial pass.
+
+Routines are live now for Pro, Max, Team, and Enterprise subscribers with Claude Code on the web enabled. The daily caps: Pro gets 5 routine runs, Max gets 15, and Team/Enterprise users get 25. Additional runs consume extra usage allocation. All routine execution draws from standard subscription limits, same as interactive sessions.
+
+Anthropic says webhook triggers will expand beyond GitHub to additional event sources, though no timeline was provided. For developers tired of maintaining automation infrastructure, the pitch is straightforward: define the task once, let it run in the cloud.
+
+Claude Code's new routines feature enables scheduled and event-driven AI automations for code review, bug fixes, and deployment verification without local infrastructure.
+
+Anthropic has rolled out a research preview of routines for Claude Code, allowing developers to configure AI-powered automations that run on schedules, respond to API calls, or trigger from GitHub events—all without keeping a laptop open or managing custom infrastructure.
+
+The feature addresses a friction point that's plagued developer automation: managing cron jobs, servers, and tooling just to get an AI assistant to handle repetitive tasks. Routines bundle prompts, repository access, and connectors into packages that execute on Anthropic's web infrastructure.
+
+Scheduled routines work on hourly, nightly, or weekly cadences. A team could configure one to pull the top bug from Linear at 2am, attempt a fix, and open a draft PR before anyone wakes up. Developers already using the /schedule command in Claude Code's CLI will find those tasks automatically converted to scheduled routines.
+
+API routines get their own endpoints and auth tokens. POST a message, get back a session URL. This opens integration possibilities with alerting systems, deployment pipelines, and internal tools. One use case already emerging: Datadog alerts trigger a routine that pulls traces, correlates them with recent deployments, and drafts a fix before on-call engineers even open the page.
+
+Webhook routines—starting with GitHub—subscribe to repository events. Claude spins up a session for each matching PR and continues monitoring for comments and CI failures. Teams are using this for automated code review against custom checklists and even cross-language library ports, where a Python SDK change automatically generates a matching Go SDK PR.
+
+Beta users have gravitated toward a few workflows. Nightly backlog triage labels and assigns new issues, then posts summaries to Slack. Weekly docs-drift scans catch documentation that references changed APIs and open update PRs automatically. Deploy verification routines run smoke checks and scan error logs, posting go/no-go decisions to release channels.
+
+The feedback-to-fix pipeline stands out: a docs feedback widget sends reports directly to a routine, which opens a session with the relevant repo and drafts changes without human intervention on the initial pass.
+
+Routines are live now for Pro, Max, Team, and Enterprise subscribers with Claude Code on the web enabled. The daily caps: Pro gets 5 routine runs, Max gets 15, and Team/Enterprise users get 25. Additional runs consume extra usage allocation. All routine execution draws from standard subscription limits, same as interactive sessions.
+
+Anthropic says webhook triggers will expand beyond GitHub to additional event sources, though no timeline was provided. For developers tired of maintaining automation infrastructure, the pitch is straightforward: define the task once, let it run in the cloud.
+Source: https://Blockchain.News/news/anthropic-claude-code-routines-automated-development]]></description>
+      <content:encoded><![CDATA[Claude Code's new routines feature enables scheduled and event-driven AI automations for code review, bug fixes, and deployment verification without local infrastructure.
+
+Anthropic has rolled out a research preview of routines for Claude Code, allowing developers to configure AI-powered automations that run on schedules, respond to API calls, or trigger from GitHub events—all without keeping a laptop open or managing custom infrastructure.
+
+The feature addresses a friction point that's plagued developer automation: managing cron jobs, servers, and tooling just to get an AI assistant to handle repetitive tasks. Routines bundle prompts, repository access, and connectors into packages that execute on Anthropic's web infrastructure.
+
+Scheduled routines work on hourly, nightly, or weekly cadences. A team could configure one to pull the top bug from Linear at 2am, attempt a fix, and open a draft PR before anyone wakes up. Developers already using the /schedule command in Claude Code's CLI will find those tasks automatically converted to scheduled routines.
+
+API routines get their own endpoints and auth tokens. POST a message, get back a session URL. This opens integration possibilities with alerting systems, deployment pipelines, and internal tools. One use case already emerging: Datadog alerts trigger a routine that pulls traces, correlates them with recent deployments, and drafts a fix before on-call engineers even open the page.
+
+Webhook routines—starting with GitHub—subscribe to repository events. Claude spins up a session for each matching PR and continues monitoring for comments and CI failures. Teams are using this for automated code review against custom checklists and even cross-language library ports, where a Python SDK change automatically generates a matching Go SDK PR.
+
+Beta users have gravitated toward a few workflows. Nightly backlog triage labels and assigns new issues, then posts summaries to Slack. Weekly docs-drift scans catch documentation that references changed APIs and open update PRs automatically. Deploy verification routines run smoke checks and scan error logs, posting go/no-go decisions to release channels.
+
+The feedback-to-fix pipeline stands out: a docs feedback widget sends reports directly to a routine, which opens a session with the relevant repo and drafts changes without human intervention on the initial pass.
+
+Routines are live now for Pro, Max, Team, and Enterprise subscribers with Claude Code on the web enabled. The daily caps: Pro gets 5 routine runs, Max gets 15, and Team/Enterprise users get 25. Additional runs consume extra usage allocation. All routine execution draws from standard subscription limits, same as interactive sessions.
+
+Anthropic says webhook triggers will expand beyond GitHub to additional event sources, though no timeline was provided. For developers tired of maintaining automation infrastructure, the pitch is straightforward: define the task once, let it run in the cloud.
+
+Claude Code's new routines feature enables scheduled and event-driven AI automations for code review, bug fixes, and deployment verification without local infrastructure.
+
+Anthropic has rolled out a research preview of routines for Claude Code, allowing developers to configure AI-powered automations that run on schedules, respond to API calls, or trigger from GitHub events—all without keeping a laptop open or managing custom infrastructure.
+
+The feature addresses a friction point that's plagued developer automation: managing cron jobs, servers, and tooling just to get an AI assistant to handle repetitive tasks. Routines bundle prompts, repository access, and connectors into packages that execute on Anthropic's web infrastructure.
+
+Scheduled routines work on hourly, nightly, or weekly cadences. A team could configure one to pull the top bug from Linear at 2am, attempt a fix, and open a draft PR before anyone wakes up. Developers already using the /schedule command in Claude Code's CLI will find those tasks automatically converted to scheduled routines.
+
+API routines get their own endpoints and auth tokens. POST a message, get back a session URL. This opens integration possibilities with alerting systems, deployment pipelines, and internal tools. One use case already emerging: Datadog alerts trigger a routine that pulls traces, correlates them with recent deployments, and drafts a fix before on-call engineers even open the page.
+
+Webhook routines—starting with GitHub—subscribe to repository events. Claude spins up a session for each matching PR and continues monitoring for comments and CI failures. Teams are using this for automated code review against custom checklists and even cross-language library ports, where a Python SDK change automatically generates a matching Go SDK PR.
+
+Beta users have gravitated toward a few workflows. Nightly backlog triage labels and assigns new issues, then posts summaries to Slack. Weekly docs-drift scans catch documentation that references changed APIs and open update PRs automatically. Deploy verification routines run smoke checks and scan error logs, posting go/no-go decisions to release channels.
+
+The feedback-to-fix pipeline stands out: a docs feedback widget sends reports directly to a routine, which opens a session with the relevant repo and drafts changes without human intervention on the initial pass.
+
+Routines are live now for Pro, Max, Team, and Enterprise subscribers with Claude Code on the web enabled. The daily caps: Pro gets 5 routine runs, Max gets 15, and Team/Enterprise users get 25. Additional runs consume extra usage allocation. All routine execution draws from standard subscription limits, same as interactive sessions.
+
+Anthropic says webhook triggers will expand beyond GitHub to additional event sources, though no timeline was provided. For developers tired of maintaining automation infrastructure, the pitch is straightforward: define the task once, let it run in the cloud.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-1aa3d5e6e04185824c39695cd8432f1d7cf8df41</guid>
       <title>HBAR Price Prediction: Institutional Partnerships vs Technical Stagnation - $0.12 Target by May | HBAR sits at critical technical crossroads with enterprise partnerships driving fundament... https://Blockchain.News/news/20260414-price-prediction-target-hbar-i...</title>
@@ -2345,267 +2606,6 @@ For traders considering OP positions, the current price action suggests a wait-a
 Conservative traders might wait for a successful retest of $0.12 as support before establishing positions, using $0.115 as an initial stop-loss level. More aggressive traders could consider current levels as accumulation opportunities, though strict risk management remains essential given the neutral technical backdrop.
 
 Position sizing should account for the $0.01 daily ATR, suggesting that stops placed below $0.10 would allow for normal volatility while protecting against significant adverse moves.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-1a9140c5376e74c53efb9e1caa28315110ac539f</guid>
-      <title>ARB Price Prediction: Targets $0.13 Breakout as Technical Momentum Builds | Arbitrum shows bullish MACD momentum at $0.11 with RSI at 67.88. Technical analysis sugge... https://Blockchain.News/news/20260411-price-prediction-arb-targets-013-breakout-as-technic...</title>
-      <link>https://Blockchain.News/news/20260411-price-prediction-arb-targets-013-breakout-as-technical-momentum</link>
-      <pubDate>Sat, 11 Apr 2026 10:11:03 GMT</pubDate>
-      <description><![CDATA[Original title: ARB Price Prediction: Targets $0.13 Breakout as Technical Momentum Builds
-Summary: Arbitrum shows bullish MACD momentum at $0.11 with RSI at 67.88. Technical analysis suggests potential breakout to $0.13 resistance if current support holds above $0.10 level.
-Article text: Arbitrum shows bullish MACD momentum at $0.11 with RSI at 67.88. Technical analysis suggests potential breakout to $0.13 resistance if current support holds above $0.10 level.
-
-• Short-term target (1 week): $0.13 • Medium-term forecast (1 month): $0.10-$0.15 range • Bullish breakout level: $0.13 • Critical support: $0.10
-
-While specific analyst predictions are limited in recent trading sessions, on-chain data suggests building momentum for ARB. According to technical indicators, Arbitrum is showing signs of potential upward movement with bullish MACD signals emerging in the current market cycle.
-
-The lack of widespread analyst coverage may actually present an opportunity, as retail sentiment hasn't reached euphoric levels that often mark local tops in cryptocurrency markets.
-
-Arbitrum's current technical setup presents a mixed but increasingly bullish picture. At $0.11, ARB sits 45% below its 200-day simple moving average of $0.20, indicating the token remains in a longer-term downtrend despite recent gains.
-
-However, shorter-term indicators paint a more optimistic scenario. The RSI reading of 67.88 places ARB in neutral territory with room for additional upside before entering overbought conditions. More significantly, the MACD histogram at 0.0000 suggests bullish momentum is building, with the MACD line ($0.0026) converging with its signal line.
-
-The Bollinger Bands analysis reveals ARB trading near the upper band at a position of 1.05, indicating the token is testing resistance after a period of consolidation. The middle band (20-day SMA) sits at $0.10, providing immediate support, while the lower band at $0.08 represents a critical downside level to monitor.
-
-Daily volatility, measured by the Average True Range (ATR), stands at $0.01, suggesting relatively contained price swings that could precede a larger directional move.
-
-The primary upside target for this ARB price prediction centers on the strong resistance level at $0.13. A sustained break above the immediate resistance at $0.12 would likely trigger momentum buying toward this key level, representing an 18% gain from current prices.
-
-For confirmation of the bullish thesis, traders should watch for the MACD histogram to turn decisively positive and RSI to maintain levels above 65 without reaching extreme overbought conditions above 80.
-
-The Arbitrum forecast faces significant downside risk if support at $0.10 fails to hold. This level corresponds to both the middle Bollinger Band and the critical psychological support that has contained previous selling pressure.
-
-A breakdown below $0.10 could accelerate selling toward the strong support at $0.10 (which appears to be the same level, suggesting this is a critical inflection point). Further weakness could target the lower Bollinger Band at $0.08, representing a 27% decline from current levels.
-
-Based on current technical conditions, conservative traders should consider entering ARB positions near the $0.10 support level if a pullback occurs. More aggressive traders might consider current levels around $0.11, given the bullish MACD momentum.
-
-A logical stop-loss placement would be below $0.095, allowing for some volatility while protecting against a significant breakdown. This represents approximately 13% downside risk from current prices.
-
-Position sizing should remain conservative given ARB's distance from its 200-day moving average, suggesting the broader trend remains bearish despite short-term momentum improvements.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-This ARB price prediction suggests cautious optimism for Arbitrum in the near term. The combination of bullish MACD momentum, neutral RSI readings, and proximity to key resistance levels creates a setup favoring upside potential to $0.13 over the next week.
-
-However, the 45% gap below the 200-day moving average serves as a reminder that any bullish move remains within the context of a larger downtrend. Traders should remain disciplined with risk management and avoid overleveraging positions.
-
-Confidence level: Moderate - Technical indicators align for potential upside, but broader market conditions and limited analyst coverage warrant careful position management.
-
-This Arbitrum forecast is for educational purposes only and should not be considered financial advice. Cryptocurrency investments carry substantial risk, and past performance does not guarantee future results.
-Source: https://Blockchain.News/news/20260411-price-prediction-arb-targets-013-breakout-as-technical-momentum]]></description>
-      <content:encoded><![CDATA[Arbitrum shows bullish MACD momentum at $0.11 with RSI at 67.88. Technical analysis suggests potential breakout to $0.13 resistance if current support holds above $0.10 level.
-
-• Short-term target (1 week): $0.13 • Medium-term forecast (1 month): $0.10-$0.15 range • Bullish breakout level: $0.13 • Critical support: $0.10
-
-While specific analyst predictions are limited in recent trading sessions, on-chain data suggests building momentum for ARB. According to technical indicators, Arbitrum is showing signs of potential upward movement with bullish MACD signals emerging in the current market cycle.
-
-The lack of widespread analyst coverage may actually present an opportunity, as retail sentiment hasn't reached euphoric levels that often mark local tops in cryptocurrency markets.
-
-Arbitrum's current technical setup presents a mixed but increasingly bullish picture. At $0.11, ARB sits 45% below its 200-day simple moving average of $0.20, indicating the token remains in a longer-term downtrend despite recent gains.
-
-However, shorter-term indicators paint a more optimistic scenario. The RSI reading of 67.88 places ARB in neutral territory with room for additional upside before entering overbought conditions. More significantly, the MACD histogram at 0.0000 suggests bullish momentum is building, with the MACD line ($0.0026) converging with its signal line.
-
-The Bollinger Bands analysis reveals ARB trading near the upper band at a position of 1.05, indicating the token is testing resistance after a period of consolidation. The middle band (20-day SMA) sits at $0.10, providing immediate support, while the lower band at $0.08 represents a critical downside level to monitor.
-
-Daily volatility, measured by the Average True Range (ATR), stands at $0.01, suggesting relatively contained price swings that could precede a larger directional move.
-
-The primary upside target for this ARB price prediction centers on the strong resistance level at $0.13. A sustained break above the immediate resistance at $0.12 would likely trigger momentum buying toward this key level, representing an 18% gain from current prices.
-
-For confirmation of the bullish thesis, traders should watch for the MACD histogram to turn decisively positive and RSI to maintain levels above 65 without reaching extreme overbought conditions above 80.
-
-The Arbitrum forecast faces significant downside risk if support at $0.10 fails to hold. This level corresponds to both the middle Bollinger Band and the critical psychological support that has contained previous selling pressure.
-
-A breakdown below $0.10 could accelerate selling toward the strong support at $0.10 (which appears to be the same level, suggesting this is a critical inflection point). Further weakness could target the lower Bollinger Band at $0.08, representing a 27% decline from current levels.
-
-Based on current technical conditions, conservative traders should consider entering ARB positions near the $0.10 support level if a pullback occurs. More aggressive traders might consider current levels around $0.11, given the bullish MACD momentum.
-
-A logical stop-loss placement would be below $0.095, allowing for some volatility while protecting against a significant breakdown. This represents approximately 13% downside risk from current prices.
-
-Position sizing should remain conservative given ARB's distance from its 200-day moving average, suggesting the broader trend remains bearish despite short-term momentum improvements.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-This ARB price prediction suggests cautious optimism for Arbitrum in the near term. The combination of bullish MACD momentum, neutral RSI readings, and proximity to key resistance levels creates a setup favoring upside potential to $0.13 over the next week.
-
-However, the 45% gap below the 200-day moving average serves as a reminder that any bullish move remains within the context of a larger downtrend. Traders should remain disciplined with risk management and avoid overleveraging positions.
-
-Confidence level: Moderate - Technical indicators align for potential upside, but broader market conditions and limited analyst coverage warrant careful position management.
-
-This Arbitrum forecast is for educational purposes only and should not be considered financial advice. Cryptocurrency investments carry substantial risk, and past performance does not guarantee future results.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-bdebc15498f207b198612cce31cb5a27054d7db2</guid>
-      <title>APT Price Prediction: Aptos Eyes $0.88 Breakout Despite Neutral Momentum | APT trades at $0.85 with technical analysis pointing to $0.88 resistance test. Neutral RS... https://Blockchain.News/news/20260411-price-prediction-apt-aptos-eyes-088-breakout-despite-...</title>
-      <link>https://Blockchain.News/news/20260411-price-prediction-apt-aptos-eyes-088-breakout-despite-neutral</link>
-      <pubDate>Sat, 11 Apr 2026 10:04:45 GMT</pubDate>
-      <description><![CDATA[Original title: APT Price Prediction: Aptos Eyes $0.88 Breakout Despite Neutral Momentum
-Summary: APT trades at $0.85 with technical analysis pointing to $0.88 resistance test. Neutral RSI and bearish MACD suggest cautious optimism for Aptos price prediction.
-Article text: APT trades at $0.85 with technical analysis pointing to $0.88 resistance test. Neutral RSI and bearish MACD suggest cautious optimism for Aptos price prediction.
-
-• Short-term target (1 week): $0.88 • Medium-term forecast (1 month): $0.83-$0.90 range • Bullish breakout level: $0.90 • Critical support: $0.81
-
-Recent analysis from blockchain market experts provides measured optimism for APT's near-term prospects. According to Terrill Dicki's April 6th assessment, "Aptos (APT) shows neutral momentum at $0.86 with key resistance at $0.88. Technical analysis suggests potential 2-4% upside if bulls reclaim the $0.87 level this week," with a target of $0.88.
-
-While specific analyst predictions remain limited in recent days, on-chain metrics from leading data platforms suggest mixed signals. The current trading dynamics show APT attempting to establish a foundation above the $0.85 pivot level, though momentum indicators present a cautious outlook for the Aptos forecast.
-
-The current technical picture for Aptos reveals a cryptocurrency at a critical juncture. Trading at $0.85, APT sits precisely at its pivot point, having recovered 1.31% in the past 24 hours from a low of $0.83.
-
-The RSI reading of 41.25 places APT in neutral territory, neither oversold nor overbought, suggesting room for movement in either direction. However, the MACD histogram reading of 0.0000 indicates bearish momentum is currently stalling, with the MACD line (-0.0352) matching its signal line exactly.
-
-Bollinger Bands analysis shows APT positioned at 0.31 relative to the bands, significantly closer to the lower band ($0.74) than the upper band ($1.09). This positioning, combined with the middle band at $0.91, suggests the token is trading in the lower portion of its recent range.
-
-Moving averages paint a mixed picture for this APT price prediction. While the 7-day SMA aligns with the current price at $0.85, longer-term averages remain elevated, with the 20-day SMA at $0.91 and the 50-day SMA at $0.93, indicating the recent downtrend from higher levels.
-
-The immediate resistance cluster between $0.87-$0.88 represents the first major test for APT bulls. A decisive break above $0.87 could trigger the 2-4% upside scenario outlined by recent analysis, targeting the $0.88 level initially.
-
-Should momentum build beyond $0.88, the strong resistance at $0.90 becomes the primary target. This level aligns closely with the 20-day moving average at $0.91, making it a significant psychological and technical barrier. A break above $0.90 could open the path toward testing the $1.00 psychological level.
-
-Technical confirmation for the bullish case would require the RSI to break above 50, MACD histogram to turn positive, and daily volume to exceed the current $7.4 million average on Binance.
-
-The downside risks for this Aptos forecast center on the immediate support at $0.83, which was tested during today's session. A breakdown below this level could quickly accelerate toward the strong support at $0.81.
-
-More concerning would be a break below $0.81, as this could trigger a deeper correction toward the Bollinger Band lower boundary at $0.74. The ATR reading of $0.04 suggests that such moves could happen rapidly given APT's current volatility profile.
-
-Risk factors include the sustained positioning below key moving averages and the potential for the MACD to turn more decisively bearish if selling pressure increases.
-
-For traders considering APT positions, the current level around $0.85 offers a balanced risk-reward setup. Conservative entry points would be on any pullback to $0.83-$0.84, using the strong support at $0.81 as a stop-loss level.
-
-More aggressive traders might consider entries on a confirmed break above $0.87 with increased volume, targeting the $0.88 resistance initially and $0.90 on extension. Risk management suggests position sizing should account for the potential 5-6% downside to the $0.81 support level.
-
-The neutral RSI provides flexibility for both approaches, as the indicator has room to move in either direction without immediately signaling overbought or oversold conditions.
-
-This APT price prediction suggests a cautious but optimistic outlook for Aptos in the near term. While the technical setup shows neutral momentum and mixed signals, the proximity to key resistance levels at $0.87-$0.88 provides clear upside targets for the coming week.
-
-The medium-term Aptos forecast points to continued range-bound trading between $0.83-$0.90 until a decisive break occurs in either direction. Traders should monitor volume patterns and RSI momentum for confirmation of the next directional move.
-
-Disclaimer: Cryptocurrency price predictions involve significant risk and uncertainty. This analysis is for informational purposes only and should not be considered financial advice. Always conduct your own research and consider your risk tolerance before making investment decisions.
-Source: https://Blockchain.News/news/20260411-price-prediction-apt-aptos-eyes-088-breakout-despite-neutral]]></description>
-      <content:encoded><![CDATA[APT trades at $0.85 with technical analysis pointing to $0.88 resistance test. Neutral RSI and bearish MACD suggest cautious optimism for Aptos price prediction.
-
-• Short-term target (1 week): $0.88 • Medium-term forecast (1 month): $0.83-$0.90 range • Bullish breakout level: $0.90 • Critical support: $0.81
-
-Recent analysis from blockchain market experts provides measured optimism for APT's near-term prospects. According to Terrill Dicki's April 6th assessment, "Aptos (APT) shows neutral momentum at $0.86 with key resistance at $0.88. Technical analysis suggests potential 2-4% upside if bulls reclaim the $0.87 level this week," with a target of $0.88.
-
-While specific analyst predictions remain limited in recent days, on-chain metrics from leading data platforms suggest mixed signals. The current trading dynamics show APT attempting to establish a foundation above the $0.85 pivot level, though momentum indicators present a cautious outlook for the Aptos forecast.
-
-The current technical picture for Aptos reveals a cryptocurrency at a critical juncture. Trading at $0.85, APT sits precisely at its pivot point, having recovered 1.31% in the past 24 hours from a low of $0.83.
-
-The RSI reading of 41.25 places APT in neutral territory, neither oversold nor overbought, suggesting room for movement in either direction. However, the MACD histogram reading of 0.0000 indicates bearish momentum is currently stalling, with the MACD line (-0.0352) matching its signal line exactly.
-
-Bollinger Bands analysis shows APT positioned at 0.31 relative to the bands, significantly closer to the lower band ($0.74) than the upper band ($1.09). This positioning, combined with the middle band at $0.91, suggests the token is trading in the lower portion of its recent range.
-
-Moving averages paint a mixed picture for this APT price prediction. While the 7-day SMA aligns with the current price at $0.85, longer-term averages remain elevated, with the 20-day SMA at $0.91 and the 50-day SMA at $0.93, indicating the recent downtrend from higher levels.
-
-The immediate resistance cluster between $0.87-$0.88 represents the first major test for APT bulls. A decisive break above $0.87 could trigger the 2-4% upside scenario outlined by recent analysis, targeting the $0.88 level initially.
-
-Should momentum build beyond $0.88, the strong resistance at $0.90 becomes the primary target. This level aligns closely with the 20-day moving average at $0.91, making it a significant psychological and technical barrier. A break above $0.90 could open the path toward testing the $1.00 psychological level.
-
-Technical confirmation for the bullish case would require the RSI to break above 50, MACD histogram to turn positive, and daily volume to exceed the current $7.4 million average on Binance.
-
-The downside risks for this Aptos forecast center on the immediate support at $0.83, which was tested during today's session. A breakdown below this level could quickly accelerate toward the strong support at $0.81.
-
-More concerning would be a break below $0.81, as this could trigger a deeper correction toward the Bollinger Band lower boundary at $0.74. The ATR reading of $0.04 suggests that such moves could happen rapidly given APT's current volatility profile.
-
-Risk factors include the sustained positioning below key moving averages and the potential for the MACD to turn more decisively bearish if selling pressure increases.
-
-For traders considering APT positions, the current level around $0.85 offers a balanced risk-reward setup. Conservative entry points would be on any pullback to $0.83-$0.84, using the strong support at $0.81 as a stop-loss level.
-
-More aggressive traders might consider entries on a confirmed break above $0.87 with increased volume, targeting the $0.88 resistance initially and $0.90 on extension. Risk management suggests position sizing should account for the potential 5-6% downside to the $0.81 support level.
-
-The neutral RSI provides flexibility for both approaches, as the indicator has room to move in either direction without immediately signaling overbought or oversold conditions.
-
-This APT price prediction suggests a cautious but optimistic outlook for Aptos in the near term. While the technical setup shows neutral momentum and mixed signals, the proximity to key resistance levels at $0.87-$0.88 provides clear upside targets for the coming week.
-
-The medium-term Aptos forecast points to continued range-bound trading between $0.83-$0.90 until a decisive break occurs in either direction. Traders should monitor volume patterns and RSI momentum for confirmation of the next directional move.
-
-Disclaimer: Cryptocurrency price predictions involve significant risk and uncertainty. This analysis is for informational purposes only and should not be considered financial advice. Always conduct your own research and consider your risk tolerance before making investment decisions.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-e76e0cbd41ae07f12e4ea0455feccfa78d52464d</guid>
-      <title>NEAR Price Prediction: Targets $1.42 Resistance Test by April 18th | NEAR Protocol trades at $1.35 with bullish MACD signals targeting $1.42 resistance. Techn... https://Blockchain.News/news/20260411-price-prediction-near-targets-142-resistance-test-by-april</title>
-      <link>https://Blockchain.News/news/20260411-price-prediction-near-targets-142-resistance-test-by-april</link>
-      <pubDate>Sat, 11 Apr 2026 09:58:48 GMT</pubDate>
-      <description><![CDATA[Original title: NEAR Price Prediction: Targets $1.42 Resistance Test by April 18th
-Summary: NEAR Protocol trades at $1.35 with bullish MACD signals targeting $1.42 resistance. Technical analysis suggests potential 5% upside if volume confirms breakout momentum.
-Article text: NEAR Protocol trades at $1.35 with bullish MACD signals targeting $1.42 resistance. Technical analysis suggests potential 5% upside if volume confirms breakout momentum.
-
-• Short-term target (1 week): $1.42 • Medium-term forecast (1 month): $1.25-$1.45 range • Bullish breakout level: $1.42 • Critical support: $1.29
-
-While specific analyst predictions are limited in recent trading sessions, on-chain metrics and technical indicators suggest NEAR Protocol is positioned for potential upside momentum. According to available analysis from late January, NEAR Protocol was noted to be showing signs of technical strength at similar price levels, with indicators suggesting potential upside if key resistance levels are breached.
-
-The current technical setup mirrors patterns that have historically led to short-term price appreciation in NEAR's trading history, particularly when RSI readings maintain neutral-to-positive territory while MACD indicators show bullish momentum convergence.
-
-NEAR Protocol's current technical picture presents a compelling case for cautious optimism. Trading at $1.35, NEAR sits well above its key moving averages, with the 7-day SMA at $1.32 providing immediate support and the 20-day SMA at $1.25 offering stronger backing.
-
-The RSI reading of 60.31 positions NEAR in neutral territory, suggesting room for upward movement without entering overbought conditions. This balanced momentum indicator provides flexibility for potential price appreciation without immediate reversal pressure.
-
-NEAR's MACD configuration shows particularly interesting dynamics, with the MACD line at 0.0220 matching the signal line, creating a histogram reading of 0.0000. This convergence often precedes significant directional moves, and given NEAR's position above key moving averages, the bias leans bullish.
-
-The Bollinger Bands analysis reveals NEAR trading at 84.86% of the band width, positioning the token near the upper resistance at $1.39. This proximity to the upper band, combined with the middle band at $1.25, creates a clear trading range framework for NEAR Protocol forecast scenarios.
-
-The primary upside target for NEAR price prediction centers on the strong resistance level at $1.42, representing approximately 5% upside from current levels. This target aligns with historical resistance zones and coincides with the upper Bollinger Band resistance area.
-
-For bullish confirmation, NEAR Protocol needs sustained trading volume above the recent 24-hour average of $13.46 million, combined with RSI maintaining readings above 55. A decisive break above $1.38 immediate resistance would likely trigger algorithmic buying toward the $1.42 target.
-
-Extended bullish scenarios could see NEAR testing the psychological $1.50 level if broader market conditions support risk-on sentiment and the protocol demonstrates continued ecosystem growth.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Downside protection for NEAR Protocol centers on the immediate support at $1.32, followed by stronger support at $1.29. These levels correspond to recent trading ranges and provide logical stop-loss positioning for long positions.
-
-A breakdown below $1.29 could trigger selling pressure toward the 20-day SMA at $1.25, representing approximately 7% downside risk. The lower Bollinger Band at $1.11 serves as an extreme bearish target, though such a move would require significant market disruption or protocol-specific negative developments.
-
-Risk factors include broader crypto market volatility, regulatory uncertainties affecting Layer 1 protocols, and potential profit-taking if NEAR approaches resistance levels without sufficient volume confirmation.
-
-Current technical conditions suggest a measured approach to NEAR Protocol positioning. The optimal entry strategy involves scaling into positions on any pullback toward the $1.32-$1.33 support zone, using the 7-day SMA as a dynamic entry reference.
-
-For aggressive traders, current levels around $1.35 offer reasonable risk-reward ratios with stop-losses positioned below $1.29 and initial profit targets at $1.42. This setup provides approximately 1:2 risk-reward assuming proper position sizing.
-
-Conservative investors might wait for either a successful test and hold above $1.42 resistance or a deeper pullback to the $1.25-$1.27 range where the 20-day and 50-day SMAs converge. This approach reduces entry risk while maintaining exposure to NEAR's upside potential.
-
-Position sizing should account for NEAR's daily ATR of $0.07, suggesting natural volatility of approximately 5% in daily trading ranges. Risk management protocols should limit individual position exposure to appropriate portfolio percentages.
-
-NEAR price prediction analysis suggests a cautiously optimistic short-term outlook, with technical indicators supporting potential movement toward $1.42 resistance over the next week. The combination of neutral RSI readings, bullish MACD convergence, and positioning above key moving averages creates favorable conditions for upside momentum.
-Source: https://Blockchain.News/news/20260411-price-prediction-near-targets-142-resistance-test-by-april]]></description>
-      <content:encoded><![CDATA[NEAR Protocol trades at $1.35 with bullish MACD signals targeting $1.42 resistance. Technical analysis suggests potential 5% upside if volume confirms breakout momentum.
-
-• Short-term target (1 week): $1.42 • Medium-term forecast (1 month): $1.25-$1.45 range • Bullish breakout level: $1.42 • Critical support: $1.29
-
-While specific analyst predictions are limited in recent trading sessions, on-chain metrics and technical indicators suggest NEAR Protocol is positioned for potential upside momentum. According to available analysis from late January, NEAR Protocol was noted to be showing signs of technical strength at similar price levels, with indicators suggesting potential upside if key resistance levels are breached.
-
-The current technical setup mirrors patterns that have historically led to short-term price appreciation in NEAR's trading history, particularly when RSI readings maintain neutral-to-positive territory while MACD indicators show bullish momentum convergence.
-
-NEAR Protocol's current technical picture presents a compelling case for cautious optimism. Trading at $1.35, NEAR sits well above its key moving averages, with the 7-day SMA at $1.32 providing immediate support and the 20-day SMA at $1.25 offering stronger backing.
-
-The RSI reading of 60.31 positions NEAR in neutral territory, suggesting room for upward movement without entering overbought conditions. This balanced momentum indicator provides flexibility for potential price appreciation without immediate reversal pressure.
-
-NEAR's MACD configuration shows particularly interesting dynamics, with the MACD line at 0.0220 matching the signal line, creating a histogram reading of 0.0000. This convergence often precedes significant directional moves, and given NEAR's position above key moving averages, the bias leans bullish.
-
-The Bollinger Bands analysis reveals NEAR trading at 84.86% of the band width, positioning the token near the upper resistance at $1.39. This proximity to the upper band, combined with the middle band at $1.25, creates a clear trading range framework for NEAR Protocol forecast scenarios.
-
-The primary upside target for NEAR price prediction centers on the strong resistance level at $1.42, representing approximately 5% upside from current levels. This target aligns with historical resistance zones and coincides with the upper Bollinger Band resistance area.
-
-For bullish confirmation, NEAR Protocol needs sustained trading volume above the recent 24-hour average of $13.46 million, combined with RSI maintaining readings above 55. A decisive break above $1.38 immediate resistance would likely trigger algorithmic buying toward the $1.42 target.
-
-Extended bullish scenarios could see NEAR testing the psychological $1.50 level if broader market conditions support risk-on sentiment and the protocol demonstrates continued ecosystem growth.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Downside protection for NEAR Protocol centers on the immediate support at $1.32, followed by stronger support at $1.29. These levels correspond to recent trading ranges and provide logical stop-loss positioning for long positions.
-
-A breakdown below $1.29 could trigger selling pressure toward the 20-day SMA at $1.25, representing approximately 7% downside risk. The lower Bollinger Band at $1.11 serves as an extreme bearish target, though such a move would require significant market disruption or protocol-specific negative developments.
-
-Risk factors include broader crypto market volatility, regulatory uncertainties affecting Layer 1 protocols, and potential profit-taking if NEAR approaches resistance levels without sufficient volume confirmation.
-
-Current technical conditions suggest a measured approach to NEAR Protocol positioning. The optimal entry strategy involves scaling into positions on any pullback toward the $1.32-$1.33 support zone, using the 7-day SMA as a dynamic entry reference.
-
-For aggressive traders, current levels around $1.35 offer reasonable risk-reward ratios with stop-losses positioned below $1.29 and initial profit targets at $1.42. This setup provides approximately 1:2 risk-reward assuming proper position sizing.
-
-Conservative investors might wait for either a successful test and hold above $1.42 resistance or a deeper pullback to the $1.25-$1.27 range where the 20-day and 50-day SMAs converge. This approach reduces entry risk while maintaining exposure to NEAR's upside potential.
-
-Position sizing should account for NEAR's daily ATR of $0.07, suggesting natural volatility of approximately 5% in daily trading ranges. Risk management protocols should limit individual position exposure to appropriate portfolio percentages.
-
-NEAR price prediction analysis suggests a cautiously optimistic short-term outlook, with technical indicators supporting potential movement toward $1.42 resistance over the next week. The combination of neutral RSI readings, bullish MACD convergence, and positioning above key moving averages creates favorable conditions for upside momentum.]]></content:encoded>
     </item>
   </channel>
 </rss>
