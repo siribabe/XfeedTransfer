@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Mon, 20 Apr 2026 13:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 18:58:56 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-4aa77096cb243d503b7dd4256725c982d56fb6ed</guid>
+      <title>NVIDIA Deploys Humanoid Robots in German Factories as Industrial AI Goes Live | NVIDIA and partners demonstrate factory-ready AI at Hannover Messe 2026, with humanoid ro... https://Blockchain.News/news/nvidia-humanoid-robots-german-factories-hannover-messe-20...</title>
+      <link>https://Blockchain.News/news/nvidia-humanoid-robots-german-factories-hannover-messe-2026</link>
+      <pubDate>Mon, 20 Apr 2026 09:07:15 GMT</pubDate>
+      <description><![CDATA[Original title: NVIDIA Deploys Humanoid Robots in German Factories as Industrial AI Goes Live
+Summary: NVIDIA and partners demonstrate factory-ready AI at Hannover Messe 2026, with humanoid robots now operating in BMW and Siemens production facilities.
+Article text: NVIDIA and partners demonstrate factory-ready AI at Hannover Messe 2026, with humanoid robots now operating in BMW and Siemens production facilities.
+
+Humanoid robots aren't just demo units anymore. At Hannover Messe 2026, NVIDIA and its manufacturing partners revealed that AI-powered robots have moved from simulation labs into actual German production lines—including facilities operated by BMW and Siemens.
+
+The shift from proof-of-concept to production deployment marks a turning point for industrial automation. Humanoid's HMND 01 robot, running on NVIDIA's Jetson Thor edge AI module, has completed autonomous logistics operations at Siemens' electronics factory in Erlangen. The company claims its simulation-first approach compressed two years of typical hardware development into seven months.
+
+Meanwhile, Hexagon Robotics announced its AEON humanoid will perform assembly operations at BMW's Leipzig plant—one of the first humanoid deployments in a German automotive production environment.
+
+Deutsche Telekom's Industrial AI Cloud, built on NVIDIA infrastructure, is positioning itself as Europe's sovereign AI backbone for manufacturing. The platform already hosts workloads from Siemens, SAP, and automotive engineering firm EDAG, which announced it will run its industrial metaverse platform on the cloud.
+
+This matters for manufacturers weighing data sovereignty concerns against the need for massive compute power. Running AI physics simulations and factory-scale digital twins requires infrastructure most companies can't build themselves.
+
+Toyota is already using Invisible AI's new Vision Execution System to analyze every production cycle in real time. The system deploys autonomous AI agents that flag issues before they compound—a capability that Terex, with its 40+ global plants, expects will deliver a 3% yield increase and 10% reduction in rework.
+
+Energy contractor Saipem is deploying Fogsphere's Vision Agent platform to detect high-risk safety events in real time across industrial sites.
+
+The announcements reveal an industrial AI stack that's finally production-ready: sovereign cloud infrastructure, digital twin platforms from Siemens and Dassault Systèmes, and physical robots validated through simulation before deployment. SCHUNK's GROW automation cell, designed to bring physical AI to Europe's small and mid-sized manufacturers, suggests the technology won't stay confined to automotive giants.
+
+For investors tracking NVIDIA's industrial push, the Hannover Messe demonstrations show enterprise AI revenue streams extending well beyond data centers. The question now is how quickly manufacturers can absorb the technology—and whether the seven-month development cycles Humanoid claims become the new standard.
+
+NVIDIA and partners demonstrate factory-ready AI at Hannover Messe 2026, with humanoid robots now operating in BMW and Siemens production facilities.
+
+Humanoid robots aren't just demo units anymore. At Hannover Messe 2026, NVIDIA and its manufacturing partners revealed that AI-powered robots have moved from simulation labs into actual German production lines—including facilities operated by BMW and Siemens.
+
+The shift from proof-of-concept to production deployment marks a turning point for industrial automation. Humanoid's HMND 01 robot, running on NVIDIA's Jetson Thor edge AI module, has completed autonomous logistics operations at Siemens' electronics factory in Erlangen. The company claims its simulation-first approach compressed two years of typical hardware development into seven months.
+
+Meanwhile, Hexagon Robotics announced its AEON humanoid will perform assembly operations at BMW's Leipzig plant—one of the first humanoid deployments in a German automotive production environment.
+
+Deutsche Telekom's Industrial AI Cloud, built on NVIDIA infrastructure, is positioning itself as Europe's sovereign AI backbone for manufacturing. The platform already hosts workloads from Siemens, SAP, and automotive engineering firm EDAG, which announced it will run its industrial metaverse platform on the cloud.
+
+This matters for manufacturers weighing data sovereignty concerns against the need for massive compute power. Running AI physics simulations and factory-scale digital twins requires infrastructure most companies can't build themselves.
+
+Toyota is already using Invisible AI's new Vision Execution System to analyze every production cycle in real time. The system deploys autonomous AI agents that flag issues before they compound—a capability that Terex, with its 40+ global plants, expects will deliver a 3% yield increase and 10% reduction in rework.
+
+Energy contractor Saipem is deploying Fogsphere's Vision Agent platform to detect high-risk safety events in real time across industrial sites.
+
+The announcements reveal an industrial AI stack that's finally production-ready: sovereign cloud infrastructure, digital twin platforms from Siemens and Dassault Systèmes, and physical robots validated through simulation before deployment. SCHUNK's GROW automation cell, designed to bring physical AI to Europe's small and mid-sized manufacturers, suggests the technology won't stay confined to automotive giants.
+
+For investors tracking NVIDIA's industrial push, the Hannover Messe demonstrations show enterprise AI revenue streams extending well beyond data centers. The question now is how quickly manufacturers can absorb the technology—and whether the seven-month development cycles Humanoid claims become the new standard.
+Source: https://Blockchain.News/news/nvidia-humanoid-robots-german-factories-hannover-messe-2026]]></description>
+      <content:encoded><![CDATA[NVIDIA and partners demonstrate factory-ready AI at Hannover Messe 2026, with humanoid robots now operating in BMW and Siemens production facilities.
+
+Humanoid robots aren't just demo units anymore. At Hannover Messe 2026, NVIDIA and its manufacturing partners revealed that AI-powered robots have moved from simulation labs into actual German production lines—including facilities operated by BMW and Siemens.
+
+The shift from proof-of-concept to production deployment marks a turning point for industrial automation. Humanoid's HMND 01 robot, running on NVIDIA's Jetson Thor edge AI module, has completed autonomous logistics operations at Siemens' electronics factory in Erlangen. The company claims its simulation-first approach compressed two years of typical hardware development into seven months.
+
+Meanwhile, Hexagon Robotics announced its AEON humanoid will perform assembly operations at BMW's Leipzig plant—one of the first humanoid deployments in a German automotive production environment.
+
+Deutsche Telekom's Industrial AI Cloud, built on NVIDIA infrastructure, is positioning itself as Europe's sovereign AI backbone for manufacturing. The platform already hosts workloads from Siemens, SAP, and automotive engineering firm EDAG, which announced it will run its industrial metaverse platform on the cloud.
+
+This matters for manufacturers weighing data sovereignty concerns against the need for massive compute power. Running AI physics simulations and factory-scale digital twins requires infrastructure most companies can't build themselves.
+
+Toyota is already using Invisible AI's new Vision Execution System to analyze every production cycle in real time. The system deploys autonomous AI agents that flag issues before they compound—a capability that Terex, with its 40+ global plants, expects will deliver a 3% yield increase and 10% reduction in rework.
+
+Energy contractor Saipem is deploying Fogsphere's Vision Agent platform to detect high-risk safety events in real time across industrial sites.
+
+The announcements reveal an industrial AI stack that's finally production-ready: sovereign cloud infrastructure, digital twin platforms from Siemens and Dassault Systèmes, and physical robots validated through simulation before deployment. SCHUNK's GROW automation cell, designed to bring physical AI to Europe's small and mid-sized manufacturers, suggests the technology won't stay confined to automotive giants.
+
+For investors tracking NVIDIA's industrial push, the Hannover Messe demonstrations show enterprise AI revenue streams extending well beyond data centers. The question now is how quickly manufacturers can absorb the technology—and whether the seven-month development cycles Humanoid claims become the new standard.
+
+NVIDIA and partners demonstrate factory-ready AI at Hannover Messe 2026, with humanoid robots now operating in BMW and Siemens production facilities.
+
+Humanoid robots aren't just demo units anymore. At Hannover Messe 2026, NVIDIA and its manufacturing partners revealed that AI-powered robots have moved from simulation labs into actual German production lines—including facilities operated by BMW and Siemens.
+
+The shift from proof-of-concept to production deployment marks a turning point for industrial automation. Humanoid's HMND 01 robot, running on NVIDIA's Jetson Thor edge AI module, has completed autonomous logistics operations at Siemens' electronics factory in Erlangen. The company claims its simulation-first approach compressed two years of typical hardware development into seven months.
+
+Meanwhile, Hexagon Robotics announced its AEON humanoid will perform assembly operations at BMW's Leipzig plant—one of the first humanoid deployments in a German automotive production environment.
+
+Deutsche Telekom's Industrial AI Cloud, built on NVIDIA infrastructure, is positioning itself as Europe's sovereign AI backbone for manufacturing. The platform already hosts workloads from Siemens, SAP, and automotive engineering firm EDAG, which announced it will run its industrial metaverse platform on the cloud.
+
+This matters for manufacturers weighing data sovereignty concerns against the need for massive compute power. Running AI physics simulations and factory-scale digital twins requires infrastructure most companies can't build themselves.
+
+Toyota is already using Invisible AI's new Vision Execution System to analyze every production cycle in real time. The system deploys autonomous AI agents that flag issues before they compound—a capability that Terex, with its 40+ global plants, expects will deliver a 3% yield increase and 10% reduction in rework.
+
+Energy contractor Saipem is deploying Fogsphere's Vision Agent platform to detect high-risk safety events in real time across industrial sites.
+
+The announcements reveal an industrial AI stack that's finally production-ready: sovereign cloud infrastructure, digital twin platforms from Siemens and Dassault Systèmes, and physical robots validated through simulation before deployment. SCHUNK's GROW automation cell, designed to bring physical AI to Europe's small and mid-sized manufacturers, suggests the technology won't stay confined to automotive giants.
+
+For investors tracking NVIDIA's industrial push, the Hannover Messe demonstrations show enterprise AI revenue streams extending well beyond data centers. The question now is how quickly manufacturers can absorb the technology—and whether the seven-month development cycles Humanoid claims become the new standard.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-18442003c1bb6b2bae7bb05db81d121285ec21e7</guid>
+      <title>AAVE Token Crashes 20% as $293M Kelp DAO Hack Triggers $8B TVL Exodus | Aave loses $8 billion in TVL after hackers use stolen Kelp DAO funds as collateral, creat... https://Blockchain.News/news/aave-crashes-kelp-dao-hack-8b-tvl-exodus</title>
+      <link>https://Blockchain.News/news/aave-crashes-kelp-dao-hack-8b-tvl-exodus</link>
+      <pubDate>Mon, 20 Apr 2026 03:54:25 GMT</pubDate>
+      <description><![CDATA[Original title: AAVE Token Crashes 20% as $293M Kelp DAO Hack Triggers $8B TVL Exodus
+Summary: Aave loses $8 billion in TVL after hackers use stolen Kelp DAO funds as collateral, creating $195M in bad debt and freezing $5.1B in stablecoins.
+Article text: Aave loses $8 billion in TVL after hackers use stolen Kelp DAO funds as collateral, creating $195M in bad debt and freezing $5.1B in stablecoins.
+
+Aave just lost its crown as DeFi's largest protocol. A $293 million exploit at Kelp DAO cascaded into an $8 billion TVL collapse at Aave over the weekend, with the AAVE token plunging 20% from $112 to $89.50 in roughly 25 hours.
+
+The damage extends far beyond one protocol. Over $5.1 billion in USDT and USDC sits frozen in Aave v3 lending pools, now at 100% utilization. Depositors can't withdraw until new liquidity arrives or borrowers repay.
+
+Saturday's attack on Kelp DAO's LayerZero bridge netted hackers 116,500 rsETH tokens. Rather than immediately dumping them, the attackers got creative—they posted the stolen assets as collateral on Aave v3 and borrowed wrapped Ether against them.
+
+This created approximately $195 million in "bad debt" on Aave, according to Lookonchain. The rsETH collateral, now tainted by the exploit, became essentially worthless for recovery purposes.
+
+What followed was predictable: a bank run. DeFiLlama data shows Aave's TVL cratered from $26.4 billion to $18.6 billion by Sunday. Major players fled first. MEXC pulled $431 million. Abraxas Capital yanked $392 million.
+
+The USDT pool tells the story. Out of $2.87 billion deposited, exactly $2,540 was available for withdrawal at one point. That's not a typo—two thousand dollars liquid in a nearly three-billion-dollar pool.
+
+Aave responded by freezing rsETH markets on both v3 and v4 versions. WETH reserves got locked down across Ethereum, Arbitrum, Base, Mantle, and Linea. The protocol maintains that rsETH on Ethereum mainnet remains fully backed by underlying assets, though that's cold comfort for those who can't access their stablecoins.
+
+The ripple effects keep spreading. Curve Finance, Ethena, and BitGo's WBTC have all paused LayerZero bridge integrations until the mess gets sorted.
+
+This marks the first real stress test of Aave's "Umbrella" security model, introduced in June 2025 to automate protection against bad debt. The timing couldn't be worse—Aave parted ways with risk manager Chaos Labs just two weeks ago over disagreements about v4 direction and budget.
+
+A Bank of Canada study earlier this month praised Aave v3 for avoiding bad debt through overcollateralization and automated liquidations. That analysis aged poorly.
+
+The immediate question: when do stablecoin pools unlock? That depends entirely on whether new deposits arrive or existing borrowers repay. Neither seems imminent given current sentiment.
+
+Aave v4 just launched at EthCC with a new "hub-and-spoke" architecture for real-world assets. Whether that expansion continues on schedule while the protocol manages this crisis remains unclear. For traders, the AAVE token at $89.50 represents either a buying opportunity or a falling knife—the next few days of TVL data will tell which.
+
+Aave loses $8 billion in TVL after hackers use stolen Kelp DAO funds as collateral, creating $195M in bad debt and freezing $5.1B in stablecoins.
+
+Aave just lost its crown as DeFi's largest protocol. A $293 million exploit at Kelp DAO cascaded into an $8 billion TVL collapse at Aave over the weekend, with the AAVE token plunging 20% from $112 to $89.50 in roughly 25 hours.
+
+The damage extends far beyond one protocol. Over $5.1 billion in USDT and USDC sits frozen in Aave v3 lending pools, now at 100% utilization. Depositors can't withdraw until new liquidity arrives or borrowers repay.
+
+Saturday's attack on Kelp DAO's LayerZero bridge netted hackers 116,500 rsETH tokens. Rather than immediately dumping them, the attackers got creative—they posted the stolen assets as collateral on Aave v3 and borrowed wrapped Ether against them.
+
+This created approximately $195 million in "bad debt" on Aave, according to Lookonchain. The rsETH collateral, now tainted by the exploit, became essentially worthless for recovery purposes.
+
+What followed was predictable: a bank run. DeFiLlama data shows Aave's TVL cratered from $26.4 billion to $18.6 billion by Sunday. Major players fled first. MEXC pulled $431 million. Abraxas Capital yanked $392 million.
+
+The USDT pool tells the story. Out of $2.87 billion deposited, exactly $2,540 was available for withdrawal at one point. That's not a typo—two thousand dollars liquid in a nearly three-billion-dollar pool.
+Source: https://Blockchain.News/news/aave-crashes-kelp-dao-hack-8b-tvl-exodus]]></description>
+      <content:encoded><![CDATA[Aave loses $8 billion in TVL after hackers use stolen Kelp DAO funds as collateral, creating $195M in bad debt and freezing $5.1B in stablecoins.
+
+Aave just lost its crown as DeFi's largest protocol. A $293 million exploit at Kelp DAO cascaded into an $8 billion TVL collapse at Aave over the weekend, with the AAVE token plunging 20% from $112 to $89.50 in roughly 25 hours.
+
+The damage extends far beyond one protocol. Over $5.1 billion in USDT and USDC sits frozen in Aave v3 lending pools, now at 100% utilization. Depositors can't withdraw until new liquidity arrives or borrowers repay.
+
+Saturday's attack on Kelp DAO's LayerZero bridge netted hackers 116,500 rsETH tokens. Rather than immediately dumping them, the attackers got creative—they posted the stolen assets as collateral on Aave v3 and borrowed wrapped Ether against them.
+
+This created approximately $195 million in "bad debt" on Aave, according to Lookonchain. The rsETH collateral, now tainted by the exploit, became essentially worthless for recovery purposes.
+
+What followed was predictable: a bank run. DeFiLlama data shows Aave's TVL cratered from $26.4 billion to $18.6 billion by Sunday. Major players fled first. MEXC pulled $431 million. Abraxas Capital yanked $392 million.
+
+The USDT pool tells the story. Out of $2.87 billion deposited, exactly $2,540 was available for withdrawal at one point. That's not a typo—two thousand dollars liquid in a nearly three-billion-dollar pool.
+
+Aave responded by freezing rsETH markets on both v3 and v4 versions. WETH reserves got locked down across Ethereum, Arbitrum, Base, Mantle, and Linea. The protocol maintains that rsETH on Ethereum mainnet remains fully backed by underlying assets, though that's cold comfort for those who can't access their stablecoins.
+
+The ripple effects keep spreading. Curve Finance, Ethena, and BitGo's WBTC have all paused LayerZero bridge integrations until the mess gets sorted.
+
+This marks the first real stress test of Aave's "Umbrella" security model, introduced in June 2025 to automate protection against bad debt. The timing couldn't be worse—Aave parted ways with risk manager Chaos Labs just two weeks ago over disagreements about v4 direction and budget.
+
+A Bank of Canada study earlier this month praised Aave v3 for avoiding bad debt through overcollateralization and automated liquidations. That analysis aged poorly.
+
+The immediate question: when do stablecoin pools unlock? That depends entirely on whether new deposits arrive or existing borrowers repay. Neither seems imminent given current sentiment.
+
+Aave v4 just launched at EthCC with a new "hub-and-spoke" architecture for real-world assets. Whether that expansion continues on schedule while the protocol manages this crisis remains unclear. For traders, the AAVE token at $89.50 represents either a buying opportunity or a falling knife—the next few days of TVL data will tell which.
+
+Aave loses $8 billion in TVL after hackers use stolen Kelp DAO funds as collateral, creating $195M in bad debt and freezing $5.1B in stablecoins.
+
+Aave just lost its crown as DeFi's largest protocol. A $293 million exploit at Kelp DAO cascaded into an $8 billion TVL collapse at Aave over the weekend, with the AAVE token plunging 20% from $112 to $89.50 in roughly 25 hours.
+
+The damage extends far beyond one protocol. Over $5.1 billion in USDT and USDC sits frozen in Aave v3 lending pools, now at 100% utilization. Depositors can't withdraw until new liquidity arrives or borrowers repay.
+
+Saturday's attack on Kelp DAO's LayerZero bridge netted hackers 116,500 rsETH tokens. Rather than immediately dumping them, the attackers got creative—they posted the stolen assets as collateral on Aave v3 and borrowed wrapped Ether against them.
+
+This created approximately $195 million in "bad debt" on Aave, according to Lookonchain. The rsETH collateral, now tainted by the exploit, became essentially worthless for recovery purposes.
+
+What followed was predictable: a bank run. DeFiLlama data shows Aave's TVL cratered from $26.4 billion to $18.6 billion by Sunday. Major players fled first. MEXC pulled $431 million. Abraxas Capital yanked $392 million.
+
+The USDT pool tells the story. Out of $2.87 billion deposited, exactly $2,540 was available for withdrawal at one point. That's not a typo—two thousand dollars liquid in a nearly three-billion-dollar pool.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-1ff061f59963380c68fb413a1791619c6c7379f0</guid>
+      <title>BTC Cycle Shows Just 97% Gains From Halving as Volatility Hits Historic Lows | Galaxy&apos;s Alex Thorn flags Bitcoin&apos;s weakest halving cycle ever with only 97% gains versus... https://Blockchain.News/news/btc-cycle-97-percent-gains-halving-volatility-historic-lows</title>
+      <link>https://Blockchain.News/news/btc-cycle-97-percent-gains-halving-volatility-historic-lows</link>
+      <pubDate>Sun, 19 Apr 2026 19:48:33 GMT</pubDate>
+      <description><![CDATA[Original title: BTC Cycle Shows Just 97% Gains From Halving as Volatility Hits Historic Lows
+Summary: Galaxy's Alex Thorn flags Bitcoin's weakest halving cycle ever with only 97% gains versus 761%+ in prior cycles. Volatility at 1.75% signals structural shift.
+Article text: Galaxy's Alex Thorn flags Bitcoin's weakest halving cycle ever with only 97% gains versus 761%+ in prior cycles. Volatility at 1.75% signals structural shift.
+
+Bitcoin's current market cycle is performing dramatically worse than any previous halving cycle, with gains of just 97% from the April 2024 halving price compared to triple and quadruple-digit returns in earlier eras. The data raises uncomfortable questions about whether BTC's legendary boom cycles are becoming a relic of the past.
+
+Alex Thorn, head of firmwide research at Galaxy, published the sobering comparison on April 19, showing the current cycle's peak at $125,000 in October 2025 represents a fraction of historical performance. For context: the 2020 cycle delivered 761% gains, 2016 saw 2,950%, and the 2012 cycle produced a staggering 9,294% return.
+
+"Cycle four is dramatically underperforming prior cycles," Thorn wrote on X. "Is this the new normal, or is it the new normal until it isn't?"
+
+The numbers tell a stark story. Bitcoin's 30-day volatility index hasn't exceeded 3.11% this entire cycle—a level last touched in August 2024. Compare that to April 2020, when the same gauge spiked to 9.64%. Current readings sit at just 1.75%, according to Bitbo data.
+
+For traders who built strategies around Bitcoin's wild swings, this compression matters. Lower volatility typically means tighter ranges, fewer breakout opportunities, and a market that increasingly moves with macro factors rather than crypto-native catalysts.
+
+BTC traded at approximately $74,984 as of April 19, up nearly 5% over the past week but still roughly 40% below its October 2025 peak.
+
+Critics of Thorn's analysis point to a key anomaly: Bitcoin hit an all-time high above $70,000 in March 2024—before the halving even occurred. That had never happened in previous cycles.
+
+The culprit? Spot Bitcoin ETF approvals in January 2024 pulled forward demand that would typically materialize post-halving. This front-running effect may have compressed the cycle's upside before it officially began, making direct comparisons to earlier halvings somewhat misleading.
+
+Fidelity Digital Assets offers another perspective worth considering. While upside has diminished, so have drawdowns. Previous bear markets saw Bitcoin crash 80-90% from peaks. The current decline from $125,000 to around $60,000 represents roughly 50%—painful, but structurally different from historical wipeouts.
+
+VanEck CEO Jan van Eck suggested in March that Bitcoin is nearing a bottom, with gradual price recovery expected through 2026. Whether that plays out depends partly on whether the muted cycle dynamics represent maturation or temporary suppression.
+
+The institutional infrastructure now surrounding Bitcoin—ETFs, corporate treasuries, regulated custody—has fundamentally altered how capital flows into the asset. Michael Saylor's Strategy continues accumulating, with recent signals pointing to another major purchase. Meanwhile, mining operations expand as Alcoa reportedly moves to sell a dormant smelter to NYDIG.
+
+For traders, the takeaway is practical: strategies calibrated to 2020-era volatility need recalibration. Bitcoin isn't dead, but it may be growing up—and that comes with different risk-reward profiles than the wild west days.
+
+Galaxy's Alex Thorn flags Bitcoin's weakest halving cycle ever with only 97% gains versus 761%+ in prior cycles. Volatility at 1.75% signals structural shift.
+
+Bitcoin's current market cycle is performing dramatically worse than any previous halving cycle, with gains of just 97% from the April 2024 halving price compared to triple and quadruple-digit returns in earlier eras. The data raises uncomfortable questions about whether BTC's legendary boom cycles are becoming a relic of the past.
+
+Alex Thorn, head of firmwide research at Galaxy, published the sobering comparison on April 19, showing the current cycle's peak at $125,000 in October 2025 represents a fraction of historical performance. For context: the 2020 cycle delivered 761% gains, 2016 saw 2,950%, and the 2012 cycle produced a staggering 9,294% return.
+
+"Cycle four is dramatically underperforming prior cycles," Thorn wrote on X. "Is this the new normal, or is it the new normal until it isn't?"
+
+The numbers tell a stark story. Bitcoin's 30-day volatility index hasn't exceeded 3.11% this entire cycle—a level last touched in August 2024. Compare that to April 2020, when the same gauge spiked to 9.64%. Current readings sit at just 1.75%, according to Bitbo data.
+
+For traders who built strategies around Bitcoin's wild swings, this compression matters. Lower volatility typically means tighter ranges, fewer breakout opportunities, and a market that increasingly moves with macro factors rather than crypto-native catalysts.
+
+BTC traded at approximately $74,984 as of April 19, up nearly 5% over the past week but still roughly 40% below its October 2025 peak.
+Source: https://Blockchain.News/news/btc-cycle-97-percent-gains-halving-volatility-historic-lows]]></description>
+      <content:encoded><![CDATA[Galaxy's Alex Thorn flags Bitcoin's weakest halving cycle ever with only 97% gains versus 761%+ in prior cycles. Volatility at 1.75% signals structural shift.
+
+Bitcoin's current market cycle is performing dramatically worse than any previous halving cycle, with gains of just 97% from the April 2024 halving price compared to triple and quadruple-digit returns in earlier eras. The data raises uncomfortable questions about whether BTC's legendary boom cycles are becoming a relic of the past.
+
+Alex Thorn, head of firmwide research at Galaxy, published the sobering comparison on April 19, showing the current cycle's peak at $125,000 in October 2025 represents a fraction of historical performance. For context: the 2020 cycle delivered 761% gains, 2016 saw 2,950%, and the 2012 cycle produced a staggering 9,294% return.
+
+"Cycle four is dramatically underperforming prior cycles," Thorn wrote on X. "Is this the new normal, or is it the new normal until it isn't?"
+
+The numbers tell a stark story. Bitcoin's 30-day volatility index hasn't exceeded 3.11% this entire cycle—a level last touched in August 2024. Compare that to April 2020, when the same gauge spiked to 9.64%. Current readings sit at just 1.75%, according to Bitbo data.
+
+For traders who built strategies around Bitcoin's wild swings, this compression matters. Lower volatility typically means tighter ranges, fewer breakout opportunities, and a market that increasingly moves with macro factors rather than crypto-native catalysts.
+
+BTC traded at approximately $74,984 as of April 19, up nearly 5% over the past week but still roughly 40% below its October 2025 peak.
+
+Critics of Thorn's analysis point to a key anomaly: Bitcoin hit an all-time high above $70,000 in March 2024—before the halving even occurred. That had never happened in previous cycles.
+
+The culprit? Spot Bitcoin ETF approvals in January 2024 pulled forward demand that would typically materialize post-halving. This front-running effect may have compressed the cycle's upside before it officially began, making direct comparisons to earlier halvings somewhat misleading.
+
+Fidelity Digital Assets offers another perspective worth considering. While upside has diminished, so have drawdowns. Previous bear markets saw Bitcoin crash 80-90% from peaks. The current decline from $125,000 to around $60,000 represents roughly 50%—painful, but structurally different from historical wipeouts.
+
+VanEck CEO Jan van Eck suggested in March that Bitcoin is nearing a bottom, with gradual price recovery expected through 2026. Whether that plays out depends partly on whether the muted cycle dynamics represent maturation or temporary suppression.
+
+The institutional infrastructure now surrounding Bitcoin—ETFs, corporate treasuries, regulated custody—has fundamentally altered how capital flows into the asset. Michael Saylor's Strategy continues accumulating, with recent signals pointing to another major purchase. Meanwhile, mining operations expand as Alcoa reportedly moves to sell a dormant smelter to NYDIG.
+
+For traders, the takeaway is practical: strategies calibrated to 2020-era volatility need recalibration. Bitcoin isn't dead, but it may be growing up—and that comes with different risk-reward profiles than the wild west days.
+
+Galaxy's Alex Thorn flags Bitcoin's weakest halving cycle ever with only 97% gains versus 761%+ in prior cycles. Volatility at 1.75% signals structural shift.
+
+Bitcoin's current market cycle is performing dramatically worse than any previous halving cycle, with gains of just 97% from the April 2024 halving price compared to triple and quadruple-digit returns in earlier eras. The data raises uncomfortable questions about whether BTC's legendary boom cycles are becoming a relic of the past.
+
+Alex Thorn, head of firmwide research at Galaxy, published the sobering comparison on April 19, showing the current cycle's peak at $125,000 in October 2025 represents a fraction of historical performance. For context: the 2020 cycle delivered 761% gains, 2016 saw 2,950%, and the 2012 cycle produced a staggering 9,294% return.
+
+"Cycle four is dramatically underperforming prior cycles," Thorn wrote on X. "Is this the new normal, or is it the new normal until it isn't?"
+
+The numbers tell a stark story. Bitcoin's 30-day volatility index hasn't exceeded 3.11% this entire cycle—a level last touched in August 2024. Compare that to April 2020, when the same gauge spiked to 9.64%. Current readings sit at just 1.75%, according to Bitbo data.
+
+For traders who built strategies around Bitcoin's wild swings, this compression matters. Lower volatility typically means tighter ranges, fewer breakout opportunities, and a market that increasingly moves with macro factors rather than crypto-native catalysts.
+
+BTC traded at approximately $74,984 as of April 19, up nearly 5% over the past week but still roughly 40% below its October 2025 peak.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-b507c4c3313ef630cab5efdf52431fedd4514cab</guid>
       <title>ENA Poised for $0.15 Rally as Whale Accumulation Accelerates | Institutional money pours into ENA at current $0.12 levels while technical setup builds t... https://Blockchain.News/news/20260419-prediction-ena-poised-for-015-rally-as-whale</title>
@@ -2353,267 +2614,6 @@ Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price p
 Derivatives positioning shows heavy long concentration among both institutional and retail participants. This crowded positioning creates vulnerability to cascade liquidations if price breaks key support levels. Open interest patterns indicate profit-taking activity from established long positions, reducing overall market leverage.
 
 Funding rates remain relatively neutral, suggesting the current positioning hasn't reached extreme levels yet. However, the concentration of long exposure creates asymmetric risk where small price declines could trigger significant unwinding activity. Smart money appears to be reducing exposure while retail maintains bullish positioning.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-c15446e387e90bee7677e59c9d96a8334ded8978</guid>
-      <title>Flow Capital Moves $150M Private Credit Fund to Blockchain via DigiFT | Hong Kong credit manager Flow Capital plans to tokenize its $150M private credit fund thr... https://Blockchain.News/news/flow-capital-150m-private-credit-fund-tokenization-digift</title>
-      <link>https://Blockchain.News/news/flow-capital-150m-private-credit-fund-tokenization-digift</link>
-      <pubDate>Fri, 17 Apr 2026 12:54:11 GMT</pubDate>
-      <description><![CDATA[Original title: Flow Capital Moves $150M Private Credit Fund to Blockchain via DigiFT
-Summary: Hong Kong credit manager Flow Capital plans to tokenize its $150M private credit fund through DigiFT, targeting $30M in new capital by year-end.
-Article text: Hong Kong credit manager Flow Capital plans to tokenize its $150M private credit fund through DigiFT, targeting $30M in new capital by year-end.
-
-Flow Capital Partners will tokenize its $150 million private credit fund through Singapore-based platform DigiFT by month's end, Bloomberg reported Friday. The Hong Kong credit manager aims to raise an additional $30 million in tokenized shares by December 2026, according to chief investment officer Jacky Tian.
-
-The raise would push the fund toward its $250 million target, with projected net returns of 12%. Flow Capital launched the fund in mid-2025 with $125 million in seed capital.
-
-Flow Capital joins an increasingly crowded field of traditional finance players experimenting with blockchain-based fund distribution. BlackRock launched BUIDL, its tokenized treasury fund on Ethereum, back in March 2024. JPMorgan followed with its MONY tokenized money-market fund in December 2025.
-
-The broader tokenized asset market has been gaining momentum. Total value across all tokenized real-world assets hit $29.9 billion as of Friday—up 9.6% over the past 30 days, according to RWA.xyz data. Tokenized US treasury debt dominates at $13.7 billion, followed by commodities at $5.4 billion and asset-backed credit at $3.2 billion.
-
-Industry veterans are pushing back on inflated expectations around what tokenization actually delivers.
-
-"There's still this idea that tokenizing something illiquid will somehow magically make it a liquid asset, which is just not true," Oya Celiktemur, Ondo Finance's European sales director, said at Paris Blockchain Week 2026.
-
-Francesco Ranieri Fabracci, Tether's head of tokenization expansion, echoed the point but noted certain instruments—bonds, money market funds, stablecoins—will likely see consistent liquidity on blockchain rails. Private credit, with its longer lock-up periods and complex structures, doesn't fall neatly into that category.
-
-Flow Capital's move signals continued institutional appetite for blockchain distribution channels, even for traditionally illiquid asset classes. The real test won't be whether they can tokenize the fund—DigiFT handles the technical lift. It's whether they can actually find $30 million worth of buyers comfortable holding tokenized private credit exposure through year-end.
-
-Watch for more mid-sized credit managers following this playbook as tokenization infrastructure matures and regulatory clarity improves across Asia.
-
-Hong Kong credit manager Flow Capital plans to tokenize its $150M private credit fund through DigiFT, targeting $30M in new capital by year-end.
-
-Flow Capital Partners will tokenize its $150 million private credit fund through Singapore-based platform DigiFT by month's end, Bloomberg reported Friday. The Hong Kong credit manager aims to raise an additional $30 million in tokenized shares by December 2026, according to chief investment officer Jacky Tian.
-
-The raise would push the fund toward its $250 million target, with projected net returns of 12%. Flow Capital launched the fund in mid-2025 with $125 million in seed capital.
-
-Flow Capital joins an increasingly crowded field of traditional finance players experimenting with blockchain-based fund distribution. BlackRock launched BUIDL, its tokenized treasury fund on Ethereum, back in March 2024. JPMorgan followed with its MONY tokenized money-market fund in December 2025.
-
-The broader tokenized asset market has been gaining momentum. Total value across all tokenized real-world assets hit $29.9 billion as of Friday—up 9.6% over the past 30 days, according to RWA.xyz data. Tokenized US treasury debt dominates at $13.7 billion, followed by commodities at $5.4 billion and asset-backed credit at $3.2 billion.
-
-Industry veterans are pushing back on inflated expectations around what tokenization actually delivers.
-
-"There's still this idea that tokenizing something illiquid will somehow magically make it a liquid asset, which is just not true," Oya Celiktemur, Ondo Finance's European sales director, said at Paris Blockchain Week 2026.
-
-Francesco Ranieri Fabracci, Tether's head of tokenization expansion, echoed the point but noted certain instruments—bonds, money market funds, stablecoins—will likely see consistent liquidity on blockchain rails. Private credit, with its longer lock-up periods and complex structures, doesn't fall neatly into that category.
-
-Flow Capital's move signals continued institutional appetite for blockchain distribution channels, even for traditionally illiquid asset classes. The real test won't be whether they can tokenize the fund—DigiFT handles the technical lift. It's whether they can actually find $30 million worth of buyers comfortable holding tokenized private credit exposure through year-end.
-
-Watch for more mid-sized credit managers following this playbook as tokenization infrastructure matures and regulatory clarity improves across Asia.
-Source: https://Blockchain.News/news/flow-capital-150m-private-credit-fund-tokenization-digift]]></description>
-      <content:encoded><![CDATA[Hong Kong credit manager Flow Capital plans to tokenize its $150M private credit fund through DigiFT, targeting $30M in new capital by year-end.
-
-Flow Capital Partners will tokenize its $150 million private credit fund through Singapore-based platform DigiFT by month's end, Bloomberg reported Friday. The Hong Kong credit manager aims to raise an additional $30 million in tokenized shares by December 2026, according to chief investment officer Jacky Tian.
-
-The raise would push the fund toward its $250 million target, with projected net returns of 12%. Flow Capital launched the fund in mid-2025 with $125 million in seed capital.
-
-Flow Capital joins an increasingly crowded field of traditional finance players experimenting with blockchain-based fund distribution. BlackRock launched BUIDL, its tokenized treasury fund on Ethereum, back in March 2024. JPMorgan followed with its MONY tokenized money-market fund in December 2025.
-
-The broader tokenized asset market has been gaining momentum. Total value across all tokenized real-world assets hit $29.9 billion as of Friday—up 9.6% over the past 30 days, according to RWA.xyz data. Tokenized US treasury debt dominates at $13.7 billion, followed by commodities at $5.4 billion and asset-backed credit at $3.2 billion.
-
-Industry veterans are pushing back on inflated expectations around what tokenization actually delivers.
-
-"There's still this idea that tokenizing something illiquid will somehow magically make it a liquid asset, which is just not true," Oya Celiktemur, Ondo Finance's European sales director, said at Paris Blockchain Week 2026.
-
-Francesco Ranieri Fabracci, Tether's head of tokenization expansion, echoed the point but noted certain instruments—bonds, money market funds, stablecoins—will likely see consistent liquidity on blockchain rails. Private credit, with its longer lock-up periods and complex structures, doesn't fall neatly into that category.
-
-Flow Capital's move signals continued institutional appetite for blockchain distribution channels, even for traditionally illiquid asset classes. The real test won't be whether they can tokenize the fund—DigiFT handles the technical lift. It's whether they can actually find $30 million worth of buyers comfortable holding tokenized private credit exposure through year-end.
-
-Watch for more mid-sized credit managers following this playbook as tokenization infrastructure matures and regulatory clarity improves across Asia.
-
-Hong Kong credit manager Flow Capital plans to tokenize its $150M private credit fund through DigiFT, targeting $30M in new capital by year-end.
-
-Flow Capital Partners will tokenize its $150 million private credit fund through Singapore-based platform DigiFT by month's end, Bloomberg reported Friday. The Hong Kong credit manager aims to raise an additional $30 million in tokenized shares by December 2026, according to chief investment officer Jacky Tian.
-
-The raise would push the fund toward its $250 million target, with projected net returns of 12%. Flow Capital launched the fund in mid-2025 with $125 million in seed capital.
-
-Flow Capital joins an increasingly crowded field of traditional finance players experimenting with blockchain-based fund distribution. BlackRock launched BUIDL, its tokenized treasury fund on Ethereum, back in March 2024. JPMorgan followed with its MONY tokenized money-market fund in December 2025.
-
-The broader tokenized asset market has been gaining momentum. Total value across all tokenized real-world assets hit $29.9 billion as of Friday—up 9.6% over the past 30 days, according to RWA.xyz data. Tokenized US treasury debt dominates at $13.7 billion, followed by commodities at $5.4 billion and asset-backed credit at $3.2 billion.
-
-Industry veterans are pushing back on inflated expectations around what tokenization actually delivers.
-
-"There's still this idea that tokenizing something illiquid will somehow magically make it a liquid asset, which is just not true," Oya Celiktemur, Ondo Finance's European sales director, said at Paris Blockchain Week 2026.
-
-Francesco Ranieri Fabracci, Tether's head of tokenization expansion, echoed the point but noted certain instruments—bonds, money market funds, stablecoins—will likely see consistent liquidity on blockchain rails. Private credit, with its longer lock-up periods and complex structures, doesn't fall neatly into that category.
-
-Flow Capital's move signals continued institutional appetite for blockchain distribution channels, even for traditionally illiquid asset classes. The real test won't be whether they can tokenize the fund—DigiFT handles the technical lift. It's whether they can actually find $30 million worth of buyers comfortable holding tokenized private credit exposure through year-end.
-
-Watch for more mid-sized credit managers following this playbook as tokenization infrastructure matures and regulatory clarity improves across Asia.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-35310a2ed5b43dd301948739492342f9fb059325</guid>
-      <title>XRP Price Prediction: Bulls Push for $1.55 Breakout Despite Momentum Stall | XRP sits at a critical juncture at $1.46, testing upper Bollinger resistance while moment... https://Blockchain.News/news/20260417-price-prediction-xrp-bulls-push-for-155-breakout-de...</title>
-      <link>https://Blockchain.News/news/20260417-price-prediction-xrp-bulls-push-for-155-breakout-despite</link>
-      <pubDate>Fri, 17 Apr 2026 12:50:51 GMT</pubDate>
-      <description><![CDATA[Original title: XRP Price Prediction: Bulls Push for $1.55 Breakout Despite Momentum Stall
-Summary: XRP sits at a critical juncture at $1.46, testing upper Bollinger resistance while momentum indicators flash warning signals. 65% probability of a move to $1.55 in the next 7 days, but failure coul
-Article text: XRP sits at a critical juncture at $1.46, testing upper Bollinger resistance while momentum indicators flash warning signals. 65% probability of a move to $1.55 in the next 7 days, but failure coul...
-
-XRP is walking a tightrope at $1.46, sitting well above its Bollinger Band upper boundary at $1.43 - a classic sign of an overextended move that's begging for either continuation or rejection. The RSI at 62.74 shows buyers haven't gotten completely frothy yet, but the MACD histogram flatlined at zero tells the real story: momentum is completely stalled out.
-
-This isn't your typical breakout setup. When price pushes above Bollinger Bands while MACD momentum dies, you're looking at a make-or-break moment. The bears want to drag this back inside the bands, while bulls need to prove this breakout has legs. With all moving averages clustered tightly between $1.35-$1.39, XRP has built a solid launching pad, but the question is whether buyers have enough firepower left.
-
-Here's where it gets interesting - the derivatives market is telling a completely different story than spot action. While XRP pumped 3% in the last 24 hours, open interest dropped 5.7% to $404 million. That's not the signature of confident bulls adding to positions; that's profit-taking and position squaring.
-
-The long/short ratios paint a dangerous picture for bulls. Retail traders are 69.6% long while even sophisticated traders are 71.7% long - classic positioning for a squeeze. But here's the kicker: taker sell volume is outpacing buy volume with a 0.83 ratio, meaning aggressive sellers are stepping in at these levels. When everyone's positioned the same way and aggressive selling pressure builds, violent moves tend to follow.
-
-The prediction landscape for XRP remains relatively quiet, with most recent analyst calls dating back to late January. Timothy Morano's $2.60 target for end-2026 and Dominic Basulto's $4.00 call represent the bullish thesis, but both acknowledged near-term consolidation risks. The lack of fresh expert commentary suggests either quiet confidence or cautious positioning ahead of potential volatility.
-
-Without fresh fundamental catalysts or regulatory developments, XRP is trading purely on technical momentum and market structure - which makes the current setup even more critical.
-
-The next 7 days will likely determine XRP's trajectory through May. Two distinct scenarios are playing out:
-
-Bullish Path (65% probability): If XRP can hold above $1.44 and push through the immediate resistance at $1.48, momentum could carry price to the strong resistance zone at $1.51-$1.55. The key trigger would be breaking above yesterday's high at $1.47 with conviction. Target: $1.55 within 7-10 days.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Bearish Reversal (35% probability): A rejection at current levels combined with that building selling pressure could trigger a swift move back inside the Bollinger Bands. The pivot at $1.44 becomes critical support, but if that breaks, expect a fast drop to the strong support cluster around $1.36. This move could happen within 2-3 days if momentum shifts.
-
-The funding rate at 0.0023% suggests no extreme positioning stress yet, but with retail heavily long and selling pressure building, any catalyst could trigger rapid position unwinding. Smart money appears positioned for the breakout, but they'll be first to exit if momentum fails.
-
-Watch $1.48 as the line in the sand - break it with volume and we're heading higher; reject it with selling pressure and the pullback begins immediately.
-
-XRP sits at a critical juncture at $1.46, testing upper Bollinger resistance while momentum indicators flash warning signals. 65% probability of a move to $1.55 in the next 7 days, but failure coul...
-
-XRP is walking a tightrope at $1.46, sitting well above its Bollinger Band upper boundary at $1.43 - a classic sign of an overextended move that's begging for either continuation or rejection. The RSI at 62.74 shows buyers haven't gotten completely frothy yet, but the MACD histogram flatlined at zero tells the real story: momentum is completely stalled out.
-
-This isn't your typical breakout setup. When price pushes above Bollinger Bands while MACD momentum dies, you're looking at a make-or-break moment. The bears want to drag this back inside the bands, while bulls need to prove this breakout has legs. With all moving averages clustered tightly between $1.35-$1.39, XRP has built a solid launching pad, but the question is whether buyers have enough firepower left.
-
-Here's where it gets interesting - the derivatives market is telling a completely different story than spot action. While XRP pumped 3% in the last 24 hours, open interest dropped 5.7% to $404 million. That's not the signature of confident bulls adding to positions; that's profit-taking and position squaring.
-
-The long/short ratios paint a dangerous picture for bulls. Retail traders are 69.6% long while even sophisticated traders are 71.7% long - classic positioning for a squeeze. But here's the kicker: taker sell volume is outpacing buy volume with a 0.83 ratio, meaning aggressive sellers are stepping in at these levels. When everyone's positioned the same way and aggressive selling pressure builds, violent moves tend to follow.
-
-The prediction landscape for XRP remains relatively quiet, with most recent analyst calls dating back to late January. Timothy Morano's $2.60 target for end-2026 and Dominic Basulto's $4.00 call represent the bullish thesis, but both acknowledged near-term consolidation risks. The lack of fresh expert commentary suggests either quiet confidence or cautious positioning ahead of potential volatility.
-
-Without fresh fundamental catalysts or regulatory developments, XRP is trading purely on technical momentum and market structure - which makes the current setup even more critical.
-Source: https://Blockchain.News/news/20260417-price-prediction-xrp-bulls-push-for-155-breakout-despite]]></description>
-      <content:encoded><![CDATA[XRP sits at a critical juncture at $1.46, testing upper Bollinger resistance while momentum indicators flash warning signals. 65% probability of a move to $1.55 in the next 7 days, but failure coul...
-
-XRP is walking a tightrope at $1.46, sitting well above its Bollinger Band upper boundary at $1.43 - a classic sign of an overextended move that's begging for either continuation or rejection. The RSI at 62.74 shows buyers haven't gotten completely frothy yet, but the MACD histogram flatlined at zero tells the real story: momentum is completely stalled out.
-
-This isn't your typical breakout setup. When price pushes above Bollinger Bands while MACD momentum dies, you're looking at a make-or-break moment. The bears want to drag this back inside the bands, while bulls need to prove this breakout has legs. With all moving averages clustered tightly between $1.35-$1.39, XRP has built a solid launching pad, but the question is whether buyers have enough firepower left.
-
-Here's where it gets interesting - the derivatives market is telling a completely different story than spot action. While XRP pumped 3% in the last 24 hours, open interest dropped 5.7% to $404 million. That's not the signature of confident bulls adding to positions; that's profit-taking and position squaring.
-
-The long/short ratios paint a dangerous picture for bulls. Retail traders are 69.6% long while even sophisticated traders are 71.7% long - classic positioning for a squeeze. But here's the kicker: taker sell volume is outpacing buy volume with a 0.83 ratio, meaning aggressive sellers are stepping in at these levels. When everyone's positioned the same way and aggressive selling pressure builds, violent moves tend to follow.
-
-The prediction landscape for XRP remains relatively quiet, with most recent analyst calls dating back to late January. Timothy Morano's $2.60 target for end-2026 and Dominic Basulto's $4.00 call represent the bullish thesis, but both acknowledged near-term consolidation risks. The lack of fresh expert commentary suggests either quiet confidence or cautious positioning ahead of potential volatility.
-
-Without fresh fundamental catalysts or regulatory developments, XRP is trading purely on technical momentum and market structure - which makes the current setup even more critical.
-
-The next 7 days will likely determine XRP's trajectory through May. Two distinct scenarios are playing out:
-
-Bullish Path (65% probability): If XRP can hold above $1.44 and push through the immediate resistance at $1.48, momentum could carry price to the strong resistance zone at $1.51-$1.55. The key trigger would be breaking above yesterday's high at $1.47 with conviction. Target: $1.55 within 7-10 days.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Bearish Reversal (35% probability): A rejection at current levels combined with that building selling pressure could trigger a swift move back inside the Bollinger Bands. The pivot at $1.44 becomes critical support, but if that breaks, expect a fast drop to the strong support cluster around $1.36. This move could happen within 2-3 days if momentum shifts.
-
-The funding rate at 0.0023% suggests no extreme positioning stress yet, but with retail heavily long and selling pressure building, any catalyst could trigger rapid position unwinding. Smart money appears positioned for the breakout, but they'll be first to exit if momentum fails.
-
-Watch $1.48 as the line in the sand - break it with volume and we're heading higher; reject it with selling pressure and the pullback begins immediately.
-
-XRP sits at a critical juncture at $1.46, testing upper Bollinger resistance while momentum indicators flash warning signals. 65% probability of a move to $1.55 in the next 7 days, but failure coul...
-
-XRP is walking a tightrope at $1.46, sitting well above its Bollinger Band upper boundary at $1.43 - a classic sign of an overextended move that's begging for either continuation or rejection. The RSI at 62.74 shows buyers haven't gotten completely frothy yet, but the MACD histogram flatlined at zero tells the real story: momentum is completely stalled out.
-
-This isn't your typical breakout setup. When price pushes above Bollinger Bands while MACD momentum dies, you're looking at a make-or-break moment. The bears want to drag this back inside the bands, while bulls need to prove this breakout has legs. With all moving averages clustered tightly between $1.35-$1.39, XRP has built a solid launching pad, but the question is whether buyers have enough firepower left.
-
-Here's where it gets interesting - the derivatives market is telling a completely different story than spot action. While XRP pumped 3% in the last 24 hours, open interest dropped 5.7% to $404 million. That's not the signature of confident bulls adding to positions; that's profit-taking and position squaring.
-
-The long/short ratios paint a dangerous picture for bulls. Retail traders are 69.6% long while even sophisticated traders are 71.7% long - classic positioning for a squeeze. But here's the kicker: taker sell volume is outpacing buy volume with a 0.83 ratio, meaning aggressive sellers are stepping in at these levels. When everyone's positioned the same way and aggressive selling pressure builds, violent moves tend to follow.
-
-The prediction landscape for XRP remains relatively quiet, with most recent analyst calls dating back to late January. Timothy Morano's $2.60 target for end-2026 and Dominic Basulto's $4.00 call represent the bullish thesis, but both acknowledged near-term consolidation risks. The lack of fresh expert commentary suggests either quiet confidence or cautious positioning ahead of potential volatility.
-
-Without fresh fundamental catalysts or regulatory developments, XRP is trading purely on technical momentum and market structure - which makes the current setup even more critical.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-bf81cc3b296317fb52ada16fce6fe957f4406d5c</guid>
-      <title>ORDI Price Prediction: Bitcoin Ordinals Token Targets $12 Breakthrough After Recent Rally | ORDI trades near $7.13 following a sharp rally from sub-$3 levels, with the Bitcoin Ordin... https://Blockchain.News/news/20260417-price-prediction-ordi-bitcoin-ordina...</title>
-      <link>https://Blockchain.News/news/20260417-price-prediction-ordi-bitcoin-ordinals-token-targets-12-breakthrough</link>
-      <pubDate>Fri, 17 Apr 2026 12:44:58 GMT</pubDate>
-      <description><![CDATA[Original title: ORDI Price Prediction: Bitcoin Ordinals Token Targets $12 Breakthrough After Recent Rally
-Summary: ORDI trades near $7.13 following a sharp rally from sub-$3 levels, with the Bitcoin Ordinals ecosystem showing renewed interest that could push the token toward double-digit territory in the coming
-Article text: ORDI trades near $7.13 following a sharp rally from sub-$3 levels, with the Bitcoin Ordinals ecosystem showing renewed interest that could push the token toward double-digit territory in the coming...
-
-ORDI has experienced substantial price movement in recent trading sessions, climbing from around $2.97 to peak above $10 before settling near current levels around $7.13. This represents a significant gain that has caught trader attention across crypto markets.
-
-The token's price action reflects growing interest in the Bitcoin Ordinals ecosystem, where ORDI serves as a key utility token. After months of relatively subdued trading, the recent breakout suggests institutional and retail participants are reassessing the protocol's potential within the broader Bitcoin network expansion.
-
-Market participants are now watching whether ORDI can maintain these elevated levels or if profit-taking will pull prices back toward previous consolidation zones. The token's ability to hold above key psychological levels will likely determine its near-term trajectory.
-
-Recent trading patterns show increased participation across both spot and derivatives markets. The price surge coincided with higher volume activity, suggesting genuine buying interest rather than low-liquidity manipulation.
-
-Professional trading desks appear to maintain exposure to ORDI, viewing it as a leveraged play on Bitcoin ecosystem development. The token's correlation with Bitcoin price movements has strengthened during this rally period, indicating traders are treating ORDI as a high-beta derivative of the leading cryptocurrency.
-
-Options flow and perpetual funding rates suggest mixed sentiment, with some traders betting on continued upside while others position for near-term consolidation. This balanced approach typically precedes either sharp breakouts or extended sideways trading ranges.
-
-The Bitcoin Ordinals protocol has gained developer mindshare over the past year, with several major projects building infrastructure around Bitcoin-based NFTs and digital artifacts. ORDI benefits directly from this ecosystem growth as transaction volume increases.
-
-Network activity metrics show steady improvement in Ordinals inscription numbers and transaction frequency. While still early-stage compared to established NFT ecosystems, the unique positioning within Bitcoin's security model attracts institutional interest seeking exposure to Bitcoin innovation without departing from the base layer.
-
-Recent partnerships and exchange integrations have improved ORDI's accessibility to mainstream crypto users. Higher-tier exchange listings typically precede sustained price appreciation for smaller-cap tokens, suggesting current momentum may have structural support.
-
-ORDI faces several key technical junctures in the immediate term. The $10 level represents both psychological resistance and the approximate peak of the recent rally, making it a critical breakpoint for continued upside momentum.
-
-Conservative Scenario: ORDI consolidates between $5-8 over the next two weeks as early buyers take profits and new accumulation occurs at lower levels. This sideways action would build a foundation for another leg higher once selling pressure exhausts.
-
-Moderate Bullish Case: Sustained buying pressure pushes ORDI through $10 resistance within 10-14 days, opening a path toward $12-15 as momentum traders join the move. This scenario requires continued Bitcoin strength and positive Ordinals ecosystem developments.
-
-Aggressive Upside: Catalyst-driven breakout carries ORDI beyond $15 in the next 30 days if major announcements emerge around Bitcoin network upgrades or significant institutional adoption of Ordinals infrastructure.
-
-The most probable outcome involves near-term consolidation followed by another test of double-digit levels. ORDI's position within the expanding Bitcoin ecosystem provides fundamental support, while speculative interest around Ordinals adoption could drive periodic price spikes above fair value estimates.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Traders should monitor Bitcoin's overall trend direction, as ORDI's amplified beta characteristics mean downside risk remains significant if the broader crypto market weakens substantially.
-
-ORDI trades near $7.13 following a sharp rally from sub-$3 levels, with the Bitcoin Ordinals ecosystem showing renewed interest that could push the token toward double-digit territory in the coming...
-
-ORDI has experienced substantial price movement in recent trading sessions, climbing from around $2.97 to peak above $10 before settling near current levels around $7.13. This represents a significant gain that has caught trader attention across crypto markets.
-
-The token's price action reflects growing interest in the Bitcoin Ordinals ecosystem, where ORDI serves as a key utility token. After months of relatively subdued trading, the recent breakout suggests institutional and retail participants are reassessing the protocol's potential within the broader Bitcoin network expansion.
-Source: https://Blockchain.News/news/20260417-price-prediction-ordi-bitcoin-ordinals-token-targets-12-breakthrough]]></description>
-      <content:encoded><![CDATA[ORDI trades near $7.13 following a sharp rally from sub-$3 levels, with the Bitcoin Ordinals ecosystem showing renewed interest that could push the token toward double-digit territory in the coming...
-
-ORDI has experienced substantial price movement in recent trading sessions, climbing from around $2.97 to peak above $10 before settling near current levels around $7.13. This represents a significant gain that has caught trader attention across crypto markets.
-
-The token's price action reflects growing interest in the Bitcoin Ordinals ecosystem, where ORDI serves as a key utility token. After months of relatively subdued trading, the recent breakout suggests institutional and retail participants are reassessing the protocol's potential within the broader Bitcoin network expansion.
-
-Market participants are now watching whether ORDI can maintain these elevated levels or if profit-taking will pull prices back toward previous consolidation zones. The token's ability to hold above key psychological levels will likely determine its near-term trajectory.
-
-Recent trading patterns show increased participation across both spot and derivatives markets. The price surge coincided with higher volume activity, suggesting genuine buying interest rather than low-liquidity manipulation.
-
-Professional trading desks appear to maintain exposure to ORDI, viewing it as a leveraged play on Bitcoin ecosystem development. The token's correlation with Bitcoin price movements has strengthened during this rally period, indicating traders are treating ORDI as a high-beta derivative of the leading cryptocurrency.
-
-Options flow and perpetual funding rates suggest mixed sentiment, with some traders betting on continued upside while others position for near-term consolidation. This balanced approach typically precedes either sharp breakouts or extended sideways trading ranges.
-
-The Bitcoin Ordinals protocol has gained developer mindshare over the past year, with several major projects building infrastructure around Bitcoin-based NFTs and digital artifacts. ORDI benefits directly from this ecosystem growth as transaction volume increases.
-
-Network activity metrics show steady improvement in Ordinals inscription numbers and transaction frequency. While still early-stage compared to established NFT ecosystems, the unique positioning within Bitcoin's security model attracts institutional interest seeking exposure to Bitcoin innovation without departing from the base layer.
-
-Recent partnerships and exchange integrations have improved ORDI's accessibility to mainstream crypto users. Higher-tier exchange listings typically precede sustained price appreciation for smaller-cap tokens, suggesting current momentum may have structural support.
-
-ORDI faces several key technical junctures in the immediate term. The $10 level represents both psychological resistance and the approximate peak of the recent rally, making it a critical breakpoint for continued upside momentum.
-
-Conservative Scenario: ORDI consolidates between $5-8 over the next two weeks as early buyers take profits and new accumulation occurs at lower levels. This sideways action would build a foundation for another leg higher once selling pressure exhausts.
-
-Moderate Bullish Case: Sustained buying pressure pushes ORDI through $10 resistance within 10-14 days, opening a path toward $12-15 as momentum traders join the move. This scenario requires continued Bitcoin strength and positive Ordinals ecosystem developments.
-
-Aggressive Upside: Catalyst-driven breakout carries ORDI beyond $15 in the next 30 days if major announcements emerge around Bitcoin network upgrades or significant institutional adoption of Ordinals infrastructure.
-
-The most probable outcome involves near-term consolidation followed by another test of double-digit levels. ORDI's position within the expanding Bitcoin ecosystem provides fundamental support, while speculative interest around Ordinals adoption could drive periodic price spikes above fair value estimates.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Traders should monitor Bitcoin's overall trend direction, as ORDI's amplified beta characteristics mean downside risk remains significant if the broader crypto market weakens substantially.
-
-ORDI trades near $7.13 following a sharp rally from sub-$3 levels, with the Bitcoin Ordinals ecosystem showing renewed interest that could push the token toward double-digit territory in the coming...
-
-ORDI has experienced substantial price movement in recent trading sessions, climbing from around $2.97 to peak above $10 before settling near current levels around $7.13. This represents a significant gain that has caught trader attention across crypto markets.
-
-The token's price action reflects growing interest in the Bitcoin Ordinals ecosystem, where ORDI serves as a key utility token. After months of relatively subdued trading, the recent breakout suggests institutional and retail participants are reassessing the protocol's potential within the broader Bitcoin network expansion.]]></content:encoded>
     </item>
   </channel>
 </rss>
