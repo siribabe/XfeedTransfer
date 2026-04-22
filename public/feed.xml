@@ -4,7 +4,260 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Wed, 22 Apr 2026 07:26:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 13:17:45 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-266daa026c239941b9d978bda349a774d6036078</guid>
+      <title>Kelp Exploiter Launders $175M in Stolen Funds via THORChain, Umbra | Kelp DAO exploiter begins laundering $175M in ETH post $290M hack using decentralized pro... https://Blockchain.News/news/kelp-exploiter-launders-175m-stolen-funds</title>
+      <link>https://Blockchain.News/news/kelp-exploiter-launders-175m-stolen-funds</link>
+      <pubDate>Tue, 21 Apr 2026 12:40:59 GMT</pubDate>
+      <description><![CDATA[Original title: Kelp Exploiter Launders $175M in Stolen Funds via THORChain, Umbra
+Summary: Kelp DAO exploiter begins laundering $175M in ETH post $290M hack using decentralized protocols like THORChain. Arbitrum freezes 30,766 ETH.
+Article text: Kelp DAO exploiter begins laundering $175M in ETH post $290M hack using decentralized protocols like THORChain. Arbitrum freezes 30,766 ETH.
+
+The hacker behind the $290 million Kelp DAO exploit has started laundering stolen funds, moving $175 million worth of Ether (ETH) across newly created blockchain addresses. Blockchain analytics platform Arkham reported that the attacker transferred 75,700 ETH on Tuesday, with 25,000 ETH sent to a fresh address and over 50,700 ETH redirected to another wallet. The activity signals a shift toward obfuscating the stolen funds through non-custodial protocols.
+
+Blockchain investigator ZachXBT revealed that the exploiter utilized decentralized mixing services like THORChain and Umbra to process smaller portions of the funds. Three transactions totaling $1.5 million passed through THORChain, while a $78,000 transfer was executed via Umbra. These protocols lack traditional Know Your Customer (KYC) requirements, complicating asset recovery efforts.
+
+The April 18 exploit targeted Kelp DAO’s LayerZero-powered rsETH bridge, draining 116,500 restaked Ether (rsETH). The breach leveraged a vulnerability in the bridge's 1-of-1 Decentralized Verifier Network (DVN) configuration, creating a single point of failure. The attacker minted unbacked rsETH, later deployed as collateral on platforms like Aave and Compound to borrow Wrapped Ether (WETH).
+
+The incident has left Aave grappling with significant bad debt. Initial assessments estimated the hole at $195 million, but Aave’s latest risk report suggests losses could range from $123.7 million to $230.1 million, depending on market conditions. Meanwhile, Aave unfroze Wrapped Ether reserves on its Ethereum Core V3 market on Tuesday, although other reserves across networks like Arbitrum and Base remain locked. Liquidity concerns have pushed borrowing rates for Tether (USDT) on Aave to 14%, the highest since December 2024, according to CryptoQuant’s Julio Moreno.
+
+The exploit’s ripple effects have also impacted Arbitrum, whose security council froze 30,766 ETH ($65 million) connected to the hack. The frozen assets now reside in an intermediary wallet accessible only via governance, reflecting growing efforts among decentralized projects to mitigate further damage.
+
+This incident underscores persistent vulnerabilities in DeFi infrastructure, particularly in cross-chain protocols. Kelp DAO and LayerZero have engaged in a public blame game, with Kelp DAO alleging an infrastructure breach and LayerZero pointing to the risky bridge configuration as the root cause. The exploit also highlights the growing sophistication of laundering techniques, with parallels drawn to the 2025 Bybit hack where attackers funneled 72% of stolen funds through THORChain.
+
+While funds tied to the Kelp DAO exploit are partially traceable, the use of decentralized protocols may render a full recovery unlikely. DeFi projects, investors, and regulators alike are now grappling with the need for stronger security measures and governance frameworks in the wake of this high-profile attack.
+
+As the investigation unfolds, the crypto community will be watching closely for further movements of the stolen funds and any coordinated recovery efforts. For now, the $290 million exploit stands as one of the largest in DeFi history, with far-reaching consequences for the broader ecosystem.
+
+Kelp DAO exploiter begins laundering $175M in ETH post $290M hack using decentralized protocols like THORChain. Arbitrum freezes 30,766 ETH.
+
+The hacker behind the $290 million Kelp DAO exploit has started laundering stolen funds, moving $175 million worth of Ether (ETH) across newly created blockchain addresses. Blockchain analytics platform Arkham reported that the attacker transferred 75,700 ETH on Tuesday, with 25,000 ETH sent to a fresh address and over 50,700 ETH redirected to another wallet. The activity signals a shift toward obfuscating the stolen funds through non-custodial protocols.
+
+Blockchain investigator ZachXBT revealed that the exploiter utilized decentralized mixing services like THORChain and Umbra to process smaller portions of the funds. Three transactions totaling $1.5 million passed through THORChain, while a $78,000 transfer was executed via Umbra. These protocols lack traditional Know Your Customer (KYC) requirements, complicating asset recovery efforts.
+
+The April 18 exploit targeted Kelp DAO’s LayerZero-powered rsETH bridge, draining 116,500 restaked Ether (rsETH). The breach leveraged a vulnerability in the bridge's 1-of-1 Decentralized Verifier Network (DVN) configuration, creating a single point of failure. The attacker minted unbacked rsETH, later deployed as collateral on platforms like Aave and Compound to borrow Wrapped Ether (WETH).
+
+The incident has left Aave grappling with significant bad debt. Initial assessments estimated the hole at $195 million, but Aave’s latest risk report suggests losses could range from $123.7 million to $230.1 million, depending on market conditions. Meanwhile, Aave unfroze Wrapped Ether reserves on its Ethereum Core V3 market on Tuesday, although other reserves across networks like Arbitrum and Base remain locked. Liquidity concerns have pushed borrowing rates for Tether (USDT) on Aave to 14%, the highest since December 2024, according to CryptoQuant’s Julio Moreno.
+
+The exploit’s ripple effects have also impacted Arbitrum, whose security council froze 30,766 ETH ($65 million) connected to the hack. The frozen assets now reside in an intermediary wallet accessible only via governance, reflecting growing efforts among decentralized projects to mitigate further damage.
+
+This incident underscores persistent vulnerabilities in DeFi infrastructure, particularly in cross-chain protocols. Kelp DAO and LayerZero have engaged in a public blame game, with Kelp DAO alleging an infrastructure breach and LayerZero pointing to the risky bridge configuration as the root cause. The exploit also highlights the growing sophistication of laundering techniques, with parallels drawn to the 2025 Bybit hack where attackers funneled 72% of stolen funds through THORChain.
+
+While funds tied to the Kelp DAO exploit are partially traceable, the use of decentralized protocols may render a full recovery unlikely. DeFi projects, investors, and regulators alike are now grappling with the need for stronger security measures and governance frameworks in the wake of this high-profile attack.
+
+As the investigation unfolds, the crypto community will be watching closely for further movements of the stolen funds and any coordinated recovery efforts. For now, the $290 million exploit stands as one of the largest in DeFi history, with far-reaching consequences for the broader ecosystem.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/kelp-exploiter-launders-175m-stolen-funds]]></description>
+      <content:encoded><![CDATA[Kelp DAO exploiter begins laundering $175M in ETH post $290M hack using decentralized protocols like THORChain. Arbitrum freezes 30,766 ETH.
+
+The hacker behind the $290 million Kelp DAO exploit has started laundering stolen funds, moving $175 million worth of Ether (ETH) across newly created blockchain addresses. Blockchain analytics platform Arkham reported that the attacker transferred 75,700 ETH on Tuesday, with 25,000 ETH sent to a fresh address and over 50,700 ETH redirected to another wallet. The activity signals a shift toward obfuscating the stolen funds through non-custodial protocols.
+
+Blockchain investigator ZachXBT revealed that the exploiter utilized decentralized mixing services like THORChain and Umbra to process smaller portions of the funds. Three transactions totaling $1.5 million passed through THORChain, while a $78,000 transfer was executed via Umbra. These protocols lack traditional Know Your Customer (KYC) requirements, complicating asset recovery efforts.
+
+The April 18 exploit targeted Kelp DAO’s LayerZero-powered rsETH bridge, draining 116,500 restaked Ether (rsETH). The breach leveraged a vulnerability in the bridge's 1-of-1 Decentralized Verifier Network (DVN) configuration, creating a single point of failure. The attacker minted unbacked rsETH, later deployed as collateral on platforms like Aave and Compound to borrow Wrapped Ether (WETH).
+
+The incident has left Aave grappling with significant bad debt. Initial assessments estimated the hole at $195 million, but Aave’s latest risk report suggests losses could range from $123.7 million to $230.1 million, depending on market conditions. Meanwhile, Aave unfroze Wrapped Ether reserves on its Ethereum Core V3 market on Tuesday, although other reserves across networks like Arbitrum and Base remain locked. Liquidity concerns have pushed borrowing rates for Tether (USDT) on Aave to 14%, the highest since December 2024, according to CryptoQuant’s Julio Moreno.
+
+The exploit’s ripple effects have also impacted Arbitrum, whose security council froze 30,766 ETH ($65 million) connected to the hack. The frozen assets now reside in an intermediary wallet accessible only via governance, reflecting growing efforts among decentralized projects to mitigate further damage.
+
+This incident underscores persistent vulnerabilities in DeFi infrastructure, particularly in cross-chain protocols. Kelp DAO and LayerZero have engaged in a public blame game, with Kelp DAO alleging an infrastructure breach and LayerZero pointing to the risky bridge configuration as the root cause. The exploit also highlights the growing sophistication of laundering techniques, with parallels drawn to the 2025 Bybit hack where attackers funneled 72% of stolen funds through THORChain.
+
+While funds tied to the Kelp DAO exploit are partially traceable, the use of decentralized protocols may render a full recovery unlikely. DeFi projects, investors, and regulators alike are now grappling with the need for stronger security measures and governance frameworks in the wake of this high-profile attack.
+
+As the investigation unfolds, the crypto community will be watching closely for further movements of the stolen funds and any coordinated recovery efforts. For now, the $290 million exploit stands as one of the largest in DeFi history, with far-reaching consequences for the broader ecosystem.
+
+Kelp DAO exploiter begins laundering $175M in ETH post $290M hack using decentralized protocols like THORChain. Arbitrum freezes 30,766 ETH.
+
+The hacker behind the $290 million Kelp DAO exploit has started laundering stolen funds, moving $175 million worth of Ether (ETH) across newly created blockchain addresses. Blockchain analytics platform Arkham reported that the attacker transferred 75,700 ETH on Tuesday, with 25,000 ETH sent to a fresh address and over 50,700 ETH redirected to another wallet. The activity signals a shift toward obfuscating the stolen funds through non-custodial protocols.
+
+Blockchain investigator ZachXBT revealed that the exploiter utilized decentralized mixing services like THORChain and Umbra to process smaller portions of the funds. Three transactions totaling $1.5 million passed through THORChain, while a $78,000 transfer was executed via Umbra. These protocols lack traditional Know Your Customer (KYC) requirements, complicating asset recovery efforts.
+
+The April 18 exploit targeted Kelp DAO’s LayerZero-powered rsETH bridge, draining 116,500 restaked Ether (rsETH). The breach leveraged a vulnerability in the bridge's 1-of-1 Decentralized Verifier Network (DVN) configuration, creating a single point of failure. The attacker minted unbacked rsETH, later deployed as collateral on platforms like Aave and Compound to borrow Wrapped Ether (WETH).
+
+The incident has left Aave grappling with significant bad debt. Initial assessments estimated the hole at $195 million, but Aave’s latest risk report suggests losses could range from $123.7 million to $230.1 million, depending on market conditions. Meanwhile, Aave unfroze Wrapped Ether reserves on its Ethereum Core V3 market on Tuesday, although other reserves across networks like Arbitrum and Base remain locked. Liquidity concerns have pushed borrowing rates for Tether (USDT) on Aave to 14%, the highest since December 2024, according to CryptoQuant’s Julio Moreno.
+
+The exploit’s ripple effects have also impacted Arbitrum, whose security council froze 30,766 ETH ($65 million) connected to the hack. The frozen assets now reside in an intermediary wallet accessible only via governance, reflecting growing efforts among decentralized projects to mitigate further damage.
+
+This incident underscores persistent vulnerabilities in DeFi infrastructure, particularly in cross-chain protocols. Kelp DAO and LayerZero have engaged in a public blame game, with Kelp DAO alleging an infrastructure breach and LayerZero pointing to the risky bridge configuration as the root cause. The exploit also highlights the growing sophistication of laundering techniques, with parallels drawn to the 2025 Bybit hack where attackers funneled 72% of stolen funds through THORChain.
+
+While funds tied to the Kelp DAO exploit are partially traceable, the use of decentralized protocols may render a full recovery unlikely. DeFi projects, investors, and regulators alike are now grappling with the need for stronger security measures and governance frameworks in the wake of this high-profile attack.
+
+As the investigation unfolds, the crypto community will be watching closely for further movements of the stolen funds and any coordinated recovery efforts. For now, the $290 million exploit stands as one of the largest in DeFi history, with far-reaching consequences for the broader ecosystem.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-6b5cd036c399c1831b7deef51116347fa81d3bdb</guid>
+      <title>Trust in Legal AI: Why Harvey is Betting Big on Transparency | Harvey doubles down on trust in legal AI with key hire Joshua McKibben and a focus on ver... https://Blockchain.News/news/trust-legal-ai-harvey-joshua-mckibben</title>
+      <link>https://Blockchain.News/news/trust-legal-ai-harvey-joshua-mckibben</link>
+      <pubDate>Tue, 21 Apr 2026 12:32:59 GMT</pubDate>
+      <description><![CDATA[Original title: Trust in Legal AI: Why Harvey is Betting Big on Transparency
+Summary: Harvey doubles down on trust in legal AI with key hire Joshua McKibben and a focus on verifiability, consistency, and security.
+Article text: Harvey doubles down on trust in legal AI with key hire Joshua McKibben and a focus on verifiability, consistency, and security.
+
+As legal professionals increasingly turn to artificial intelligence tools to streamline their work, the question of trust has become paramount. Harvey, an AI platform specializing in legal applications, is addressing this head-on by emphasizing transparency, reliability, and security. The company’s latest move? Hiring Joshua McKibben, formerly Senior Director of Enterprise Security Compliance and Risk at Snowflake, as its new Head of Trust.
+
+Legal AI adoption is accelerating, but for law firms, trust isn't just a buzzword—it’s a business imperative. Lawyers are tasked with safeguarding sensitive client data and ensuring the accuracy of legal deliverables, whether drafting motions or responding to judges’ inquiries. According to Harvey, trust in AI boils down to three key pillars: verifiability, consistency, and a robust security-first culture.
+
+Verifiability is crucial. When Harvey’s AI suggests legal precedents or citations, users must be able to trace those recommendations back to their source materials quickly and confidently. "Trust is not blind faith," Harvey’s team asserts, "it’s the ability to check, confirm, and verify." Inconsistent or untraceable outputs can erode trust and could prove catastrophic in high-stakes legal scenarios.
+
+Consistency across varied conditions is another critical factor. Harvey argues that its AI must perform reliably, not just in isolated test cases but across diverse use cases, time constraints, and levels of user expertise. "Trust isn’t built on a single showcase," the company notes—it’s earned through repeated and dependable performance.
+
+Harvey’s investment in a security-first culture is underscored by McKibben’s appointment. At Snowflake, McKibben spearheaded compliance programs for highly regulated customers, managing certifications like SOC 2 and ISO standards. His expertise positions him to strengthen Harvey’s privacy, security, and compliance frameworks further. According to Harvey, McKibben will lead efforts to enhance system transparency, accelerate security review processes, and bolster infrastructure, ensuring the platform meets the rising expectations of its legal clientele.
+
+This emphasis on trust is more than just risk mitigation—it’s a competitive edge in a crowded legal-tech market. As AI tools become easier to build and deploy, clients are scrutinizing not just the technology but the teams behind it. Harvey is betting big that its focus on trust will resonate with firms looking for reliable partners in a high-stakes environment.
+
+Over the next year, Harvey plans to roll out clearer system documentation, faster responses to security audits, and deeper investments in infrastructure. In an era where AI adoption outpaces regulation, legal professionals will likely appreciate these steps toward transparency and accountability.
+
+Harvey doubles down on trust in legal AI with key hire Joshua McKibben and a focus on verifiability, consistency, and security.
+
+As legal professionals increasingly turn to artificial intelligence tools to streamline their work, the question of trust has become paramount. Harvey, an AI platform specializing in legal applications, is addressing this head-on by emphasizing transparency, reliability, and security. The company’s latest move? Hiring Joshua McKibben, formerly Senior Director of Enterprise Security Compliance and Risk at Snowflake, as its new Head of Trust.
+
+Legal AI adoption is accelerating, but for law firms, trust isn't just a buzzword—it’s a business imperative. Lawyers are tasked with safeguarding sensitive client data and ensuring the accuracy of legal deliverables, whether drafting motions or responding to judges’ inquiries. According to Harvey, trust in AI boils down to three key pillars: verifiability, consistency, and a robust security-first culture.
+
+Verifiability is crucial. When Harvey’s AI suggests legal precedents or citations, users must be able to trace those recommendations back to their source materials quickly and confidently. "Trust is not blind faith," Harvey’s team asserts, "it’s the ability to check, confirm, and verify." Inconsistent or untraceable outputs can erode trust and could prove catastrophic in high-stakes legal scenarios.
+
+Consistency across varied conditions is another critical factor. Harvey argues that its AI must perform reliably, not just in isolated test cases but across diverse use cases, time constraints, and levels of user expertise. "Trust isn’t built on a single showcase," the company notes—it’s earned through repeated and dependable performance.
+
+Harvey’s investment in a security-first culture is underscored by McKibben’s appointment. At Snowflake, McKibben spearheaded compliance programs for highly regulated customers, managing certifications like SOC 2 and ISO standards. His expertise positions him to strengthen Harvey’s privacy, security, and compliance frameworks further. According to Harvey, McKibben will lead efforts to enhance system transparency, accelerate security review processes, and bolster infrastructure, ensuring the platform meets the rising expectations of its legal clientele.
+
+This emphasis on trust is more than just risk mitigation—it’s a competitive edge in a crowded legal-tech market. As AI tools become easier to build and deploy, clients are scrutinizing not just the technology but the teams behind it. Harvey is betting big that its focus on trust will resonate with firms looking for reliable partners in a high-stakes environment.
+
+Over the next year, Harvey plans to roll out clearer system documentation, faster responses to security audits, and deeper investments in infrastructure. In an era where AI adoption outpaces regulation, legal professionals will likely appreciate these steps toward transparency and accountability.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/trust-legal-ai-harvey-joshua-mckibben]]></description>
+      <content:encoded><![CDATA[Harvey doubles down on trust in legal AI with key hire Joshua McKibben and a focus on verifiability, consistency, and security.
+
+As legal professionals increasingly turn to artificial intelligence tools to streamline their work, the question of trust has become paramount. Harvey, an AI platform specializing in legal applications, is addressing this head-on by emphasizing transparency, reliability, and security. The company’s latest move? Hiring Joshua McKibben, formerly Senior Director of Enterprise Security Compliance and Risk at Snowflake, as its new Head of Trust.
+
+Legal AI adoption is accelerating, but for law firms, trust isn't just a buzzword—it’s a business imperative. Lawyers are tasked with safeguarding sensitive client data and ensuring the accuracy of legal deliverables, whether drafting motions or responding to judges’ inquiries. According to Harvey, trust in AI boils down to three key pillars: verifiability, consistency, and a robust security-first culture.
+
+Verifiability is crucial. When Harvey’s AI suggests legal precedents or citations, users must be able to trace those recommendations back to their source materials quickly and confidently. "Trust is not blind faith," Harvey’s team asserts, "it’s the ability to check, confirm, and verify." Inconsistent or untraceable outputs can erode trust and could prove catastrophic in high-stakes legal scenarios.
+
+Consistency across varied conditions is another critical factor. Harvey argues that its AI must perform reliably, not just in isolated test cases but across diverse use cases, time constraints, and levels of user expertise. "Trust isn’t built on a single showcase," the company notes—it’s earned through repeated and dependable performance.
+
+Harvey’s investment in a security-first culture is underscored by McKibben’s appointment. At Snowflake, McKibben spearheaded compliance programs for highly regulated customers, managing certifications like SOC 2 and ISO standards. His expertise positions him to strengthen Harvey’s privacy, security, and compliance frameworks further. According to Harvey, McKibben will lead efforts to enhance system transparency, accelerate security review processes, and bolster infrastructure, ensuring the platform meets the rising expectations of its legal clientele.
+
+This emphasis on trust is more than just risk mitigation—it’s a competitive edge in a crowded legal-tech market. As AI tools become easier to build and deploy, clients are scrutinizing not just the technology but the teams behind it. Harvey is betting big that its focus on trust will resonate with firms looking for reliable partners in a high-stakes environment.
+
+Over the next year, Harvey plans to roll out clearer system documentation, faster responses to security audits, and deeper investments in infrastructure. In an era where AI adoption outpaces regulation, legal professionals will likely appreciate these steps toward transparency and accountability.
+
+Harvey doubles down on trust in legal AI with key hire Joshua McKibben and a focus on verifiability, consistency, and security.
+
+As legal professionals increasingly turn to artificial intelligence tools to streamline their work, the question of trust has become paramount. Harvey, an AI platform specializing in legal applications, is addressing this head-on by emphasizing transparency, reliability, and security. The company’s latest move? Hiring Joshua McKibben, formerly Senior Director of Enterprise Security Compliance and Risk at Snowflake, as its new Head of Trust.
+
+Legal AI adoption is accelerating, but for law firms, trust isn't just a buzzword—it’s a business imperative. Lawyers are tasked with safeguarding sensitive client data and ensuring the accuracy of legal deliverables, whether drafting motions or responding to judges’ inquiries. According to Harvey, trust in AI boils down to three key pillars: verifiability, consistency, and a robust security-first culture.
+
+Verifiability is crucial. When Harvey’s AI suggests legal precedents or citations, users must be able to trace those recommendations back to their source materials quickly and confidently. "Trust is not blind faith," Harvey’s team asserts, "it’s the ability to check, confirm, and verify." Inconsistent or untraceable outputs can erode trust and could prove catastrophic in high-stakes legal scenarios.
+
+Consistency across varied conditions is another critical factor. Harvey argues that its AI must perform reliably, not just in isolated test cases but across diverse use cases, time constraints, and levels of user expertise. "Trust isn’t built on a single showcase," the company notes—it’s earned through repeated and dependable performance.
+
+Harvey’s investment in a security-first culture is underscored by McKibben’s appointment. At Snowflake, McKibben spearheaded compliance programs for highly regulated customers, managing certifications like SOC 2 and ISO standards. His expertise positions him to strengthen Harvey’s privacy, security, and compliance frameworks further. According to Harvey, McKibben will lead efforts to enhance system transparency, accelerate security review processes, and bolster infrastructure, ensuring the platform meets the rising expectations of its legal clientele.
+
+This emphasis on trust is more than just risk mitigation—it’s a competitive edge in a crowded legal-tech market. As AI tools become easier to build and deploy, clients are scrutinizing not just the technology but the teams behind it. Harvey is betting big that its focus on trust will resonate with firms looking for reliable partners in a high-stakes environment.
+
+Over the next year, Harvey plans to roll out clearer system documentation, faster responses to security audits, and deeper investments in infrastructure. In an era where AI adoption outpaces regulation, legal professionals will likely appreciate these steps toward transparency and accountability.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-c4e31139e71fb31ede97f2b78917734a291f8818</guid>
+      <title>Core Scientific (CORZ) Plans $3.3 Billion Secured Notes Offering | Core Scientific (CORZ) announces $3.3B secured notes offering to fund debt repayment and... https://Blockchain.News/news/core-scientific-secured-notes-offering-2026</title>
+      <link>https://Blockchain.News/news/core-scientific-secured-notes-offering-2026</link>
+      <pubDate>Tue, 21 Apr 2026 12:16:42 GMT</pubDate>
+      <description><![CDATA[Original title: Core Scientific (CORZ) Plans $3.3 Billion Secured Notes Offering
+Summary: Core Scientific (CORZ) announces $3.3B secured notes offering to fund debt repayment and data center expansion. Here's what it means for investors.
+Article text: Core Scientific (CORZ) announces $3.3B secured notes offering to fund debt repayment and data center expansion. Here's what it means for investors.
+
+Core Scientific, Inc. (NASDAQ: CORZ), a leading provider of digital infrastructure for Bitcoin mining and high-performance computing, announced a $3.3 billion offering of senior secured notes due 2031. The offering, made through its subsidiary Core Scientific Finance I LLC, is intended to fund debt repayment and expansion of its data center operations, according to an April 21 press release.
+
+The notes will be available to qualified institutional buyers under Rule 144A and non-U.S. persons under Regulation S of the Securities Act. Proceeds will be used to repay outstanding delayed draw term loans under a 364-day credit facility, with additional funds allocated to support project development, particularly new data centers in Georgia, Texas, North Carolina, and Oklahoma.
+
+Guarantees for the notes will be provided by five subsidiaries, and the offering will be secured by first-priority liens on the assets of the issuer and guarantors, including equity interests and specific rights owned by Core Scientific. The company also committed to a completion guarantee for its data center projects, ensuring timely delivery in case of funding gaps.
+
+This proposed offering is the latest step in Core Scientific’s comeback strategy following its Chapter 11 bankruptcy in late 2022. The company emerged from bankruptcy in January 2024, aided by a court-approved reorganization plan that allowed it to pay off debts and relist on the Nasdaq. By securing long-term debt funding now, Core Scientific appears to be positioning itself for growth after two tumultuous years triggered by high electricity costs and the collapse of a major client.
+
+Today, the company is shifting focus from mining Bitcoin for its own account to expanding its high-density colocation (HDC) services. This business model leverages its infrastructure to host and manage mining operations for third parties, providing more predictable revenue streams. Historically, Core Scientific derived the majority of its revenue from self-mining, but the HDC pivot aligns with broader market trends of infrastructure specialization.
+
+As of April 21, Core Scientific’s stock (CORZ) was trading at $10.36, up 1.07% in the past 24 hours, with a market cap of $6.27 billion. Investors will likely view this debt issuance as a double-edged sword. While it signals confidence in future growth, the $3.3 billion in new obligations adds to its overall leverage, which could be a concern if crypto markets face renewed downturns.
+
+Core Scientific’s ability to service this debt will depend heavily on Bitcoin’s price trajectory and demand for its colocation services. With a history of bankruptcy tied to volatile crypto prices, this move underscores the company’s bet on steady demand for mining infrastructure—even as regulatory uncertainty and broader economic factors loom over the industry.
+
+Core Scientific has not disclosed the expected interest rate or terms for the notes, and the offering remains subject to market conditions. Investors should monitor updates on the pricing and demand for these notes, alongside developments in the company’s data center projects.
+
+Additionally, signs of increased institutional adoption of Bitcoin or improvements in the crypto mining sector’s economics could strengthen Core Scientific’s outlook. For now, this debt issuance represents a calculated gamble to solidify its role as a key player in crypto infrastructure.
+
+Core Scientific (CORZ) announces $3.3B secured notes offering to fund debt repayment and data center expansion. Here's what it means for investors.
+
+Core Scientific, Inc. (NASDAQ: CORZ), a leading provider of digital infrastructure for Bitcoin mining and high-performance computing, announced a $3.3 billion offering of senior secured notes due 2031. The offering, made through its subsidiary Core Scientific Finance I LLC, is intended to fund debt repayment and expansion of its data center operations, according to an April 21 press release.
+
+The notes will be available to qualified institutional buyers under Rule 144A and non-U.S. persons under Regulation S of the Securities Act. Proceeds will be used to repay outstanding delayed draw term loans under a 364-day credit facility, with additional funds allocated to support project development, particularly new data centers in Georgia, Texas, North Carolina, and Oklahoma.
+
+Guarantees for the notes will be provided by five subsidiaries, and the offering will be secured by first-priority liens on the assets of the issuer and guarantors, including equity interests and specific rights owned by Core Scientific. The company also committed to a completion guarantee for its data center projects, ensuring timely delivery in case of funding gaps.
+
+This proposed offering is the latest step in Core Scientific’s comeback strategy following its Chapter 11 bankruptcy in late 2022. The company emerged from bankruptcy in January 2024, aided by a court-approved reorganization plan that allowed it to pay off debts and relist on the Nasdaq. By securing long-term debt funding now, Core Scientific appears to be positioning itself for growth after two tumultuous years triggered by high electricity costs and the collapse of a major client.
+
+Today, the company is shifting focus from mining Bitcoin for its own account to expanding its high-density colocation (HDC) services. This business model leverages its infrastructure to host and manage mining operations for third parties, providing more predictable revenue streams. Historically, Core Scientific derived the majority of its revenue from self-mining, but the HDC pivot aligns with broader market trends of infrastructure specialization.
+
+As of April 21, Core Scientific’s stock (CORZ) was trading at $10.36, up 1.07% in the past 24 hours, with a market cap of $6.27 billion. Investors will likely view this debt issuance as a double-edged sword. While it signals confidence in future growth, the $3.3 billion in new obligations adds to its overall leverage, which could be a concern if crypto markets face renewed downturns.
+
+Core Scientific’s ability to service this debt will depend heavily on Bitcoin’s price trajectory and demand for its colocation services. With a history of bankruptcy tied to volatile crypto prices, this move underscores the company’s bet on steady demand for mining infrastructure—even as regulatory uncertainty and broader economic factors loom over the industry.
+
+Core Scientific has not disclosed the expected interest rate or terms for the notes, and the offering remains subject to market conditions. Investors should monitor updates on the pricing and demand for these notes, alongside developments in the company’s data center projects.
+
+Additionally, signs of increased institutional adoption of Bitcoin or improvements in the crypto mining sector’s economics could strengthen Core Scientific’s outlook. For now, this debt issuance represents a calculated gamble to solidify its role as a key player in crypto infrastructure.
+Source: https://Blockchain.News/news/core-scientific-secured-notes-offering-2026]]></description>
+      <content:encoded><![CDATA[Core Scientific (CORZ) announces $3.3B secured notes offering to fund debt repayment and data center expansion. Here's what it means for investors.
+
+Core Scientific, Inc. (NASDAQ: CORZ), a leading provider of digital infrastructure for Bitcoin mining and high-performance computing, announced a $3.3 billion offering of senior secured notes due 2031. The offering, made through its subsidiary Core Scientific Finance I LLC, is intended to fund debt repayment and expansion of its data center operations, according to an April 21 press release.
+
+The notes will be available to qualified institutional buyers under Rule 144A and non-U.S. persons under Regulation S of the Securities Act. Proceeds will be used to repay outstanding delayed draw term loans under a 364-day credit facility, with additional funds allocated to support project development, particularly new data centers in Georgia, Texas, North Carolina, and Oklahoma.
+
+Guarantees for the notes will be provided by five subsidiaries, and the offering will be secured by first-priority liens on the assets of the issuer and guarantors, including equity interests and specific rights owned by Core Scientific. The company also committed to a completion guarantee for its data center projects, ensuring timely delivery in case of funding gaps.
+
+This proposed offering is the latest step in Core Scientific’s comeback strategy following its Chapter 11 bankruptcy in late 2022. The company emerged from bankruptcy in January 2024, aided by a court-approved reorganization plan that allowed it to pay off debts and relist on the Nasdaq. By securing long-term debt funding now, Core Scientific appears to be positioning itself for growth after two tumultuous years triggered by high electricity costs and the collapse of a major client.
+
+Today, the company is shifting focus from mining Bitcoin for its own account to expanding its high-density colocation (HDC) services. This business model leverages its infrastructure to host and manage mining operations for third parties, providing more predictable revenue streams. Historically, Core Scientific derived the majority of its revenue from self-mining, but the HDC pivot aligns with broader market trends of infrastructure specialization.
+
+As of April 21, Core Scientific’s stock (CORZ) was trading at $10.36, up 1.07% in the past 24 hours, with a market cap of $6.27 billion. Investors will likely view this debt issuance as a double-edged sword. While it signals confidence in future growth, the $3.3 billion in new obligations adds to its overall leverage, which could be a concern if crypto markets face renewed downturns.
+
+Core Scientific’s ability to service this debt will depend heavily on Bitcoin’s price trajectory and demand for its colocation services. With a history of bankruptcy tied to volatile crypto prices, this move underscores the company’s bet on steady demand for mining infrastructure—even as regulatory uncertainty and broader economic factors loom over the industry.
+
+Core Scientific has not disclosed the expected interest rate or terms for the notes, and the offering remains subject to market conditions. Investors should monitor updates on the pricing and demand for these notes, alongside developments in the company’s data center projects.
+
+Additionally, signs of increased institutional adoption of Bitcoin or improvements in the crypto mining sector’s economics could strengthen Core Scientific’s outlook. For now, this debt issuance represents a calculated gamble to solidify its role as a key player in crypto infrastructure.
+
+Core Scientific (CORZ) announces $3.3B secured notes offering to fund debt repayment and data center expansion. Here's what it means for investors.
+
+Core Scientific, Inc. (NASDAQ: CORZ), a leading provider of digital infrastructure for Bitcoin mining and high-performance computing, announced a $3.3 billion offering of senior secured notes due 2031. The offering, made through its subsidiary Core Scientific Finance I LLC, is intended to fund debt repayment and expansion of its data center operations, according to an April 21 press release.
+
+The notes will be available to qualified institutional buyers under Rule 144A and non-U.S. persons under Regulation S of the Securities Act. Proceeds will be used to repay outstanding delayed draw term loans under a 364-day credit facility, with additional funds allocated to support project development, particularly new data centers in Georgia, Texas, North Carolina, and Oklahoma.
+
+Guarantees for the notes will be provided by five subsidiaries, and the offering will be secured by first-priority liens on the assets of the issuer and guarantors, including equity interests and specific rights owned by Core Scientific. The company also committed to a completion guarantee for its data center projects, ensuring timely delivery in case of funding gaps.
+
+This proposed offering is the latest step in Core Scientific’s comeback strategy following its Chapter 11 bankruptcy in late 2022. The company emerged from bankruptcy in January 2024, aided by a court-approved reorganization plan that allowed it to pay off debts and relist on the Nasdaq. By securing long-term debt funding now, Core Scientific appears to be positioning itself for growth after two tumultuous years triggered by high electricity costs and the collapse of a major client.
+
+Today, the company is shifting focus from mining Bitcoin for its own account to expanding its high-density colocation (HDC) services. This business model leverages its infrastructure to host and manage mining operations for third parties, providing more predictable revenue streams. Historically, Core Scientific derived the majority of its revenue from self-mining, but the HDC pivot aligns with broader market trends of infrastructure specialization.
+
+As of April 21, Core Scientific’s stock (CORZ) was trading at $10.36, up 1.07% in the past 24 hours, with a market cap of $6.27 billion. Investors will likely view this debt issuance as a double-edged sword. While it signals confidence in future growth, the $3.3 billion in new obligations adds to its overall leverage, which could be a concern if crypto markets face renewed downturns.
+
+Core Scientific’s ability to service this debt will depend heavily on Bitcoin’s price trajectory and demand for its colocation services. With a history of bankruptcy tied to volatile crypto prices, this move underscores the company’s bet on steady demand for mining infrastructure—even as regulatory uncertainty and broader economic factors loom over the industry.
+
+Core Scientific has not disclosed the expected interest rate or terms for the notes, and the offering remains subject to market conditions. Investors should monitor updates on the pricing and demand for these notes, alongside developments in the company’s data center projects.
+
+Additionally, signs of increased institutional adoption of Bitcoin or improvements in the crypto mining sector’s economics could strengthen Core Scientific’s outlook. For now, this debt issuance represents a calculated gamble to solidify its role as a key player in crypto infrastructure.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-a26cfa85228103a2570fae22411ba7faa1cbbe09</guid>
       <title>Binance AI Pro Simplifies Trading with Automation Upgrade | Binance AI Pro offers automated trading workflows with advanced AI. Learn how it’s transf... https://Blockchain.News/news/binance-ai-pro-simplifies-trading</title>
@@ -2337,267 +2590,6 @@ First, the October 2025 correction gutted revenues. BTC cratered from roughly $1
 Second, difficulty keeps grinding higher even as prices stagnate. More computational power chasing the same block rewards means each BTC costs more to produce.
 
 Third, energy prices and geopolitical disruptions have inflated operating costs across the board. Miners pay bills in dollars, not satoshis.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-9f6b07c38ea057273767c03600392426b7f43546</guid>
-      <title>PORTAL Price Prediction: Overbought Rally Eyes $0.018 Before Potential 50% Correction | PORTAL&apos;s 33% surge pushes RSI above 74, setting up a potential bounce to $0.018 resistanc... https://Blockchain.News/news/20260418-price-prediction-portal-overbought-rally...</title>
-      <link>https://Blockchain.News/news/20260418-price-prediction-portal-overbought-rally-eyes-0018-before-potential</link>
-      <pubDate>Sat, 18 Apr 2026 13:39:36 GMT</pubDate>
-      <description><![CDATA[Original title: PORTAL Price Prediction: Overbought Rally Eyes $0.018 Before Potential 50% Correction
-Summary: PORTAL's 33% surge pushes RSI above 74, setting up a potential bounce to $0.018 resistance before bearish divergence could trigger a correction toward $0.007 support levels.
-Article text: PORTAL's 33% surge pushes RSI above 74, setting up a potential bounce to $0.018 resistance before bearish divergence could trigger a correction toward $0.007 support levels.
-
-PORTAL exploded 33% in 24 hours, driving the RSI to 74.22 and pushing price well into overbought territory. The violent move from $0.009 to current levels shows the type of parabolic action that typically precedes either continuation or sharp reversals in low-cap altcoins.
-
-Price broke above short-term moving averages but faces a critical test at the 200-period simple moving average around $0.02. The Bollinger Band position indicates price is trading well outside normal statistical ranges, suggesting either a breakout attempt or mean reversion setup.
-
-The current rally has PORTAL testing key resistance zones after months of consolidation. Volume patterns during the surge show increasing participation, though the sustainability of this momentum depends on whether buyers can establish support above previous resistance levels.
-
-Support structure remains concentrated around the $0.01 psychological level, with deeper backing near $0.007. The gap between these levels creates a technical vacuum that could accelerate any potential correction once momentum shifts.
-
-Trading activity shows the classic hallmarks of retail participation during sharp moves. The options market positioning and derivatives flows suggest mixed sentiment, with both bullish momentum traders and cautious contrarians taking positions.
-
-The broader altcoin environment continues to influence PORTAL's price action, as correlations with other low-cap tokens remain elevated during periods of increased volatility.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Bullish continuation: PORTAL could extend gains toward $0.018 resistance if buying momentum sustains above $0.012. This represents the next logical target based on previous swing highs and measured move calculations.
-
-Bearish reversal setup: Should momentum stall near current levels, a correction toward $0.007 becomes probable. This would represent approximately 50% retracement from recent highs and align with typical altcoin correction patterns.
-
-Key levels to monitor: A break above $0.016 with volume could signal continuation toward $0.018. Conversely, failure to hold $0.012 support opens the door for deeper retracement.
-
-Risk management: The overbought condition suggests position sizing should account for potential volatility in either direction. Any trades should incorporate stops beyond key technical levels rather than arbitrary percentages.
-
-The setup presents a classic momentum versus mean reversion scenario common in altcoin markets, where technical extremes often resolve through either powerful breakouts or sharp corrections.
-
-PORTAL's 33% surge pushes RSI above 74, setting up a potential bounce to $0.018 resistance before bearish divergence could trigger a correction toward $0.007 support levels.
-
-PORTAL exploded 33% in 24 hours, driving the RSI to 74.22 and pushing price well into overbought territory. The violent move from $0.009 to current levels shows the type of parabolic action that typically precedes either continuation or sharp reversals in low-cap altcoins.
-
-Price broke above short-term moving averages but faces a critical test at the 200-period simple moving average around $0.02. The Bollinger Band position indicates price is trading well outside normal statistical ranges, suggesting either a breakout attempt or mean reversion setup.
-
-The current rally has PORTAL testing key resistance zones after months of consolidation. Volume patterns during the surge show increasing participation, though the sustainability of this momentum depends on whether buyers can establish support above previous resistance levels.
-
-Support structure remains concentrated around the $0.01 psychological level, with deeper backing near $0.007. The gap between these levels creates a technical vacuum that could accelerate any potential correction once momentum shifts.
-
-Trading activity shows the classic hallmarks of retail participation during sharp moves. The options market positioning and derivatives flows suggest mixed sentiment, with both bullish momentum traders and cautious contrarians taking positions.
-
-The broader altcoin environment continues to influence PORTAL's price action, as correlations with other low-cap tokens remain elevated during periods of increased volatility.
-Source: https://Blockchain.News/news/20260418-price-prediction-portal-overbought-rally-eyes-0018-before-potential]]></description>
-      <content:encoded><![CDATA[PORTAL's 33% surge pushes RSI above 74, setting up a potential bounce to $0.018 resistance before bearish divergence could trigger a correction toward $0.007 support levels.
-
-PORTAL exploded 33% in 24 hours, driving the RSI to 74.22 and pushing price well into overbought territory. The violent move from $0.009 to current levels shows the type of parabolic action that typically precedes either continuation or sharp reversals in low-cap altcoins.
-
-Price broke above short-term moving averages but faces a critical test at the 200-period simple moving average around $0.02. The Bollinger Band position indicates price is trading well outside normal statistical ranges, suggesting either a breakout attempt or mean reversion setup.
-
-The current rally has PORTAL testing key resistance zones after months of consolidation. Volume patterns during the surge show increasing participation, though the sustainability of this momentum depends on whether buyers can establish support above previous resistance levels.
-
-Support structure remains concentrated around the $0.01 psychological level, with deeper backing near $0.007. The gap between these levels creates a technical vacuum that could accelerate any potential correction once momentum shifts.
-
-Trading activity shows the classic hallmarks of retail participation during sharp moves. The options market positioning and derivatives flows suggest mixed sentiment, with both bullish momentum traders and cautious contrarians taking positions.
-
-The broader altcoin environment continues to influence PORTAL's price action, as correlations with other low-cap tokens remain elevated during periods of increased volatility.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Bullish continuation: PORTAL could extend gains toward $0.018 resistance if buying momentum sustains above $0.012. This represents the next logical target based on previous swing highs and measured move calculations.
-
-Bearish reversal setup: Should momentum stall near current levels, a correction toward $0.007 becomes probable. This would represent approximately 50% retracement from recent highs and align with typical altcoin correction patterns.
-
-Key levels to monitor: A break above $0.016 with volume could signal continuation toward $0.018. Conversely, failure to hold $0.012 support opens the door for deeper retracement.
-
-Risk management: The overbought condition suggests position sizing should account for potential volatility in either direction. Any trades should incorporate stops beyond key technical levels rather than arbitrary percentages.
-
-The setup presents a classic momentum versus mean reversion scenario common in altcoin markets, where technical extremes often resolve through either powerful breakouts or sharp corrections.
-
-PORTAL's 33% surge pushes RSI above 74, setting up a potential bounce to $0.018 resistance before bearish divergence could trigger a correction toward $0.007 support levels.
-
-PORTAL exploded 33% in 24 hours, driving the RSI to 74.22 and pushing price well into overbought territory. The violent move from $0.009 to current levels shows the type of parabolic action that typically precedes either continuation or sharp reversals in low-cap altcoins.
-
-Price broke above short-term moving averages but faces a critical test at the 200-period simple moving average around $0.02. The Bollinger Band position indicates price is trading well outside normal statistical ranges, suggesting either a breakout attempt or mean reversion setup.
-
-The current rally has PORTAL testing key resistance zones after months of consolidation. Volume patterns during the surge show increasing participation, though the sustainability of this momentum depends on whether buyers can establish support above previous resistance levels.
-
-Support structure remains concentrated around the $0.01 psychological level, with deeper backing near $0.007. The gap between these levels creates a technical vacuum that could accelerate any potential correction once momentum shifts.
-
-Trading activity shows the classic hallmarks of retail participation during sharp moves. The options market positioning and derivatives flows suggest mixed sentiment, with both bullish momentum traders and cautious contrarians taking positions.
-
-The broader altcoin environment continues to influence PORTAL's price action, as correlations with other low-cap tokens remain elevated during periods of increased volatility.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-17e241d333af432a9b8e3d47433c60d266e0df34</guid>
-      <title>ASTER Price Prediction: Smart Money Divergence Signals $0.72 Breakout Within 7 Days | While retail traders flood into long positions at 57.4%, whales are positioning even more... https://Blockchain.News/news/20260418-price-prediction-aster-smart-money-diverge...</title>
-      <link>https://Blockchain.News/news/20260418-price-prediction-aster-smart-money-divergence-signals-072-breakout</link>
-      <pubDate>Sat, 18 Apr 2026 13:27:41 GMT</pubDate>
-      <description><![CDATA[Original title: ASTER Price Prediction: Smart Money Divergence Signals $0.72 Breakout Within 7 Days
-Summary: While retail traders flood into long positions at 57.4%, whales are positioning even more aggressively at 62.4% long exposure, creating a dangerous consensus that typically precedes violent moves.
-Article text: While retail traders flood into long positions at 57.4%, whales are positioning even more aggressively at 62.4% long exposure, creating a dangerous consensus that typically precedes violent moves. ...
-
-ASTER is trading in a death grip at $0.67, down 3.04% in the last 24 hours but showing classic signs of a coiled spring. The token has been grinding sideways with all major moving averages converging at virtually identical levels - SMA 7, 20, EMA 12, and EMA 26 all clustered around $0.67. This isn't consolidation; it's compression before expansion.
-
-The derivatives market is screaming divergence. Open interest surged 2.25% to $76 million while aggressive buyers dominated with a 1.16 taker buy/sell ratio. When volume increases during sideways price action, smart money is accumulating while retail thinks nothing is happening.
-
-The technical picture reveals a textbook compression pattern. ASTER sits perfectly centered in its Bollinger Bands at 0.50 position, with the upper band at $0.68 acting as immediate resistance and lower support holding firm at $0.65. The bands are tightening, indicating an imminent volatility expansion.
-
-Moving average convergence at $0.67 creates a magnetic price level where institutional algorithms are programmed to react. The RSI hovering at 48.38 provides no directional bias, but this neutral positioning actually favors explosive moves in either direction. MACD sitting at zero with a flat histogram confirms we're at an inflection point.
-
-Critical levels are crystal clear: $0.69 immediate resistance must break to trigger momentum algorithms, while $0.65 support represents the last line of defense before capitulation to $0.64 strong support.
-
-Here's where it gets interesting - there's absolutely zero KOL chatter about ASTER right now. No predictions, no hype, no fear-mongering. This silence is deafening in crypto markets where narrative typically drives price action. Smart money operates in this vacuum.
-
-The derivatives positioning tells the real story. Both retail (57.4% long) and whales (62.4% long) are betting on upside, but the whale concentration is what matters. When sophisticated traders align with retail on direction but with higher conviction, it typically signals they know something the market hasn't priced in yet.
-
-Funding rates at 0.0050% remain neutral, indicating no excessive leverage buildup that could trigger liquidation cascades. This clean positioning setup reduces downside risk and increases breakout probability.
-
-The setup screams controlled breakout trade with asymmetric risk/reward. Entry zone sits between $0.675-$0.68 on any push above the converged moving averages with volume confirmation. This gives you position before the momentum algorithms trigger at $0.69.
-
-Stop-loss must be tight at $0.645, just below the Bollinger lower band and daily support. This 3.7% risk provides excellent risk management while staying above the panic zone where retail stops cluster.
-
-Primary target hits $0.72 strong resistance for a clean 7.5% gain from entry. This level has institutional significance and represents the next major supply zone. Secondary target extends to $0.75 if momentum sustains, but profit-taking at $0.72 is the high-probability play.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Risk-reward favors the bulls 2:1, but timing is everything. The compression pattern typically resolves within 3-7 trading days, making this a short-term momentum play rather than a position trade. Watch for volume expansion above $25 million daily to confirm institutional participation.
-
-The smart money positioning combined with technical compression creates a setup that's 65% probability for upside breakout versus 35% for breakdown. In crypto markets, that edge is tradeable.
-
-While retail traders flood into long positions at 57.4%, whales are positioning even more aggressively at 62.4% long exposure, creating a dangerous consensus that typically precedes violent moves. ...
-
-ASTER is trading in a death grip at $0.67, down 3.04% in the last 24 hours but showing classic signs of a coiled spring. The token has been grinding sideways with all major moving averages converging at virtually identical levels - SMA 7, 20, EMA 12, and EMA 26 all clustered around $0.67. This isn't consolidation; it's compression before expansion.
-
-The derivatives market is screaming divergence. Open interest surged 2.25% to $76 million while aggressive buyers dominated with a 1.16 taker buy/sell ratio. When volume increases during sideways price action, smart money is accumulating while retail thinks nothing is happening.
-
-The technical picture reveals a textbook compression pattern. ASTER sits perfectly centered in its Bollinger Bands at 0.50 position, with the upper band at $0.68 acting as immediate resistance and lower support holding firm at $0.65. The bands are tightening, indicating an imminent volatility expansion.
-
-Moving average convergence at $0.67 creates a magnetic price level where institutional algorithms are programmed to react. The RSI hovering at 48.38 provides no directional bias, but this neutral positioning actually favors explosive moves in either direction. MACD sitting at zero with a flat histogram confirms we're at an inflection point.
-Source: https://Blockchain.News/news/20260418-price-prediction-aster-smart-money-divergence-signals-072-breakout]]></description>
-      <content:encoded><![CDATA[While retail traders flood into long positions at 57.4%, whales are positioning even more aggressively at 62.4% long exposure, creating a dangerous consensus that typically precedes violent moves. ...
-
-ASTER is trading in a death grip at $0.67, down 3.04% in the last 24 hours but showing classic signs of a coiled spring. The token has been grinding sideways with all major moving averages converging at virtually identical levels - SMA 7, 20, EMA 12, and EMA 26 all clustered around $0.67. This isn't consolidation; it's compression before expansion.
-
-The derivatives market is screaming divergence. Open interest surged 2.25% to $76 million while aggressive buyers dominated with a 1.16 taker buy/sell ratio. When volume increases during sideways price action, smart money is accumulating while retail thinks nothing is happening.
-
-The technical picture reveals a textbook compression pattern. ASTER sits perfectly centered in its Bollinger Bands at 0.50 position, with the upper band at $0.68 acting as immediate resistance and lower support holding firm at $0.65. The bands are tightening, indicating an imminent volatility expansion.
-
-Moving average convergence at $0.67 creates a magnetic price level where institutional algorithms are programmed to react. The RSI hovering at 48.38 provides no directional bias, but this neutral positioning actually favors explosive moves in either direction. MACD sitting at zero with a flat histogram confirms we're at an inflection point.
-
-Critical levels are crystal clear: $0.69 immediate resistance must break to trigger momentum algorithms, while $0.65 support represents the last line of defense before capitulation to $0.64 strong support.
-
-Here's where it gets interesting - there's absolutely zero KOL chatter about ASTER right now. No predictions, no hype, no fear-mongering. This silence is deafening in crypto markets where narrative typically drives price action. Smart money operates in this vacuum.
-
-The derivatives positioning tells the real story. Both retail (57.4% long) and whales (62.4% long) are betting on upside, but the whale concentration is what matters. When sophisticated traders align with retail on direction but with higher conviction, it typically signals they know something the market hasn't priced in yet.
-
-Funding rates at 0.0050% remain neutral, indicating no excessive leverage buildup that could trigger liquidation cascades. This clean positioning setup reduces downside risk and increases breakout probability.
-
-The setup screams controlled breakout trade with asymmetric risk/reward. Entry zone sits between $0.675-$0.68 on any push above the converged moving averages with volume confirmation. This gives you position before the momentum algorithms trigger at $0.69.
-
-Stop-loss must be tight at $0.645, just below the Bollinger lower band and daily support. This 3.7% risk provides excellent risk management while staying above the panic zone where retail stops cluster.
-
-Primary target hits $0.72 strong resistance for a clean 7.5% gain from entry. This level has institutional significance and represents the next major supply zone. Secondary target extends to $0.75 if momentum sustains, but profit-taking at $0.72 is the high-probability play.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Risk-reward favors the bulls 2:1, but timing is everything. The compression pattern typically resolves within 3-7 trading days, making this a short-term momentum play rather than a position trade. Watch for volume expansion above $25 million daily to confirm institutional participation.
-
-The smart money positioning combined with technical compression creates a setup that's 65% probability for upside breakout versus 35% for breakdown. In crypto markets, that edge is tradeable.
-
-While retail traders flood into long positions at 57.4%, whales are positioning even more aggressively at 62.4% long exposure, creating a dangerous consensus that typically precedes violent moves. ...
-
-ASTER is trading in a death grip at $0.67, down 3.04% in the last 24 hours but showing classic signs of a coiled spring. The token has been grinding sideways with all major moving averages converging at virtually identical levels - SMA 7, 20, EMA 12, and EMA 26 all clustered around $0.67. This isn't consolidation; it's compression before expansion.
-
-The derivatives market is screaming divergence. Open interest surged 2.25% to $76 million while aggressive buyers dominated with a 1.16 taker buy/sell ratio. When volume increases during sideways price action, smart money is accumulating while retail thinks nothing is happening.
-
-The technical picture reveals a textbook compression pattern. ASTER sits perfectly centered in its Bollinger Bands at 0.50 position, with the upper band at $0.68 acting as immediate resistance and lower support holding firm at $0.65. The bands are tightening, indicating an imminent volatility expansion.
-
-Moving average convergence at $0.67 creates a magnetic price level where institutional algorithms are programmed to react. The RSI hovering at 48.38 provides no directional bias, but this neutral positioning actually favors explosive moves in either direction. MACD sitting at zero with a flat histogram confirms we're at an inflection point.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-33b1b1b91e50596515f2039bc953048efb73c9e9</guid>
-      <title>SAPIEN Eyes $0.12 Recovery as $0.09 Support Holds Strong | SAPIEN&apos;s 18% drop to $0.09 creates an attractive entry point as technical indicators sugg... https://Blockchain.News/news/20260418-prediction-sapien-eyes-012-recovery-as-009-support</title>
-      <link>https://Blockchain.News/news/20260418-prediction-sapien-eyes-012-recovery-as-009-support</link>
-      <pubDate>Sat, 18 Apr 2026 13:22:00 GMT</pubDate>
-      <description><![CDATA[Original title: SAPIEN Eyes $0.12 Recovery as $0.09 Support Holds Strong
-Summary: SAPIEN's 18% drop to $0.09 creates an attractive entry point as technical indicators suggest consolidation rather than breakdown. The $0.08-$0.085 support zone offers compelling risk-reward for a b
-Article text: SAPIEN's 18% drop to $0.09 creates an attractive entry point as technical indicators suggest consolidation rather than breakdown. The $0.08-$0.085 support zone offers compelling risk-reward for a b...
-
-SAPIEN absorbed significant selling pressure today, dropping 18% from $0.12 to current levels around $0.09. However, the technical damage appears contained. The RSI reading of 58 indicates the token hasn't reached oversold conditions, while price action suggests profit-taking rather than panic selling.
-
-The recent selloff brought SAPIEN down from extended levels near the upper Bollinger Band, creating space for a potential recovery move. Price remains above the critical 7-period simple moving average at $0.08, establishing this level as immediate support. The MACD shows momentum has stalled but hasn't turned decisively bearish, leaving room for bulls to regain control.
-
-Today's decline came with substantial volume of nearly $7 million in spot trading - indicating genuine price discovery rather than thin-book manipulation. The derivatives market showed significant deleveraging with open interest dropping 54%, clearing out speculative positions that could have created additional selling pressure.
-
-Current positioning shows institutional players maintaining measured bullish exposure while retail sentiment remains relatively balanced. The neutral funding rate of 0.005% suggests neither longs nor shorts are paying significant premiums, creating space for directional moves without funding headwinds.
-
-The technical setup supports a bounce scenario over the next 14 days. SAPIEN's ability to hold above $0.08 support while maintaining constructive indicator readings creates favorable conditions for recovery toward $0.11 resistance.
-
-A successful defense of the $0.08-$0.085 zone would likely trigger short covering and renewed buying interest, potentially driving price back toward today's $0.12 highs. However, a break below $0.08 could extend the correction toward stronger support around $0.06.
-
-The current consolidation pattern suggests SAPIEN is building a base for the next leg higher rather than beginning a deeper correction. Traders should watch for volume expansion and momentum divergences to confirm the direction of the next significant move.
-
-Strategic entry levels include 40% allocation at $0.085, 35% at $0.08, and 25% at $0.075. Risk management requires stops below $0.06 with profit targets at $0.11 and $0.125 respectively.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-SAPIEN's 18% drop to $0.09 creates an attractive entry point as technical indicators suggest consolidation rather than breakdown. The $0.08-$0.085 support zone offers compelling risk-reward for a b...
-
-SAPIEN absorbed significant selling pressure today, dropping 18% from $0.12 to current levels around $0.09. However, the technical damage appears contained. The RSI reading of 58 indicates the token hasn't reached oversold conditions, while price action suggests profit-taking rather than panic selling.
-
-The recent selloff brought SAPIEN down from extended levels near the upper Bollinger Band, creating space for a potential recovery move. Price remains above the critical 7-period simple moving average at $0.08, establishing this level as immediate support. The MACD shows momentum has stalled but hasn't turned decisively bearish, leaving room for bulls to regain control.
-
-Today's decline came with substantial volume of nearly $7 million in spot trading - indicating genuine price discovery rather than thin-book manipulation. The derivatives market showed significant deleveraging with open interest dropping 54%, clearing out speculative positions that could have created additional selling pressure.
-
-Current positioning shows institutional players maintaining measured bullish exposure while retail sentiment remains relatively balanced. The neutral funding rate of 0.005% suggests neither longs nor shorts are paying significant premiums, creating space for directional moves without funding headwinds.
-
-The technical setup supports a bounce scenario over the next 14 days. SAPIEN's ability to hold above $0.08 support while maintaining constructive indicator readings creates favorable conditions for recovery toward $0.11 resistance.
-
-A successful defense of the $0.08-$0.085 zone would likely trigger short covering and renewed buying interest, potentially driving price back toward today's $0.12 highs. However, a break below $0.08 could extend the correction toward stronger support around $0.06.
-
-The current consolidation pattern suggests SAPIEN is building a base for the next leg higher rather than beginning a deeper correction. Traders should watch for volume expansion and momentum divergences to confirm the direction of the next significant move.
-
-Strategic entry levels include 40% allocation at $0.085, 35% at $0.08, and 25% at $0.075. Risk management requires stops below $0.06 with profit targets at $0.11 and $0.125 respectively.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-Source: https://Blockchain.News/news/20260418-prediction-sapien-eyes-012-recovery-as-009-support]]></description>
-      <content:encoded><![CDATA[SAPIEN's 18% drop to $0.09 creates an attractive entry point as technical indicators suggest consolidation rather than breakdown. The $0.08-$0.085 support zone offers compelling risk-reward for a b...
-
-SAPIEN absorbed significant selling pressure today, dropping 18% from $0.12 to current levels around $0.09. However, the technical damage appears contained. The RSI reading of 58 indicates the token hasn't reached oversold conditions, while price action suggests profit-taking rather than panic selling.
-
-The recent selloff brought SAPIEN down from extended levels near the upper Bollinger Band, creating space for a potential recovery move. Price remains above the critical 7-period simple moving average at $0.08, establishing this level as immediate support. The MACD shows momentum has stalled but hasn't turned decisively bearish, leaving room for bulls to regain control.
-
-Today's decline came with substantial volume of nearly $7 million in spot trading - indicating genuine price discovery rather than thin-book manipulation. The derivatives market showed significant deleveraging with open interest dropping 54%, clearing out speculative positions that could have created additional selling pressure.
-
-Current positioning shows institutional players maintaining measured bullish exposure while retail sentiment remains relatively balanced. The neutral funding rate of 0.005% suggests neither longs nor shorts are paying significant premiums, creating space for directional moves without funding headwinds.
-
-The technical setup supports a bounce scenario over the next 14 days. SAPIEN's ability to hold above $0.08 support while maintaining constructive indicator readings creates favorable conditions for recovery toward $0.11 resistance.
-
-A successful defense of the $0.08-$0.085 zone would likely trigger short covering and renewed buying interest, potentially driving price back toward today's $0.12 highs. However, a break below $0.08 could extend the correction toward stronger support around $0.06.
-
-The current consolidation pattern suggests SAPIEN is building a base for the next leg higher rather than beginning a deeper correction. Traders should watch for volume expansion and momentum divergences to confirm the direction of the next significant move.
-
-Strategic entry levels include 40% allocation at $0.085, 35% at $0.08, and 25% at $0.075. Risk management requires stops below $0.06 with profit targets at $0.11 and $0.125 respectively.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-SAPIEN's 18% drop to $0.09 creates an attractive entry point as technical indicators suggest consolidation rather than breakdown. The $0.08-$0.085 support zone offers compelling risk-reward for a b...
-
-SAPIEN absorbed significant selling pressure today, dropping 18% from $0.12 to current levels around $0.09. However, the technical damage appears contained. The RSI reading of 58 indicates the token hasn't reached oversold conditions, while price action suggests profit-taking rather than panic selling.
-
-The recent selloff brought SAPIEN down from extended levels near the upper Bollinger Band, creating space for a potential recovery move. Price remains above the critical 7-period simple moving average at $0.08, establishing this level as immediate support. The MACD shows momentum has stalled but hasn't turned decisively bearish, leaving room for bulls to regain control.
-
-Today's decline came with substantial volume of nearly $7 million in spot trading - indicating genuine price discovery rather than thin-book manipulation. The derivatives market showed significant deleveraging with open interest dropping 54%, clearing out speculative positions that could have created additional selling pressure.
-
-Current positioning shows institutional players maintaining measured bullish exposure while retail sentiment remains relatively balanced. The neutral funding rate of 0.005% suggests neither longs nor shorts are paying significant premiums, creating space for directional moves without funding headwinds.
-
-The technical setup supports a bounce scenario over the next 14 days. SAPIEN's ability to hold above $0.08 support while maintaining constructive indicator readings creates favorable conditions for recovery toward $0.11 resistance.
-
-A successful defense of the $0.08-$0.085 zone would likely trigger short covering and renewed buying interest, potentially driving price back toward today's $0.12 highs. However, a break below $0.08 could extend the correction toward stronger support around $0.06.
-
-The current consolidation pattern suggests SAPIEN is building a base for the next leg higher rather than beginning a deeper correction. Traders should watch for volume expansion and momentum divergences to confirm the direction of the next significant move.
-
-Strategic entry levels include 40% allocation at $0.085, 35% at $0.08, and 25% at $0.075. Risk management requires stops below $0.06 with profit targets at $0.11 and $0.125 respectively.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.]]></content:encoded>
     </item>
   </channel>
 </rss>
