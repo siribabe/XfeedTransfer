@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Thu, 23 Apr 2026 13:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 19:02:08 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-e781caa5be6b26ec9ffdeccbd79dcdb32e3d3608</guid>
+      <title>Aave Deposits Plunge $15B After Kelp DAO Exploit | A $293M exploit on Kelp DAO has triggered a $15B liquidity outflow from Aave, exposing vu... https://Blockchain.News/news/aave-deposits-drop-15b-kelp-dao-exploit</title>
+      <link>https://Blockchain.News/news/aave-deposits-drop-15b-kelp-dao-exploit</link>
+      <pubDate>Wed, 22 Apr 2026 15:00:04 GMT</pubDate>
+      <description><![CDATA[Original title: Aave Deposits Plunge $15B After Kelp DAO Exploit
+Summary: A $293M exploit on Kelp DAO has triggered a $15B liquidity outflow from Aave, exposing vulnerabilities in DeFi lending protocols.
+Article text: A $293M exploit on Kelp DAO has triggered a $15B liquidity outflow from Aave, exposing vulnerabilities in DeFi lending protocols.
+
+Aave, the leading decentralized lending protocol, has seen its deposit base shrink by $15 billion following a $293 million exploit on Kelp DAO. According to Aavescan data, the total value supplied to Aave plummeted from $45.8 billion on Saturday to $30.8 billion as of Wednesday.
+
+The exploit targeted Kelp DAO’s LayerZero-powered rsETH bridge, draining 116,500 restaked Ether (rsETH). The attacker reportedly used some of the stolen funds to borrow from Aave, creating a ripple effect on the platform's liquidity. Aave’s incident report revealed that 89,567 rsETH were deposited into the protocol, leaving a shortfall projected between $123 million and $230 million, depending on how losses are allocated.
+
+Market participants are now concerned about a broader liquidity crunch in decentralized finance (DeFi), with the exploit exacerbating fears of systemic risks. Aave's v3 Wrapped Ether (WETH) market hit 100% utilization temporarily, freezing liquidity for withdrawals, according to Talos, an institutional trading platform. This incident has prompted calls for more robust collateral frameworks to mitigate cascading risks in interconnected DeFi ecosystems.
+
+While Aave grapples with the fallout, other protocols are benefiting. SparkLend, the fourth-largest DeFi lending platform, has seen its total value locked (TVL) increase by $1.3 billion since the exploit, suggesting that capital is flowing to perceived safer venues.
+
+Aave has taken steps to stabilize its markets, unfrozen WETH reserves on its Ethereum Core V3 platform, allowing users to deposit WETH once again. However, reserves remain frozen on other networks, including Arbitrum, Base, and Mantle, limiting liquidity options for users.
+
+How Aave addresses its bad debt could have far-reaching implications. The platform’s risk manager has outlined two scenarios. The first would distribute losses across all rsETH holders on Ethereum mainnet and layer-2s, leaving $123 million in bad debt. The second scenario shifts the burden entirely to layer-2 networks, increasing the shortfall to $230 million.
+
+Prediction markets, such as Polymarket, are already seeing activity. Currently, 20% of traders are betting that Kelp DAO will socialize the losses across all rsETH holders, rather than isolating the impact on layer-2 users. The final decision could set a precedent for how DeFi platforms manage liability in future exploits.
+
+This incident underscores the vulnerabilities in DeFi’s layered ecosystems, where exploits can cascade across platforms, amplifying their impact. For now, traders and investors are closely watching Aave’s next moves, as well as the broader implications for DeFi's resilience.
+
+A $293M exploit on Kelp DAO has triggered a $15B liquidity outflow from Aave, exposing vulnerabilities in DeFi lending protocols.
+
+Aave, the leading decentralized lending protocol, has seen its deposit base shrink by $15 billion following a $293 million exploit on Kelp DAO. According to Aavescan data, the total value supplied to Aave plummeted from $45.8 billion on Saturday to $30.8 billion as of Wednesday.
+
+The exploit targeted Kelp DAO’s LayerZero-powered rsETH bridge, draining 116,500 restaked Ether (rsETH). The attacker reportedly used some of the stolen funds to borrow from Aave, creating a ripple effect on the platform's liquidity. Aave’s incident report revealed that 89,567 rsETH were deposited into the protocol, leaving a shortfall projected between $123 million and $230 million, depending on how losses are allocated.
+
+Market participants are now concerned about a broader liquidity crunch in decentralized finance (DeFi), with the exploit exacerbating fears of systemic risks. Aave's v3 Wrapped Ether (WETH) market hit 100% utilization temporarily, freezing liquidity for withdrawals, according to Talos, an institutional trading platform. This incident has prompted calls for more robust collateral frameworks to mitigate cascading risks in interconnected DeFi ecosystems.
+
+While Aave grapples with the fallout, other protocols are benefiting. SparkLend, the fourth-largest DeFi lending platform, has seen its total value locked (TVL) increase by $1.3 billion since the exploit, suggesting that capital is flowing to perceived safer venues.
+
+Aave has taken steps to stabilize its markets, unfrozen WETH reserves on its Ethereum Core V3 platform, allowing users to deposit WETH once again. However, reserves remain frozen on other networks, including Arbitrum, Base, and Mantle, limiting liquidity options for users.
+
+How Aave addresses its bad debt could have far-reaching implications. The platform’s risk manager has outlined two scenarios. The first would distribute losses across all rsETH holders on Ethereum mainnet and layer-2s, leaving $123 million in bad debt. The second scenario shifts the burden entirely to layer-2 networks, increasing the shortfall to $230 million.
+
+Prediction markets, such as Polymarket, are already seeing activity. Currently, 20% of traders are betting that Kelp DAO will socialize the losses across all rsETH holders, rather than isolating the impact on layer-2 users. The final decision could set a precedent for how DeFi platforms manage liability in future exploits.
+
+This incident underscores the vulnerabilities in DeFi’s layered ecosystems, where exploits can cascade across platforms, amplifying their impact. For now, traders and investors are closely watching Aave’s next moves, as well as the broader implications for DeFi's resilience.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/aave-deposits-drop-15b-kelp-dao-exploit]]></description>
+      <content:encoded><![CDATA[A $293M exploit on Kelp DAO has triggered a $15B liquidity outflow from Aave, exposing vulnerabilities in DeFi lending protocols.
+
+Aave, the leading decentralized lending protocol, has seen its deposit base shrink by $15 billion following a $293 million exploit on Kelp DAO. According to Aavescan data, the total value supplied to Aave plummeted from $45.8 billion on Saturday to $30.8 billion as of Wednesday.
+
+The exploit targeted Kelp DAO’s LayerZero-powered rsETH bridge, draining 116,500 restaked Ether (rsETH). The attacker reportedly used some of the stolen funds to borrow from Aave, creating a ripple effect on the platform's liquidity. Aave’s incident report revealed that 89,567 rsETH were deposited into the protocol, leaving a shortfall projected between $123 million and $230 million, depending on how losses are allocated.
+
+Market participants are now concerned about a broader liquidity crunch in decentralized finance (DeFi), with the exploit exacerbating fears of systemic risks. Aave's v3 Wrapped Ether (WETH) market hit 100% utilization temporarily, freezing liquidity for withdrawals, according to Talos, an institutional trading platform. This incident has prompted calls for more robust collateral frameworks to mitigate cascading risks in interconnected DeFi ecosystems.
+
+While Aave grapples with the fallout, other protocols are benefiting. SparkLend, the fourth-largest DeFi lending platform, has seen its total value locked (TVL) increase by $1.3 billion since the exploit, suggesting that capital is flowing to perceived safer venues.
+
+Aave has taken steps to stabilize its markets, unfrozen WETH reserves on its Ethereum Core V3 platform, allowing users to deposit WETH once again. However, reserves remain frozen on other networks, including Arbitrum, Base, and Mantle, limiting liquidity options for users.
+
+How Aave addresses its bad debt could have far-reaching implications. The platform’s risk manager has outlined two scenarios. The first would distribute losses across all rsETH holders on Ethereum mainnet and layer-2s, leaving $123 million in bad debt. The second scenario shifts the burden entirely to layer-2 networks, increasing the shortfall to $230 million.
+
+Prediction markets, such as Polymarket, are already seeing activity. Currently, 20% of traders are betting that Kelp DAO will socialize the losses across all rsETH holders, rather than isolating the impact on layer-2 users. The final decision could set a precedent for how DeFi platforms manage liability in future exploits.
+
+This incident underscores the vulnerabilities in DeFi’s layered ecosystems, where exploits can cascade across platforms, amplifying their impact. For now, traders and investors are closely watching Aave’s next moves, as well as the broader implications for DeFi's resilience.
+
+A $293M exploit on Kelp DAO has triggered a $15B liquidity outflow from Aave, exposing vulnerabilities in DeFi lending protocols.
+
+Aave, the leading decentralized lending protocol, has seen its deposit base shrink by $15 billion following a $293 million exploit on Kelp DAO. According to Aavescan data, the total value supplied to Aave plummeted from $45.8 billion on Saturday to $30.8 billion as of Wednesday.
+
+The exploit targeted Kelp DAO’s LayerZero-powered rsETH bridge, draining 116,500 restaked Ether (rsETH). The attacker reportedly used some of the stolen funds to borrow from Aave, creating a ripple effect on the platform's liquidity. Aave’s incident report revealed that 89,567 rsETH were deposited into the protocol, leaving a shortfall projected between $123 million and $230 million, depending on how losses are allocated.
+
+Market participants are now concerned about a broader liquidity crunch in decentralized finance (DeFi), with the exploit exacerbating fears of systemic risks. Aave's v3 Wrapped Ether (WETH) market hit 100% utilization temporarily, freezing liquidity for withdrawals, according to Talos, an institutional trading platform. This incident has prompted calls for more robust collateral frameworks to mitigate cascading risks in interconnected DeFi ecosystems.
+
+While Aave grapples with the fallout, other protocols are benefiting. SparkLend, the fourth-largest DeFi lending platform, has seen its total value locked (TVL) increase by $1.3 billion since the exploit, suggesting that capital is flowing to perceived safer venues.
+
+Aave has taken steps to stabilize its markets, unfrozen WETH reserves on its Ethereum Core V3 platform, allowing users to deposit WETH once again. However, reserves remain frozen on other networks, including Arbitrum, Base, and Mantle, limiting liquidity options for users.
+
+How Aave addresses its bad debt could have far-reaching implications. The platform’s risk manager has outlined two scenarios. The first would distribute losses across all rsETH holders on Ethereum mainnet and layer-2s, leaving $123 million in bad debt. The second scenario shifts the burden entirely to layer-2 networks, increasing the shortfall to $230 million.
+
+Prediction markets, such as Polymarket, are already seeing activity. Currently, 20% of traders are betting that Kelp DAO will socialize the losses across all rsETH holders, rather than isolating the impact on layer-2 users. The final decision could set a precedent for how DeFi platforms manage liability in future exploits.
+
+This incident underscores the vulnerabilities in DeFi’s layered ecosystems, where exploits can cascade across platforms, amplifying their impact. For now, traders and investors are closely watching Aave’s next moves, as well as the broader implications for DeFi's resilience.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-e0132bd28aa1610f21600fb77839007dbce1f22e</guid>
+      <title>CRV Breakdown Imminent: $0.20 Target Within 10 Days | Curve&apos;s rally to $0.24 masks serious structural weakness as selling volume dominates and... https://Blockchain.News/news/20260422-crv-breakdown-imminent-020-target-within-10-days-prediction</title>
+      <link>https://Blockchain.News/news/20260422-crv-breakdown-imminent-020-target-within-10-days-prediction</link>
+      <pubDate>Wed, 22 Apr 2026 14:57:21 GMT</pubDate>
+      <description><![CDATA[Original title: CRV Breakdown Imminent: $0.20 Target Within 10 Days
+Summary: Curve's rally to $0.24 masks serious structural weakness as selling volume dominates and key resistance holds firm. Price breaks $0.22 support next week with $0.20 becoming the primary downside tar
+Article text: Curve's rally to $0.24 masks serious structural weakness as selling volume dominates and key resistance holds firm. Price breaks $0.22 support next week with $0.20 becoming the primary downside tar...
+
+CRV's 2.43% bounce over 24 hours has stalled exactly where bears wanted it - right at the upper Bollinger Band resistance near $0.24. This isn't coincidence. The price action screams distribution as smart money uses retail buying to unload positions.
+
+The technical picture has deteriorated sharply. MACD histogram sits flat at zero while price trades 90% up the Bollinger channel - a combination that historically marks local tops. RSI at 56.53 shows momentum already fading despite the recent bounce. More damaging is the volume profile: $3.7M in spot volume with taker sell orders outpacing buys by nearly 20%.
+
+The 20-day SMA at $0.22 represents CRV's last meaningful support before a more serious decline unfolds. Short-term moving averages are converging around $0.23, creating a compression that typically resolves with violent moves. Given the bearish volume and momentum divergence, this breaks lower.
+
+Below $0.22, there's minimal support until the lower Bollinger Band around $0.20. The 200-day SMA sits way up at $0.36, highlighting just how damaged CRV's long-term structure has become. This isn't a healthy pullback in an uptrend - this is a bear market bounce running out of steam.
+
+Futures positioning reveals a dangerous setup for bulls. Whales hold 64.6% long positions while retail maintains 60.1% long exposure. When both groups crowd the same side while price fails to break resistance, liquidation cascades become inevitable.
+
+The 0.0100% funding rate staying neutral despite bullish positioning suggests the market hasn't priced in coming volatility. Open interest declining 0.47% confirms smart money is reducing exposure ahead of the next major move. These conditions typically precede sharp selloffs.
+
+CRV faces a binary outcome over the next 5-10 days. Either price breaks cleanly above $0.245 on genuine buying volume above $5M daily, or the current resistance holds and triggers the breakdown sequence.
+
+The breakdown scenario carries higher probability based on current technicals. Any rejection from current levels targets $0.22 first, then $0.20 as the primary objective. The risk-reward strongly favors shorts here - stops above $0.25 limit downside to 4% while targets offer 8-16% gains.
+
+Volume and momentum indicators align for lower prices. CRV's structural decline from higher levels continues, and this bounce appears to be giving trapped longs a final exit opportunity before the next leg down accelerates.
+
+Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
+
+The market has spoken through price action and volume - CRV breaks $0.22 support within the next week, making $0.20 the logical target for aggressive sellers.
+
+Curve's rally to $0.24 masks serious structural weakness as selling volume dominates and key resistance holds firm. Price breaks $0.22 support next week with $0.20 becoming the primary downside tar...
+
+CRV's 2.43% bounce over 24 hours has stalled exactly where bears wanted it - right at the upper Bollinger Band resistance near $0.24. This isn't coincidence. The price action screams distribution as smart money uses retail buying to unload positions.
+
+The technical picture has deteriorated sharply. MACD histogram sits flat at zero while price trades 90% up the Bollinger channel - a combination that historically marks local tops. RSI at 56.53 shows momentum already fading despite the recent bounce. More damaging is the volume profile: $3.7M in spot volume with taker sell orders outpacing buys by nearly 20%.
+
+The 20-day SMA at $0.22 represents CRV's last meaningful support before a more serious decline unfolds. Short-term moving averages are converging around $0.23, creating a compression that typically resolves with violent moves. Given the bearish volume and momentum divergence, this breaks lower.
+
+Below $0.22, there's minimal support until the lower Bollinger Band around $0.20. The 200-day SMA sits way up at $0.36, highlighting just how damaged CRV's long-term structure has become. This isn't a healthy pullback in an uptrend - this is a bear market bounce running out of steam.
+
+Futures positioning reveals a dangerous setup for bulls. Whales hold 64.6% long positions while retail maintains 60.1% long exposure. When both groups crowd the same side while price fails to break resistance, liquidation cascades become inevitable.
+
+The 0.0100% funding rate staying neutral despite bullish positioning suggests the market hasn't priced in coming volatility. Open interest declining 0.47% confirms smart money is reducing exposure ahead of the next major move. These conditions typically precede sharp selloffs.
+
+CRV faces a binary outcome over the next 5-10 days. Either price breaks cleanly above $0.245 on genuine buying volume above $5M daily, or the current resistance holds and triggers the breakdown sequence.
+Source: https://Blockchain.News/news/20260422-crv-breakdown-imminent-020-target-within-10-days-prediction]]></description>
+      <content:encoded><![CDATA[Curve's rally to $0.24 masks serious structural weakness as selling volume dominates and key resistance holds firm. Price breaks $0.22 support next week with $0.20 becoming the primary downside tar...
+
+CRV's 2.43% bounce over 24 hours has stalled exactly where bears wanted it - right at the upper Bollinger Band resistance near $0.24. This isn't coincidence. The price action screams distribution as smart money uses retail buying to unload positions.
+
+The technical picture has deteriorated sharply. MACD histogram sits flat at zero while price trades 90% up the Bollinger channel - a combination that historically marks local tops. RSI at 56.53 shows momentum already fading despite the recent bounce. More damaging is the volume profile: $3.7M in spot volume with taker sell orders outpacing buys by nearly 20%.
+
+The 20-day SMA at $0.22 represents CRV's last meaningful support before a more serious decline unfolds. Short-term moving averages are converging around $0.23, creating a compression that typically resolves with violent moves. Given the bearish volume and momentum divergence, this breaks lower.
+
+Below $0.22, there's minimal support until the lower Bollinger Band around $0.20. The 200-day SMA sits way up at $0.36, highlighting just how damaged CRV's long-term structure has become. This isn't a healthy pullback in an uptrend - this is a bear market bounce running out of steam.
+
+Futures positioning reveals a dangerous setup for bulls. Whales hold 64.6% long positions while retail maintains 60.1% long exposure. When both groups crowd the same side while price fails to break resistance, liquidation cascades become inevitable.
+
+The 0.0100% funding rate staying neutral despite bullish positioning suggests the market hasn't priced in coming volatility. Open interest declining 0.47% confirms smart money is reducing exposure ahead of the next major move. These conditions typically precede sharp selloffs.
+
+CRV faces a binary outcome over the next 5-10 days. Either price breaks cleanly above $0.245 on genuine buying volume above $5M daily, or the current resistance holds and triggers the breakdown sequence.
+
+The breakdown scenario carries higher probability based on current technicals. Any rejection from current levels targets $0.22 first, then $0.20 as the primary objective. The risk-reward strongly favors shorts here - stops above $0.25 limit downside to 4% while targets offer 8-16% gains.
+
+Volume and momentum indicators align for lower prices. CRV's structural decline from higher levels continues, and this bounce appears to be giving trapped longs a final exit opportunity before the next leg down accelerates.
+
+Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
+
+The market has spoken through price action and volume - CRV breaks $0.22 support within the next week, making $0.20 the logical target for aggressive sellers.
+
+Curve's rally to $0.24 masks serious structural weakness as selling volume dominates and key resistance holds firm. Price breaks $0.22 support next week with $0.20 becoming the primary downside tar...
+
+CRV's 2.43% bounce over 24 hours has stalled exactly where bears wanted it - right at the upper Bollinger Band resistance near $0.24. This isn't coincidence. The price action screams distribution as smart money uses retail buying to unload positions.
+
+The technical picture has deteriorated sharply. MACD histogram sits flat at zero while price trades 90% up the Bollinger channel - a combination that historically marks local tops. RSI at 56.53 shows momentum already fading despite the recent bounce. More damaging is the volume profile: $3.7M in spot volume with taker sell orders outpacing buys by nearly 20%.
+
+The 20-day SMA at $0.22 represents CRV's last meaningful support before a more serious decline unfolds. Short-term moving averages are converging around $0.23, creating a compression that typically resolves with violent moves. Given the bearish volume and momentum divergence, this breaks lower.
+
+Below $0.22, there's minimal support until the lower Bollinger Band around $0.20. The 200-day SMA sits way up at $0.36, highlighting just how damaged CRV's long-term structure has become. This isn't a healthy pullback in an uptrend - this is a bear market bounce running out of steam.
+
+Futures positioning reveals a dangerous setup for bulls. Whales hold 64.6% long positions while retail maintains 60.1% long exposure. When both groups crowd the same side while price fails to break resistance, liquidation cascades become inevitable.
+
+The 0.0100% funding rate staying neutral despite bullish positioning suggests the market hasn't priced in coming volatility. Open interest declining 0.47% confirms smart money is reducing exposure ahead of the next major move. These conditions typically precede sharp selloffs.
+
+CRV faces a binary outcome over the next 5-10 days. Either price breaks cleanly above $0.245 on genuine buying volume above $5M daily, or the current resistance holds and triggers the breakdown sequence.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-7b89d2c96ec3173f9eb28b3971403cd6d7a9ad42</guid>
+      <title>Lazarus Group Deploys macOS Malware Targeting Crypto Execs | Lazarus Group launches macOS malware targeting crypto and fintech executives via fake Zoo... https://Blockchain.News/news/lazarus-group-macos-malware-crypto-executives</title>
+      <link>https://Blockchain.News/news/lazarus-group-macos-malware-crypto-executives</link>
+      <pubDate>Wed, 22 Apr 2026 14:54:22 GMT</pubDate>
+      <description><![CDATA[Original title: Lazarus Group Deploys macOS Malware Targeting Crypto Execs
+Summary: Lazarus Group launches macOS malware targeting crypto and fintech executives via fake Zoom calls, aiming to compromise critical credentials.
+Article text: Lazarus Group launches macOS malware targeting crypto and fintech executives via fake Zoom calls, aiming to compromise critical credentials.
+
+The notorious Lazarus Group, linked to the North Korean government, has launched a new macOS malware campaign targeting cryptocurrency and fintech executives. Dubbed "Mach-O Man," the malware is distributed via fake Zoom or Google Meet calls, where victims unknowingly execute commands that install the malware in the background.
+
+According to a report by Mauro Eldritch, founder of threat intelligence firm BCA Ltd., the malware exploits social engineering techniques to bypass traditional security controls. Once installed, it extracts sensitive information such as browser credentials, cookies, macOS Keychain entries, and corporate access data. The stolen data is then exfiltrated to attackers via Telegram, followed by a self-deletion script to cover its tracks.
+
+This campaign underscores Lazarus Group's continued evolution in targeting not just cryptocurrency-native firms but also traditional businesses involved in fintech. Security researchers warn that the malware could lead to account takeovers, financial losses, and exposure of critical corporate data.
+
+The Lazarus Group, active since at least 2009, is infamous for a series of high-profile cyberattacks. It has been linked to the $81 million Bangladesh Bank heist in 2016, the global WannaCry ransomware attack in 2017, and the $620 million Ronin Network hack in 2022. More recently, in 2025, the group reportedly orchestrated the $1.4 billion Bybit hack—the largest cryptocurrency theft to date.
+
+The group's activities are believed to fund North Korea's state programs, including weapons development, while circumventing international sanctions. Over the years, Lazarus has demonstrated a knack for adapting its tactics, shifting from targeting financial institutions to cryptocurrency platforms, and now, macOS users.
+
+This latest attack highlights the increasing risks posed by state-sponsored hacking groups to the crypto and fintech sectors. With billions of dollars in digital assets at stake, cybersecurity remains a critical concern for companies operating in these industries. The Lazarus Group’s pivot to macOS indicates a widening scope of attacks, likely in response to enhanced security measures on other platforms.
+
+For traders and businesses, the implications are clear: heightened vigilance is necessary. Organizations should consider implementing robust endpoint security, employee training on phishing schemes, and network segmentation to limit the fallout of potential breaches.
+
+As Lazarus Group expands its toolkit, it serves as a reminder that the cryptocurrency space remains a prime target for sophisticated cybercriminals. The group's history of adapting to new technologies and platforms emphasizes the need for proactive security measures. With the global crypto market cap exceeding $1 trillion as of 2026, the stakes for securing digital assets have never been higher.
+
+Businesses and executives in the crypto and fintech sectors must stay informed about emerging threats and invest in advanced threat detection and response capabilities. The Lazarus Group’s latest campaign is a stark warning: no platform or operating system is immune.
+
+Lazarus Group launches macOS malware targeting crypto and fintech executives via fake Zoom calls, aiming to compromise critical credentials.
+
+The notorious Lazarus Group, linked to the North Korean government, has launched a new macOS malware campaign targeting cryptocurrency and fintech executives. Dubbed "Mach-O Man," the malware is distributed via fake Zoom or Google Meet calls, where victims unknowingly execute commands that install the malware in the background.
+
+According to a report by Mauro Eldritch, founder of threat intelligence firm BCA Ltd., the malware exploits social engineering techniques to bypass traditional security controls. Once installed, it extracts sensitive information such as browser credentials, cookies, macOS Keychain entries, and corporate access data. The stolen data is then exfiltrated to attackers via Telegram, followed by a self-deletion script to cover its tracks.
+
+This campaign underscores Lazarus Group's continued evolution in targeting not just cryptocurrency-native firms but also traditional businesses involved in fintech. Security researchers warn that the malware could lead to account takeovers, financial losses, and exposure of critical corporate data.
+
+The Lazarus Group, active since at least 2009, is infamous for a series of high-profile cyberattacks. It has been linked to the $81 million Bangladesh Bank heist in 2016, the global WannaCry ransomware attack in 2017, and the $620 million Ronin Network hack in 2022. More recently, in 2025, the group reportedly orchestrated the $1.4 billion Bybit hack—the largest cryptocurrency theft to date.
+
+The group's activities are believed to fund North Korea's state programs, including weapons development, while circumventing international sanctions. Over the years, Lazarus has demonstrated a knack for adapting its tactics, shifting from targeting financial institutions to cryptocurrency platforms, and now, macOS users.
+
+This latest attack highlights the increasing risks posed by state-sponsored hacking groups to the crypto and fintech sectors. With billions of dollars in digital assets at stake, cybersecurity remains a critical concern for companies operating in these industries. The Lazarus Group’s pivot to macOS indicates a widening scope of attacks, likely in response to enhanced security measures on other platforms.
+
+For traders and businesses, the implications are clear: heightened vigilance is necessary. Organizations should consider implementing robust endpoint security, employee training on phishing schemes, and network segmentation to limit the fallout of potential breaches.
+
+As Lazarus Group expands its toolkit, it serves as a reminder that the cryptocurrency space remains a prime target for sophisticated cybercriminals. The group's history of adapting to new technologies and platforms emphasizes the need for proactive security measures. With the global crypto market cap exceeding $1 trillion as of 2026, the stakes for securing digital assets have never been higher.
+
+Businesses and executives in the crypto and fintech sectors must stay informed about emerging threats and invest in advanced threat detection and response capabilities. The Lazarus Group’s latest campaign is a stark warning: no platform or operating system is immune.
+Source: https://Blockchain.News/news/lazarus-group-macos-malware-crypto-executives]]></description>
+      <content:encoded><![CDATA[Lazarus Group launches macOS malware targeting crypto and fintech executives via fake Zoom calls, aiming to compromise critical credentials.
+
+The notorious Lazarus Group, linked to the North Korean government, has launched a new macOS malware campaign targeting cryptocurrency and fintech executives. Dubbed "Mach-O Man," the malware is distributed via fake Zoom or Google Meet calls, where victims unknowingly execute commands that install the malware in the background.
+
+According to a report by Mauro Eldritch, founder of threat intelligence firm BCA Ltd., the malware exploits social engineering techniques to bypass traditional security controls. Once installed, it extracts sensitive information such as browser credentials, cookies, macOS Keychain entries, and corporate access data. The stolen data is then exfiltrated to attackers via Telegram, followed by a self-deletion script to cover its tracks.
+
+This campaign underscores Lazarus Group's continued evolution in targeting not just cryptocurrency-native firms but also traditional businesses involved in fintech. Security researchers warn that the malware could lead to account takeovers, financial losses, and exposure of critical corporate data.
+
+The Lazarus Group, active since at least 2009, is infamous for a series of high-profile cyberattacks. It has been linked to the $81 million Bangladesh Bank heist in 2016, the global WannaCry ransomware attack in 2017, and the $620 million Ronin Network hack in 2022. More recently, in 2025, the group reportedly orchestrated the $1.4 billion Bybit hack—the largest cryptocurrency theft to date.
+
+The group's activities are believed to fund North Korea's state programs, including weapons development, while circumventing international sanctions. Over the years, Lazarus has demonstrated a knack for adapting its tactics, shifting from targeting financial institutions to cryptocurrency platforms, and now, macOS users.
+
+This latest attack highlights the increasing risks posed by state-sponsored hacking groups to the crypto and fintech sectors. With billions of dollars in digital assets at stake, cybersecurity remains a critical concern for companies operating in these industries. The Lazarus Group’s pivot to macOS indicates a widening scope of attacks, likely in response to enhanced security measures on other platforms.
+
+For traders and businesses, the implications are clear: heightened vigilance is necessary. Organizations should consider implementing robust endpoint security, employee training on phishing schemes, and network segmentation to limit the fallout of potential breaches.
+
+As Lazarus Group expands its toolkit, it serves as a reminder that the cryptocurrency space remains a prime target for sophisticated cybercriminals. The group's history of adapting to new technologies and platforms emphasizes the need for proactive security measures. With the global crypto market cap exceeding $1 trillion as of 2026, the stakes for securing digital assets have never been higher.
+
+Businesses and executives in the crypto and fintech sectors must stay informed about emerging threats and invest in advanced threat detection and response capabilities. The Lazarus Group’s latest campaign is a stark warning: no platform or operating system is immune.
+
+Lazarus Group launches macOS malware targeting crypto and fintech executives via fake Zoom calls, aiming to compromise critical credentials.
+
+The notorious Lazarus Group, linked to the North Korean government, has launched a new macOS malware campaign targeting cryptocurrency and fintech executives. Dubbed "Mach-O Man," the malware is distributed via fake Zoom or Google Meet calls, where victims unknowingly execute commands that install the malware in the background.
+
+According to a report by Mauro Eldritch, founder of threat intelligence firm BCA Ltd., the malware exploits social engineering techniques to bypass traditional security controls. Once installed, it extracts sensitive information such as browser credentials, cookies, macOS Keychain entries, and corporate access data. The stolen data is then exfiltrated to attackers via Telegram, followed by a self-deletion script to cover its tracks.
+
+This campaign underscores Lazarus Group's continued evolution in targeting not just cryptocurrency-native firms but also traditional businesses involved in fintech. Security researchers warn that the malware could lead to account takeovers, financial losses, and exposure of critical corporate data.
+
+The Lazarus Group, active since at least 2009, is infamous for a series of high-profile cyberattacks. It has been linked to the $81 million Bangladesh Bank heist in 2016, the global WannaCry ransomware attack in 2017, and the $620 million Ronin Network hack in 2022. More recently, in 2025, the group reportedly orchestrated the $1.4 billion Bybit hack—the largest cryptocurrency theft to date.
+
+The group's activities are believed to fund North Korea's state programs, including weapons development, while circumventing international sanctions. Over the years, Lazarus has demonstrated a knack for adapting its tactics, shifting from targeting financial institutions to cryptocurrency platforms, and now, macOS users.
+
+This latest attack highlights the increasing risks posed by state-sponsored hacking groups to the crypto and fintech sectors. With billions of dollars in digital assets at stake, cybersecurity remains a critical concern for companies operating in these industries. The Lazarus Group’s pivot to macOS indicates a widening scope of attacks, likely in response to enhanced security measures on other platforms.
+
+For traders and businesses, the implications are clear: heightened vigilance is necessary. Organizations should consider implementing robust endpoint security, employee training on phishing schemes, and network segmentation to limit the fallout of potential breaches.
+
+As Lazarus Group expands its toolkit, it serves as a reminder that the cryptocurrency space remains a prime target for sophisticated cybercriminals. The group's history of adapting to new technologies and platforms emphasizes the need for proactive security measures. With the global crypto market cap exceeding $1 trillion as of 2026, the stakes for securing digital assets have never been higher.
+
+Businesses and executives in the crypto and fintech sectors must stay informed about emerging threats and invest in advanced threat detection and response capabilities. The Lazarus Group’s latest campaign is a stark warning: no platform or operating system is immune.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-41ffe518b640b5ce5b7f17f275b27c1ceba2a0de</guid>
       <title>MiCA Deadline Looms: Small Crypto Firms Face EU Compliance Crunch | EU&apos;s MiCA regulation demands compliance by July 1, 2026, forcing smaller crypto firms to... https://Blockchain.News/news/mica-deadline-small-crypto-firms</title>
@@ -2321,259 +2582,6 @@ The timing aligns with Malaysia's aggressive buildout of its digital asset frame
 That same month, a telecom company owned by Crown Prince Ismail Ibrahim launched RMJDT, a ringgit-backed stablecoin on the Zetrix blockchain, operating within the sandbox framework.
 
 Bank Negara Malaysia has since outlined a three-year roadmap for asset tokenization, with pilots underway for tokenized deposits and cross-border settlement. Standard Chartered, CIMB Group, and Maybank are among the institutions participating in sandbox programs focused on stablecoins and tokenized bank deposits.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-e83bca6c598562b1a766c7d8a706d133fce4377b</guid>
-      <title>MemeCore Token Faces ZachXBT Scrutiny Over 90% Insider Holdings Claim | Onchain investigator ZachXBT demands MemeCore explain why insiders allegedly control over... https://Blockchain.News/news/memecore-token-zachxbt-insider-holdings-scrutiny</title>
-      <link>https://Blockchain.News/news/memecore-token-zachxbt-insider-holdings-scrutiny</link>
-      <pubDate>Mon, 20 Apr 2026 14:09:40 GMT</pubDate>
-      <description><![CDATA[Original title: MemeCore Token Faces ZachXBT Scrutiny Over 90% Insider Holdings Claim
-Summary: Onchain investigator ZachXBT demands MemeCore explain why insiders allegedly control over 90% of M token supply despite $6B market cap claims.
-Article text: Onchain investigator ZachXBT demands MemeCore explain why insiders allegedly control over 90% of M token supply despite $6B market cap claims.
-
-Onchain investigator ZachXBT has publicly challenged MemeCore to justify its multi-billion dollar valuation, alleging that insiders control more than 90% of the project's M token supply. The accusation, posted Monday on X, adds to growing concerns about token concentration in recently rallied meme-focused projects.
-
-"Please provide a single data point to support your $6B mkt cap at a top 20 token and why insiders hold >90% of supply," ZachXBT wrote in response to MemeCore, which markets itself as a layer-1 blockchain for the "Meme 2.0 economy."
-
-The numbers don't quite agree. CoinMarketCap ranked M at No. 21 with a $4.33 billion market cap on Monday, while CoinGecko placed it at No. 20 with roughly $5.97 billion. Enrichment data from April 17 showed M trading at $3.71 with a $6.53 billion cap after a 29% daily surge—the token had just hit an all-time high of $3.88.
-
-That's a lot of value sloshing around for a token with questionable distribution.
-
-Blockchain visualization platform Bubblemaps data reveals the second-largest holder, wallet "0x8b8," controls 50 million M tokens worth approximately $178 million—21.77% of total supply. The Binance Deposit address sits as the largest holder at 41.3%.
-
-Bubblemaps analyst 0xToolman offered some nuance, telling Cointelegraph the "pattern looks like team holdings" that may not be in circulation yet. But that distinction matters less when retail traders are buying at inflated prices against locked supply they can't see.
-
-MemeCore's stated distribution allocates 58% to community, 15% to foundation, 13% to core contributors, 12% to investors, and 2% to Meme Treasury. If accurate, that's 40% to insiders and backers—not 90%. The gap between official tokenomics and ZachXBT's allegations deserves explanation.
-
-ZachXBT hasn't posted definitive blockchain proof of the 90% figure yet, but pledged deeper investigation following the RaveDAO collapse that rattled markets last week.
-
-The timing isn't coincidental. RAVE token exploded from $0.25 to nearly $28 before crashing 92% in a week—classic pump-and-dump mechanics. ZachXBT accused RaveDAO of orchestrating the scheme through concentrated holdings and suspicious exchange flows. RaveDAO denied involvement; Binance and Bitget are reviewing.
-
-RAVE traded above $0.69 Monday, down from its peak. The carnage prompted ZachXBT to flag several other tokens showing "manipulation" signs: SIREN, MYX, COAI, M, PIPPIN, and RIVER.
-
-MemeCore launched its mainnet in September 2025 and secured listings on Binance Alpha, Kraken, and Bitget starting July 2025. Separate reporting indicates ZachXBT has flagged Kraken specifically as a key venue in M token manipulation concerns, citing the $6 billion cap against just $66 million in app volume.
-
-For traders holding M or considering entry, the risk calculus just shifted. Until MemeCore addresses the concentration allegations with verifiable onchain data, that $6 billion valuation sits on shaky ground.
-
-Onchain investigator ZachXBT demands MemeCore explain why insiders allegedly control over 90% of M token supply despite $6B market cap claims.
-
-Onchain investigator ZachXBT has publicly challenged MemeCore to justify its multi-billion dollar valuation, alleging that insiders control more than 90% of the project's M token supply. The accusation, posted Monday on X, adds to growing concerns about token concentration in recently rallied meme-focused projects.
-
-"Please provide a single data point to support your $6B mkt cap at a top 20 token and why insiders hold >90% of supply," ZachXBT wrote in response to MemeCore, which markets itself as a layer-1 blockchain for the "Meme 2.0 economy."
-
-The numbers don't quite agree. CoinMarketCap ranked M at No. 21 with a $4.33 billion market cap on Monday, while CoinGecko placed it at No. 20 with roughly $5.97 billion. Enrichment data from April 17 showed M trading at $3.71 with a $6.53 billion cap after a 29% daily surge—the token had just hit an all-time high of $3.88.
-
-That's a lot of value sloshing around for a token with questionable distribution.
-
-Blockchain visualization platform Bubblemaps data reveals the second-largest holder, wallet "0x8b8," controls 50 million M tokens worth approximately $178 million—21.77% of total supply. The Binance Deposit address sits as the largest holder at 41.3%.
-
-Bubblemaps analyst 0xToolman offered some nuance, telling Cointelegraph the "pattern looks like team holdings" that may not be in circulation yet. But that distinction matters less when retail traders are buying at inflated prices against locked supply they can't see.
-Source: https://Blockchain.News/news/memecore-token-zachxbt-insider-holdings-scrutiny]]></description>
-      <content:encoded><![CDATA[Onchain investigator ZachXBT demands MemeCore explain why insiders allegedly control over 90% of M token supply despite $6B market cap claims.
-
-Onchain investigator ZachXBT has publicly challenged MemeCore to justify its multi-billion dollar valuation, alleging that insiders control more than 90% of the project's M token supply. The accusation, posted Monday on X, adds to growing concerns about token concentration in recently rallied meme-focused projects.
-
-"Please provide a single data point to support your $6B mkt cap at a top 20 token and why insiders hold >90% of supply," ZachXBT wrote in response to MemeCore, which markets itself as a layer-1 blockchain for the "Meme 2.0 economy."
-
-The numbers don't quite agree. CoinMarketCap ranked M at No. 21 with a $4.33 billion market cap on Monday, while CoinGecko placed it at No. 20 with roughly $5.97 billion. Enrichment data from April 17 showed M trading at $3.71 with a $6.53 billion cap after a 29% daily surge—the token had just hit an all-time high of $3.88.
-
-That's a lot of value sloshing around for a token with questionable distribution.
-
-Blockchain visualization platform Bubblemaps data reveals the second-largest holder, wallet "0x8b8," controls 50 million M tokens worth approximately $178 million—21.77% of total supply. The Binance Deposit address sits as the largest holder at 41.3%.
-
-Bubblemaps analyst 0xToolman offered some nuance, telling Cointelegraph the "pattern looks like team holdings" that may not be in circulation yet. But that distinction matters less when retail traders are buying at inflated prices against locked supply they can't see.
-
-MemeCore's stated distribution allocates 58% to community, 15% to foundation, 13% to core contributors, 12% to investors, and 2% to Meme Treasury. If accurate, that's 40% to insiders and backers—not 90%. The gap between official tokenomics and ZachXBT's allegations deserves explanation.
-
-ZachXBT hasn't posted definitive blockchain proof of the 90% figure yet, but pledged deeper investigation following the RaveDAO collapse that rattled markets last week.
-
-The timing isn't coincidental. RAVE token exploded from $0.25 to nearly $28 before crashing 92% in a week—classic pump-and-dump mechanics. ZachXBT accused RaveDAO of orchestrating the scheme through concentrated holdings and suspicious exchange flows. RaveDAO denied involvement; Binance and Bitget are reviewing.
-
-RAVE traded above $0.69 Monday, down from its peak. The carnage prompted ZachXBT to flag several other tokens showing "manipulation" signs: SIREN, MYX, COAI, M, PIPPIN, and RIVER.
-
-MemeCore launched its mainnet in September 2025 and secured listings on Binance Alpha, Kraken, and Bitget starting July 2025. Separate reporting indicates ZachXBT has flagged Kraken specifically as a key venue in M token manipulation concerns, citing the $6 billion cap against just $66 million in app volume.
-
-For traders holding M or considering entry, the risk calculus just shifted. Until MemeCore addresses the concentration allegations with verifiable onchain data, that $6 billion valuation sits on shaky ground.
-
-Onchain investigator ZachXBT demands MemeCore explain why insiders allegedly control over 90% of M token supply despite $6B market cap claims.
-
-Onchain investigator ZachXBT has publicly challenged MemeCore to justify its multi-billion dollar valuation, alleging that insiders control more than 90% of the project's M token supply. The accusation, posted Monday on X, adds to growing concerns about token concentration in recently rallied meme-focused projects.
-
-"Please provide a single data point to support your $6B mkt cap at a top 20 token and why insiders hold >90% of supply," ZachXBT wrote in response to MemeCore, which markets itself as a layer-1 blockchain for the "Meme 2.0 economy."
-
-The numbers don't quite agree. CoinMarketCap ranked M at No. 21 with a $4.33 billion market cap on Monday, while CoinGecko placed it at No. 20 with roughly $5.97 billion. Enrichment data from April 17 showed M trading at $3.71 with a $6.53 billion cap after a 29% daily surge—the token had just hit an all-time high of $3.88.
-
-That's a lot of value sloshing around for a token with questionable distribution.
-
-Blockchain visualization platform Bubblemaps data reveals the second-largest holder, wallet "0x8b8," controls 50 million M tokens worth approximately $178 million—21.77% of total supply. The Binance Deposit address sits as the largest holder at 41.3%.
-
-Bubblemaps analyst 0xToolman offered some nuance, telling Cointelegraph the "pattern looks like team holdings" that may not be in circulation yet. But that distinction matters less when retail traders are buying at inflated prices against locked supply they can't see.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-da2098dc74dd983fec308013ddedc20a7fef4032</guid>
-      <title>BNX Eyes $2.10 Breakout as Technical Momentum Builds | BNX sits at $1.78 with clean technical structure pointing toward $2.10, offering 18% upsi... https://Blockchain.News/news/20260420-prediction-bnx-eyes-210-breakout-as-technical-momentum</title>
-      <link>https://Blockchain.News/news/20260420-prediction-bnx-eyes-210-breakout-as-technical-momentum</link>
-      <pubDate>Mon, 20 Apr 2026 14:03:07 GMT</pubDate>
-      <description><![CDATA[Original title: BNX Eyes $2.10 Breakout as Technical Momentum Builds
-Summary: BNX sits at $1.78 with clean technical structure pointing toward $2.10, offering 18% upside as the token holds well above key moving averages despite stretched positioning.
-Article text: BNX sits at $1.78 with clean technical structure pointing toward $2.10, offering 18% upside as the token holds well above key moving averages despite stretched positioning.
-
-BNX trades at $1.78, positioned 144% above its 200-day moving average of $0.73. This massive gap above long-term support creates a foundation that's held through recent consolidation phases. The price action shows consistent strength above all major moving averages, with buyers stepping in at each minor pullback.
-
-The RSI reading of 65.85 sits in neutral territory - elevated enough to show momentum but not screaming into overbought extremes. Meanwhile, the Bollinger Band position at 1.05 indicates the token is testing upper boundaries without wild extension. The MACD histogram hovers near zero, suggesting consolidation rather than exhaustion at these levels.
-
-Daily volume of $768K on Binance reflects steady participation rather than speculative spikes. The trading range between $1.73 and $1.83 shows disciplined accumulation, with the 2.81% daily gain occurring within controlled parameters. Each dip toward $1.73 support has been met with buying interest, creating a reliable floor for the current structure.
-
-The funding rate sits neutral at 0.0050%, indicating balanced positioning in derivatives markets. When spot price makes progress without futures markets getting overheated, it typically signals genuine demand rather than leverage-driven moves.
-
-The immediate resistance at $1.83 represents the next hurdle before a clear path opens toward $2.10. This target offers approximately 18% upside from current levels and aligns with measured move projections from the recent consolidation pattern. Breaking above $1.88 would likely trigger momentum that carries through to the full target.
-
-Downside protection remains solid above $1.68, where stronger support levels converge. Any pullback toward $1.73 would provide better entry opportunities for those looking to participate in the potential move higher.
-
-The technical structure suggests BNX has room to run toward $2.10 over the coming weeks, assuming the broader market environment remains supportive. The combination of strong positioning above moving averages, controlled momentum readings, and steady volume participation creates conditions that favor continued upside.
-
-Risk management remains crucial given the extended nature of the current move, but the underlying structure supports the bullish case for now.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-BNX sits at $1.78 with clean technical structure pointing toward $2.10, offering 18% upside as the token holds well above key moving averages despite stretched positioning.
-
-BNX trades at $1.78, positioned 144% above its 200-day moving average of $0.73. This massive gap above long-term support creates a foundation that's held through recent consolidation phases. The price action shows consistent strength above all major moving averages, with buyers stepping in at each minor pullback.
-
-The RSI reading of 65.85 sits in neutral territory - elevated enough to show momentum but not screaming into overbought extremes. Meanwhile, the Bollinger Band position at 1.05 indicates the token is testing upper boundaries without wild extension. The MACD histogram hovers near zero, suggesting consolidation rather than exhaustion at these levels.
-
-Daily volume of $768K on Binance reflects steady participation rather than speculative spikes. The trading range between $1.73 and $1.83 shows disciplined accumulation, with the 2.81% daily gain occurring within controlled parameters. Each dip toward $1.73 support has been met with buying interest, creating a reliable floor for the current structure.
-
-The funding rate sits neutral at 0.0050%, indicating balanced positioning in derivatives markets. When spot price makes progress without futures markets getting overheated, it typically signals genuine demand rather than leverage-driven moves.
-
-The immediate resistance at $1.83 represents the next hurdle before a clear path opens toward $2.10. This target offers approximately 18% upside from current levels and aligns with measured move projections from the recent consolidation pattern. Breaking above $1.88 would likely trigger momentum that carries through to the full target.
-
-Downside protection remains solid above $1.68, where stronger support levels converge. Any pullback toward $1.73 would provide better entry opportunities for those looking to participate in the potential move higher.
-
-The technical structure suggests BNX has room to run toward $2.10 over the coming weeks, assuming the broader market environment remains supportive. The combination of strong positioning above moving averages, controlled momentum readings, and steady volume participation creates conditions that favor continued upside.
-
-Risk management remains crucial given the extended nature of the current move, but the underlying structure supports the bullish case for now.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-Source: https://Blockchain.News/news/20260420-prediction-bnx-eyes-210-breakout-as-technical-momentum]]></description>
-      <content:encoded><![CDATA[BNX sits at $1.78 with clean technical structure pointing toward $2.10, offering 18% upside as the token holds well above key moving averages despite stretched positioning.
-
-BNX trades at $1.78, positioned 144% above its 200-day moving average of $0.73. This massive gap above long-term support creates a foundation that's held through recent consolidation phases. The price action shows consistent strength above all major moving averages, with buyers stepping in at each minor pullback.
-
-The RSI reading of 65.85 sits in neutral territory - elevated enough to show momentum but not screaming into overbought extremes. Meanwhile, the Bollinger Band position at 1.05 indicates the token is testing upper boundaries without wild extension. The MACD histogram hovers near zero, suggesting consolidation rather than exhaustion at these levels.
-
-Daily volume of $768K on Binance reflects steady participation rather than speculative spikes. The trading range between $1.73 and $1.83 shows disciplined accumulation, with the 2.81% daily gain occurring within controlled parameters. Each dip toward $1.73 support has been met with buying interest, creating a reliable floor for the current structure.
-
-The funding rate sits neutral at 0.0050%, indicating balanced positioning in derivatives markets. When spot price makes progress without futures markets getting overheated, it typically signals genuine demand rather than leverage-driven moves.
-
-The immediate resistance at $1.83 represents the next hurdle before a clear path opens toward $2.10. This target offers approximately 18% upside from current levels and aligns with measured move projections from the recent consolidation pattern. Breaking above $1.88 would likely trigger momentum that carries through to the full target.
-
-Downside protection remains solid above $1.68, where stronger support levels converge. Any pullback toward $1.73 would provide better entry opportunities for those looking to participate in the potential move higher.
-
-The technical structure suggests BNX has room to run toward $2.10 over the coming weeks, assuming the broader market environment remains supportive. The combination of strong positioning above moving averages, controlled momentum readings, and steady volume participation creates conditions that favor continued upside.
-
-Risk management remains crucial given the extended nature of the current move, but the underlying structure supports the bullish case for now.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-BNX sits at $1.78 with clean technical structure pointing toward $2.10, offering 18% upside as the token holds well above key moving averages despite stretched positioning.
-
-BNX trades at $1.78, positioned 144% above its 200-day moving average of $0.73. This massive gap above long-term support creates a foundation that's held through recent consolidation phases. The price action shows consistent strength above all major moving averages, with buyers stepping in at each minor pullback.
-
-The RSI reading of 65.85 sits in neutral territory - elevated enough to show momentum but not screaming into overbought extremes. Meanwhile, the Bollinger Band position at 1.05 indicates the token is testing upper boundaries without wild extension. The MACD histogram hovers near zero, suggesting consolidation rather than exhaustion at these levels.
-
-Daily volume of $768K on Binance reflects steady participation rather than speculative spikes. The trading range between $1.73 and $1.83 shows disciplined accumulation, with the 2.81% daily gain occurring within controlled parameters. Each dip toward $1.73 support has been met with buying interest, creating a reliable floor for the current structure.
-
-The funding rate sits neutral at 0.0050%, indicating balanced positioning in derivatives markets. When spot price makes progress without futures markets getting overheated, it typically signals genuine demand rather than leverage-driven moves.
-
-The immediate resistance at $1.83 represents the next hurdle before a clear path opens toward $2.10. This target offers approximately 18% upside from current levels and aligns with measured move projections from the recent consolidation pattern. Breaking above $1.88 would likely trigger momentum that carries through to the full target.
-
-Downside protection remains solid above $1.68, where stronger support levels converge. Any pullback toward $1.73 would provide better entry opportunities for those looking to participate in the potential move higher.
-
-The technical structure suggests BNX has room to run toward $2.10 over the coming weeks, assuming the broader market environment remains supportive. The combination of strong positioning above moving averages, controlled momentum readings, and steady volume participation creates conditions that favor continued upside.
-
-Risk management remains crucial given the extended nature of the current move, but the underlying structure supports the bullish case for now.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-438c952277633de76e15b47bf4b156c7aba8de62</guid>
-      <title>NVIDIA OpenShell Powers Adobe AI Agents for Enterprise Marketing | Adobe and NVIDIA deploy AI agents with OpenShell security runtime for enterprise marketin... https://Blockchain.News/news/nvidia-openshell-adobe-ai-agents-enterprise-marketing</title>
-      <link>https://Blockchain.News/news/nvidia-openshell-adobe-ai-agents-enterprise-marketing</link>
-      <pubDate>Mon, 20 Apr 2026 13:48:59 GMT</pubDate>
-      <description><![CDATA[Original title: NVIDIA OpenShell Powers Adobe AI Agents for Enterprise Marketing
-Summary: Adobe and NVIDIA deploy AI agents with OpenShell security runtime for enterprise marketing, featuring policy-governed content creation at scale.
-Article text: Adobe and NVIDIA deploy AI agents with OpenShell security runtime for enterprise marketing, featuring policy-governed content creation at scale.
-
-Adobe and NVIDIA are deploying autonomous AI agents for enterprise marketing operations, with the NVIDIA OpenShell security runtime serving as the policy enforcement layer that keeps these systems from going rogue. The collaboration, which also includes advertising giant WPP, was announced Monday ahead of Adobe Summit.
-
-The centerpiece is Adobe's CX Enterprise Coworker, an AI agent system that can generate, adapt, and activate marketing content across millions of product and audience combinations. What makes this different from the AI slop flooding the internet? These agents operate within NVIDIA's OpenShell sandbox, which enforces security policies at runtime without altering the AI's output.
-
-Think of OpenShell as a bouncer for AI agents. It intercepts every action an agent attempts, checks it against predefined rules, and blocks anything that falls outside approved boundaries. For a global retailer running personalized campaigns across dozens of markets, that means the AI can't accidentally access customer data it shouldn't touch or push content that violates brand guidelines.
-
-NVIDIA first expanded its enterprise AI push with OpenShell in mid-March, releasing the runtime as open-source under the Apache 2.0 license. The move addressed a growing concern: autonomous agents that can reason and act dynamically create security gaps that traditional firewalls weren't designed to handle. OpenShell uses declarative YAML configuration files—human-readable, version-controllable, auditable—to define what agents can and cannot do.
-
-The technical stack combines Adobe's creative platforms with NVIDIA's Nemotron models and Agent Toolkit. Adobe Firefly Foundry, running on NVIDIA infrastructure, lets organizations train custom models on proprietary assets. The result is content generation that stays legally clean and brand-consistent.
-
-Adobe's 3D digital twin solution, built on NVIDIA Omniverse and OpenUSD, hit general availability as part of the announcement. These digital twins act as persistent product identities that AI agents reference when generating marketing assets—ensuring a shoe looks the same whether it appears in a Facebook ad, email campaign, or in-store display.
-
-A live demo runs Tuesday at Adobe Summit's keynote, 9 a.m. PT. NVIDIA CEO Jensen Huang joins Adobe CEO Shantanu Narayen for a fireside chat today at 2:20 p.m. PT. For enterprises watching the AI agent space, this partnership signals where the security infrastructure is heading: policy enforcement baked into the runtime layer, not bolted on after deployment.
-
-Adobe and NVIDIA deploy AI agents with OpenShell security runtime for enterprise marketing, featuring policy-governed content creation at scale.
-
-Adobe and NVIDIA are deploying autonomous AI agents for enterprise marketing operations, with the NVIDIA OpenShell security runtime serving as the policy enforcement layer that keeps these systems from going rogue. The collaboration, which also includes advertising giant WPP, was announced Monday ahead of Adobe Summit.
-
-The centerpiece is Adobe's CX Enterprise Coworker, an AI agent system that can generate, adapt, and activate marketing content across millions of product and audience combinations. What makes this different from the AI slop flooding the internet? These agents operate within NVIDIA's OpenShell sandbox, which enforces security policies at runtime without altering the AI's output.
-
-Think of OpenShell as a bouncer for AI agents. It intercepts every action an agent attempts, checks it against predefined rules, and blocks anything that falls outside approved boundaries. For a global retailer running personalized campaigns across dozens of markets, that means the AI can't accidentally access customer data it shouldn't touch or push content that violates brand guidelines.
-
-NVIDIA first expanded its enterprise AI push with OpenShell in mid-March, releasing the runtime as open-source under the Apache 2.0 license. The move addressed a growing concern: autonomous agents that can reason and act dynamically create security gaps that traditional firewalls weren't designed to handle. OpenShell uses declarative YAML configuration files—human-readable, version-controllable, auditable—to define what agents can and cannot do.
-
-The technical stack combines Adobe's creative platforms with NVIDIA's Nemotron models and Agent Toolkit. Adobe Firefly Foundry, running on NVIDIA infrastructure, lets organizations train custom models on proprietary assets. The result is content generation that stays legally clean and brand-consistent.
-
-Adobe's 3D digital twin solution, built on NVIDIA Omniverse and OpenUSD, hit general availability as part of the announcement. These digital twins act as persistent product identities that AI agents reference when generating marketing assets—ensuring a shoe looks the same whether it appears in a Facebook ad, email campaign, or in-store display.
-
-A live demo runs Tuesday at Adobe Summit's keynote, 9 a.m. PT. NVIDIA CEO Jensen Huang joins Adobe CEO Shantanu Narayen for a fireside chat today at 2:20 p.m. PT. For enterprises watching the AI agent space, this partnership signals where the security infrastructure is heading: policy enforcement baked into the runtime layer, not bolted on after deployment.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/nvidia-openshell-adobe-ai-agents-enterprise-marketing]]></description>
-      <content:encoded><![CDATA[Adobe and NVIDIA deploy AI agents with OpenShell security runtime for enterprise marketing, featuring policy-governed content creation at scale.
-
-Adobe and NVIDIA are deploying autonomous AI agents for enterprise marketing operations, with the NVIDIA OpenShell security runtime serving as the policy enforcement layer that keeps these systems from going rogue. The collaboration, which also includes advertising giant WPP, was announced Monday ahead of Adobe Summit.
-
-The centerpiece is Adobe's CX Enterprise Coworker, an AI agent system that can generate, adapt, and activate marketing content across millions of product and audience combinations. What makes this different from the AI slop flooding the internet? These agents operate within NVIDIA's OpenShell sandbox, which enforces security policies at runtime without altering the AI's output.
-
-Think of OpenShell as a bouncer for AI agents. It intercepts every action an agent attempts, checks it against predefined rules, and blocks anything that falls outside approved boundaries. For a global retailer running personalized campaigns across dozens of markets, that means the AI can't accidentally access customer data it shouldn't touch or push content that violates brand guidelines.
-
-NVIDIA first expanded its enterprise AI push with OpenShell in mid-March, releasing the runtime as open-source under the Apache 2.0 license. The move addressed a growing concern: autonomous agents that can reason and act dynamically create security gaps that traditional firewalls weren't designed to handle. OpenShell uses declarative YAML configuration files—human-readable, version-controllable, auditable—to define what agents can and cannot do.
-
-The technical stack combines Adobe's creative platforms with NVIDIA's Nemotron models and Agent Toolkit. Adobe Firefly Foundry, running on NVIDIA infrastructure, lets organizations train custom models on proprietary assets. The result is content generation that stays legally clean and brand-consistent.
-
-Adobe's 3D digital twin solution, built on NVIDIA Omniverse and OpenUSD, hit general availability as part of the announcement. These digital twins act as persistent product identities that AI agents reference when generating marketing assets—ensuring a shoe looks the same whether it appears in a Facebook ad, email campaign, or in-store display.
-
-A live demo runs Tuesday at Adobe Summit's keynote, 9 a.m. PT. NVIDIA CEO Jensen Huang joins Adobe CEO Shantanu Narayen for a fireside chat today at 2:20 p.m. PT. For enterprises watching the AI agent space, this partnership signals where the security infrastructure is heading: policy enforcement baked into the runtime layer, not bolted on after deployment.
-
-Adobe and NVIDIA deploy AI agents with OpenShell security runtime for enterprise marketing, featuring policy-governed content creation at scale.
-
-Adobe and NVIDIA are deploying autonomous AI agents for enterprise marketing operations, with the NVIDIA OpenShell security runtime serving as the policy enforcement layer that keeps these systems from going rogue. The collaboration, which also includes advertising giant WPP, was announced Monday ahead of Adobe Summit.
-
-The centerpiece is Adobe's CX Enterprise Coworker, an AI agent system that can generate, adapt, and activate marketing content across millions of product and audience combinations. What makes this different from the AI slop flooding the internet? These agents operate within NVIDIA's OpenShell sandbox, which enforces security policies at runtime without altering the AI's output.
-
-Think of OpenShell as a bouncer for AI agents. It intercepts every action an agent attempts, checks it against predefined rules, and blocks anything that falls outside approved boundaries. For a global retailer running personalized campaigns across dozens of markets, that means the AI can't accidentally access customer data it shouldn't touch or push content that violates brand guidelines.
-
-NVIDIA first expanded its enterprise AI push with OpenShell in mid-March, releasing the runtime as open-source under the Apache 2.0 license. The move addressed a growing concern: autonomous agents that can reason and act dynamically create security gaps that traditional firewalls weren't designed to handle. OpenShell uses declarative YAML configuration files—human-readable, version-controllable, auditable—to define what agents can and cannot do.
-
-The technical stack combines Adobe's creative platforms with NVIDIA's Nemotron models and Agent Toolkit. Adobe Firefly Foundry, running on NVIDIA infrastructure, lets organizations train custom models on proprietary assets. The result is content generation that stays legally clean and brand-consistent.
-
-Adobe's 3D digital twin solution, built on NVIDIA Omniverse and OpenUSD, hit general availability as part of the announcement. These digital twins act as persistent product identities that AI agents reference when generating marketing assets—ensuring a shoe looks the same whether it appears in a Facebook ad, email campaign, or in-store display.
-
-A live demo runs Tuesday at Adobe Summit's keynote, 9 a.m. PT. NVIDIA CEO Jensen Huang joins Adobe CEO Shantanu Narayen for a fireside chat today at 2:20 p.m. PT. For enterprises watching the AI agent space, this partnership signals where the security infrastructure is heading: policy enforcement baked into the runtime layer, not bolted on after deployment.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
     </item>
   </channel>
 </rss>
