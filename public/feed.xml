@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Fri, 24 Apr 2026 13:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 18:42:57 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-348e6ab467e88c4efb94f5636df386a267b99b87</guid>
+      <title>Google&apos;s Decoupled DiLoCo Redefines Distributed AI Training | Google&apos;s Decoupled DiLoCo architecture enables faster, resilient AI training across data... https://Blockchain.News/news/google-decoupled-diloco-distributed-ai</title>
+      <link>https://Blockchain.News/news/google-decoupled-diloco-distributed-ai</link>
+      <pubDate>Thu, 23 Apr 2026 15:20:24 GMT</pubDate>
+      <description><![CDATA[Original title: Google's Decoupled DiLoCo Redefines Distributed AI Training
+Summary: Google's Decoupled DiLoCo architecture enables faster, resilient AI training across data centers, leveraging mixed-generation hardware for efficiency.
+Article text: Google's Decoupled DiLoCo architecture enables faster, resilient AI training across data centers, leveraging mixed-generation hardware for efficiency.
+
+Google has unveiled its Decoupled DiLoCo architecture, a breakthrough in distributed AI training that promises unprecedented efficiency and resilience, even in the face of hardware failures. The system successfully trained a 12-billion-parameter model across four U.S. regions, completing the process over 20 times faster than traditional synchronization methods, according to the announcement on April 23, 2026.
+
+What makes DiLoCo stand out is its ability to keep AI training runs on track across geographically distant data centers using standard internet-level bandwidth—between 2 to 5 Gbps. This eliminates the need for costly, custom networking infrastructure. Instead of traditional "blocking" bottlenecks where one system component must wait for another, DiLoCo integrates communication into extended computation periods, maximizing throughput.
+
+Decoupled DiLoCo is more than just a speed boost. It’s a paradigm shift in how AI training infrastructure leverages existing resources. By enabling training jobs to run at internet-scale bandwidth, the system can utilize otherwise idle compute power across various locations. This capability not only optimizes efficiency but also extends the lifecycle of older hardware.
+
+A notable feature of the system is its ability to mix different hardware generations—such as TPU v6e and TPU v5p—within a single training session. Google’s tests demonstrated that heterogeneous setups maintained performance parity with single-generation configurations. This compatibility allows organizations to avoid bottlenecks caused by staggered hardware rollouts while extracting more value from legacy equipment.
+
+"Being able to train across generations alleviates logistical and capacity constraints," the Google DiLoCo team stated. This flexibility is increasingly crucial as hardware advancements often arrive unevenly across global data centers.
+
+As AI models balloon in size and complexity, the infrastructure supporting their training becomes a competitive differentiator. Google’s full-stack approach—combining hardware, software, and research—positions it to tackle the escalating compute demands of next-gen AI systems. Decoupled DiLoCo underscores this strategy, showcasing how rethinking the interaction between infrastructure layers can unlock new efficiency gains.
+
+Beyond practical applications, this architecture could set a standard for distributed AI training, particularly for organizations seeking to scale without overhauling their existing setups. By democratizing access to high-performance training across mixed hardware, DiLoCo may lower barriers for smaller players in the AI field.
+
+Google hinted at ongoing explorations to further enhance AI infrastructure resilience. While the company didn’t specify upcoming milestones, the successful deployment of DiLoCo signals a broader push toward scalable, flexible, and efficient systems that can support the rapidly evolving demands of AI research.
+
+For enterprises and researchers alike, DiLoCo isn’t just a technical success—it’s a glimpse into the future of distributed computing. How quickly others adopt similar architectures could shape the competitive dynamics of the AI industry in the years ahead.
+
+Google's Decoupled DiLoCo architecture enables faster, resilient AI training across data centers, leveraging mixed-generation hardware for efficiency.
+
+Google has unveiled its Decoupled DiLoCo architecture, a breakthrough in distributed AI training that promises unprecedented efficiency and resilience, even in the face of hardware failures. The system successfully trained a 12-billion-parameter model across four U.S. regions, completing the process over 20 times faster than traditional synchronization methods, according to the announcement on April 23, 2026.
+
+What makes DiLoCo stand out is its ability to keep AI training runs on track across geographically distant data centers using standard internet-level bandwidth—between 2 to 5 Gbps. This eliminates the need for costly, custom networking infrastructure. Instead of traditional "blocking" bottlenecks where one system component must wait for another, DiLoCo integrates communication into extended computation periods, maximizing throughput.
+
+Decoupled DiLoCo is more than just a speed boost. It’s a paradigm shift in how AI training infrastructure leverages existing resources. By enabling training jobs to run at internet-scale bandwidth, the system can utilize otherwise idle compute power across various locations. This capability not only optimizes efficiency but also extends the lifecycle of older hardware.
+
+A notable feature of the system is its ability to mix different hardware generations—such as TPU v6e and TPU v5p—within a single training session. Google’s tests demonstrated that heterogeneous setups maintained performance parity with single-generation configurations. This compatibility allows organizations to avoid bottlenecks caused by staggered hardware rollouts while extracting more value from legacy equipment.
+
+"Being able to train across generations alleviates logistical and capacity constraints," the Google DiLoCo team stated. This flexibility is increasingly crucial as hardware advancements often arrive unevenly across global data centers.
+
+As AI models balloon in size and complexity, the infrastructure supporting their training becomes a competitive differentiator. Google’s full-stack approach—combining hardware, software, and research—positions it to tackle the escalating compute demands of next-gen AI systems. Decoupled DiLoCo underscores this strategy, showcasing how rethinking the interaction between infrastructure layers can unlock new efficiency gains.
+
+Beyond practical applications, this architecture could set a standard for distributed AI training, particularly for organizations seeking to scale without overhauling their existing setups. By democratizing access to high-performance training across mixed hardware, DiLoCo may lower barriers for smaller players in the AI field.
+
+Google hinted at ongoing explorations to further enhance AI infrastructure resilience. While the company didn’t specify upcoming milestones, the successful deployment of DiLoCo signals a broader push toward scalable, flexible, and efficient systems that can support the rapidly evolving demands of AI research.
+
+For enterprises and researchers alike, DiLoCo isn’t just a technical success—it’s a glimpse into the future of distributed computing. How quickly others adopt similar architectures could shape the competitive dynamics of the AI industry in the years ahead.
+Source: https://Blockchain.News/news/google-decoupled-diloco-distributed-ai]]></description>
+      <content:encoded><![CDATA[Google's Decoupled DiLoCo architecture enables faster, resilient AI training across data centers, leveraging mixed-generation hardware for efficiency.
+
+Google has unveiled its Decoupled DiLoCo architecture, a breakthrough in distributed AI training that promises unprecedented efficiency and resilience, even in the face of hardware failures. The system successfully trained a 12-billion-parameter model across four U.S. regions, completing the process over 20 times faster than traditional synchronization methods, according to the announcement on April 23, 2026.
+
+What makes DiLoCo stand out is its ability to keep AI training runs on track across geographically distant data centers using standard internet-level bandwidth—between 2 to 5 Gbps. This eliminates the need for costly, custom networking infrastructure. Instead of traditional "blocking" bottlenecks where one system component must wait for another, DiLoCo integrates communication into extended computation periods, maximizing throughput.
+
+Decoupled DiLoCo is more than just a speed boost. It’s a paradigm shift in how AI training infrastructure leverages existing resources. By enabling training jobs to run at internet-scale bandwidth, the system can utilize otherwise idle compute power across various locations. This capability not only optimizes efficiency but also extends the lifecycle of older hardware.
+
+A notable feature of the system is its ability to mix different hardware generations—such as TPU v6e and TPU v5p—within a single training session. Google’s tests demonstrated that heterogeneous setups maintained performance parity with single-generation configurations. This compatibility allows organizations to avoid bottlenecks caused by staggered hardware rollouts while extracting more value from legacy equipment.
+
+"Being able to train across generations alleviates logistical and capacity constraints," the Google DiLoCo team stated. This flexibility is increasingly crucial as hardware advancements often arrive unevenly across global data centers.
+
+As AI models balloon in size and complexity, the infrastructure supporting their training becomes a competitive differentiator. Google’s full-stack approach—combining hardware, software, and research—positions it to tackle the escalating compute demands of next-gen AI systems. Decoupled DiLoCo underscores this strategy, showcasing how rethinking the interaction between infrastructure layers can unlock new efficiency gains.
+
+Beyond practical applications, this architecture could set a standard for distributed AI training, particularly for organizations seeking to scale without overhauling their existing setups. By democratizing access to high-performance training across mixed hardware, DiLoCo may lower barriers for smaller players in the AI field.
+
+Google hinted at ongoing explorations to further enhance AI infrastructure resilience. While the company didn’t specify upcoming milestones, the successful deployment of DiLoCo signals a broader push toward scalable, flexible, and efficient systems that can support the rapidly evolving demands of AI research.
+
+For enterprises and researchers alike, DiLoCo isn’t just a technical success—it’s a glimpse into the future of distributed computing. How quickly others adopt similar architectures could shape the competitive dynamics of the AI industry in the years ahead.
+
+Google's Decoupled DiLoCo architecture enables faster, resilient AI training across data centers, leveraging mixed-generation hardware for efficiency.
+
+Google has unveiled its Decoupled DiLoCo architecture, a breakthrough in distributed AI training that promises unprecedented efficiency and resilience, even in the face of hardware failures. The system successfully trained a 12-billion-parameter model across four U.S. regions, completing the process over 20 times faster than traditional synchronization methods, according to the announcement on April 23, 2026.
+
+What makes DiLoCo stand out is its ability to keep AI training runs on track across geographically distant data centers using standard internet-level bandwidth—between 2 to 5 Gbps. This eliminates the need for costly, custom networking infrastructure. Instead of traditional "blocking" bottlenecks where one system component must wait for another, DiLoCo integrates communication into extended computation periods, maximizing throughput.
+
+Decoupled DiLoCo is more than just a speed boost. It’s a paradigm shift in how AI training infrastructure leverages existing resources. By enabling training jobs to run at internet-scale bandwidth, the system can utilize otherwise idle compute power across various locations. This capability not only optimizes efficiency but also extends the lifecycle of older hardware.
+
+A notable feature of the system is its ability to mix different hardware generations—such as TPU v6e and TPU v5p—within a single training session. Google’s tests demonstrated that heterogeneous setups maintained performance parity with single-generation configurations. This compatibility allows organizations to avoid bottlenecks caused by staggered hardware rollouts while extracting more value from legacy equipment.
+
+"Being able to train across generations alleviates logistical and capacity constraints," the Google DiLoCo team stated. This flexibility is increasingly crucial as hardware advancements often arrive unevenly across global data centers.
+
+As AI models balloon in size and complexity, the infrastructure supporting their training becomes a competitive differentiator. Google’s full-stack approach—combining hardware, software, and research—positions it to tackle the escalating compute demands of next-gen AI systems. Decoupled DiLoCo underscores this strategy, showcasing how rethinking the interaction between infrastructure layers can unlock new efficiency gains.
+
+Beyond practical applications, this architecture could set a standard for distributed AI training, particularly for organizations seeking to scale without overhauling their existing setups. By democratizing access to high-performance training across mixed hardware, DiLoCo may lower barriers for smaller players in the AI field.
+
+Google hinted at ongoing explorations to further enhance AI infrastructure resilience. While the company didn’t specify upcoming milestones, the successful deployment of DiLoCo signals a broader push toward scalable, flexible, and efficient systems that can support the rapidly evolving demands of AI research.
+
+For enterprises and researchers alike, DiLoCo isn’t just a technical success—it’s a glimpse into the future of distributed computing. How quickly others adopt similar architectures could shape the competitive dynamics of the AI industry in the years ahead.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-98e8351388e190edb35f63173d08e633dba71896</guid>
+      <title>Zerion Wallet Adds Uniswap (UNI) API for Native Swaps | Zerion Wallet now integrates Uniswap (UNI) API, enabling swaps with access to liquidity f... https://Blockchain.News/news/zerion-wallet-uniswap-api-integration</title>
+      <link>https://Blockchain.News/news/zerion-wallet-uniswap-api-integration</link>
+      <pubDate>Thu, 23 Apr 2026 15:12:24 GMT</pubDate>
+      <description><![CDATA[Original title: Zerion Wallet Adds Uniswap (UNI) API for Native Swaps
+Summary: Zerion Wallet now integrates Uniswap (UNI) API, enabling swaps with access to liquidity from Uniswap v2, v3, and v4 across 18 chains.
+Article text: Zerion Wallet now integrates Uniswap (UNI) API, enabling swaps with access to liquidity from Uniswap v2, v3, and v4 across 18 chains.
+
+Zerion Wallet has integrated the Uniswap (UNI) API, giving its users direct access to Uniswap’s liquidity pools, including v2, v3, and the recently launched v4. This move significantly enhances Zerion’s swap functionality by providing deep liquidity, competitive pricing, and coverage of over 10 million assets across 18 blockchains, including Ethereum, Arbitrum, and Polygon.
+
+The integration leverages Uniswap's API, the same infrastructure trusted by popular platforms like MetaMask, Ledger, and OKX. According to Uniswap Labs, the API delivers 99.99% uptime, a 97%+ fill rate, and routing speeds averaging around 200 milliseconds. This ensures seamless and reliable swap execution for Zerion users.
+
+For Zerion, a non-custodial Web3 wallet that aggregates DeFi and NFT portfolios across multiple chains, the integration is a natural progression. With this update, Zerion users can now execute swaps directly within the app without relying on external DEX aggregators. This simplifies user experience while tapping into Uniswap’s historically strong price performance compared to other aggregators.
+
+Uniswap’s API doesn’t just offer liquidity—it brings price improvement mechanisms through features like order flow auctions, which reduce slippage and optimize trading costs. These features are critical for Zerion, whose value proposition centers on providing a streamlined, efficient DeFi experience.
+
+The announcement comes less than two weeks after Zerion faced a security breach in mid-April 2026. Approximately $100,000 was stolen from an internal hot wallet via an AI-driven social engineering attack allegedly tied to North Korean hackers. Zerion clarified that no user funds were affected, and its core infrastructure remained secure. The web app was temporarily disabled as a precaution but has since been restored.
+
+Despite the incident, Zerion has demonstrated resilience by continuing to enhance its product offerings. This Uniswap integration reaffirms the company’s commitment to maintaining its edge in the competitive DeFi wallet space.
+
+The integration underscores the growing interdependence between DeFi wallets and decentralized exchanges. By embedding Uniswap’s API, Zerion effectively bridges the gap between liquidity providers and end-users. This trend highlights the importance of composability in Web3, where open protocols like Uniswap empower developers to build seamless user experiences.
+
+For traders, this development could make Zerion a more attractive option for managing and trading assets, especially given its cross-chain support and user-friendly interface. While Zerion doesn’t support Bitcoin, its Ethereum-compatible network coverage remains extensive, catering to DeFi power users.
+
+Zerion’s integration of Uniswap API positions it as a more robust competitor in the DeFi wallet space. As decentralized finance continues to evolve, user experience and access to liquidity will remain key differentiators. Traders and investors looking for an all-in-one solution to manage and trade assets might find Zerion’s latest upgrade worth exploring.
+
+Meanwhile, developers eyeing similar functionalities can also integrate the Uniswap API into their applications for free, with no subscription fees or per-call charges. This could further accelerate innovation in the DeFi ecosystem.
+
+Zerion Wallet now integrates Uniswap (UNI) API, enabling swaps with access to liquidity from Uniswap v2, v3, and v4 across 18 chains.
+
+Zerion Wallet has integrated the Uniswap (UNI) API, giving its users direct access to Uniswap’s liquidity pools, including v2, v3, and the recently launched v4. This move significantly enhances Zerion’s swap functionality by providing deep liquidity, competitive pricing, and coverage of over 10 million assets across 18 blockchains, including Ethereum, Arbitrum, and Polygon.
+
+The integration leverages Uniswap's API, the same infrastructure trusted by popular platforms like MetaMask, Ledger, and OKX. According to Uniswap Labs, the API delivers 99.99% uptime, a 97%+ fill rate, and routing speeds averaging around 200 milliseconds. This ensures seamless and reliable swap execution for Zerion users.
+
+For Zerion, a non-custodial Web3 wallet that aggregates DeFi and NFT portfolios across multiple chains, the integration is a natural progression. With this update, Zerion users can now execute swaps directly within the app without relying on external DEX aggregators. This simplifies user experience while tapping into Uniswap’s historically strong price performance compared to other aggregators.
+
+Uniswap’s API doesn’t just offer liquidity—it brings price improvement mechanisms through features like order flow auctions, which reduce slippage and optimize trading costs. These features are critical for Zerion, whose value proposition centers on providing a streamlined, efficient DeFi experience.
+
+The announcement comes less than two weeks after Zerion faced a security breach in mid-April 2026. Approximately $100,000 was stolen from an internal hot wallet via an AI-driven social engineering attack allegedly tied to North Korean hackers. Zerion clarified that no user funds were affected, and its core infrastructure remained secure. The web app was temporarily disabled as a precaution but has since been restored.
+
+Despite the incident, Zerion has demonstrated resilience by continuing to enhance its product offerings. This Uniswap integration reaffirms the company’s commitment to maintaining its edge in the competitive DeFi wallet space.
+
+The integration underscores the growing interdependence between DeFi wallets and decentralized exchanges. By embedding Uniswap’s API, Zerion effectively bridges the gap between liquidity providers and end-users. This trend highlights the importance of composability in Web3, where open protocols like Uniswap empower developers to build seamless user experiences.
+
+For traders, this development could make Zerion a more attractive option for managing and trading assets, especially given its cross-chain support and user-friendly interface. While Zerion doesn’t support Bitcoin, its Ethereum-compatible network coverage remains extensive, catering to DeFi power users.
+Source: https://Blockchain.News/news/zerion-wallet-uniswap-api-integration]]></description>
+      <content:encoded><![CDATA[Zerion Wallet now integrates Uniswap (UNI) API, enabling swaps with access to liquidity from Uniswap v2, v3, and v4 across 18 chains.
+
+Zerion Wallet has integrated the Uniswap (UNI) API, giving its users direct access to Uniswap’s liquidity pools, including v2, v3, and the recently launched v4. This move significantly enhances Zerion’s swap functionality by providing deep liquidity, competitive pricing, and coverage of over 10 million assets across 18 blockchains, including Ethereum, Arbitrum, and Polygon.
+
+The integration leverages Uniswap's API, the same infrastructure trusted by popular platforms like MetaMask, Ledger, and OKX. According to Uniswap Labs, the API delivers 99.99% uptime, a 97%+ fill rate, and routing speeds averaging around 200 milliseconds. This ensures seamless and reliable swap execution for Zerion users.
+
+For Zerion, a non-custodial Web3 wallet that aggregates DeFi and NFT portfolios across multiple chains, the integration is a natural progression. With this update, Zerion users can now execute swaps directly within the app without relying on external DEX aggregators. This simplifies user experience while tapping into Uniswap’s historically strong price performance compared to other aggregators.
+
+Uniswap’s API doesn’t just offer liquidity—it brings price improvement mechanisms through features like order flow auctions, which reduce slippage and optimize trading costs. These features are critical for Zerion, whose value proposition centers on providing a streamlined, efficient DeFi experience.
+
+The announcement comes less than two weeks after Zerion faced a security breach in mid-April 2026. Approximately $100,000 was stolen from an internal hot wallet via an AI-driven social engineering attack allegedly tied to North Korean hackers. Zerion clarified that no user funds were affected, and its core infrastructure remained secure. The web app was temporarily disabled as a precaution but has since been restored.
+
+Despite the incident, Zerion has demonstrated resilience by continuing to enhance its product offerings. This Uniswap integration reaffirms the company’s commitment to maintaining its edge in the competitive DeFi wallet space.
+
+The integration underscores the growing interdependence between DeFi wallets and decentralized exchanges. By embedding Uniswap’s API, Zerion effectively bridges the gap between liquidity providers and end-users. This trend highlights the importance of composability in Web3, where open protocols like Uniswap empower developers to build seamless user experiences.
+
+For traders, this development could make Zerion a more attractive option for managing and trading assets, especially given its cross-chain support and user-friendly interface. While Zerion doesn’t support Bitcoin, its Ethereum-compatible network coverage remains extensive, catering to DeFi power users.
+
+Zerion’s integration of Uniswap API positions it as a more robust competitor in the DeFi wallet space. As decentralized finance continues to evolve, user experience and access to liquidity will remain key differentiators. Traders and investors looking for an all-in-one solution to manage and trade assets might find Zerion’s latest upgrade worth exploring.
+
+Meanwhile, developers eyeing similar functionalities can also integrate the Uniswap API into their applications for free, with no subscription fees or per-call charges. This could further accelerate innovation in the DeFi ecosystem.
+
+Zerion Wallet now integrates Uniswap (UNI) API, enabling swaps with access to liquidity from Uniswap v2, v3, and v4 across 18 chains.
+
+Zerion Wallet has integrated the Uniswap (UNI) API, giving its users direct access to Uniswap’s liquidity pools, including v2, v3, and the recently launched v4. This move significantly enhances Zerion’s swap functionality by providing deep liquidity, competitive pricing, and coverage of over 10 million assets across 18 blockchains, including Ethereum, Arbitrum, and Polygon.
+
+The integration leverages Uniswap's API, the same infrastructure trusted by popular platforms like MetaMask, Ledger, and OKX. According to Uniswap Labs, the API delivers 99.99% uptime, a 97%+ fill rate, and routing speeds averaging around 200 milliseconds. This ensures seamless and reliable swap execution for Zerion users.
+
+For Zerion, a non-custodial Web3 wallet that aggregates DeFi and NFT portfolios across multiple chains, the integration is a natural progression. With this update, Zerion users can now execute swaps directly within the app without relying on external DEX aggregators. This simplifies user experience while tapping into Uniswap’s historically strong price performance compared to other aggregators.
+
+Uniswap’s API doesn’t just offer liquidity—it brings price improvement mechanisms through features like order flow auctions, which reduce slippage and optimize trading costs. These features are critical for Zerion, whose value proposition centers on providing a streamlined, efficient DeFi experience.
+
+The announcement comes less than two weeks after Zerion faced a security breach in mid-April 2026. Approximately $100,000 was stolen from an internal hot wallet via an AI-driven social engineering attack allegedly tied to North Korean hackers. Zerion clarified that no user funds were affected, and its core infrastructure remained secure. The web app was temporarily disabled as a precaution but has since been restored.
+
+Despite the incident, Zerion has demonstrated resilience by continuing to enhance its product offerings. This Uniswap integration reaffirms the company’s commitment to maintaining its edge in the competitive DeFi wallet space.
+
+The integration underscores the growing interdependence between DeFi wallets and decentralized exchanges. By embedding Uniswap’s API, Zerion effectively bridges the gap between liquidity providers and end-users. This trend highlights the importance of composability in Web3, where open protocols like Uniswap empower developers to build seamless user experiences.
+
+For traders, this development could make Zerion a more attractive option for managing and trading assets, especially given its cross-chain support and user-friendly interface. While Zerion doesn’t support Bitcoin, its Ethereum-compatible network coverage remains extensive, catering to DeFi power users.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-189f57245f8c334fd70354abdf6c4ff8036efd4c</guid>
+      <title>Stablecoins Reshape Banks, PSPs, and VASPs with Onchain Payments | Stablecoins like USDC are transforming financial institutions through real-time settlemen... https://Blockchain.News/news/stablecoins-reshape-financial-institutions</title>
+      <link>https://Blockchain.News/news/stablecoins-reshape-financial-institutions</link>
+      <pubDate>Thu, 23 Apr 2026 13:49:47 GMT</pubDate>
+      <description><![CDATA[Original title: Stablecoins Reshape Banks, PSPs, and VASPs with Onchain Payments
+Summary: Stablecoins like USDC are transforming financial institutions through real-time settlement, programmable finance, and 24/7 liquidity options.
+Article text: Stablecoins like USDC are transforming financial institutions through real-time settlement, programmable finance, and 24/7 liquidity options.
+
+Stablecoins, once viewed as disruptors to traditional financial systems, are now driving collaboration between banks, payment service providers (PSPs), and virtual asset service providers (VASPs). With 90% of institutions reportedly adopting or planning to adopt stablecoins, their integration into programmable finance and real-time payments is reshaping the financial ecosystem without eliminating the need for intermediaries.
+
+Take Visa’s partnership with Circle to use USDC for cross-border settlements. This collaboration highlights how traditional finance and digital assets are merging. Stablecoins like USDC offer near-instant settlement and interoperability, but banks still provide liquidity, PSPs enable customer payment flows, and VASPs ensure compliance and network access.
+
+Banks retain their role as liquidity providers but are now extending it into a 24/7 payments system. By adopting stablecoin rails, they can move funds across ledgers in real-time, reducing delays and prefunding requirements. For instance, USDC enables near-instant settlement, enhancing liquidity management for both banks and their corporate clients.
+
+With tools like the Circle Payments Network (CPN), banks can act as liquidity nodes, connecting global commerce to onchain settlement. This integration allows them to expand familiar services, such as foreign exchange and trade finance, into programmable formats while also offering new revenue streams in treasury and transaction management.
+
+For PSPs, stablecoins simplify settlement cycles by replacing card and wire systems with faster, programmable money flows. Using stablecoins like USDC or EURC, PSPs can complete transactions in minutes, improving liquidity and lowering operational costs. Merchants benefit from quicker payouts, unlocking revenue sooner, while PSPs expand internationally with more competitive settlement options.
+
+VASPs have evolved from operating at the fringe of finance to becoming essential bridges between digital and traditional systems. With their expertise in blockchain analytics, wallet infrastructure, and compliance, they enable institutions to transact securely onchain. Stablecoins provide VASPs with a regulated, auditable framework to facilitate cross-border settlements and custody services.
+
+The integration of programmable stablecoins into financial institutions is streamlining processes. Instead of duplicating compliance and settlement steps across multiple parties, programmable payments embed these rules directly into the transaction flow. Banks, PSPs, and VASPs now act as interoperable endpoints, enabling real-time data sharing, liquidity provisioning, and automated compliance.
+
+Circle’s CPN exemplifies this model, allowing institutions to settle transactions across borders with digital assets like USDC while maintaining regulatory oversight. By embedding compliance and reporting into each transaction, CPN facilitates faster, more transparent global commerce without sacrificing governance standards.
+
+Rather than replacing traditional finance, stablecoins augment it. Banks bring scale and oversight, PSPs deliver merchant connectivity, and VASPs ensure compliance. Together, these participants harness stablecoin programmability to create a financial system that is faster, more transparent, and increasingly borderless.
+
+As demand for real-time, flexible payments grows, institutions adopting stablecoin infrastructure today will be better positioned to lead tomorrow’s financial markets. Stablecoins are not just a disruptive force—they are the connective tissue of a modern, digital-first financial ecosystem.
+
+Stablecoins like USDC are transforming financial institutions through real-time settlement, programmable finance, and 24/7 liquidity options.
+
+Stablecoins, once viewed as disruptors to traditional financial systems, are now driving collaboration between banks, payment service providers (PSPs), and virtual asset service providers (VASPs). With 90% of institutions reportedly adopting or planning to adopt stablecoins, their integration into programmable finance and real-time payments is reshaping the financial ecosystem without eliminating the need for intermediaries.
+
+Take Visa’s partnership with Circle to use USDC for cross-border settlements. This collaboration highlights how traditional finance and digital assets are merging. Stablecoins like USDC offer near-instant settlement and interoperability, but banks still provide liquidity, PSPs enable customer payment flows, and VASPs ensure compliance and network access.
+
+Banks retain their role as liquidity providers but are now extending it into a 24/7 payments system. By adopting stablecoin rails, they can move funds across ledgers in real-time, reducing delays and prefunding requirements. For instance, USDC enables near-instant settlement, enhancing liquidity management for both banks and their corporate clients.
+
+With tools like the Circle Payments Network (CPN), banks can act as liquidity nodes, connecting global commerce to onchain settlement. This integration allows them to expand familiar services, such as foreign exchange and trade finance, into programmable formats while also offering new revenue streams in treasury and transaction management.
+
+For PSPs, stablecoins simplify settlement cycles by replacing card and wire systems with faster, programmable money flows. Using stablecoins like USDC or EURC, PSPs can complete transactions in minutes, improving liquidity and lowering operational costs. Merchants benefit from quicker payouts, unlocking revenue sooner, while PSPs expand internationally with more competitive settlement options.
+
+VASPs have evolved from operating at the fringe of finance to becoming essential bridges between digital and traditional systems. With their expertise in blockchain analytics, wallet infrastructure, and compliance, they enable institutions to transact securely onchain. Stablecoins provide VASPs with a regulated, auditable framework to facilitate cross-border settlements and custody services.
+
+The integration of programmable stablecoins into financial institutions is streamlining processes. Instead of duplicating compliance and settlement steps across multiple parties, programmable payments embed these rules directly into the transaction flow. Banks, PSPs, and VASPs now act as interoperable endpoints, enabling real-time data sharing, liquidity provisioning, and automated compliance.
+
+Circle’s CPN exemplifies this model, allowing institutions to settle transactions across borders with digital assets like USDC while maintaining regulatory oversight. By embedding compliance and reporting into each transaction, CPN facilitates faster, more transparent global commerce without sacrificing governance standards.
+Source: https://Blockchain.News/news/stablecoins-reshape-financial-institutions]]></description>
+      <content:encoded><![CDATA[Stablecoins like USDC are transforming financial institutions through real-time settlement, programmable finance, and 24/7 liquidity options.
+
+Stablecoins, once viewed as disruptors to traditional financial systems, are now driving collaboration between banks, payment service providers (PSPs), and virtual asset service providers (VASPs). With 90% of institutions reportedly adopting or planning to adopt stablecoins, their integration into programmable finance and real-time payments is reshaping the financial ecosystem without eliminating the need for intermediaries.
+
+Take Visa’s partnership with Circle to use USDC for cross-border settlements. This collaboration highlights how traditional finance and digital assets are merging. Stablecoins like USDC offer near-instant settlement and interoperability, but banks still provide liquidity, PSPs enable customer payment flows, and VASPs ensure compliance and network access.
+
+Banks retain their role as liquidity providers but are now extending it into a 24/7 payments system. By adopting stablecoin rails, they can move funds across ledgers in real-time, reducing delays and prefunding requirements. For instance, USDC enables near-instant settlement, enhancing liquidity management for both banks and their corporate clients.
+
+With tools like the Circle Payments Network (CPN), banks can act as liquidity nodes, connecting global commerce to onchain settlement. This integration allows them to expand familiar services, such as foreign exchange and trade finance, into programmable formats while also offering new revenue streams in treasury and transaction management.
+
+For PSPs, stablecoins simplify settlement cycles by replacing card and wire systems with faster, programmable money flows. Using stablecoins like USDC or EURC, PSPs can complete transactions in minutes, improving liquidity and lowering operational costs. Merchants benefit from quicker payouts, unlocking revenue sooner, while PSPs expand internationally with more competitive settlement options.
+
+VASPs have evolved from operating at the fringe of finance to becoming essential bridges between digital and traditional systems. With their expertise in blockchain analytics, wallet infrastructure, and compliance, they enable institutions to transact securely onchain. Stablecoins provide VASPs with a regulated, auditable framework to facilitate cross-border settlements and custody services.
+
+The integration of programmable stablecoins into financial institutions is streamlining processes. Instead of duplicating compliance and settlement steps across multiple parties, programmable payments embed these rules directly into the transaction flow. Banks, PSPs, and VASPs now act as interoperable endpoints, enabling real-time data sharing, liquidity provisioning, and automated compliance.
+
+Circle’s CPN exemplifies this model, allowing institutions to settle transactions across borders with digital assets like USDC while maintaining regulatory oversight. By embedding compliance and reporting into each transaction, CPN facilitates faster, more transparent global commerce without sacrificing governance standards.
+
+Rather than replacing traditional finance, stablecoins augment it. Banks bring scale and oversight, PSPs deliver merchant connectivity, and VASPs ensure compliance. Together, these participants harness stablecoin programmability to create a financial system that is faster, more transparent, and increasingly borderless.
+
+As demand for real-time, flexible payments grows, institutions adopting stablecoin infrastructure today will be better positioned to lead tomorrow’s financial markets. Stablecoins are not just a disruptive force—they are the connective tissue of a modern, digital-first financial ecosystem.
+
+Stablecoins like USDC are transforming financial institutions through real-time settlement, programmable finance, and 24/7 liquidity options.
+
+Stablecoins, once viewed as disruptors to traditional financial systems, are now driving collaboration between banks, payment service providers (PSPs), and virtual asset service providers (VASPs). With 90% of institutions reportedly adopting or planning to adopt stablecoins, their integration into programmable finance and real-time payments is reshaping the financial ecosystem without eliminating the need for intermediaries.
+
+Take Visa’s partnership with Circle to use USDC for cross-border settlements. This collaboration highlights how traditional finance and digital assets are merging. Stablecoins like USDC offer near-instant settlement and interoperability, but banks still provide liquidity, PSPs enable customer payment flows, and VASPs ensure compliance and network access.
+
+Banks retain their role as liquidity providers but are now extending it into a 24/7 payments system. By adopting stablecoin rails, they can move funds across ledgers in real-time, reducing delays and prefunding requirements. For instance, USDC enables near-instant settlement, enhancing liquidity management for both banks and their corporate clients.
+
+With tools like the Circle Payments Network (CPN), banks can act as liquidity nodes, connecting global commerce to onchain settlement. This integration allows them to expand familiar services, such as foreign exchange and trade finance, into programmable formats while also offering new revenue streams in treasury and transaction management.
+
+For PSPs, stablecoins simplify settlement cycles by replacing card and wire systems with faster, programmable money flows. Using stablecoins like USDC or EURC, PSPs can complete transactions in minutes, improving liquidity and lowering operational costs. Merchants benefit from quicker payouts, unlocking revenue sooner, while PSPs expand internationally with more competitive settlement options.
+
+VASPs have evolved from operating at the fringe of finance to becoming essential bridges between digital and traditional systems. With their expertise in blockchain analytics, wallet infrastructure, and compliance, they enable institutions to transact securely onchain. Stablecoins provide VASPs with a regulated, auditable framework to facilitate cross-border settlements and custody services.
+
+The integration of programmable stablecoins into financial institutions is streamlining processes. Instead of duplicating compliance and settlement steps across multiple parties, programmable payments embed these rules directly into the transaction flow. Banks, PSPs, and VASPs now act as interoperable endpoints, enabling real-time data sharing, liquidity provisioning, and automated compliance.
+
+Circle’s CPN exemplifies this model, allowing institutions to settle transactions across borders with digital assets like USDC while maintaining regulatory oversight. By embedding compliance and reporting into each transaction, CPN facilitates faster, more transparent global commerce without sacrificing governance standards.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-1a7ff772805473164c8dd6651171a9bc7858db8f</guid>
       <title>HKMA Warns of Phishing Scams Targeting Alipay HK Users | The HKMA has issued a warning about phishing messages and calls impersonating Alipay HK.... https://Blockchain.News/news/hkma-phishing-alert-alipay-hk</title>
@@ -2321,267 +2582,6 @@ Core Scientific’s ability to service this debt will depend heavily on Bitcoin�
 Core Scientific has not disclosed the expected interest rate or terms for the notes, and the offering remains subject to market conditions. Investors should monitor updates on the pricing and demand for these notes, alongside developments in the company’s data center projects.
 
 Additionally, signs of increased institutional adoption of Bitcoin or improvements in the crypto mining sector’s economics could strengthen Core Scientific’s outlook. For now, this debt issuance represents a calculated gamble to solidify its role as a key player in crypto infrastructure.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-a26cfa85228103a2570fae22411ba7faa1cbbe09</guid>
-      <title>Binance AI Pro Simplifies Trading with Automation Upgrade | Binance AI Pro offers automated trading workflows with advanced AI. Learn how it’s transf... https://Blockchain.News/news/binance-ai-pro-simplifies-trading</title>
-      <link>https://Blockchain.News/news/binance-ai-pro-simplifies-trading</link>
-      <pubDate>Tue, 21 Apr 2026 09:38:51 GMT</pubDate>
-      <description><![CDATA[Original title: Binance AI Pro Simplifies Trading with Automation Upgrade
-Summary: Binance AI Pro offers automated trading workflows with advanced AI. Learn how it’s transforming crypto trading for $9.99/month in beta.
-Article text: Binance AI Pro offers automated trading workflows with advanced AI. Learn how it’s transforming crypto trading for $9.99/month in beta.
-
-Binance has introduced its latest tool for crypto traders, Binance AI Pro, aiming to streamline trading workflows with advanced automation. Launched in beta on March 25, 2026, the AI-driven platform is designed to simplify tasks like market analysis, order execution, and position monitoring. With a growing wave of crypto trading activity now automated—45% according to Binance AI data on April 18—this service addresses the increasing demand for efficient, hands-off trading tools.
-
-At its core, Binance AI Pro acts as a virtual trading assistant that integrates directly into the Binance ecosystem. For $9.99 per month during the beta phase (regularly priced at $29.99), users gain access to 5 million AI credits monthly to leverage advanced models like ChatGPT and Claude. Accessible via the Binance app and web, the platform supports Spot, Futures, and Margin trading, where regionally permitted. Notably, it operates through a segregated "AI Account" that ensures user funds are isolated, mitigating risks of fund mismanagement or external transfers.
-
-The main advantage of Binance AI Pro is its ability to cut down the lag between identifying trading opportunities and acting on them. Here's how it works:
-
-For those new to the platform, Binance offers a 7-day free trial, providing an opportunity to test the service without upfront cost. However, the service is currently unavailable in the EU, UK, and Japan, limiting access for some regions.
-
-Trading in the crypto market is notoriously fast-paced, with opportunities often requiring near-instant action. Binance AI Pro aims to bridge this gap by automating execution, allowing traders to focus on strategy rather than manual tasks. This is particularly relevant as institutional players and retail traders alike adopt algorithmic trading methods to stay competitive.
-
-By integrating advanced AI with Binance's ecosystem, users gain a tool capable of handling complex workflows, from executing multi-step trades to adjusting positions based on real-time market data. The ability to automate such tasks can provide a significant edge, especially for traders managing multiple positions or strategies simultaneously.
-
-Binance AI Pro is still in its beta phase, with features and availability likely to expand as feedback is incorporated. The $9.99 monthly price, significantly lower than its intended $29.99 regular cost, positions the service as an accessible entry point for traders looking to explore automated solutions.
-
-For now, the tool’s primary utility lies in execution rather than analysis or strategy development, making it ideal for traders who already have clear trading plans but need assistance in executing them efficiently. As Binance continues to refine AI Pro, it could become a cornerstone of algorithmic trading within the platform, especially as crypto markets lean increasingly toward automation.
-
-For traders considering Binance AI Pro, early adoption during the beta phase offers not only cost savings but also the chance to familiarize themselves with the platform as it evolves. With automation becoming a critical component of modern trading, tools like this could soon become indispensable in managing complex portfolios or capitalizing on market volatility.
-
-Binance AI Pro offers automated trading workflows with advanced AI. Learn how it’s transforming crypto trading for $9.99/month in beta.
-
-Binance has introduced its latest tool for crypto traders, Binance AI Pro, aiming to streamline trading workflows with advanced automation. Launched in beta on March 25, 2026, the AI-driven platform is designed to simplify tasks like market analysis, order execution, and position monitoring. With a growing wave of crypto trading activity now automated—45% according to Binance AI data on April 18—this service addresses the increasing demand for efficient, hands-off trading tools.
-
-At its core, Binance AI Pro acts as a virtual trading assistant that integrates directly into the Binance ecosystem. For $9.99 per month during the beta phase (regularly priced at $29.99), users gain access to 5 million AI credits monthly to leverage advanced models like ChatGPT and Claude. Accessible via the Binance app and web, the platform supports Spot, Futures, and Margin trading, where regionally permitted. Notably, it operates through a segregated "AI Account" that ensures user funds are isolated, mitigating risks of fund mismanagement or external transfers.
-
-The main advantage of Binance AI Pro is its ability to cut down the lag between identifying trading opportunities and acting on them. Here's how it works:
-
-For those new to the platform, Binance offers a 7-day free trial, providing an opportunity to test the service without upfront cost. However, the service is currently unavailable in the EU, UK, and Japan, limiting access for some regions.
-
-Trading in the crypto market is notoriously fast-paced, with opportunities often requiring near-instant action. Binance AI Pro aims to bridge this gap by automating execution, allowing traders to focus on strategy rather than manual tasks. This is particularly relevant as institutional players and retail traders alike adopt algorithmic trading methods to stay competitive.
-
-By integrating advanced AI with Binance's ecosystem, users gain a tool capable of handling complex workflows, from executing multi-step trades to adjusting positions based on real-time market data. The ability to automate such tasks can provide a significant edge, especially for traders managing multiple positions or strategies simultaneously.
-
-Binance AI Pro is still in its beta phase, with features and availability likely to expand as feedback is incorporated. The $9.99 monthly price, significantly lower than its intended $29.99 regular cost, positions the service as an accessible entry point for traders looking to explore automated solutions.
-
-For now, the tool’s primary utility lies in execution rather than analysis or strategy development, making it ideal for traders who already have clear trading plans but need assistance in executing them efficiently. As Binance continues to refine AI Pro, it could become a cornerstone of algorithmic trading within the platform, especially as crypto markets lean increasingly toward automation.
-
-For traders considering Binance AI Pro, early adoption during the beta phase offers not only cost savings but also the chance to familiarize themselves with the platform as it evolves. With automation becoming a critical component of modern trading, tools like this could soon become indispensable in managing complex portfolios or capitalizing on market volatility.
-Source: https://Blockchain.News/news/binance-ai-pro-simplifies-trading]]></description>
-      <content:encoded><![CDATA[Binance AI Pro offers automated trading workflows with advanced AI. Learn how it’s transforming crypto trading for $9.99/month in beta.
-
-Binance has introduced its latest tool for crypto traders, Binance AI Pro, aiming to streamline trading workflows with advanced automation. Launched in beta on March 25, 2026, the AI-driven platform is designed to simplify tasks like market analysis, order execution, and position monitoring. With a growing wave of crypto trading activity now automated—45% according to Binance AI data on April 18—this service addresses the increasing demand for efficient, hands-off trading tools.
-
-At its core, Binance AI Pro acts as a virtual trading assistant that integrates directly into the Binance ecosystem. For $9.99 per month during the beta phase (regularly priced at $29.99), users gain access to 5 million AI credits monthly to leverage advanced models like ChatGPT and Claude. Accessible via the Binance app and web, the platform supports Spot, Futures, and Margin trading, where regionally permitted. Notably, it operates through a segregated "AI Account" that ensures user funds are isolated, mitigating risks of fund mismanagement or external transfers.
-
-The main advantage of Binance AI Pro is its ability to cut down the lag between identifying trading opportunities and acting on them. Here's how it works:
-
-For those new to the platform, Binance offers a 7-day free trial, providing an opportunity to test the service without upfront cost. However, the service is currently unavailable in the EU, UK, and Japan, limiting access for some regions.
-
-Trading in the crypto market is notoriously fast-paced, with opportunities often requiring near-instant action. Binance AI Pro aims to bridge this gap by automating execution, allowing traders to focus on strategy rather than manual tasks. This is particularly relevant as institutional players and retail traders alike adopt algorithmic trading methods to stay competitive.
-
-By integrating advanced AI with Binance's ecosystem, users gain a tool capable of handling complex workflows, from executing multi-step trades to adjusting positions based on real-time market data. The ability to automate such tasks can provide a significant edge, especially for traders managing multiple positions or strategies simultaneously.
-
-Binance AI Pro is still in its beta phase, with features and availability likely to expand as feedback is incorporated. The $9.99 monthly price, significantly lower than its intended $29.99 regular cost, positions the service as an accessible entry point for traders looking to explore automated solutions.
-
-For now, the tool’s primary utility lies in execution rather than analysis or strategy development, making it ideal for traders who already have clear trading plans but need assistance in executing them efficiently. As Binance continues to refine AI Pro, it could become a cornerstone of algorithmic trading within the platform, especially as crypto markets lean increasingly toward automation.
-
-For traders considering Binance AI Pro, early adoption during the beta phase offers not only cost savings but also the chance to familiarize themselves with the platform as it evolves. With automation becoming a critical component of modern trading, tools like this could soon become indispensable in managing complex portfolios or capitalizing on market volatility.
-
-Binance AI Pro offers automated trading workflows with advanced AI. Learn how it’s transforming crypto trading for $9.99/month in beta.
-
-Binance has introduced its latest tool for crypto traders, Binance AI Pro, aiming to streamline trading workflows with advanced automation. Launched in beta on March 25, 2026, the AI-driven platform is designed to simplify tasks like market analysis, order execution, and position monitoring. With a growing wave of crypto trading activity now automated—45% according to Binance AI data on April 18—this service addresses the increasing demand for efficient, hands-off trading tools.
-
-At its core, Binance AI Pro acts as a virtual trading assistant that integrates directly into the Binance ecosystem. For $9.99 per month during the beta phase (regularly priced at $29.99), users gain access to 5 million AI credits monthly to leverage advanced models like ChatGPT and Claude. Accessible via the Binance app and web, the platform supports Spot, Futures, and Margin trading, where regionally permitted. Notably, it operates through a segregated "AI Account" that ensures user funds are isolated, mitigating risks of fund mismanagement or external transfers.
-
-The main advantage of Binance AI Pro is its ability to cut down the lag between identifying trading opportunities and acting on them. Here's how it works:
-
-For those new to the platform, Binance offers a 7-day free trial, providing an opportunity to test the service without upfront cost. However, the service is currently unavailable in the EU, UK, and Japan, limiting access for some regions.
-
-Trading in the crypto market is notoriously fast-paced, with opportunities often requiring near-instant action. Binance AI Pro aims to bridge this gap by automating execution, allowing traders to focus on strategy rather than manual tasks. This is particularly relevant as institutional players and retail traders alike adopt algorithmic trading methods to stay competitive.
-
-By integrating advanced AI with Binance's ecosystem, users gain a tool capable of handling complex workflows, from executing multi-step trades to adjusting positions based on real-time market data. The ability to automate such tasks can provide a significant edge, especially for traders managing multiple positions or strategies simultaneously.
-
-Binance AI Pro is still in its beta phase, with features and availability likely to expand as feedback is incorporated. The $9.99 monthly price, significantly lower than its intended $29.99 regular cost, positions the service as an accessible entry point for traders looking to explore automated solutions.
-
-For now, the tool’s primary utility lies in execution rather than analysis or strategy development, making it ideal for traders who already have clear trading plans but need assistance in executing them efficiently. As Binance continues to refine AI Pro, it could become a cornerstone of algorithmic trading within the platform, especially as crypto markets lean increasingly toward automation.
-
-For traders considering Binance AI Pro, early adoption during the beta phase offers not only cost savings but also the chance to familiarize themselves with the platform as it evolves. With automation becoming a critical component of modern trading, tools like this could soon become indispensable in managing complex portfolios or capitalizing on market volatility.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-0b721a882c121debac8d212c57235093ad25ce08</guid>
-      <title>European Banks Tap Fireblocks for MiCA Euro Stablecoin by 2026 | A 12-bank consortium led by Qivalis plans a MiCA-compliant euro stablecoin to challenge d... https://Blockchain.News/news/european-banks-mica-euro-stablecoin-2026</title>
-      <link>https://Blockchain.News/news/european-banks-mica-euro-stablecoin-2026</link>
-      <pubDate>Tue, 21 Apr 2026 08:26:30 GMT</pubDate>
-      <description><![CDATA[Original title: European Banks Tap Fireblocks for MiCA Euro Stablecoin by 2026
-Summary: A 12-bank consortium led by Qivalis plans a MiCA-compliant euro stablecoin to challenge dollar dominance, eyeing a late 2026 launch.
-Article text: A 12-bank consortium led by Qivalis plans a MiCA-compliant euro stablecoin to challenge dollar dominance, eyeing a late 2026 launch.
-
-A group of 12 European banks, spearheaded by Dutch financial venture Qivalis, is collaborating with blockchain infrastructure provider Fireblocks to launch a MiCA-compliant euro stablecoin by late 2026. The initiative, subject to approval from the Dutch central bank, De Nederlandsche Bank (DNB), aims to reduce the region's reliance on dollar-denominated stablecoins.
-
-Designed under the European Union's Markets in Crypto-Assets (MiCA) regulatory framework, the euro stablecoin will be fully backed 1:1 by reserves and regulated as an electronic money institution under Dutch supervision. Major banks backing Qivalis include BBVA, BNP Paribas, ING, and UniCredit.
-
-The stablecoin is tailored for institutional use cases like settlement, treasury operations, and tokenized assets, according to a release. Fireblocks will supply the project's tokenization technology, wallet infrastructure, and compliance tools, such as identity verification and sanctions screening. A Fireblocks spokesperson described the platform as a "regulated euro-native settlement instrument" for European institutions, addressing concerns over the dominance of U.S. dollar stablecoins in global payments.
-
-As of April 2026, the global stablecoin market is valued at roughly $320 billion, according to DeFiLlama data, with an overwhelming 99% of that supply tied to U.S. dollars. The euro accounts for only a fraction of this market, leaving European regulators and financial institutions eager to level the playing field.
-
-The reliance on dollar-backed stablecoins has drawn criticism from European policymakers. Bank of France First Deputy Governor Denis Beau recently called for limits on non-euro stablecoins in everyday payments, warning of regulatory loopholes and financial stability risks. Similarly, the Bank for International Settlements (BIS) has voiced concerns over dollar stablecoins, some of which rely on short-term securities and may function more as investment vehicles than payment instruments.
-
-The MiCA regulatory framework, which fully came into effect for stablecoins in June 2024, mandates stringent reserve, transparency, and supervisory requirements for stablecoin issuers. This harmonized approach is expected to boost confidence in euro-pegged digital assets and pave the way for institutional adoption.
-
-The euro stablecoin project is a direct response to growing concerns about Europe's dependence on U.S. dollar-denominated assets in digital payments and settlement. By providing a compliant, euro-backed alternative, the initiative could set the stage for broader adoption of euro-based stablecoins in the region.
-
-With a launch window targeting the second half of 2026, the project's success hinges on regulatory approval, particularly from the DNB, and its ability to gain traction in institutional markets. The transition period for MiCA compliance ends in July 2026, aligning with the stablecoin's anticipated debut. For traders, the emergence of a robust euro stablecoin could offer new opportunities in FX trading pairs and potentially reshape liquidity trends in the European crypto market.
-
-A 12-bank consortium led by Qivalis plans a MiCA-compliant euro stablecoin to challenge dollar dominance, eyeing a late 2026 launch.
-
-A group of 12 European banks, spearheaded by Dutch financial venture Qivalis, is collaborating with blockchain infrastructure provider Fireblocks to launch a MiCA-compliant euro stablecoin by late 2026. The initiative, subject to approval from the Dutch central bank, De Nederlandsche Bank (DNB), aims to reduce the region's reliance on dollar-denominated stablecoins.
-
-Designed under the European Union's Markets in Crypto-Assets (MiCA) regulatory framework, the euro stablecoin will be fully backed 1:1 by reserves and regulated as an electronic money institution under Dutch supervision. Major banks backing Qivalis include BBVA, BNP Paribas, ING, and UniCredit.
-
-The stablecoin is tailored for institutional use cases like settlement, treasury operations, and tokenized assets, according to a release. Fireblocks will supply the project's tokenization technology, wallet infrastructure, and compliance tools, such as identity verification and sanctions screening. A Fireblocks spokesperson described the platform as a "regulated euro-native settlement instrument" for European institutions, addressing concerns over the dominance of U.S. dollar stablecoins in global payments.
-
-As of April 2026, the global stablecoin market is valued at roughly $320 billion, according to DeFiLlama data, with an overwhelming 99% of that supply tied to U.S. dollars. The euro accounts for only a fraction of this market, leaving European regulators and financial institutions eager to level the playing field.
-
-The reliance on dollar-backed stablecoins has drawn criticism from European policymakers. Bank of France First Deputy Governor Denis Beau recently called for limits on non-euro stablecoins in everyday payments, warning of regulatory loopholes and financial stability risks. Similarly, the Bank for International Settlements (BIS) has voiced concerns over dollar stablecoins, some of which rely on short-term securities and may function more as investment vehicles than payment instruments.
-
-The MiCA regulatory framework, which fully came into effect for stablecoins in June 2024, mandates stringent reserve, transparency, and supervisory requirements for stablecoin issuers. This harmonized approach is expected to boost confidence in euro-pegged digital assets and pave the way for institutional adoption.
-
-The euro stablecoin project is a direct response to growing concerns about Europe's dependence on U.S. dollar-denominated assets in digital payments and settlement. By providing a compliant, euro-backed alternative, the initiative could set the stage for broader adoption of euro-based stablecoins in the region.
-
-With a launch window targeting the second half of 2026, the project's success hinges on regulatory approval, particularly from the DNB, and its ability to gain traction in institutional markets. The transition period for MiCA compliance ends in July 2026, aligning with the stablecoin's anticipated debut. For traders, the emergence of a robust euro stablecoin could offer new opportunities in FX trading pairs and potentially reshape liquidity trends in the European crypto market.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/european-banks-mica-euro-stablecoin-2026]]></description>
-      <content:encoded><![CDATA[A 12-bank consortium led by Qivalis plans a MiCA-compliant euro stablecoin to challenge dollar dominance, eyeing a late 2026 launch.
-
-A group of 12 European banks, spearheaded by Dutch financial venture Qivalis, is collaborating with blockchain infrastructure provider Fireblocks to launch a MiCA-compliant euro stablecoin by late 2026. The initiative, subject to approval from the Dutch central bank, De Nederlandsche Bank (DNB), aims to reduce the region's reliance on dollar-denominated stablecoins.
-
-Designed under the European Union's Markets in Crypto-Assets (MiCA) regulatory framework, the euro stablecoin will be fully backed 1:1 by reserves and regulated as an electronic money institution under Dutch supervision. Major banks backing Qivalis include BBVA, BNP Paribas, ING, and UniCredit.
-
-The stablecoin is tailored for institutional use cases like settlement, treasury operations, and tokenized assets, according to a release. Fireblocks will supply the project's tokenization technology, wallet infrastructure, and compliance tools, such as identity verification and sanctions screening. A Fireblocks spokesperson described the platform as a "regulated euro-native settlement instrument" for European institutions, addressing concerns over the dominance of U.S. dollar stablecoins in global payments.
-
-As of April 2026, the global stablecoin market is valued at roughly $320 billion, according to DeFiLlama data, with an overwhelming 99% of that supply tied to U.S. dollars. The euro accounts for only a fraction of this market, leaving European regulators and financial institutions eager to level the playing field.
-
-The reliance on dollar-backed stablecoins has drawn criticism from European policymakers. Bank of France First Deputy Governor Denis Beau recently called for limits on non-euro stablecoins in everyday payments, warning of regulatory loopholes and financial stability risks. Similarly, the Bank for International Settlements (BIS) has voiced concerns over dollar stablecoins, some of which rely on short-term securities and may function more as investment vehicles than payment instruments.
-
-The MiCA regulatory framework, which fully came into effect for stablecoins in June 2024, mandates stringent reserve, transparency, and supervisory requirements for stablecoin issuers. This harmonized approach is expected to boost confidence in euro-pegged digital assets and pave the way for institutional adoption.
-
-The euro stablecoin project is a direct response to growing concerns about Europe's dependence on U.S. dollar-denominated assets in digital payments and settlement. By providing a compliant, euro-backed alternative, the initiative could set the stage for broader adoption of euro-based stablecoins in the region.
-
-With a launch window targeting the second half of 2026, the project's success hinges on regulatory approval, particularly from the DNB, and its ability to gain traction in institutional markets. The transition period for MiCA compliance ends in July 2026, aligning with the stablecoin's anticipated debut. For traders, the emergence of a robust euro stablecoin could offer new opportunities in FX trading pairs and potentially reshape liquidity trends in the European crypto market.
-
-A 12-bank consortium led by Qivalis plans a MiCA-compliant euro stablecoin to challenge dollar dominance, eyeing a late 2026 launch.
-
-A group of 12 European banks, spearheaded by Dutch financial venture Qivalis, is collaborating with blockchain infrastructure provider Fireblocks to launch a MiCA-compliant euro stablecoin by late 2026. The initiative, subject to approval from the Dutch central bank, De Nederlandsche Bank (DNB), aims to reduce the region's reliance on dollar-denominated stablecoins.
-
-Designed under the European Union's Markets in Crypto-Assets (MiCA) regulatory framework, the euro stablecoin will be fully backed 1:1 by reserves and regulated as an electronic money institution under Dutch supervision. Major banks backing Qivalis include BBVA, BNP Paribas, ING, and UniCredit.
-
-The stablecoin is tailored for institutional use cases like settlement, treasury operations, and tokenized assets, according to a release. Fireblocks will supply the project's tokenization technology, wallet infrastructure, and compliance tools, such as identity verification and sanctions screening. A Fireblocks spokesperson described the platform as a "regulated euro-native settlement instrument" for European institutions, addressing concerns over the dominance of U.S. dollar stablecoins in global payments.
-
-As of April 2026, the global stablecoin market is valued at roughly $320 billion, according to DeFiLlama data, with an overwhelming 99% of that supply tied to U.S. dollars. The euro accounts for only a fraction of this market, leaving European regulators and financial institutions eager to level the playing field.
-
-The reliance on dollar-backed stablecoins has drawn criticism from European policymakers. Bank of France First Deputy Governor Denis Beau recently called for limits on non-euro stablecoins in everyday payments, warning of regulatory loopholes and financial stability risks. Similarly, the Bank for International Settlements (BIS) has voiced concerns over dollar stablecoins, some of which rely on short-term securities and may function more as investment vehicles than payment instruments.
-
-The MiCA regulatory framework, which fully came into effect for stablecoins in June 2024, mandates stringent reserve, transparency, and supervisory requirements for stablecoin issuers. This harmonized approach is expected to boost confidence in euro-pegged digital assets and pave the way for institutional adoption.
-
-The euro stablecoin project is a direct response to growing concerns about Europe's dependence on U.S. dollar-denominated assets in digital payments and settlement. By providing a compliant, euro-backed alternative, the initiative could set the stage for broader adoption of euro-based stablecoins in the region.
-
-With a launch window targeting the second half of 2026, the project's success hinges on regulatory approval, particularly from the DNB, and its ability to gain traction in institutional markets. The transition period for MiCA compliance ends in July 2026, aligning with the stablecoin's anticipated debut. For traders, the emergence of a robust euro stablecoin could offer new opportunities in FX trading pairs and potentially reshape liquidity trends in the European crypto market.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-623cf146c6bc4f5db65a530888a990f9bfcf7955</guid>
-      <title>AAVE Price Prediction: Critical Support Test Could Trigger 25% Drop to $70 Range | AAVE approaches make-or-break support levels as DeFi lending tokens face institutional ro... https://Blockchain.News/news/20260421-price-prediction-aave-critical-support-test-c...</title>
-      <link>https://Blockchain.News/news/20260421-price-prediction-aave-critical-support-test-could-trigger-25</link>
-      <pubDate>Tue, 21 Apr 2026 07:58:40 GMT</pubDate>
-      <description><![CDATA[Original title: AAVE Price Prediction: Critical Support Test Could Trigger 25% Drop to $70 Range
-Summary: AAVE approaches make-or-break support levels as DeFi lending tokens face institutional rotation pressure. Technical patterns suggest potential downside to $70-75 if key support fails.
-Article text: AAVE approaches make-or-break support levels as DeFi lending tokens face institutional rotation pressure. Technical patterns suggest potential downside to $70-75 if key support fails.
-
-AAVE faces mounting pressure as institutional capital rotates away from DeFi lending protocols toward traditional finance yield opportunities. The token's recent performance reflects broader skepticism about decentralized lending margins as conventional markets offer competitive returns with regulatory clarity.
-
-The protocol maintains strong fundamentals with consistent revenue generation, but market sentiment has shifted toward more established crypto assets. This creates a disconnect between AAVE's operational health and its price action, setting up potential technical opportunities for patient investors.
-
-AAVE's chart structure reveals a critical juncture approaching. The token has been consolidating in a defined range, with lower support levels becoming increasingly important for maintaining bullish structure. RSI indicators suggest neither extreme oversold nor overbought conditions, creating uncertainty about near-term direction.
-
-Moving averages show the token trading below key long-term trend lines, indicating the path of least resistance remains downward absent a catalyst. Bollinger Band positioning suggests volatility compression that typically precedes significant directional moves.
-
-Volume patterns indicate reduced institutional participation, with trading activity concentrated among retail participants. This dynamic often creates conditions for sharp price movements when institutional flows resume.
-
-Futures positioning data suggests mixed sentiment among professional traders, with no clear directional bias in aggregate positioning. Open interest levels remain stable, indicating neither aggressive accumulation nor distribution phases currently active.
-
-Funding rates across perpetual contracts show neutral readings, suggesting no significant premium for long or short positioning. This equilibrium often precedes periods of increased volatility as market participants await catalysts.
-
-Options flow indicates interest in both upside and downside protection, with elevated implied volatility reflecting uncertainty about AAVE's near-term trajectory.
-
-The primary bearish scenario involves a breakdown below established support levels, which could accelerate selling toward the $70-75 range. This outcome becomes more probable if broader crypto markets experience renewed selling pressure or if DeFi sector rotation continues.
-
-Such a decline would represent approximately 25% downside from current levels, bringing AAVE to technically significant support zones where institutional accumulation historically occurs.
-
-The alternative bullish scenario requires reclaiming key resistance levels with sustained volume, potentially triggering short-covering and renewed institutional interest. This path faces headwinds from sector rotation trends but remains viable if broader crypto sentiment improves.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Target Analysis: Technical support breakdown could drive AAVE toward $70-75 within 10 trading days, creating potential accumulation opportunities for long-term investors at historically attractive valuations.
-
-AAVE approaches make-or-break support levels as DeFi lending tokens face institutional rotation pressure. Technical patterns suggest potential downside to $70-75 if key support fails.
-
-AAVE faces mounting pressure as institutional capital rotates away from DeFi lending protocols toward traditional finance yield opportunities. The token's recent performance reflects broader skepticism about decentralized lending margins as conventional markets offer competitive returns with regulatory clarity.
-
-The protocol maintains strong fundamentals with consistent revenue generation, but market sentiment has shifted toward more established crypto assets. This creates a disconnect between AAVE's operational health and its price action, setting up potential technical opportunities for patient investors.
-
-AAVE's chart structure reveals a critical juncture approaching. The token has been consolidating in a defined range, with lower support levels becoming increasingly important for maintaining bullish structure. RSI indicators suggest neither extreme oversold nor overbought conditions, creating uncertainty about near-term direction.
-
-Moving averages show the token trading below key long-term trend lines, indicating the path of least resistance remains downward absent a catalyst. Bollinger Band positioning suggests volatility compression that typically precedes significant directional moves.
-
-Volume patterns indicate reduced institutional participation, with trading activity concentrated among retail participants. This dynamic often creates conditions for sharp price movements when institutional flows resume.
-Source: https://Blockchain.News/news/20260421-price-prediction-aave-critical-support-test-could-trigger-25]]></description>
-      <content:encoded><![CDATA[AAVE approaches make-or-break support levels as DeFi lending tokens face institutional rotation pressure. Technical patterns suggest potential downside to $70-75 if key support fails.
-
-AAVE faces mounting pressure as institutional capital rotates away from DeFi lending protocols toward traditional finance yield opportunities. The token's recent performance reflects broader skepticism about decentralized lending margins as conventional markets offer competitive returns with regulatory clarity.
-
-The protocol maintains strong fundamentals with consistent revenue generation, but market sentiment has shifted toward more established crypto assets. This creates a disconnect between AAVE's operational health and its price action, setting up potential technical opportunities for patient investors.
-
-AAVE's chart structure reveals a critical juncture approaching. The token has been consolidating in a defined range, with lower support levels becoming increasingly important for maintaining bullish structure. RSI indicators suggest neither extreme oversold nor overbought conditions, creating uncertainty about near-term direction.
-
-Moving averages show the token trading below key long-term trend lines, indicating the path of least resistance remains downward absent a catalyst. Bollinger Band positioning suggests volatility compression that typically precedes significant directional moves.
-
-Volume patterns indicate reduced institutional participation, with trading activity concentrated among retail participants. This dynamic often creates conditions for sharp price movements when institutional flows resume.
-
-Futures positioning data suggests mixed sentiment among professional traders, with no clear directional bias in aggregate positioning. Open interest levels remain stable, indicating neither aggressive accumulation nor distribution phases currently active.
-
-Funding rates across perpetual contracts show neutral readings, suggesting no significant premium for long or short positioning. This equilibrium often precedes periods of increased volatility as market participants await catalysts.
-
-Options flow indicates interest in both upside and downside protection, with elevated implied volatility reflecting uncertainty about AAVE's near-term trajectory.
-
-The primary bearish scenario involves a breakdown below established support levels, which could accelerate selling toward the $70-75 range. This outcome becomes more probable if broader crypto markets experience renewed selling pressure or if DeFi sector rotation continues.
-
-Such a decline would represent approximately 25% downside from current levels, bringing AAVE to technically significant support zones where institutional accumulation historically occurs.
-
-The alternative bullish scenario requires reclaiming key resistance levels with sustained volume, potentially triggering short-covering and renewed institutional interest. This path faces headwinds from sector rotation trends but remains viable if broader crypto sentiment improves.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Target Analysis: Technical support breakdown could drive AAVE toward $70-75 within 10 trading days, creating potential accumulation opportunities for long-term investors at historically attractive valuations.
-
-AAVE approaches make-or-break support levels as DeFi lending tokens face institutional rotation pressure. Technical patterns suggest potential downside to $70-75 if key support fails.
-
-AAVE faces mounting pressure as institutional capital rotates away from DeFi lending protocols toward traditional finance yield opportunities. The token's recent performance reflects broader skepticism about decentralized lending margins as conventional markets offer competitive returns with regulatory clarity.
-
-The protocol maintains strong fundamentals with consistent revenue generation, but market sentiment has shifted toward more established crypto assets. This creates a disconnect between AAVE's operational health and its price action, setting up potential technical opportunities for patient investors.
-
-AAVE's chart structure reveals a critical juncture approaching. The token has been consolidating in a defined range, with lower support levels becoming increasingly important for maintaining bullish structure. RSI indicators suggest neither extreme oversold nor overbought conditions, creating uncertainty about near-term direction.
-
-Moving averages show the token trading below key long-term trend lines, indicating the path of least resistance remains downward absent a catalyst. Bollinger Band positioning suggests volatility compression that typically precedes significant directional moves.
-
-Volume patterns indicate reduced institutional participation, with trading activity concentrated among retail participants. This dynamic often creates conditions for sharp price movements when institutional flows resume.]]></content:encoded>
     </item>
   </channel>
 </rss>
