@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Sun, 26 Apr 2026 02:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 07:22:27 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-4d787f7d09e18d54c47f54ac2340e83444482dd3</guid>
+      <title>OpenAI Introduces Codex-Powered Workspace Agents in ChatGPT | OpenAI launches workspace agents for ChatGPT, automating workflows for businesses. Availa... https://Blockchain.News/news/openai-launches-workspace-agents-chatgpt</title>
+      <link>https://Blockchain.News/news/openai-launches-workspace-agents-chatgpt</link>
+      <pubDate>Fri, 24 Apr 2026 18:33:03 GMT</pubDate>
+      <description><![CDATA[Original title: OpenAI Introduces Codex-Powered Workspace Agents in ChatGPT
+Summary: OpenAI launches workspace agents for ChatGPT, automating workflows for businesses. Available in research preview across select plans until May 6, 2026.
+Article text: OpenAI launches workspace agents for ChatGPT, automating workflows for businesses. Available in research preview across select plans until May 6, 2026.
+
+OpenAI has unveiled workspace agents within ChatGPT, designed to automate complex workflows and streamline team operations across organizational tools. Powered by OpenAI's Codex model, these agents are available in research preview for ChatGPT Business, Enterprise, Edu, and Teachers plans, with free access until May 6, 2026, before transitioning to credit-based pricing.
+
+The workspace agents represent the next step in GPT development, expanding functionality beyond individual productivity. These agents can perform tasks such as writing code, preparing reports, managing sales pipelines, and responding to messages, all while adhering to organizational permissions and controls. By running in the cloud, they continue operating even when team members are offline.
+
+These agents are tailored for team-based workflows that require shared context and collaboration. For instance, OpenAI's sales team uses an agent to compile call notes, qualify leads, and draft follow-up emails, significantly reducing time spent on manual tasks. Other use cases include product feedback routing, weekly metrics reporting, and third-party risk management. Teams can quickly build agents using templates for finance, sales, and marketing workflows or customize them to fit specific needs.
+
+To start, users can access the "Agents" feature in the ChatGPT sidebar, describe their desired workflow, and let ChatGPT guide them in creating a functional agent. The platform supports integration with tools like Slack, allowing agents to respond to team queries, link documentation, and escalate unresolved issues.
+
+Designed with enterprise governance in mind, workspace agents provide IT admins with monitoring and control capabilities. Admins can restrict tool access, enforce approval requirements for sensitive actions, and monitor agent activity through analytics. The forthcoming Compliance API will enhance visibility into agent configurations, updates, and usage patterns, with the option to suspend agents if necessary.
+
+Additionally, safeguards are in place to protect against prompt injection attacks and other risks, ensuring agents remain aligned with user instructions.
+
+Early adopters, such as Rippling, have reported significant efficiency gains. Ankur Bhatt, AI Engineering at Rippling, shared that a sales opportunity agent has reduced weekly workload by automating tasks like account research and deal briefs, enabling sales consultants to focus on higher-value activities.
+
+Workspace agents are currently in research preview and free to use until May 6, 2026. OpenAI plans to introduce additional features, including triggers for automatic task initiation, enhanced performance dashboards, and expanded integration capabilities.
+
+This launch marks a pivotal moment in the evolution of AI tools, as workspace agents aim to reduce manual effort and improve team efficiency. Businesses interested in testing the feature can explore it through the ChatGPT platform or contact OpenAI's sales team for further information.
+
+OpenAI launches workspace agents for ChatGPT, automating workflows for businesses. Available in research preview across select plans until May 6, 2026.
+
+OpenAI has unveiled workspace agents within ChatGPT, designed to automate complex workflows and streamline team operations across organizational tools. Powered by OpenAI's Codex model, these agents are available in research preview for ChatGPT Business, Enterprise, Edu, and Teachers plans, with free access until May 6, 2026, before transitioning to credit-based pricing.
+
+The workspace agents represent the next step in GPT development, expanding functionality beyond individual productivity. These agents can perform tasks such as writing code, preparing reports, managing sales pipelines, and responding to messages, all while adhering to organizational permissions and controls. By running in the cloud, they continue operating even when team members are offline.
+
+These agents are tailored for team-based workflows that require shared context and collaboration. For instance, OpenAI's sales team uses an agent to compile call notes, qualify leads, and draft follow-up emails, significantly reducing time spent on manual tasks. Other use cases include product feedback routing, weekly metrics reporting, and third-party risk management. Teams can quickly build agents using templates for finance, sales, and marketing workflows or customize them to fit specific needs.
+
+To start, users can access the "Agents" feature in the ChatGPT sidebar, describe their desired workflow, and let ChatGPT guide them in creating a functional agent. The platform supports integration with tools like Slack, allowing agents to respond to team queries, link documentation, and escalate unresolved issues.
+
+Designed with enterprise governance in mind, workspace agents provide IT admins with monitoring and control capabilities. Admins can restrict tool access, enforce approval requirements for sensitive actions, and monitor agent activity through analytics. The forthcoming Compliance API will enhance visibility into agent configurations, updates, and usage patterns, with the option to suspend agents if necessary.
+
+Additionally, safeguards are in place to protect against prompt injection attacks and other risks, ensuring agents remain aligned with user instructions.
+
+Early adopters, such as Rippling, have reported significant efficiency gains. Ankur Bhatt, AI Engineering at Rippling, shared that a sales opportunity agent has reduced weekly workload by automating tasks like account research and deal briefs, enabling sales consultants to focus on higher-value activities.
+
+Workspace agents are currently in research preview and free to use until May 6, 2026. OpenAI plans to introduce additional features, including triggers for automatic task initiation, enhanced performance dashboards, and expanded integration capabilities.
+
+This launch marks a pivotal moment in the evolution of AI tools, as workspace agents aim to reduce manual effort and improve team efficiency. Businesses interested in testing the feature can explore it through the ChatGPT platform or contact OpenAI's sales team for further information.
+Source: https://Blockchain.News/news/openai-launches-workspace-agents-chatgpt]]></description>
+      <content:encoded><![CDATA[OpenAI launches workspace agents for ChatGPT, automating workflows for businesses. Available in research preview across select plans until May 6, 2026.
+
+OpenAI has unveiled workspace agents within ChatGPT, designed to automate complex workflows and streamline team operations across organizational tools. Powered by OpenAI's Codex model, these agents are available in research preview for ChatGPT Business, Enterprise, Edu, and Teachers plans, with free access until May 6, 2026, before transitioning to credit-based pricing.
+
+The workspace agents represent the next step in GPT development, expanding functionality beyond individual productivity. These agents can perform tasks such as writing code, preparing reports, managing sales pipelines, and responding to messages, all while adhering to organizational permissions and controls. By running in the cloud, they continue operating even when team members are offline.
+
+These agents are tailored for team-based workflows that require shared context and collaboration. For instance, OpenAI's sales team uses an agent to compile call notes, qualify leads, and draft follow-up emails, significantly reducing time spent on manual tasks. Other use cases include product feedback routing, weekly metrics reporting, and third-party risk management. Teams can quickly build agents using templates for finance, sales, and marketing workflows or customize them to fit specific needs.
+
+To start, users can access the "Agents" feature in the ChatGPT sidebar, describe their desired workflow, and let ChatGPT guide them in creating a functional agent. The platform supports integration with tools like Slack, allowing agents to respond to team queries, link documentation, and escalate unresolved issues.
+
+Designed with enterprise governance in mind, workspace agents provide IT admins with monitoring and control capabilities. Admins can restrict tool access, enforce approval requirements for sensitive actions, and monitor agent activity through analytics. The forthcoming Compliance API will enhance visibility into agent configurations, updates, and usage patterns, with the option to suspend agents if necessary.
+
+Additionally, safeguards are in place to protect against prompt injection attacks and other risks, ensuring agents remain aligned with user instructions.
+
+Early adopters, such as Rippling, have reported significant efficiency gains. Ankur Bhatt, AI Engineering at Rippling, shared that a sales opportunity agent has reduced weekly workload by automating tasks like account research and deal briefs, enabling sales consultants to focus on higher-value activities.
+
+Workspace agents are currently in research preview and free to use until May 6, 2026. OpenAI plans to introduce additional features, including triggers for automatic task initiation, enhanced performance dashboards, and expanded integration capabilities.
+
+This launch marks a pivotal moment in the evolution of AI tools, as workspace agents aim to reduce manual effort and improve team efficiency. Businesses interested in testing the feature can explore it through the ChatGPT platform or contact OpenAI's sales team for further information.
+
+OpenAI launches workspace agents for ChatGPT, automating workflows for businesses. Available in research preview across select plans until May 6, 2026.
+
+OpenAI has unveiled workspace agents within ChatGPT, designed to automate complex workflows and streamline team operations across organizational tools. Powered by OpenAI's Codex model, these agents are available in research preview for ChatGPT Business, Enterprise, Edu, and Teachers plans, with free access until May 6, 2026, before transitioning to credit-based pricing.
+
+The workspace agents represent the next step in GPT development, expanding functionality beyond individual productivity. These agents can perform tasks such as writing code, preparing reports, managing sales pipelines, and responding to messages, all while adhering to organizational permissions and controls. By running in the cloud, they continue operating even when team members are offline.
+
+These agents are tailored for team-based workflows that require shared context and collaboration. For instance, OpenAI's sales team uses an agent to compile call notes, qualify leads, and draft follow-up emails, significantly reducing time spent on manual tasks. Other use cases include product feedback routing, weekly metrics reporting, and third-party risk management. Teams can quickly build agents using templates for finance, sales, and marketing workflows or customize them to fit specific needs.
+
+To start, users can access the "Agents" feature in the ChatGPT sidebar, describe their desired workflow, and let ChatGPT guide them in creating a functional agent. The platform supports integration with tools like Slack, allowing agents to respond to team queries, link documentation, and escalate unresolved issues.
+
+Designed with enterprise governance in mind, workspace agents provide IT admins with monitoring and control capabilities. Admins can restrict tool access, enforce approval requirements for sensitive actions, and monitor agent activity through analytics. The forthcoming Compliance API will enhance visibility into agent configurations, updates, and usage patterns, with the option to suspend agents if necessary.
+
+Additionally, safeguards are in place to protect against prompt injection attacks and other risks, ensuring agents remain aligned with user instructions.
+
+Early adopters, such as Rippling, have reported significant efficiency gains. Ankur Bhatt, AI Engineering at Rippling, shared that a sales opportunity agent has reduced weekly workload by automating tasks like account research and deal briefs, enabling sales consultants to focus on higher-value activities.
+
+Workspace agents are currently in research preview and free to use until May 6, 2026. OpenAI plans to introduce additional features, including triggers for automatic task initiation, enhanced performance dashboards, and expanded integration capabilities.
+
+This launch marks a pivotal moment in the evolution of AI tools, as workspace agents aim to reduce manual effort and improve team efficiency. Businesses interested in testing the feature can explore it through the ChatGPT platform or contact OpenAI's sales team for further information.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-033bd83641954fd359a3f5af348393df1c5311d0</guid>
+      <title>Crypto PAC Pulls $1.75M Ad Spend Supporting Texas AG Paxton | Fellowship PAC withdraws $1.75M pro-Paxton ad buy in Texas Senate race. Implications for... https://Blockchain.News/news/crypto-pac-paxton-texas-senate-ad-pullout</title>
+      <link>https://Blockchain.News/news/crypto-pac-paxton-texas-senate-ad-pullout</link>
+      <pubDate>Fri, 24 Apr 2026 17:47:49 GMT</pubDate>
+      <description><![CDATA[Original title: Crypto PAC Pulls $1.75M Ad Spend Supporting Texas AG Paxton
+Summary: Fellowship PAC withdraws $1.75M pro-Paxton ad buy in Texas Senate race. Implications for crypto-backed political spending ahead of midterms.
+Article text: Fellowship PAC withdraws $1.75M pro-Paxton ad buy in Texas Senate race. Implications for crypto-backed political spending ahead of midterms.
+
+The Fellowship PAC, a crypto-backed political action committee reportedly funded by over $100 million from blockchain-aligned donors, has withdrawn a $1.75 million advertising expenditure supporting Texas Attorney General Ken Paxton’s U.S. Senate campaign. This decision, disclosed via filings to the Federal Election Commission (FEC), comes ahead of a critical May 26 Republican runoff against incumbent Senator John Cornyn.
+
+According to reports from Axios, the PAC had initially allocated the funds for marketing through the Nxum Group but never placed the ads. Questions from Republican leaders to Commerce Secretary Howard Lutnick, who has connections to Fellowship through financial services firm Cantor Fitzgerald, may have influenced the reversal. Cantor Fitzgerald and Anchorage Digital are among the PAC’s known contributors.
+
+The move is unusual for crypto-centric PACs, which typically aim to support candidates perceived as favorable to blockchain innovation and digital asset regulation. Paxton, who failed to secure an outright victory in a March primary, now faces increased uncertainty in a closely watched race that could shape the future of crypto legislation in the U.S.
+
+Fellowship’s pullback raises questions about the political influence of crypto PACs ahead of the 2026 midterm elections. Alongside other groups like Fairshake PAC, Fellowship is part of a growing movement seeking to funnel significant resources into campaigns on both sides of the aisle. These efforts are aimed at advancing pro-crypto candidates and influencing legislation such as the CLARITY Act, a comprehensive crypto market structure bill currently stalled in the Senate.
+
+The timing is critical. Republican control of the Senate since January 2025 has enabled passage of key crypto-friendly measures, including the stablecoin-focused GENIUS Act. However, a Democratic majority after the midterms could shift the legislative focus, potentially slowing or altering crypto regulation efforts.
+
+Crypto markets and industry leaders are closely monitoring the political landscape, as regulation remains a key driver of institutional participation and investor confidence. Delays in passing the CLARITY Act, alongside broader legislative uncertainty, have already weighed on market sentiment. Over 120 crypto and blockchain-related entities urged the Senate Banking Committee last week to expedite the bill’s progression.
+
+For traders and investors, the outcome of the May runoff—and subsequent midterm elections—will likely impact regulatory clarity and, by extension, market dynamics. If Fellowship PAC’s decision signals a broader strategic shift or reduced confidence in Paxton’s candidacy, it could indicate hesitancy within the crypto community to bet heavily on contested races.
+
+Both the Fellowship PAC’s next move and the broader performance of crypto-backed candidates will serve as indicators of the sector’s growing—or waning—political clout.
+
+Fellowship PAC withdraws $1.75M pro-Paxton ad buy in Texas Senate race. Implications for crypto-backed political spending ahead of midterms.
+
+The Fellowship PAC, a crypto-backed political action committee reportedly funded by over $100 million from blockchain-aligned donors, has withdrawn a $1.75 million advertising expenditure supporting Texas Attorney General Ken Paxton’s U.S. Senate campaign. This decision, disclosed via filings to the Federal Election Commission (FEC), comes ahead of a critical May 26 Republican runoff against incumbent Senator John Cornyn.
+
+According to reports from Axios, the PAC had initially allocated the funds for marketing through the Nxum Group but never placed the ads. Questions from Republican leaders to Commerce Secretary Howard Lutnick, who has connections to Fellowship through financial services firm Cantor Fitzgerald, may have influenced the reversal. Cantor Fitzgerald and Anchorage Digital are among the PAC’s known contributors.
+
+The move is unusual for crypto-centric PACs, which typically aim to support candidates perceived as favorable to blockchain innovation and digital asset regulation. Paxton, who failed to secure an outright victory in a March primary, now faces increased uncertainty in a closely watched race that could shape the future of crypto legislation in the U.S.
+
+Fellowship’s pullback raises questions about the political influence of crypto PACs ahead of the 2026 midterm elections. Alongside other groups like Fairshake PAC, Fellowship is part of a growing movement seeking to funnel significant resources into campaigns on both sides of the aisle. These efforts are aimed at advancing pro-crypto candidates and influencing legislation such as the CLARITY Act, a comprehensive crypto market structure bill currently stalled in the Senate.
+
+The timing is critical. Republican control of the Senate since January 2025 has enabled passage of key crypto-friendly measures, including the stablecoin-focused GENIUS Act. However, a Democratic majority after the midterms could shift the legislative focus, potentially slowing or altering crypto regulation efforts.
+
+Crypto markets and industry leaders are closely monitoring the political landscape, as regulation remains a key driver of institutional participation and investor confidence. Delays in passing the CLARITY Act, alongside broader legislative uncertainty, have already weighed on market sentiment. Over 120 crypto and blockchain-related entities urged the Senate Banking Committee last week to expedite the bill’s progression.
+
+For traders and investors, the outcome of the May runoff—and subsequent midterm elections—will likely impact regulatory clarity and, by extension, market dynamics. If Fellowship PAC’s decision signals a broader strategic shift or reduced confidence in Paxton’s candidacy, it could indicate hesitancy within the crypto community to bet heavily on contested races.
+
+Both the Fellowship PAC’s next move and the broader performance of crypto-backed candidates will serve as indicators of the sector’s growing—or waning—political clout.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/crypto-pac-paxton-texas-senate-ad-pullout]]></description>
+      <content:encoded><![CDATA[Fellowship PAC withdraws $1.75M pro-Paxton ad buy in Texas Senate race. Implications for crypto-backed political spending ahead of midterms.
+
+The Fellowship PAC, a crypto-backed political action committee reportedly funded by over $100 million from blockchain-aligned donors, has withdrawn a $1.75 million advertising expenditure supporting Texas Attorney General Ken Paxton’s U.S. Senate campaign. This decision, disclosed via filings to the Federal Election Commission (FEC), comes ahead of a critical May 26 Republican runoff against incumbent Senator John Cornyn.
+
+According to reports from Axios, the PAC had initially allocated the funds for marketing through the Nxum Group but never placed the ads. Questions from Republican leaders to Commerce Secretary Howard Lutnick, who has connections to Fellowship through financial services firm Cantor Fitzgerald, may have influenced the reversal. Cantor Fitzgerald and Anchorage Digital are among the PAC’s known contributors.
+
+The move is unusual for crypto-centric PACs, which typically aim to support candidates perceived as favorable to blockchain innovation and digital asset regulation. Paxton, who failed to secure an outright victory in a March primary, now faces increased uncertainty in a closely watched race that could shape the future of crypto legislation in the U.S.
+
+Fellowship’s pullback raises questions about the political influence of crypto PACs ahead of the 2026 midterm elections. Alongside other groups like Fairshake PAC, Fellowship is part of a growing movement seeking to funnel significant resources into campaigns on both sides of the aisle. These efforts are aimed at advancing pro-crypto candidates and influencing legislation such as the CLARITY Act, a comprehensive crypto market structure bill currently stalled in the Senate.
+
+The timing is critical. Republican control of the Senate since January 2025 has enabled passage of key crypto-friendly measures, including the stablecoin-focused GENIUS Act. However, a Democratic majority after the midterms could shift the legislative focus, potentially slowing or altering crypto regulation efforts.
+
+Crypto markets and industry leaders are closely monitoring the political landscape, as regulation remains a key driver of institutional participation and investor confidence. Delays in passing the CLARITY Act, alongside broader legislative uncertainty, have already weighed on market sentiment. Over 120 crypto and blockchain-related entities urged the Senate Banking Committee last week to expedite the bill’s progression.
+
+For traders and investors, the outcome of the May runoff—and subsequent midterm elections—will likely impact regulatory clarity and, by extension, market dynamics. If Fellowship PAC’s decision signals a broader strategic shift or reduced confidence in Paxton’s candidacy, it could indicate hesitancy within the crypto community to bet heavily on contested races.
+
+Both the Fellowship PAC’s next move and the broader performance of crypto-backed candidates will serve as indicators of the sector’s growing—or waning—political clout.
+
+Fellowship PAC withdraws $1.75M pro-Paxton ad buy in Texas Senate race. Implications for crypto-backed political spending ahead of midterms.
+
+The Fellowship PAC, a crypto-backed political action committee reportedly funded by over $100 million from blockchain-aligned donors, has withdrawn a $1.75 million advertising expenditure supporting Texas Attorney General Ken Paxton’s U.S. Senate campaign. This decision, disclosed via filings to the Federal Election Commission (FEC), comes ahead of a critical May 26 Republican runoff against incumbent Senator John Cornyn.
+
+According to reports from Axios, the PAC had initially allocated the funds for marketing through the Nxum Group but never placed the ads. Questions from Republican leaders to Commerce Secretary Howard Lutnick, who has connections to Fellowship through financial services firm Cantor Fitzgerald, may have influenced the reversal. Cantor Fitzgerald and Anchorage Digital are among the PAC’s known contributors.
+
+The move is unusual for crypto-centric PACs, which typically aim to support candidates perceived as favorable to blockchain innovation and digital asset regulation. Paxton, who failed to secure an outright victory in a March primary, now faces increased uncertainty in a closely watched race that could shape the future of crypto legislation in the U.S.
+
+Fellowship’s pullback raises questions about the political influence of crypto PACs ahead of the 2026 midterm elections. Alongside other groups like Fairshake PAC, Fellowship is part of a growing movement seeking to funnel significant resources into campaigns on both sides of the aisle. These efforts are aimed at advancing pro-crypto candidates and influencing legislation such as the CLARITY Act, a comprehensive crypto market structure bill currently stalled in the Senate.
+
+The timing is critical. Republican control of the Senate since January 2025 has enabled passage of key crypto-friendly measures, including the stablecoin-focused GENIUS Act. However, a Democratic majority after the midterms could shift the legislative focus, potentially slowing or altering crypto regulation efforts.
+
+Crypto markets and industry leaders are closely monitoring the political landscape, as regulation remains a key driver of institutional participation and investor confidence. Delays in passing the CLARITY Act, alongside broader legislative uncertainty, have already weighed on market sentiment. Over 120 crypto and blockchain-related entities urged the Senate Banking Committee last week to expedite the bill’s progression.
+
+For traders and investors, the outcome of the May runoff—and subsequent midterm elections—will likely impact regulatory clarity and, by extension, market dynamics. If Fellowship PAC’s decision signals a broader strategic shift or reduced confidence in Paxton’s candidacy, it could indicate hesitancy within the crypto community to bet heavily on contested races.
+
+Both the Fellowship PAC’s next move and the broader performance of crypto-backed candidates will serve as indicators of the sector’s growing—or waning—political clout.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-6f3ff267d45f63a7368d617e090a9c012d48bb65</guid>
+      <title>Stablecoins Hit $33T Volume in 2025, Ripple (XRP) Pushes Multi-Asset Infrastructure | Global stablecoin transaction volume hit $33T in 2025. Ripple (XRP) argues payments infra... https://Blockchain.News/news/stablecoins-33t-volume-ripple-multi-asset</title>
+      <link>https://Blockchain.News/news/stablecoins-33t-volume-ripple-multi-asset</link>
+      <pubDate>Fri, 24 Apr 2026 16:50:20 GMT</pubDate>
+      <description><![CDATA[Original title: Stablecoins Hit $33T Volume in 2025, Ripple (XRP) Pushes Multi-Asset Infrastructure
+Summary: Global stablecoin transaction volume hit $33T in 2025. Ripple (XRP) argues payments infrastructure must embrace multi-asset capabilities to stay competitive.
+Article text: Global stablecoin transaction volume hit $33T in 2025. Ripple (XRP) argues payments infrastructure must embrace multi-asset capabilities to stay competitive.
+
+Global stablecoin transaction volume reached an eye-popping $33 trillion in 2025, surpassing global credit card volumes, according to Ripple (XRP). This surge underscores the rapid shift toward stablecoins as a critical component of global payments infrastructure. Ripple is betting that the future of payments will be multi-stablecoin, and it’s urging institutions to adapt their infrastructure accordingly—or risk falling behind competitors.
+
+The adoption of multiple stablecoins—USD Coin (USDC), Tether (USDT), Ripple’s RLUSD, and others—is already a market reality. Different regions, counterparties, and regulatory frameworks necessitate diverse settlement assets. Ripple claims its platform is designed to support this complexity, processing over $100 billion in cross-border payment volume across 60+ markets. "The question isn’t whether the market will pluralize—it already has," Ripple’s latest report states.
+
+The passage of the U.S. GENIUS Act in mid-2025 marked a turning point for stablecoin adoption. Beyond establishing reserve and audit requirements, the law incentivized early institutional adoption of stablecoin-based settlement systems. Institutions that moved early have now consolidated market share, while those waiting until 2026 or later face higher switching costs and competitive disadvantages.
+
+In Europe, the MiCA regulation is adding another layer of complexity. Not all stablecoins meet MiCA compliance, forcing institutions with EU operations to adopt infrastructure that supports multiple regulated assets. Ripple’s RLUSD, for example, is positioned as a top choice for institutions prioritizing high regulatory compliance across jurisdictions. Ripple notes that single-asset platforms are increasingly unsuited for global operations, as they can't support the nuanced requirements of different regulators and counterparties.
+
+Ripple highlights three major risks tied to single-stablecoin infrastructure: limited market access, counterparty concentration, and regulatory fragility. Institutions relying on one issuer, such as USDC or USDT, risk being locked out of new corridors or facing operational disruption if the issuer changes redemption terms or encounters regulatory challenges. For example, a reliance on a single issuer in multi-region operations like APAC, LatAm, and EMEA could expose institutions to abrupt jurisdictional regulatory shifts.
+
+In contrast, Ripple’s platform is designed with asset-agnostic infrastructure, enabling simultaneous settlement across multiple stablecoins and fiat currencies. "This flexibility isn’t a luxury—it’s a requirement in a $33 trillion market that already operates across multiple assets," Ripple asserts.
+
+Ripple’s cross-border payments platform is already live with financial institutions like Switzerland’s AMINA Bank. The bank leverages Ripple’s infrastructure to support near real-time cross-border flows across stablecoin and fiat rails, underscoring the demand for payment systems capable of handling multi-asset settlement. "Traditional banking networks weren’t designed for this," said AMINA Bank’s Chief Product Officer. Ripple’s architecture reportedly supports seamless integration of additional assets as markets evolve.
+
+Stablecoins are increasingly seen as foundational to the next generation of global finance. While their current market cap sits at $303.51 billion as of April 2026, their transaction volume and utility far outweigh their capitalization. This trend is driven by their ability to combine the efficiency of blockchain with the stability of fiat currencies, making them particularly attractive for cross-border payments and institutional use cases.
+
+Ripple’s argument is clear: the institutions that will dominate the next era of payments won’t be those that pick the right stablecoin; they’ll be the ones that build infrastructure capable of accommodating the market’s rapid changes. The $33 trillion question is whether payment platforms can keep pace.
+
+Global stablecoin transaction volume hit $33T in 2025. Ripple (XRP) argues payments infrastructure must embrace multi-asset capabilities to stay competitive.
+
+Global stablecoin transaction volume reached an eye-popping $33 trillion in 2025, surpassing global credit card volumes, according to Ripple (XRP). This surge underscores the rapid shift toward stablecoins as a critical component of global payments infrastructure. Ripple is betting that the future of payments will be multi-stablecoin, and it’s urging institutions to adapt their infrastructure accordingly—or risk falling behind competitors.
+
+The adoption of multiple stablecoins—USD Coin (USDC), Tether (USDT), Ripple’s RLUSD, and others—is already a market reality. Different regions, counterparties, and regulatory frameworks necessitate diverse settlement assets. Ripple claims its platform is designed to support this complexity, processing over $100 billion in cross-border payment volume across 60+ markets. "The question isn’t whether the market will pluralize—it already has," Ripple’s latest report states.
+
+The passage of the U.S. GENIUS Act in mid-2025 marked a turning point for stablecoin adoption. Beyond establishing reserve and audit requirements, the law incentivized early institutional adoption of stablecoin-based settlement systems. Institutions that moved early have now consolidated market share, while those waiting until 2026 or later face higher switching costs and competitive disadvantages.
+
+In Europe, the MiCA regulation is adding another layer of complexity. Not all stablecoins meet MiCA compliance, forcing institutions with EU operations to adopt infrastructure that supports multiple regulated assets. Ripple’s RLUSD, for example, is positioned as a top choice for institutions prioritizing high regulatory compliance across jurisdictions. Ripple notes that single-asset platforms are increasingly unsuited for global operations, as they can't support the nuanced requirements of different regulators and counterparties.
+
+Ripple highlights three major risks tied to single-stablecoin infrastructure: limited market access, counterparty concentration, and regulatory fragility. Institutions relying on one issuer, such as USDC or USDT, risk being locked out of new corridors or facing operational disruption if the issuer changes redemption terms or encounters regulatory challenges. For example, a reliance on a single issuer in multi-region operations like APAC, LatAm, and EMEA could expose institutions to abrupt jurisdictional regulatory shifts.
+
+In contrast, Ripple’s platform is designed with asset-agnostic infrastructure, enabling simultaneous settlement across multiple stablecoins and fiat currencies. "This flexibility isn’t a luxury—it’s a requirement in a $33 trillion market that already operates across multiple assets," Ripple asserts.
+
+Ripple’s cross-border payments platform is already live with financial institutions like Switzerland’s AMINA Bank. The bank leverages Ripple’s infrastructure to support near real-time cross-border flows across stablecoin and fiat rails, underscoring the demand for payment systems capable of handling multi-asset settlement. "Traditional banking networks weren’t designed for this," said AMINA Bank’s Chief Product Officer. Ripple’s architecture reportedly supports seamless integration of additional assets as markets evolve.
+
+Stablecoins are increasingly seen as foundational to the next generation of global finance. While their current market cap sits at $303.51 billion as of April 2026, their transaction volume and utility far outweigh their capitalization. This trend is driven by their ability to combine the efficiency of blockchain with the stability of fiat currencies, making them particularly attractive for cross-border payments and institutional use cases.
+
+Ripple’s argument is clear: the institutions that will dominate the next era of payments won’t be those that pick the right stablecoin; they’ll be the ones that build infrastructure capable of accommodating the market’s rapid changes. The $33 trillion question is whether payment platforms can keep pace.
+Source: https://Blockchain.News/news/stablecoins-33t-volume-ripple-multi-asset]]></description>
+      <content:encoded><![CDATA[Global stablecoin transaction volume hit $33T in 2025. Ripple (XRP) argues payments infrastructure must embrace multi-asset capabilities to stay competitive.
+
+Global stablecoin transaction volume reached an eye-popping $33 trillion in 2025, surpassing global credit card volumes, according to Ripple (XRP). This surge underscores the rapid shift toward stablecoins as a critical component of global payments infrastructure. Ripple is betting that the future of payments will be multi-stablecoin, and it’s urging institutions to adapt their infrastructure accordingly—or risk falling behind competitors.
+
+The adoption of multiple stablecoins—USD Coin (USDC), Tether (USDT), Ripple’s RLUSD, and others—is already a market reality. Different regions, counterparties, and regulatory frameworks necessitate diverse settlement assets. Ripple claims its platform is designed to support this complexity, processing over $100 billion in cross-border payment volume across 60+ markets. "The question isn’t whether the market will pluralize—it already has," Ripple’s latest report states.
+
+The passage of the U.S. GENIUS Act in mid-2025 marked a turning point for stablecoin adoption. Beyond establishing reserve and audit requirements, the law incentivized early institutional adoption of stablecoin-based settlement systems. Institutions that moved early have now consolidated market share, while those waiting until 2026 or later face higher switching costs and competitive disadvantages.
+
+In Europe, the MiCA regulation is adding another layer of complexity. Not all stablecoins meet MiCA compliance, forcing institutions with EU operations to adopt infrastructure that supports multiple regulated assets. Ripple’s RLUSD, for example, is positioned as a top choice for institutions prioritizing high regulatory compliance across jurisdictions. Ripple notes that single-asset platforms are increasingly unsuited for global operations, as they can't support the nuanced requirements of different regulators and counterparties.
+
+Ripple highlights three major risks tied to single-stablecoin infrastructure: limited market access, counterparty concentration, and regulatory fragility. Institutions relying on one issuer, such as USDC or USDT, risk being locked out of new corridors or facing operational disruption if the issuer changes redemption terms or encounters regulatory challenges. For example, a reliance on a single issuer in multi-region operations like APAC, LatAm, and EMEA could expose institutions to abrupt jurisdictional regulatory shifts.
+
+In contrast, Ripple’s platform is designed with asset-agnostic infrastructure, enabling simultaneous settlement across multiple stablecoins and fiat currencies. "This flexibility isn’t a luxury—it’s a requirement in a $33 trillion market that already operates across multiple assets," Ripple asserts.
+
+Ripple’s cross-border payments platform is already live with financial institutions like Switzerland’s AMINA Bank. The bank leverages Ripple’s infrastructure to support near real-time cross-border flows across stablecoin and fiat rails, underscoring the demand for payment systems capable of handling multi-asset settlement. "Traditional banking networks weren’t designed for this," said AMINA Bank’s Chief Product Officer. Ripple’s architecture reportedly supports seamless integration of additional assets as markets evolve.
+
+Stablecoins are increasingly seen as foundational to the next generation of global finance. While their current market cap sits at $303.51 billion as of April 2026, their transaction volume and utility far outweigh their capitalization. This trend is driven by their ability to combine the efficiency of blockchain with the stability of fiat currencies, making them particularly attractive for cross-border payments and institutional use cases.
+
+Ripple’s argument is clear: the institutions that will dominate the next era of payments won’t be those that pick the right stablecoin; they’ll be the ones that build infrastructure capable of accommodating the market’s rapid changes. The $33 trillion question is whether payment platforms can keep pace.
+
+Global stablecoin transaction volume hit $33T in 2025. Ripple (XRP) argues payments infrastructure must embrace multi-asset capabilities to stay competitive.
+
+Global stablecoin transaction volume reached an eye-popping $33 trillion in 2025, surpassing global credit card volumes, according to Ripple (XRP). This surge underscores the rapid shift toward stablecoins as a critical component of global payments infrastructure. Ripple is betting that the future of payments will be multi-stablecoin, and it’s urging institutions to adapt their infrastructure accordingly—or risk falling behind competitors.
+
+The adoption of multiple stablecoins—USD Coin (USDC), Tether (USDT), Ripple’s RLUSD, and others—is already a market reality. Different regions, counterparties, and regulatory frameworks necessitate diverse settlement assets. Ripple claims its platform is designed to support this complexity, processing over $100 billion in cross-border payment volume across 60+ markets. "The question isn’t whether the market will pluralize—it already has," Ripple’s latest report states.
+
+The passage of the U.S. GENIUS Act in mid-2025 marked a turning point for stablecoin adoption. Beyond establishing reserve and audit requirements, the law incentivized early institutional adoption of stablecoin-based settlement systems. Institutions that moved early have now consolidated market share, while those waiting until 2026 or later face higher switching costs and competitive disadvantages.
+
+In Europe, the MiCA regulation is adding another layer of complexity. Not all stablecoins meet MiCA compliance, forcing institutions with EU operations to adopt infrastructure that supports multiple regulated assets. Ripple’s RLUSD, for example, is positioned as a top choice for institutions prioritizing high regulatory compliance across jurisdictions. Ripple notes that single-asset platforms are increasingly unsuited for global operations, as they can't support the nuanced requirements of different regulators and counterparties.
+
+Ripple highlights three major risks tied to single-stablecoin infrastructure: limited market access, counterparty concentration, and regulatory fragility. Institutions relying on one issuer, such as USDC or USDT, risk being locked out of new corridors or facing operational disruption if the issuer changes redemption terms or encounters regulatory challenges. For example, a reliance on a single issuer in multi-region operations like APAC, LatAm, and EMEA could expose institutions to abrupt jurisdictional regulatory shifts.
+
+In contrast, Ripple’s platform is designed with asset-agnostic infrastructure, enabling simultaneous settlement across multiple stablecoins and fiat currencies. "This flexibility isn’t a luxury—it’s a requirement in a $33 trillion market that already operates across multiple assets," Ripple asserts.
+
+Ripple’s cross-border payments platform is already live with financial institutions like Switzerland’s AMINA Bank. The bank leverages Ripple’s infrastructure to support near real-time cross-border flows across stablecoin and fiat rails, underscoring the demand for payment systems capable of handling multi-asset settlement. "Traditional banking networks weren’t designed for this," said AMINA Bank’s Chief Product Officer. Ripple’s architecture reportedly supports seamless integration of additional assets as markets evolve.
+
+Stablecoins are increasingly seen as foundational to the next generation of global finance. While their current market cap sits at $303.51 billion as of April 2026, their transaction volume and utility far outweigh their capitalization. This trend is driven by their ability to combine the efficiency of blockchain with the stability of fiat currencies, making them particularly attractive for cross-border payments and institutional use cases.
+
+Ripple’s argument is clear: the institutions that will dominate the next era of payments won’t be those that pick the right stablecoin; they’ll be the ones that build infrastructure capable of accommodating the market’s rapid changes. The $33 trillion question is whether payment platforms can keep pace.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-680f26af06032ebb2439c9a6797c140bc70e89e5</guid>
       <title>Big Bitcoin and Ether Bets Signal Institutional Confidence | Bitcoin hits $78K as institutions like Strategy and BitMine double down, while Japan&apos;s bl... https://Blockchain.News/news/big-bitcoin-ether-bets-institutional-confidence</title>
@@ -2345,267 +2606,6 @@ For traders and businesses, the implications are clear: heightened vigilance is 
 As Lazarus Group expands its toolkit, it serves as a reminder that the cryptocurrency space remains a prime target for sophisticated cybercriminals. The group's history of adapting to new technologies and platforms emphasizes the need for proactive security measures. With the global crypto market cap exceeding $1 trillion as of 2026, the stakes for securing digital assets have never been higher.
 
 Businesses and executives in the crypto and fintech sectors must stay informed about emerging threats and invest in advanced threat detection and response capabilities. The Lazarus Group’s latest campaign is a stark warning: no platform or operating system is immune.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-41ffe518b640b5ce5b7f17f275b27c1ceba2a0de</guid>
-      <title>MiCA Deadline Looms: Small Crypto Firms Face EU Compliance Crunch | EU&apos;s MiCA regulation demands compliance by July 1, 2026, forcing smaller crypto firms to... https://Blockchain.News/news/mica-deadline-small-crypto-firms</title>
-      <link>https://Blockchain.News/news/mica-deadline-small-crypto-firms</link>
-      <pubDate>Wed, 22 Apr 2026 14:05:05 GMT</pubDate>
-      <description><![CDATA[Original title: MiCA Deadline Looms: Small Crypto Firms Face EU Compliance Crunch
-Summary: EU's MiCA regulation demands compliance by July 1, 2026, forcing smaller crypto firms to adapt or exit as costs and consolidation rise.
-Article text: EU's MiCA regulation demands compliance by July 1, 2026, forcing smaller crypto firms to adapt or exit as costs and consolidation rise.
-
-The clock is ticking for crypto firms in the European Union as the transitional period for the Markets in Crypto-Assets (MiCA) regulation ends on July 1, 2026. Smaller players are under mounting pressure to secure compliance or cease operations within the bloc. MiCA’s sweeping rules, designed to harmonize crypto-asset oversight across the EU, are raising compliance costs and could trigger market consolidation, particularly among lightly capitalized firms.
-
-The regulation, which came into force in June 2023, requires crypto-asset service providers (CASPs) to obtain licenses to continue serving EU clients. While larger, well-established firms like CoinJar have already secured licenses—viewing MiCA as a necessary framework for legitimacy—many smaller operators are struggling to meet the authorization, governance, and reporting requirements.
-
-In Poland, where approximately 2,000 virtual asset service providers (VASPs) operate, only one—Ari10—has successfully obtained a MiCA license, according to its founder, Mateusz Kara. Speaking to Cointelegraph, Kara warned that compliance costs and organizational requirements leave little room for smaller players, potentially forcing many to shutter. This echoes patterns seen in Japan, where post-2018 licensing reforms drove smaller exchanges out of the market.
-
-“The market is heading for consolidation,” said Matthew Pinnock, COO of the decentralized finance platform Altura. He added that larger, well-capitalized exchanges and custodians are better positioned to weather MiCA’s regulatory demands, leaving smaller or hybrid projects at a disadvantage.
-
-Despite MiCA’s exemption for fully decentralized services under Recital 22, industry insiders argue the definition remains too vague. Many decentralized finance (DeFi) protocols, which rely on hybrid structures like upgradeable smart contracts or centralized front ends, could fall into a regulatory gray zone.
-
-Altura’s Pinnock noted that while the platform operates non-custodial strategies, certain features might still attract regulatory scrutiny. Taran Dhillon, head of digital assets at the decentralized impact investment platform Kula, described the exemption as insufficiently clear, leaving developers in “regulatory limbo.” This prolonged uncertainty could drive innovative projects offshore, undermining the EU’s goal of becoming a global crypto hub.
-
-EU regulators maintain that MiCA balances innovation with investor protection. The European Securities and Markets Authority (ESMA) emphasized that the framework was designed to be proportionate to the risks posed by different firms. Smaller players are not expected to meet the same requirements as systemically important entities, according to ESMA. However, the agency supports centralizing supervision for major cross-border exchanges, arguing it would streamline oversight and reduce regulatory arbitrage.
-
-Not all agree. Malta’s Financial Services Authority (MFSA) warned that a one-size-fits-all approach might overlook local market nuances, especially given MiCA’s relatively recent implementation.
-
-While MiCA represents a compliance hurdle for smaller firms, early adopters like CoinJar’s CEO, Asher Tan, see it as a filter that will ultimately strengthen the market. “MiCA brings crypto in line with serious financial frameworks,” Tan said, adding that the regulation encourages long-term value creation over speculative activity.
-
-For firms that can adapt, MiCA offers a clear, passportable path to scale across the EU. However, as the July 1 deadline approaches, the industry faces a critical test: whether MiCA will cement Europe as a trusted crypto hub or push the next wave of innovation elsewhere remains to be seen.
-
-EU's MiCA regulation demands compliance by July 1, 2026, forcing smaller crypto firms to adapt or exit as costs and consolidation rise.
-
-The clock is ticking for crypto firms in the European Union as the transitional period for the Markets in Crypto-Assets (MiCA) regulation ends on July 1, 2026. Smaller players are under mounting pressure to secure compliance or cease operations within the bloc. MiCA’s sweeping rules, designed to harmonize crypto-asset oversight across the EU, are raising compliance costs and could trigger market consolidation, particularly among lightly capitalized firms.
-
-The regulation, which came into force in June 2023, requires crypto-asset service providers (CASPs) to obtain licenses to continue serving EU clients. While larger, well-established firms like CoinJar have already secured licenses—viewing MiCA as a necessary framework for legitimacy—many smaller operators are struggling to meet the authorization, governance, and reporting requirements.
-
-In Poland, where approximately 2,000 virtual asset service providers (VASPs) operate, only one—Ari10—has successfully obtained a MiCA license, according to its founder, Mateusz Kara. Speaking to Cointelegraph, Kara warned that compliance costs and organizational requirements leave little room for smaller players, potentially forcing many to shutter. This echoes patterns seen in Japan, where post-2018 licensing reforms drove smaller exchanges out of the market.
-
-“The market is heading for consolidation,” said Matthew Pinnock, COO of the decentralized finance platform Altura. He added that larger, well-capitalized exchanges and custodians are better positioned to weather MiCA’s regulatory demands, leaving smaller or hybrid projects at a disadvantage.
-
-Despite MiCA’s exemption for fully decentralized services under Recital 22, industry insiders argue the definition remains too vague. Many decentralized finance (DeFi) protocols, which rely on hybrid structures like upgradeable smart contracts or centralized front ends, could fall into a regulatory gray zone.
-
-Altura’s Pinnock noted that while the platform operates non-custodial strategies, certain features might still attract regulatory scrutiny. Taran Dhillon, head of digital assets at the decentralized impact investment platform Kula, described the exemption as insufficiently clear, leaving developers in “regulatory limbo.” This prolonged uncertainty could drive innovative projects offshore, undermining the EU’s goal of becoming a global crypto hub.
-
-EU regulators maintain that MiCA balances innovation with investor protection. The European Securities and Markets Authority (ESMA) emphasized that the framework was designed to be proportionate to the risks posed by different firms. Smaller players are not expected to meet the same requirements as systemically important entities, according to ESMA. However, the agency supports centralizing supervision for major cross-border exchanges, arguing it would streamline oversight and reduce regulatory arbitrage.
-
-Not all agree. Malta’s Financial Services Authority (MFSA) warned that a one-size-fits-all approach might overlook local market nuances, especially given MiCA’s relatively recent implementation.
-Source: https://Blockchain.News/news/mica-deadline-small-crypto-firms]]></description>
-      <content:encoded><![CDATA[EU's MiCA regulation demands compliance by July 1, 2026, forcing smaller crypto firms to adapt or exit as costs and consolidation rise.
-
-The clock is ticking for crypto firms in the European Union as the transitional period for the Markets in Crypto-Assets (MiCA) regulation ends on July 1, 2026. Smaller players are under mounting pressure to secure compliance or cease operations within the bloc. MiCA’s sweeping rules, designed to harmonize crypto-asset oversight across the EU, are raising compliance costs and could trigger market consolidation, particularly among lightly capitalized firms.
-
-The regulation, which came into force in June 2023, requires crypto-asset service providers (CASPs) to obtain licenses to continue serving EU clients. While larger, well-established firms like CoinJar have already secured licenses—viewing MiCA as a necessary framework for legitimacy—many smaller operators are struggling to meet the authorization, governance, and reporting requirements.
-
-In Poland, where approximately 2,000 virtual asset service providers (VASPs) operate, only one—Ari10—has successfully obtained a MiCA license, according to its founder, Mateusz Kara. Speaking to Cointelegraph, Kara warned that compliance costs and organizational requirements leave little room for smaller players, potentially forcing many to shutter. This echoes patterns seen in Japan, where post-2018 licensing reforms drove smaller exchanges out of the market.
-
-“The market is heading for consolidation,” said Matthew Pinnock, COO of the decentralized finance platform Altura. He added that larger, well-capitalized exchanges and custodians are better positioned to weather MiCA’s regulatory demands, leaving smaller or hybrid projects at a disadvantage.
-
-Despite MiCA’s exemption for fully decentralized services under Recital 22, industry insiders argue the definition remains too vague. Many decentralized finance (DeFi) protocols, which rely on hybrid structures like upgradeable smart contracts or centralized front ends, could fall into a regulatory gray zone.
-
-Altura’s Pinnock noted that while the platform operates non-custodial strategies, certain features might still attract regulatory scrutiny. Taran Dhillon, head of digital assets at the decentralized impact investment platform Kula, described the exemption as insufficiently clear, leaving developers in “regulatory limbo.” This prolonged uncertainty could drive innovative projects offshore, undermining the EU’s goal of becoming a global crypto hub.
-
-EU regulators maintain that MiCA balances innovation with investor protection. The European Securities and Markets Authority (ESMA) emphasized that the framework was designed to be proportionate to the risks posed by different firms. Smaller players are not expected to meet the same requirements as systemically important entities, according to ESMA. However, the agency supports centralizing supervision for major cross-border exchanges, arguing it would streamline oversight and reduce regulatory arbitrage.
-
-Not all agree. Malta’s Financial Services Authority (MFSA) warned that a one-size-fits-all approach might overlook local market nuances, especially given MiCA’s relatively recent implementation.
-
-While MiCA represents a compliance hurdle for smaller firms, early adopters like CoinJar’s CEO, Asher Tan, see it as a filter that will ultimately strengthen the market. “MiCA brings crypto in line with serious financial frameworks,” Tan said, adding that the regulation encourages long-term value creation over speculative activity.
-
-For firms that can adapt, MiCA offers a clear, passportable path to scale across the EU. However, as the July 1 deadline approaches, the industry faces a critical test: whether MiCA will cement Europe as a trusted crypto hub or push the next wave of innovation elsewhere remains to be seen.
-
-EU's MiCA regulation demands compliance by July 1, 2026, forcing smaller crypto firms to adapt or exit as costs and consolidation rise.
-
-The clock is ticking for crypto firms in the European Union as the transitional period for the Markets in Crypto-Assets (MiCA) regulation ends on July 1, 2026. Smaller players are under mounting pressure to secure compliance or cease operations within the bloc. MiCA’s sweeping rules, designed to harmonize crypto-asset oversight across the EU, are raising compliance costs and could trigger market consolidation, particularly among lightly capitalized firms.
-
-The regulation, which came into force in June 2023, requires crypto-asset service providers (CASPs) to obtain licenses to continue serving EU clients. While larger, well-established firms like CoinJar have already secured licenses—viewing MiCA as a necessary framework for legitimacy—many smaller operators are struggling to meet the authorization, governance, and reporting requirements.
-
-In Poland, where approximately 2,000 virtual asset service providers (VASPs) operate, only one—Ari10—has successfully obtained a MiCA license, according to its founder, Mateusz Kara. Speaking to Cointelegraph, Kara warned that compliance costs and organizational requirements leave little room for smaller players, potentially forcing many to shutter. This echoes patterns seen in Japan, where post-2018 licensing reforms drove smaller exchanges out of the market.
-
-“The market is heading for consolidation,” said Matthew Pinnock, COO of the decentralized finance platform Altura. He added that larger, well-capitalized exchanges and custodians are better positioned to weather MiCA’s regulatory demands, leaving smaller or hybrid projects at a disadvantage.
-
-Despite MiCA’s exemption for fully decentralized services under Recital 22, industry insiders argue the definition remains too vague. Many decentralized finance (DeFi) protocols, which rely on hybrid structures like upgradeable smart contracts or centralized front ends, could fall into a regulatory gray zone.
-
-Altura’s Pinnock noted that while the platform operates non-custodial strategies, certain features might still attract regulatory scrutiny. Taran Dhillon, head of digital assets at the decentralized impact investment platform Kula, described the exemption as insufficiently clear, leaving developers in “regulatory limbo.” This prolonged uncertainty could drive innovative projects offshore, undermining the EU’s goal of becoming a global crypto hub.
-
-EU regulators maintain that MiCA balances innovation with investor protection. The European Securities and Markets Authority (ESMA) emphasized that the framework was designed to be proportionate to the risks posed by different firms. Smaller players are not expected to meet the same requirements as systemically important entities, according to ESMA. However, the agency supports centralizing supervision for major cross-border exchanges, arguing it would streamline oversight and reduce regulatory arbitrage.
-
-Not all agree. Malta’s Financial Services Authority (MFSA) warned that a one-size-fits-all approach might overlook local market nuances, especially given MiCA’s relatively recent implementation.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-72bceb7c5592c666e2552dbbc83515e86c21e1de</guid>
-      <title>APT Primed for Bull Trap Rally to $1.20 Before $0.75 Crash | Aptos shows classic distribution patterns at $0.97 with derivatives positioning screaming... https://Blockchain.News/news/20260422-prediction-apt-primed-for-bull-trap-rally-to</title>
-      <link>https://Blockchain.News/news/20260422-prediction-apt-primed-for-bull-trap-rally-to</link>
-      <pubDate>Wed, 22 Apr 2026 14:00:18 GMT</pubDate>
-      <description><![CDATA[Original title: APT Primed for Bull Trap Rally to $1.20 Before $0.75 Crash
-Summary: Aptos shows classic distribution patterns at $0.97 with derivatives positioning screaming institutional exit. Expect dead cat bounce to $1.20 resistance followed by violent 35% correction to $0.75
-Article text: Aptos shows classic distribution patterns at $0.97 with derivatives positioning screaming institutional exit. Expect dead cat bounce to $1.20 resistance followed by violent 35% correction to $0.75 ...
-
-Aptos painted the perfect bull trap setup today, climbing 3.42% to $0.97 while smart money quietly heads for the exits. The taker buy/sell ratio at 0.72 exposes the underlying weakness - aggressive selling dominates despite the green candle. This divergence between surface price action and actual order flow marks textbook distribution, not the accumulation retail traders are betting on.
-
-The derivatives market tells an even uglier story. Top traders maintain 62.8% long positions while retail sits at 58.6% long, creating a dangerous consensus trade. When positioning becomes this crowded with declining open interest down 0.76%, the stage is set for maximum pain. The neutral funding rate at 0.01% removes any immediate squeeze pressure, giving institutions perfect conditions to time their exit.
-
-APT's current positioning near the upper Bollinger Band at 86% creates the ideal launching pad for false hope. The MACD histogram sits at absolute zero while RSI hovers at 56 - not oversold enough to prevent further upside but perfectly positioned for momentum failure. This combination typically produces sharp rallies that die spectacular deaths.
-
-The moving average structure reveals the bigger picture damage. While APT managed to reclaim the 7-day SMA at $0.96, it trades 47% below the 200-day SMA at $1.83. Short-term averages clustering around $0.90-$0.93 will act as gravitational pull once this bounce exhausts itself. The massive gap between current price and longer-term trend represents pure air pocket territory.
-
-Market structure points toward a calculated two-phase move designed to trap both sides. Phase one targets $1.20 resistance where I expect violent rejection within one week. This level represents the final liquidity grab before institutional selling overwhelms diminishing buyer demand.
-
-The optimal short entry zone sits at $1.15-$1.20 with tight stops at $1.25. Initial resistance appears at $1.01, but the real money comes from positioning early for the second phase crash toward $0.75 strong support. This downside target represents a 35-40% correction that will eliminate every support level between current price and major demand.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Invalidation occurs only if APT reclaims and holds above $1.25 for more than 48 hours, suggesting genuine institutional accumulation rather than distribution. Given current derivative positioning and the absence of fundamental catalysts, this scenario remains highly unlikely.
-
-The most probable path sees APT touching $1.20 within two weeks, followed by the kind of correction that reminds everyone why position sizing matters. The setup carries high conviction, but markets can remain irrational far longer than most traders can maintain their margin calls. Trade accordingly.
-
-Aptos shows classic distribution patterns at $0.97 with derivatives positioning screaming institutional exit. Expect dead cat bounce to $1.20 resistance followed by violent 35% correction to $0.75 ...
-
-Aptos painted the perfect bull trap setup today, climbing 3.42% to $0.97 while smart money quietly heads for the exits. The taker buy/sell ratio at 0.72 exposes the underlying weakness - aggressive selling dominates despite the green candle. This divergence between surface price action and actual order flow marks textbook distribution, not the accumulation retail traders are betting on.
-
-The derivatives market tells an even uglier story. Top traders maintain 62.8% long positions while retail sits at 58.6% long, creating a dangerous consensus trade. When positioning becomes this crowded with declining open interest down 0.76%, the stage is set for maximum pain. The neutral funding rate at 0.01% removes any immediate squeeze pressure, giving institutions perfect conditions to time their exit.
-
-APT's current positioning near the upper Bollinger Band at 86% creates the ideal launching pad for false hope. The MACD histogram sits at absolute zero while RSI hovers at 56 - not oversold enough to prevent further upside but perfectly positioned for momentum failure. This combination typically produces sharp rallies that die spectacular deaths.
-
-The moving average structure reveals the bigger picture damage. While APT managed to reclaim the 7-day SMA at $0.96, it trades 47% below the 200-day SMA at $1.83. Short-term averages clustering around $0.90-$0.93 will act as gravitational pull once this bounce exhausts itself. The massive gap between current price and longer-term trend represents pure air pocket territory.
-
-Market structure points toward a calculated two-phase move designed to trap both sides. Phase one targets $1.20 resistance where I expect violent rejection within one week. This level represents the final liquidity grab before institutional selling overwhelms diminishing buyer demand.
-
-The optimal short entry zone sits at $1.15-$1.20 with tight stops at $1.25. Initial resistance appears at $1.01, but the real money comes from positioning early for the second phase crash toward $0.75 strong support. This downside target represents a 35-40% correction that will eliminate every support level between current price and major demand.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Invalidation occurs only if APT reclaims and holds above $1.25 for more than 48 hours, suggesting genuine institutional accumulation rather than distribution. Given current derivative positioning and the absence of fundamental catalysts, this scenario remains highly unlikely.
-
-The most probable path sees APT touching $1.20 within two weeks, followed by the kind of correction that reminds everyone why position sizing matters. The setup carries high conviction, but markets can remain irrational far longer than most traders can maintain their margin calls. Trade accordingly.
-Source: https://Blockchain.News/news/20260422-prediction-apt-primed-for-bull-trap-rally-to]]></description>
-      <content:encoded><![CDATA[Aptos shows classic distribution patterns at $0.97 with derivatives positioning screaming institutional exit. Expect dead cat bounce to $1.20 resistance followed by violent 35% correction to $0.75 ...
-
-Aptos painted the perfect bull trap setup today, climbing 3.42% to $0.97 while smart money quietly heads for the exits. The taker buy/sell ratio at 0.72 exposes the underlying weakness - aggressive selling dominates despite the green candle. This divergence between surface price action and actual order flow marks textbook distribution, not the accumulation retail traders are betting on.
-
-The derivatives market tells an even uglier story. Top traders maintain 62.8% long positions while retail sits at 58.6% long, creating a dangerous consensus trade. When positioning becomes this crowded with declining open interest down 0.76%, the stage is set for maximum pain. The neutral funding rate at 0.01% removes any immediate squeeze pressure, giving institutions perfect conditions to time their exit.
-
-APT's current positioning near the upper Bollinger Band at 86% creates the ideal launching pad for false hope. The MACD histogram sits at absolute zero while RSI hovers at 56 - not oversold enough to prevent further upside but perfectly positioned for momentum failure. This combination typically produces sharp rallies that die spectacular deaths.
-
-The moving average structure reveals the bigger picture damage. While APT managed to reclaim the 7-day SMA at $0.96, it trades 47% below the 200-day SMA at $1.83. Short-term averages clustering around $0.90-$0.93 will act as gravitational pull once this bounce exhausts itself. The massive gap between current price and longer-term trend represents pure air pocket territory.
-
-Market structure points toward a calculated two-phase move designed to trap both sides. Phase one targets $1.20 resistance where I expect violent rejection within one week. This level represents the final liquidity grab before institutional selling overwhelms diminishing buyer demand.
-
-The optimal short entry zone sits at $1.15-$1.20 with tight stops at $1.25. Initial resistance appears at $1.01, but the real money comes from positioning early for the second phase crash toward $0.75 strong support. This downside target represents a 35-40% correction that will eliminate every support level between current price and major demand.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Invalidation occurs only if APT reclaims and holds above $1.25 for more than 48 hours, suggesting genuine institutional accumulation rather than distribution. Given current derivative positioning and the absence of fundamental catalysts, this scenario remains highly unlikely.
-
-The most probable path sees APT touching $1.20 within two weeks, followed by the kind of correction that reminds everyone why position sizing matters. The setup carries high conviction, but markets can remain irrational far longer than most traders can maintain their margin calls. Trade accordingly.
-
-Aptos shows classic distribution patterns at $0.97 with derivatives positioning screaming institutional exit. Expect dead cat bounce to $1.20 resistance followed by violent 35% correction to $0.75 ...
-
-Aptos painted the perfect bull trap setup today, climbing 3.42% to $0.97 while smart money quietly heads for the exits. The taker buy/sell ratio at 0.72 exposes the underlying weakness - aggressive selling dominates despite the green candle. This divergence between surface price action and actual order flow marks textbook distribution, not the accumulation retail traders are betting on.
-
-The derivatives market tells an even uglier story. Top traders maintain 62.8% long positions while retail sits at 58.6% long, creating a dangerous consensus trade. When positioning becomes this crowded with declining open interest down 0.76%, the stage is set for maximum pain. The neutral funding rate at 0.01% removes any immediate squeeze pressure, giving institutions perfect conditions to time their exit.
-
-APT's current positioning near the upper Bollinger Band at 86% creates the ideal launching pad for false hope. The MACD histogram sits at absolute zero while RSI hovers at 56 - not oversold enough to prevent further upside but perfectly positioned for momentum failure. This combination typically produces sharp rallies that die spectacular deaths.
-
-The moving average structure reveals the bigger picture damage. While APT managed to reclaim the 7-day SMA at $0.96, it trades 47% below the 200-day SMA at $1.83. Short-term averages clustering around $0.90-$0.93 will act as gravitational pull once this bounce exhausts itself. The massive gap between current price and longer-term trend represents pure air pocket territory.
-
-Market structure points toward a calculated two-phase move designed to trap both sides. Phase one targets $1.20 resistance where I expect violent rejection within one week. This level represents the final liquidity grab before institutional selling overwhelms diminishing buyer demand.
-
-The optimal short entry zone sits at $1.15-$1.20 with tight stops at $1.25. Initial resistance appears at $1.01, but the real money comes from positioning early for the second phase crash toward $0.75 strong support. This downside target represents a 35-40% correction that will eliminate every support level between current price and major demand.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Invalidation occurs only if APT reclaims and holds above $1.25 for more than 48 hours, suggesting genuine institutional accumulation rather than distribution. Given current derivative positioning and the absence of fundamental catalysts, this scenario remains highly unlikely.
-
-The most probable path sees APT touching $1.20 within two weeks, followed by the kind of correction that reminds everyone why position sizing matters. The setup carries high conviction, but markets can remain irrational far longer than most traders can maintain their margin calls. Trade accordingly.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-731cc8005df73aae98452a32bb0eddb77e6d5319</guid>
-      <title>Russia Advances Crypto Bill as First Reading Passes State Duma | Russia&apos;s parliament moves forward with a crypto bill mandating licensed intermediaries an... https://Blockchain.News/news/russia-crypto-bill-first-reading</title>
-      <link>https://Blockchain.News/news/russia-crypto-bill-first-reading</link>
-      <pubDate>Wed, 22 Apr 2026 13:57:05 GMT</pubDate>
-      <description><![CDATA[Original title: Russia Advances Crypto Bill as First Reading Passes State Duma
-Summary: Russia's parliament moves forward with a crypto bill mandating licensed intermediaries and imposing strict penalties on unregistered platforms.
-Article text: Russia's parliament moves forward with a crypto bill mandating licensed intermediaries and imposing strict penalties on unregistered platforms.
-
-Russia’s State Duma has approved the first reading of a sweeping crypto regulation bill, setting the stage for significant changes to the country’s digital asset market. The draft legislation, titled “On Digital Currency and Digital Rights” (Bill No. 1194918-8), proposes channeling all cryptocurrency transactions through licensed intermediaries under the supervision of the Bank of Russia. If passed into law, these rules could take effect as early as July 2026, with unlicensed platforms banned outright starting July 2027.
-
-The bill, along with three related proposals, aims to establish a regulated crypto ecosystem while introducing investment caps for retail traders, mandatory regulatory compliance, and strict penalties for violations. Retail investors, for instance, would face a purchase limit of 300,000 rubles (approximately $4,000) annually through any single licensed intermediary. Only “most liquid digital currencies”—those with a market cap exceeding 5 trillion rubles ($66.6 billion) and a five-year trading history—would qualify for trading under the proposed rules.
-
-A related proposal, Bill No. 1209607-8, seeks to impose criminal penalties on operators of unregistered crypto services, including imprisonment and fines. However, the Russian Supreme Court has expressed reservations about this measure, calling it premature given the absence of a fully adopted regulatory framework. Critics argue that pushing for criminal enforcement without clear guidelines could lead to confusion and unintended consequences for the burgeoning sector.
-
-Russia’s approach to cryptocurrency regulation has shifted markedly in recent years. While crypto ownership and trading remain legal, domestic payments using digital assets are prohibited. The Bank of Russia has taken a central role in shaping the country’s digital currency policies, including its rollout of the digital ruble. Recent legislative efforts build on a 2023 framework that formally recognized cryptocurrencies as property, but the new bills aim to tighten oversight further.
-
-These developments are part of a broader strategy to reduce the crypto market’s “grey zone,” align with anti-financial crime initiatives, and mitigate risks to consumers. However, industry participants warn that over-regulation could have the opposite effect, driving crypto activity underground rather than encouraging compliance. The emphasis on licensed intermediaries also raises questions about the future of peer-to-peer trading in Russia.
-
-For international observers, Russia’s crypto policies are particularly significant given the geopolitical backdrop of sanctions. While domestic crypto use remains tightly controlled, digital assets are reportedly being explored as a tool for cross-border transactions and international trade.
-
-The bill must pass additional readings before becoming law, meaning its final provisions could still change. Meanwhile, the Bank of Russia is likely to play a pivotal role in defining which assets qualify as “most liquid” and setting compliance standards.
-
-As global crypto markets watch Russia’s regulatory moves closely, traders should keep an eye on potential enforcement timelines and any shifts in market accessibility. If implemented, these laws could reshape the dynamics of crypto trading across one of the largest markets in Eastern Europe.
-
-Russia's parliament moves forward with a crypto bill mandating licensed intermediaries and imposing strict penalties on unregistered platforms.
-
-Russia’s State Duma has approved the first reading of a sweeping crypto regulation bill, setting the stage for significant changes to the country’s digital asset market. The draft legislation, titled “On Digital Currency and Digital Rights” (Bill No. 1194918-8), proposes channeling all cryptocurrency transactions through licensed intermediaries under the supervision of the Bank of Russia. If passed into law, these rules could take effect as early as July 2026, with unlicensed platforms banned outright starting July 2027.
-
-The bill, along with three related proposals, aims to establish a regulated crypto ecosystem while introducing investment caps for retail traders, mandatory regulatory compliance, and strict penalties for violations. Retail investors, for instance, would face a purchase limit of 300,000 rubles (approximately $4,000) annually through any single licensed intermediary. Only “most liquid digital currencies”—those with a market cap exceeding 5 trillion rubles ($66.6 billion) and a five-year trading history—would qualify for trading under the proposed rules.
-
-A related proposal, Bill No. 1209607-8, seeks to impose criminal penalties on operators of unregistered crypto services, including imprisonment and fines. However, the Russian Supreme Court has expressed reservations about this measure, calling it premature given the absence of a fully adopted regulatory framework. Critics argue that pushing for criminal enforcement without clear guidelines could lead to confusion and unintended consequences for the burgeoning sector.
-
-Russia’s approach to cryptocurrency regulation has shifted markedly in recent years. While crypto ownership and trading remain legal, domestic payments using digital assets are prohibited. The Bank of Russia has taken a central role in shaping the country’s digital currency policies, including its rollout of the digital ruble. Recent legislative efforts build on a 2023 framework that formally recognized cryptocurrencies as property, but the new bills aim to tighten oversight further.
-
-These developments are part of a broader strategy to reduce the crypto market’s “grey zone,” align with anti-financial crime initiatives, and mitigate risks to consumers. However, industry participants warn that over-regulation could have the opposite effect, driving crypto activity underground rather than encouraging compliance. The emphasis on licensed intermediaries also raises questions about the future of peer-to-peer trading in Russia.
-
-For international observers, Russia’s crypto policies are particularly significant given the geopolitical backdrop of sanctions. While domestic crypto use remains tightly controlled, digital assets are reportedly being explored as a tool for cross-border transactions and international trade.
-
-The bill must pass additional readings before becoming law, meaning its final provisions could still change. Meanwhile, the Bank of Russia is likely to play a pivotal role in defining which assets qualify as “most liquid” and setting compliance standards.
-
-As global crypto markets watch Russia’s regulatory moves closely, traders should keep an eye on potential enforcement timelines and any shifts in market accessibility. If implemented, these laws could reshape the dynamics of crypto trading across one of the largest markets in Eastern Europe.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/russia-crypto-bill-first-reading]]></description>
-      <content:encoded><![CDATA[Russia's parliament moves forward with a crypto bill mandating licensed intermediaries and imposing strict penalties on unregistered platforms.
-
-Russia’s State Duma has approved the first reading of a sweeping crypto regulation bill, setting the stage for significant changes to the country’s digital asset market. The draft legislation, titled “On Digital Currency and Digital Rights” (Bill No. 1194918-8), proposes channeling all cryptocurrency transactions through licensed intermediaries under the supervision of the Bank of Russia. If passed into law, these rules could take effect as early as July 2026, with unlicensed platforms banned outright starting July 2027.
-
-The bill, along with three related proposals, aims to establish a regulated crypto ecosystem while introducing investment caps for retail traders, mandatory regulatory compliance, and strict penalties for violations. Retail investors, for instance, would face a purchase limit of 300,000 rubles (approximately $4,000) annually through any single licensed intermediary. Only “most liquid digital currencies”—those with a market cap exceeding 5 trillion rubles ($66.6 billion) and a five-year trading history—would qualify for trading under the proposed rules.
-
-A related proposal, Bill No. 1209607-8, seeks to impose criminal penalties on operators of unregistered crypto services, including imprisonment and fines. However, the Russian Supreme Court has expressed reservations about this measure, calling it premature given the absence of a fully adopted regulatory framework. Critics argue that pushing for criminal enforcement without clear guidelines could lead to confusion and unintended consequences for the burgeoning sector.
-
-Russia’s approach to cryptocurrency regulation has shifted markedly in recent years. While crypto ownership and trading remain legal, domestic payments using digital assets are prohibited. The Bank of Russia has taken a central role in shaping the country’s digital currency policies, including its rollout of the digital ruble. Recent legislative efforts build on a 2023 framework that formally recognized cryptocurrencies as property, but the new bills aim to tighten oversight further.
-
-These developments are part of a broader strategy to reduce the crypto market’s “grey zone,” align with anti-financial crime initiatives, and mitigate risks to consumers. However, industry participants warn that over-regulation could have the opposite effect, driving crypto activity underground rather than encouraging compliance. The emphasis on licensed intermediaries also raises questions about the future of peer-to-peer trading in Russia.
-
-For international observers, Russia’s crypto policies are particularly significant given the geopolitical backdrop of sanctions. While domestic crypto use remains tightly controlled, digital assets are reportedly being explored as a tool for cross-border transactions and international trade.
-
-The bill must pass additional readings before becoming law, meaning its final provisions could still change. Meanwhile, the Bank of Russia is likely to play a pivotal role in defining which assets qualify as “most liquid” and setting compliance standards.
-
-As global crypto markets watch Russia’s regulatory moves closely, traders should keep an eye on potential enforcement timelines and any shifts in market accessibility. If implemented, these laws could reshape the dynamics of crypto trading across one of the largest markets in Eastern Europe.
-
-Russia's parliament moves forward with a crypto bill mandating licensed intermediaries and imposing strict penalties on unregistered platforms.
-
-Russia’s State Duma has approved the first reading of a sweeping crypto regulation bill, setting the stage for significant changes to the country’s digital asset market. The draft legislation, titled “On Digital Currency and Digital Rights” (Bill No. 1194918-8), proposes channeling all cryptocurrency transactions through licensed intermediaries under the supervision of the Bank of Russia. If passed into law, these rules could take effect as early as July 2026, with unlicensed platforms banned outright starting July 2027.
-
-The bill, along with three related proposals, aims to establish a regulated crypto ecosystem while introducing investment caps for retail traders, mandatory regulatory compliance, and strict penalties for violations. Retail investors, for instance, would face a purchase limit of 300,000 rubles (approximately $4,000) annually through any single licensed intermediary. Only “most liquid digital currencies”—those with a market cap exceeding 5 trillion rubles ($66.6 billion) and a five-year trading history—would qualify for trading under the proposed rules.
-
-A related proposal, Bill No. 1209607-8, seeks to impose criminal penalties on operators of unregistered crypto services, including imprisonment and fines. However, the Russian Supreme Court has expressed reservations about this measure, calling it premature given the absence of a fully adopted regulatory framework. Critics argue that pushing for criminal enforcement without clear guidelines could lead to confusion and unintended consequences for the burgeoning sector.
-
-Russia’s approach to cryptocurrency regulation has shifted markedly in recent years. While crypto ownership and trading remain legal, domestic payments using digital assets are prohibited. The Bank of Russia has taken a central role in shaping the country’s digital currency policies, including its rollout of the digital ruble. Recent legislative efforts build on a 2023 framework that formally recognized cryptocurrencies as property, but the new bills aim to tighten oversight further.
-
-These developments are part of a broader strategy to reduce the crypto market’s “grey zone,” align with anti-financial crime initiatives, and mitigate risks to consumers. However, industry participants warn that over-regulation could have the opposite effect, driving crypto activity underground rather than encouraging compliance. The emphasis on licensed intermediaries also raises questions about the future of peer-to-peer trading in Russia.
-
-For international observers, Russia’s crypto policies are particularly significant given the geopolitical backdrop of sanctions. While domestic crypto use remains tightly controlled, digital assets are reportedly being explored as a tool for cross-border transactions and international trade.
-
-The bill must pass additional readings before becoming law, meaning its final provisions could still change. Meanwhile, the Bank of Russia is likely to play a pivotal role in defining which assets qualify as “most liquid” and setting compliance standards.
-
-As global crypto markets watch Russia’s regulatory moves closely, traders should keep an eye on potential enforcement timelines and any shifts in market accessibility. If implemented, these laws could reshape the dynamics of crypto trading across one of the largest markets in Eastern Europe.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
     </item>
   </channel>
 </rss>
