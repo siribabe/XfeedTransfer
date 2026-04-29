@@ -4,7 +4,260 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Wed, 29 Apr 2026 08:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:46:23 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-97f08eeff745ba2a55f7acb486d0a9f02f80a544</guid>
+      <title>DeFi United Moves to Restore rsETH Backing After $292M Exploit | DeFi United outlines a recovery plan to restore rsETH backing after the $292M Kelp bridge... https://Blockchain.News/news/defi-united-rseth-recovery-plan-292m-exploit</title>
+      <link>https://Blockchain.News/news/defi-united-rseth-recovery-plan-292m-exploit</link>
+      <pubDate>Tue, 28 Apr 2026 13:13:07 GMT</pubDate>
+      <description><![CDATA[Original title: DeFi United Moves to Restore rsETH Backing After $292M Exploit
+Summary: DeFi United outlines a recovery plan to restore rsETH backing after the $292M Kelp bridge exploit. Key players include Aave, Consensys, and Arbitrum DAO.
+Article text: DeFi United outlines a recovery plan to restore rsETH backing after the $292M Kelp bridge exploit. Key players include Aave, Consensys, and Arbitrum DAO.
+
+DeFi United, a recovery coalition tied to Aave (AAVE), has detailed its plan to restore backing for rsETH after the April 18 exploit of Kelp DAO’s cross-chain bridge. The attack released 116,500 rsETH—worth $292 million at the time—without proper burning on the source chain, creating a backing shortfall. The group’s technical roadmap proposes converting committed ETH into rsETH and depositing it into the affected bridge lockbox, enabling the bridge to resume operations.
+
+The Kelp exploit, attributed to North Korea’s Lazarus Group, exploited a security flaw in Kelp's single-verifier bridge design. The drained rsETH was later used as collateral on platforms like Aave and Compound, generating systemic bad debt. As of now, seven attacker-linked addresses still hold 107,000 rsETH-backed positions.
+
+To recover these funds, DeFi United plans to adjust the rsETH oracle price temporarily, liquidate exploiter positions in a controlled manner, and redeem the rsETH for ETH. The recovered ETH will be used to clear deficits in affected protocols. However, the plan’s success hinges on governance approvals, DAO votes, and the attacker not interfering with the liquidation process.
+
+Key Ethereum ecosystem players have stepped in to support the recovery effort. Consensys and its co-founder Joe Lubin have committed up to 30,000 ETH, while Sharplink, an Ethereum-focused treasury firm, is helping structure the plan. Aave Labs has also requested the Arbitrum DAO to release 30,765 ETH frozen by the Arbitrum Security Council after the exploit.
+
+As of April 28, DeFi United has raised $302.26 million (132,706 ETH) in commitments, though some funds are still awaiting DAO votes for final execution. The initiative has unified the DeFi ecosystem, with multiple protocols coordinating to mitigate the exploit’s fallout.
+
+rsETH, an Ethereum staking derivative, currently trades at $2,327.75, down 1.67% over the past 24 hours. The exploit not only exposed vulnerabilities in Kelp's bridge infrastructure but also underscored broader DeFi risks tied to cross-chain interoperability. Security flaws in bridge designs—specifically Kelp’s controversial 1-of-1 verifier configuration—have reignited debates around decentralization and security standards in DeFi.
+
+Given the scale of the exploit, the recovery plan’s successful execution could signal the resilience of DeFi protocols in addressing systemic threats. However, the reliance on governance approvals and multisig coordination highlights the operational challenges of decentralized recovery efforts. The outcome will likely influence future bridge designs and risk management strategies across the industry.
+
+For traders and stakers, the restoration of rsETH backing is critical to restoring confidence in its ecosystem. Any delays or disruptions in the recovery plan could further impact rsETH’s price and liquidity, making this a pivotal moment for the token’s market stability.
+
+All eyes will be on DeFi United’s next steps, especially as DAO votes and governance processes unfold in the coming weeks. Success or failure here could set a precedent for how DeFi handles large-scale exploits in the future.
+
+DeFi United outlines a recovery plan to restore rsETH backing after the $292M Kelp bridge exploit. Key players include Aave, Consensys, and Arbitrum DAO.
+
+DeFi United, a recovery coalition tied to Aave (AAVE), has detailed its plan to restore backing for rsETH after the April 18 exploit of Kelp DAO’s cross-chain bridge. The attack released 116,500 rsETH—worth $292 million at the time—without proper burning on the source chain, creating a backing shortfall. The group’s technical roadmap proposes converting committed ETH into rsETH and depositing it into the affected bridge lockbox, enabling the bridge to resume operations.
+
+The Kelp exploit, attributed to North Korea’s Lazarus Group, exploited a security flaw in Kelp's single-verifier bridge design. The drained rsETH was later used as collateral on platforms like Aave and Compound, generating systemic bad debt. As of now, seven attacker-linked addresses still hold 107,000 rsETH-backed positions.
+
+To recover these funds, DeFi United plans to adjust the rsETH oracle price temporarily, liquidate exploiter positions in a controlled manner, and redeem the rsETH for ETH. The recovered ETH will be used to clear deficits in affected protocols. However, the plan’s success hinges on governance approvals, DAO votes, and the attacker not interfering with the liquidation process.
+
+Key Ethereum ecosystem players have stepped in to support the recovery effort. Consensys and its co-founder Joe Lubin have committed up to 30,000 ETH, while Sharplink, an Ethereum-focused treasury firm, is helping structure the plan. Aave Labs has also requested the Arbitrum DAO to release 30,765 ETH frozen by the Arbitrum Security Council after the exploit.
+
+As of April 28, DeFi United has raised $302.26 million (132,706 ETH) in commitments, though some funds are still awaiting DAO votes for final execution. The initiative has unified the DeFi ecosystem, with multiple protocols coordinating to mitigate the exploit’s fallout.
+
+rsETH, an Ethereum staking derivative, currently trades at $2,327.75, down 1.67% over the past 24 hours. The exploit not only exposed vulnerabilities in Kelp's bridge infrastructure but also underscored broader DeFi risks tied to cross-chain interoperability. Security flaws in bridge designs—specifically Kelp’s controversial 1-of-1 verifier configuration—have reignited debates around decentralization and security standards in DeFi.
+
+Given the scale of the exploit, the recovery plan’s successful execution could signal the resilience of DeFi protocols in addressing systemic threats. However, the reliance on governance approvals and multisig coordination highlights the operational challenges of decentralized recovery efforts. The outcome will likely influence future bridge designs and risk management strategies across the industry.
+
+For traders and stakers, the restoration of rsETH backing is critical to restoring confidence in its ecosystem. Any delays or disruptions in the recovery plan could further impact rsETH’s price and liquidity, making this a pivotal moment for the token’s market stability.
+
+All eyes will be on DeFi United’s next steps, especially as DAO votes and governance processes unfold in the coming weeks. Success or failure here could set a precedent for how DeFi handles large-scale exploits in the future.
+Source: https://Blockchain.News/news/defi-united-rseth-recovery-plan-292m-exploit]]></description>
+      <content:encoded><![CDATA[DeFi United outlines a recovery plan to restore rsETH backing after the $292M Kelp bridge exploit. Key players include Aave, Consensys, and Arbitrum DAO.
+
+DeFi United, a recovery coalition tied to Aave (AAVE), has detailed its plan to restore backing for rsETH after the April 18 exploit of Kelp DAO’s cross-chain bridge. The attack released 116,500 rsETH—worth $292 million at the time—without proper burning on the source chain, creating a backing shortfall. The group’s technical roadmap proposes converting committed ETH into rsETH and depositing it into the affected bridge lockbox, enabling the bridge to resume operations.
+
+The Kelp exploit, attributed to North Korea’s Lazarus Group, exploited a security flaw in Kelp's single-verifier bridge design. The drained rsETH was later used as collateral on platforms like Aave and Compound, generating systemic bad debt. As of now, seven attacker-linked addresses still hold 107,000 rsETH-backed positions.
+
+To recover these funds, DeFi United plans to adjust the rsETH oracle price temporarily, liquidate exploiter positions in a controlled manner, and redeem the rsETH for ETH. The recovered ETH will be used to clear deficits in affected protocols. However, the plan’s success hinges on governance approvals, DAO votes, and the attacker not interfering with the liquidation process.
+
+Key Ethereum ecosystem players have stepped in to support the recovery effort. Consensys and its co-founder Joe Lubin have committed up to 30,000 ETH, while Sharplink, an Ethereum-focused treasury firm, is helping structure the plan. Aave Labs has also requested the Arbitrum DAO to release 30,765 ETH frozen by the Arbitrum Security Council after the exploit.
+
+As of April 28, DeFi United has raised $302.26 million (132,706 ETH) in commitments, though some funds are still awaiting DAO votes for final execution. The initiative has unified the DeFi ecosystem, with multiple protocols coordinating to mitigate the exploit’s fallout.
+
+rsETH, an Ethereum staking derivative, currently trades at $2,327.75, down 1.67% over the past 24 hours. The exploit not only exposed vulnerabilities in Kelp's bridge infrastructure but also underscored broader DeFi risks tied to cross-chain interoperability. Security flaws in bridge designs—specifically Kelp’s controversial 1-of-1 verifier configuration—have reignited debates around decentralization and security standards in DeFi.
+
+Given the scale of the exploit, the recovery plan’s successful execution could signal the resilience of DeFi protocols in addressing systemic threats. However, the reliance on governance approvals and multisig coordination highlights the operational challenges of decentralized recovery efforts. The outcome will likely influence future bridge designs and risk management strategies across the industry.
+
+For traders and stakers, the restoration of rsETH backing is critical to restoring confidence in its ecosystem. Any delays or disruptions in the recovery plan could further impact rsETH’s price and liquidity, making this a pivotal moment for the token’s market stability.
+
+All eyes will be on DeFi United’s next steps, especially as DAO votes and governance processes unfold in the coming weeks. Success or failure here could set a precedent for how DeFi handles large-scale exploits in the future.
+
+DeFi United outlines a recovery plan to restore rsETH backing after the $292M Kelp bridge exploit. Key players include Aave, Consensys, and Arbitrum DAO.
+
+DeFi United, a recovery coalition tied to Aave (AAVE), has detailed its plan to restore backing for rsETH after the April 18 exploit of Kelp DAO’s cross-chain bridge. The attack released 116,500 rsETH—worth $292 million at the time—without proper burning on the source chain, creating a backing shortfall. The group’s technical roadmap proposes converting committed ETH into rsETH and depositing it into the affected bridge lockbox, enabling the bridge to resume operations.
+
+The Kelp exploit, attributed to North Korea’s Lazarus Group, exploited a security flaw in Kelp's single-verifier bridge design. The drained rsETH was later used as collateral on platforms like Aave and Compound, generating systemic bad debt. As of now, seven attacker-linked addresses still hold 107,000 rsETH-backed positions.
+
+To recover these funds, DeFi United plans to adjust the rsETH oracle price temporarily, liquidate exploiter positions in a controlled manner, and redeem the rsETH for ETH. The recovered ETH will be used to clear deficits in affected protocols. However, the plan’s success hinges on governance approvals, DAO votes, and the attacker not interfering with the liquidation process.
+
+Key Ethereum ecosystem players have stepped in to support the recovery effort. Consensys and its co-founder Joe Lubin have committed up to 30,000 ETH, while Sharplink, an Ethereum-focused treasury firm, is helping structure the plan. Aave Labs has also requested the Arbitrum DAO to release 30,765 ETH frozen by the Arbitrum Security Council after the exploit.
+
+As of April 28, DeFi United has raised $302.26 million (132,706 ETH) in commitments, though some funds are still awaiting DAO votes for final execution. The initiative has unified the DeFi ecosystem, with multiple protocols coordinating to mitigate the exploit’s fallout.
+
+rsETH, an Ethereum staking derivative, currently trades at $2,327.75, down 1.67% over the past 24 hours. The exploit not only exposed vulnerabilities in Kelp's bridge infrastructure but also underscored broader DeFi risks tied to cross-chain interoperability. Security flaws in bridge designs—specifically Kelp’s controversial 1-of-1 verifier configuration—have reignited debates around decentralization and security standards in DeFi.
+
+Given the scale of the exploit, the recovery plan’s successful execution could signal the resilience of DeFi protocols in addressing systemic threats. However, the reliance on governance approvals and multisig coordination highlights the operational challenges of decentralized recovery efforts. The outcome will likely influence future bridge designs and risk management strategies across the industry.
+
+For traders and stakers, the restoration of rsETH backing is critical to restoring confidence in its ecosystem. Any delays or disruptions in the recovery plan could further impact rsETH’s price and liquidity, making this a pivotal moment for the token’s market stability.
+
+All eyes will be on DeFi United’s next steps, especially as DAO votes and governance processes unfold in the coming weeks. Success or failure here could set a precedent for how DeFi handles large-scale exploits in the future.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-158a628c86fac31cd68ed8805047e16919824839</guid>
+      <title>HKMA Warns of Fraudulent Tokens Claiming Stablecoin Links | The HKMA has warned against tokens falsely linked to licensed stablecoin issuers HSBC and... https://Blockchain.News/news/hkma-fraudulent-stablecoin-warning</title>
+      <link>https://Blockchain.News/news/hkma-fraudulent-stablecoin-warning</link>
+      <pubDate>Tue, 28 Apr 2026 11:09:01 GMT</pubDate>
+      <description><![CDATA[Original title: HKMA Warns of Fraudulent Tokens Claiming Stablecoin Links
+Summary: The HKMA has warned against tokens falsely linked to licensed stablecoin issuers HSBC and Standard Chartered.
+Article text: The HKMA has warned against tokens falsely linked to licensed stablecoin issuers HSBC and Standard Chartered.
+
+The Hong Kong Monetary Authority (HKMA) issued a warning on April 28, 2026, cautioning the public about tokens falsely claiming association with licensed stablecoin issuers, HSBC and Standard Chartered. The tokens in question, bearing the tickers “HKDAP” and “HSBC,” are not authorized or issued by either institution, according to official statements from both entities.
+
+This alert comes just weeks after the HKMA granted the first two stablecoin licenses under Hong Kong’s new regulatory framework to HSBC and Standard Chartered on April 10, 2026. Despite this milestone in regulating the local stablecoin market, fraudulent actors appear to be exploiting the news to mislead investors.
+
+Under Hong Kong’s Stablecoins Ordinance, effective since August 2025, only licensed entities are permitted to issue stablecoins. These issuers must meet stringent requirements, including maintaining HK$25 million in paid-up share capital and fully backing all issued stablecoins with high-quality, liquid assets. This framework was designed to ensure stability and investor protection in the stablecoin market, but it also underscores the risks of unregulated tokens masquerading as legitimate offerings.
+
+Neither HSBC nor Standard Chartered has issued any regulated stablecoins to date, the HKMA clarified. The authority urged the public to verify claims through official channels and conduct transactions only via regulated platforms to avoid falling victim to scams. The HKMA also reminded investors of their right to redeem licensed stablecoins at par value under the current regulatory regime, which does not extend to fraudulent or unregulated tokens.
+
+Hong Kong’s stablecoin market has been under increasing scrutiny as the city positions itself as a hub for digital assets. The Stablecoins Ordinance is part of a broader effort to provide legal clarity while encouraging innovation. In parallel, the Securities and Futures Commission (SFC) is piloting the trading of tokenized funds on licensed crypto exchanges, signaling a push toward integrating traditional finance with blockchain-based solutions.
+
+For investors, this latest warning serves as a reminder to exercise caution, particularly in a market where regulatory regimes are still taking root. Fraudulent tokens like “HKDAP” and “HSBC” may lure unsuspecting individuals with false claims of legitimacy, but the HKMA’s robust licensing framework provides a clear line between authorized issuers and bad actors. Staying informed and adhering to regulated channels is key to navigating Hong Kong’s evolving stablecoin environment.
+
+As the market matures, the HKMA’s proactive stance highlights its commitment to investor protection and market integrity. With no official launch date for licensed stablecoins yet, traders should remain vigilant for further announcements from HSBC, Standard Chartered, and the HKMA.
+
+The HKMA has warned against tokens falsely linked to licensed stablecoin issuers HSBC and Standard Chartered.
+
+The Hong Kong Monetary Authority (HKMA) issued a warning on April 28, 2026, cautioning the public about tokens falsely claiming association with licensed stablecoin issuers, HSBC and Standard Chartered. The tokens in question, bearing the tickers “HKDAP” and “HSBC,” are not authorized or issued by either institution, according to official statements from both entities.
+
+This alert comes just weeks after the HKMA granted the first two stablecoin licenses under Hong Kong’s new regulatory framework to HSBC and Standard Chartered on April 10, 2026. Despite this milestone in regulating the local stablecoin market, fraudulent actors appear to be exploiting the news to mislead investors.
+
+Under Hong Kong’s Stablecoins Ordinance, effective since August 2025, only licensed entities are permitted to issue stablecoins. These issuers must meet stringent requirements, including maintaining HK$25 million in paid-up share capital and fully backing all issued stablecoins with high-quality, liquid assets. This framework was designed to ensure stability and investor protection in the stablecoin market, but it also underscores the risks of unregulated tokens masquerading as legitimate offerings.
+
+Neither HSBC nor Standard Chartered has issued any regulated stablecoins to date, the HKMA clarified. The authority urged the public to verify claims through official channels and conduct transactions only via regulated platforms to avoid falling victim to scams. The HKMA also reminded investors of their right to redeem licensed stablecoins at par value under the current regulatory regime, which does not extend to fraudulent or unregulated tokens.
+
+Hong Kong’s stablecoin market has been under increasing scrutiny as the city positions itself as a hub for digital assets. The Stablecoins Ordinance is part of a broader effort to provide legal clarity while encouraging innovation. In parallel, the Securities and Futures Commission (SFC) is piloting the trading of tokenized funds on licensed crypto exchanges, signaling a push toward integrating traditional finance with blockchain-based solutions.
+
+For investors, this latest warning serves as a reminder to exercise caution, particularly in a market where regulatory regimes are still taking root. Fraudulent tokens like “HKDAP” and “HSBC” may lure unsuspecting individuals with false claims of legitimacy, but the HKMA’s robust licensing framework provides a clear line between authorized issuers and bad actors. Staying informed and adhering to regulated channels is key to navigating Hong Kong’s evolving stablecoin environment.
+
+As the market matures, the HKMA’s proactive stance highlights its commitment to investor protection and market integrity. With no official launch date for licensed stablecoins yet, traders should remain vigilant for further announcements from HSBC, Standard Chartered, and the HKMA.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/hkma-fraudulent-stablecoin-warning]]></description>
+      <content:encoded><![CDATA[The HKMA has warned against tokens falsely linked to licensed stablecoin issuers HSBC and Standard Chartered.
+
+The Hong Kong Monetary Authority (HKMA) issued a warning on April 28, 2026, cautioning the public about tokens falsely claiming association with licensed stablecoin issuers, HSBC and Standard Chartered. The tokens in question, bearing the tickers “HKDAP” and “HSBC,” are not authorized or issued by either institution, according to official statements from both entities.
+
+This alert comes just weeks after the HKMA granted the first two stablecoin licenses under Hong Kong’s new regulatory framework to HSBC and Standard Chartered on April 10, 2026. Despite this milestone in regulating the local stablecoin market, fraudulent actors appear to be exploiting the news to mislead investors.
+
+Under Hong Kong’s Stablecoins Ordinance, effective since August 2025, only licensed entities are permitted to issue stablecoins. These issuers must meet stringent requirements, including maintaining HK$25 million in paid-up share capital and fully backing all issued stablecoins with high-quality, liquid assets. This framework was designed to ensure stability and investor protection in the stablecoin market, but it also underscores the risks of unregulated tokens masquerading as legitimate offerings.
+
+Neither HSBC nor Standard Chartered has issued any regulated stablecoins to date, the HKMA clarified. The authority urged the public to verify claims through official channels and conduct transactions only via regulated platforms to avoid falling victim to scams. The HKMA also reminded investors of their right to redeem licensed stablecoins at par value under the current regulatory regime, which does not extend to fraudulent or unregulated tokens.
+
+Hong Kong’s stablecoin market has been under increasing scrutiny as the city positions itself as a hub for digital assets. The Stablecoins Ordinance is part of a broader effort to provide legal clarity while encouraging innovation. In parallel, the Securities and Futures Commission (SFC) is piloting the trading of tokenized funds on licensed crypto exchanges, signaling a push toward integrating traditional finance with blockchain-based solutions.
+
+For investors, this latest warning serves as a reminder to exercise caution, particularly in a market where regulatory regimes are still taking root. Fraudulent tokens like “HKDAP” and “HSBC” may lure unsuspecting individuals with false claims of legitimacy, but the HKMA’s robust licensing framework provides a clear line between authorized issuers and bad actors. Staying informed and adhering to regulated channels is key to navigating Hong Kong’s evolving stablecoin environment.
+
+As the market matures, the HKMA’s proactive stance highlights its commitment to investor protection and market integrity. With no official launch date for licensed stablecoins yet, traders should remain vigilant for further announcements from HSBC, Standard Chartered, and the HKMA.
+
+The HKMA has warned against tokens falsely linked to licensed stablecoin issuers HSBC and Standard Chartered.
+
+The Hong Kong Monetary Authority (HKMA) issued a warning on April 28, 2026, cautioning the public about tokens falsely claiming association with licensed stablecoin issuers, HSBC and Standard Chartered. The tokens in question, bearing the tickers “HKDAP” and “HSBC,” are not authorized or issued by either institution, according to official statements from both entities.
+
+This alert comes just weeks after the HKMA granted the first two stablecoin licenses under Hong Kong’s new regulatory framework to HSBC and Standard Chartered on April 10, 2026. Despite this milestone in regulating the local stablecoin market, fraudulent actors appear to be exploiting the news to mislead investors.
+
+Under Hong Kong’s Stablecoins Ordinance, effective since August 2025, only licensed entities are permitted to issue stablecoins. These issuers must meet stringent requirements, including maintaining HK$25 million in paid-up share capital and fully backing all issued stablecoins with high-quality, liquid assets. This framework was designed to ensure stability and investor protection in the stablecoin market, but it also underscores the risks of unregulated tokens masquerading as legitimate offerings.
+
+Neither HSBC nor Standard Chartered has issued any regulated stablecoins to date, the HKMA clarified. The authority urged the public to verify claims through official channels and conduct transactions only via regulated platforms to avoid falling victim to scams. The HKMA also reminded investors of their right to redeem licensed stablecoins at par value under the current regulatory regime, which does not extend to fraudulent or unregulated tokens.
+
+Hong Kong’s stablecoin market has been under increasing scrutiny as the city positions itself as a hub for digital assets. The Stablecoins Ordinance is part of a broader effort to provide legal clarity while encouraging innovation. In parallel, the Securities and Futures Commission (SFC) is piloting the trading of tokenized funds on licensed crypto exchanges, signaling a push toward integrating traditional finance with blockchain-based solutions.
+
+For investors, this latest warning serves as a reminder to exercise caution, particularly in a market where regulatory regimes are still taking root. Fraudulent tokens like “HKDAP” and “HSBC” may lure unsuspecting individuals with false claims of legitimacy, but the HKMA’s robust licensing framework provides a clear line between authorized issuers and bad actors. Staying informed and adhering to regulated channels is key to navigating Hong Kong’s evolving stablecoin environment.
+
+As the market matures, the HKMA’s proactive stance highlights its commitment to investor protection and market integrity. With no official launch date for licensed stablecoins yet, traders should remain vigilant for further announcements from HSBC, Standard Chartered, and the HKMA.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-ede677632073a94e5b7a84164693cebff98dc39c</guid>
+      <title>AAVE Price Prediction: $110 Target Within 15 Days as Whales Load Up | Smart money positioning at 59.6% long while AAVE consolidates near $97.62 mid-range. Tech... https://Blockchain.News/news/20260428-price-prediction-target-aave-110-within-15-days-as-whales</title>
+      <link>https://Blockchain.News/news/20260428-price-prediction-target-aave-110-within-15-days-as-whales</link>
+      <pubDate>Tue, 28 Apr 2026 10:43:45 GMT</pubDate>
+      <description><![CDATA[Original title: AAVE Price Prediction: $110 Target Within 15 Days as Whales Load Up
+Summary: Smart money positioning at 59.6% long while AAVE consolidates near $97.62 mid-range. Technical setup suggests 12-15% upside move targeting $110 resistance with 65% probability over next two weeks.
+Article text: Smart money positioning at 59.6% long while AAVE consolidates near $97.62 mid-range. Technical setup suggests 12-15% upside move targeting $110 resistance with 65% probability over next two weeks.
+
+The momentum picture for AAVE is painting a classic accumulation pattern that seasoned traders recognize immediately. With RSI sitting dead center at 49.18 and MACD histogram flatlining at zero, we're witnessing that critical moment where directional conviction typically emerges. The Bollinger Band positioning at 0.50 confirms AAVE is trading exactly at the statistical mean - neither oversold nor overbought.
+
+Price action is hugging the 20-day SMA at $97.51, creating a coiling effect that historically precedes explosive moves. The $7.49 daily ATR suggests we should expect roughly 7-8% moves when this consolidation breaks, making the immediate resistance at $100.00 and strong resistance at $102.38 very achievable targets.
+
+Here's where the story gets interesting for bulls. Despite the sideways grind, Binance spot volume clocked $16.7 million over 24 hours - substantial for a mid-cap DeFi token during consolidation. The derivatives market is telling an even more compelling story with open interest holding steady at $62 million while funding rates remain neutral at 0.0027%.
+
+The real kicker is the positioning data. While retail traders are modestly long at 54.6%, the smart money contingent - those top traders who consistently profit - are positioned 59.6% long. This divergence typically signals institutional accumulation ahead of a significant move. The balanced taker buy/sell ratio at 1.0165 suggests we're in that calm-before-the-storm phase.
+
+The fundamental landscape for AAVE remains robust despite the lack of fresh analyst predictions this week. According to research from Blockchain.news, DeFi lending protocols continue to benefit from institutional adoption trends that began accelerating in late 2025. Without specific KOL commentary to muddy the waters, we're left with pure price action and positioning data - often the most reliable predictive tools.
+
+The absence of bearish headlines or negative sentiment creates a neutral-to-positive backdrop for technical breakouts. In crypto markets, no news often translates to reduced selling pressure, allowing underlying demand to surface.
+
+The probability matrix favors bulls over the next 15 days. I'm assigning 65% odds to AAVE testing the $110 zone (Bollinger upper band) within two weeks, representing a clean 12.5% gain from current levels. The path higher likely unfolds in stages: initial break above $100 psychological resistance, followed by momentum acceleration toward the $102.38 technical barrier, then a final push to $110-111.
+
+Downside risk exists below $95.24 support, which would trigger a 7-10% correction toward the $87-90 range. However, with smart money positioning and technical indicators showing no bearish divergences, I'm assigning only 25% probability to this scenario. The remaining 10% accounts for sideways grinding between $95-100.
+
+Risk management is straightforward: stops below $95 for swing trades, with profit-taking beginning at $108-110. The derivatives positioning suggests any pullback will be shallow and bought aggressively.
+
+Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
+
+Smart money positioning at 59.6% long while AAVE consolidates near $97.62 mid-range. Technical setup suggests 12-15% upside move targeting $110 resistance with 65% probability over next two weeks.
+
+The momentum picture for AAVE is painting a classic accumulation pattern that seasoned traders recognize immediately. With RSI sitting dead center at 49.18 and MACD histogram flatlining at zero, we're witnessing that critical moment where directional conviction typically emerges. The Bollinger Band positioning at 0.50 confirms AAVE is trading exactly at the statistical mean - neither oversold nor overbought.
+
+Price action is hugging the 20-day SMA at $97.51, creating a coiling effect that historically precedes explosive moves. The $7.49 daily ATR suggests we should expect roughly 7-8% moves when this consolidation breaks, making the immediate resistance at $100.00 and strong resistance at $102.38 very achievable targets.
+
+Here's where the story gets interesting for bulls. Despite the sideways grind, Binance spot volume clocked $16.7 million over 24 hours - substantial for a mid-cap DeFi token during consolidation. The derivatives market is telling an even more compelling story with open interest holding steady at $62 million while funding rates remain neutral at 0.0027%.
+
+The real kicker is the positioning data. While retail traders are modestly long at 54.6%, the smart money contingent - those top traders who consistently profit - are positioned 59.6% long. This divergence typically signals institutional accumulation ahead of a significant move. The balanced taker buy/sell ratio at 1.0165 suggests we're in that calm-before-the-storm phase.
+
+The fundamental landscape for AAVE remains robust despite the lack of fresh analyst predictions this week. According to research from Blockchain.news, DeFi lending protocols continue to benefit from institutional adoption trends that began accelerating in late 2025. Without specific KOL commentary to muddy the waters, we're left with pure price action and positioning data - often the most reliable predictive tools.
+
+The absence of bearish headlines or negative sentiment creates a neutral-to-positive backdrop for technical breakouts. In crypto markets, no news often translates to reduced selling pressure, allowing underlying demand to surface.
+
+The probability matrix favors bulls over the next 15 days. I'm assigning 65% odds to AAVE testing the $110 zone (Bollinger upper band) within two weeks, representing a clean 12.5% gain from current levels. The path higher likely unfolds in stages: initial break above $100 psychological resistance, followed by momentum acceleration toward the $102.38 technical barrier, then a final push to $110-111.
+
+Downside risk exists below $95.24 support, which would trigger a 7-10% correction toward the $87-90 range. However, with smart money positioning and technical indicators showing no bearish divergences, I'm assigning only 25% probability to this scenario. The remaining 10% accounts for sideways grinding between $95-100.
+Source: https://Blockchain.News/news/20260428-price-prediction-target-aave-110-within-15-days-as-whales]]></description>
+      <content:encoded><![CDATA[Smart money positioning at 59.6% long while AAVE consolidates near $97.62 mid-range. Technical setup suggests 12-15% upside move targeting $110 resistance with 65% probability over next two weeks.
+
+The momentum picture for AAVE is painting a classic accumulation pattern that seasoned traders recognize immediately. With RSI sitting dead center at 49.18 and MACD histogram flatlining at zero, we're witnessing that critical moment where directional conviction typically emerges. The Bollinger Band positioning at 0.50 confirms AAVE is trading exactly at the statistical mean - neither oversold nor overbought.
+
+Price action is hugging the 20-day SMA at $97.51, creating a coiling effect that historically precedes explosive moves. The $7.49 daily ATR suggests we should expect roughly 7-8% moves when this consolidation breaks, making the immediate resistance at $100.00 and strong resistance at $102.38 very achievable targets.
+
+Here's where the story gets interesting for bulls. Despite the sideways grind, Binance spot volume clocked $16.7 million over 24 hours - substantial for a mid-cap DeFi token during consolidation. The derivatives market is telling an even more compelling story with open interest holding steady at $62 million while funding rates remain neutral at 0.0027%.
+
+The real kicker is the positioning data. While retail traders are modestly long at 54.6%, the smart money contingent - those top traders who consistently profit - are positioned 59.6% long. This divergence typically signals institutional accumulation ahead of a significant move. The balanced taker buy/sell ratio at 1.0165 suggests we're in that calm-before-the-storm phase.
+
+The fundamental landscape for AAVE remains robust despite the lack of fresh analyst predictions this week. According to research from Blockchain.news, DeFi lending protocols continue to benefit from institutional adoption trends that began accelerating in late 2025. Without specific KOL commentary to muddy the waters, we're left with pure price action and positioning data - often the most reliable predictive tools.
+
+The absence of bearish headlines or negative sentiment creates a neutral-to-positive backdrop for technical breakouts. In crypto markets, no news often translates to reduced selling pressure, allowing underlying demand to surface.
+
+The probability matrix favors bulls over the next 15 days. I'm assigning 65% odds to AAVE testing the $110 zone (Bollinger upper band) within two weeks, representing a clean 12.5% gain from current levels. The path higher likely unfolds in stages: initial break above $100 psychological resistance, followed by momentum acceleration toward the $102.38 technical barrier, then a final push to $110-111.
+
+Downside risk exists below $95.24 support, which would trigger a 7-10% correction toward the $87-90 range. However, with smart money positioning and technical indicators showing no bearish divergences, I'm assigning only 25% probability to this scenario. The remaining 10% accounts for sideways grinding between $95-100.
+
+Risk management is straightforward: stops below $95 for swing trades, with profit-taking beginning at $108-110. The derivatives positioning suggests any pullback will be shallow and bought aggressively.
+
+Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
+
+Smart money positioning at 59.6% long while AAVE consolidates near $97.62 mid-range. Technical setup suggests 12-15% upside move targeting $110 resistance with 65% probability over next two weeks.
+
+The momentum picture for AAVE is painting a classic accumulation pattern that seasoned traders recognize immediately. With RSI sitting dead center at 49.18 and MACD histogram flatlining at zero, we're witnessing that critical moment where directional conviction typically emerges. The Bollinger Band positioning at 0.50 confirms AAVE is trading exactly at the statistical mean - neither oversold nor overbought.
+
+Price action is hugging the 20-day SMA at $97.51, creating a coiling effect that historically precedes explosive moves. The $7.49 daily ATR suggests we should expect roughly 7-8% moves when this consolidation breaks, making the immediate resistance at $100.00 and strong resistance at $102.38 very achievable targets.
+
+Here's where the story gets interesting for bulls. Despite the sideways grind, Binance spot volume clocked $16.7 million over 24 hours - substantial for a mid-cap DeFi token during consolidation. The derivatives market is telling an even more compelling story with open interest holding steady at $62 million while funding rates remain neutral at 0.0027%.
+
+The real kicker is the positioning data. While retail traders are modestly long at 54.6%, the smart money contingent - those top traders who consistently profit - are positioned 59.6% long. This divergence typically signals institutional accumulation ahead of a significant move. The balanced taker buy/sell ratio at 1.0165 suggests we're in that calm-before-the-storm phase.
+
+The fundamental landscape for AAVE remains robust despite the lack of fresh analyst predictions this week. According to research from Blockchain.news, DeFi lending protocols continue to benefit from institutional adoption trends that began accelerating in late 2025. Without specific KOL commentary to muddy the waters, we're left with pure price action and positioning data - often the most reliable predictive tools.
+
+The absence of bearish headlines or negative sentiment creates a neutral-to-positive backdrop for technical breakouts. In crypto markets, no news often translates to reduced selling pressure, allowing underlying demand to surface.
+
+The probability matrix favors bulls over the next 15 days. I'm assigning 65% odds to AAVE testing the $110 zone (Bollinger upper band) within two weeks, representing a clean 12.5% gain from current levels. The path higher likely unfolds in stages: initial break above $100 psychological resistance, followed by momentum acceleration toward the $102.38 technical barrier, then a final push to $110-111.
+
+Downside risk exists below $95.24 support, which would trigger a 7-10% correction toward the $87-90 range. However, with smart money positioning and technical indicators showing no bearish divergences, I'm assigning only 25% probability to this scenario. The remaining 10% accounts for sideways grinding between $95-100.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-383f975c2ba3633193776be1d7432dfa8bf14951</guid>
       <title>SHIB Price Prediction: Dead Money Until Bitcoin Breaks $70K | SHIB sits in technical no-man&apos;s-land with RSI at 52 and anemic volume. Price stays locked... https://Blockchain.News/news/20260428-shib-price-prediction-dead-money-until-bitcoin-breaks-70k</title>
@@ -2313,259 +2566,6 @@ The immediate battlefield is crystal clear: $3.65 represents the make-or-break r
 Here's where it gets interesting—the derivatives market is telling a completely different story than the spot action. While INJ rallied 3.46% today, the funding rate sits at -0.0239%, meaning shorts are actually paying longs in the futures market. This negative funding typically signals bearish sentiment among derivatives traders, creating a contrarian setup.
 
 But dig deeper into the positioning data and the picture shifts dramatically. Top traders—the smart money—are positioned 67.5% long with a 2.08 ratio, while retail follows at 65.6% long. When whales and retail align this heavily on the same side, it often precedes significant moves in that direction. The taker buy/sell ratio at 1.31 shows aggressive buying pressure, with buyers willing to pay market prices rather than wait.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-251b533a3f7fa366b9b8092af57b3427a1a8ea3d</guid>
-      <title>Paul Sztorc to Launch eCash Bitcoin Hard Fork in August | Bitcoin developer Paul Sztorc announces eCash hard fork for August, introducing drivechai... https://Blockchain.News/news/paul-sztorc-ecash-bitcoin-hard-fork</title>
-      <link>https://Blockchain.News/news/paul-sztorc-ecash-bitcoin-hard-fork</link>
-      <pubDate>Fri, 24 Apr 2026 21:55:59 GMT</pubDate>
-      <description><![CDATA[Original title: Paul Sztorc to Launch eCash Bitcoin Hard Fork in August
-Summary: Bitcoin developer Paul Sztorc announces eCash hard fork for August, introducing drivechains and controversy over Satoshi's coins.
-Article text: Bitcoin developer Paul Sztorc announces eCash hard fork for August, introducing drivechains and controversy over Satoshi's coins.
-
-Paul Sztorc, a well-known Bitcoin developer and creator of Drivechain, has announced plans to launch a new Bitcoin hard fork called eCash in August 2026. The fork will allow Bitcoin holders to exchange BTC for eCash on a 1:1 basis, marking a significant step in Sztorc’s long-standing efforts to expand Bitcoin's scalability and functionality.
-
-According to Sztorc, eCash will run on a layer-1 blockchain that closely mirrors Bitcoin Core software and utilizes the same SHA-256 hashing algorithm. One key modification is a reduction in initial mining difficulty, intended to make it easier for miners to participate. Additionally, the eCash network will include seven layer-2 scaling solutions, known as “drivechains,” designed to increase transaction throughput and offer optional on-chain privacy.
-
-What has sparked the most heated debate is Sztorc’s proposal to “manually” reassign a portion of Satoshi Nakamoto’s 1.1 million BTC – coins believed to be inaccessible – to early investors. Sztorc argues the move is a “sustainable fix to Bitcoin's problems,” but prominent Bitcoin advocates have expressed strong opposition. Peter McCormack, a vocal Bitcoin supporter, criticized the plan, calling it “theft and disrespectful.” Similarly, other critics have questioned the need for yet another Bitcoin fork.
-
-Sztorc has sought to distance eCash from past Bitcoin forks like Bitcoin Cash (BCH), which launched in 2017 but failed to achieve significant adoption. “Unlike BCH, there is no ‘Bitcoin’ in the name here,” Sztorc said, emphasizing that eCash aims to address Bitcoin’s technical limitations without creating confusion with the original chain.
-
-The announcement comes at a time when Bitcoin is trading at $77,638 with modest daily gains of 0.44%. The broader market has seen cooling volatility, signaling a slowdown in momentum after recent highs. Sztorc’s timing could reignite debate over Bitcoin’s scalability and privacy as it competes with increasingly advanced blockchain ecosystems like Ethereum and Solana.
-
-Sztorc has been a prominent figure in Bitcoin development circles for over a decade. He is best known for his proposal of BIP 300 and BIP 301, which introduced the Drivechain concept—an approach to integrating sidechains into Bitcoin. This fork represents a culmination of his efforts to push the boundaries of Bitcoin’s capabilities while addressing long-standing criticisms around scalability.
-
-If eCash progresses as planned, it will go live in August, providing Bitcoin holders the option to test the new network. However, the controversial reallocation of Satoshi's coins and the mixed reception from the Bitcoin community could pose challenges for adoption. Traders and developers will be watching closely to see whether eCash can deliver on its promises or face the same fate as past forks like BCH.
-
-Bitcoin developer Paul Sztorc announces eCash hard fork for August, introducing drivechains and controversy over Satoshi's coins.
-
-Paul Sztorc, a well-known Bitcoin developer and creator of Drivechain, has announced plans to launch a new Bitcoin hard fork called eCash in August 2026. The fork will allow Bitcoin holders to exchange BTC for eCash on a 1:1 basis, marking a significant step in Sztorc’s long-standing efforts to expand Bitcoin's scalability and functionality.
-
-According to Sztorc, eCash will run on a layer-1 blockchain that closely mirrors Bitcoin Core software and utilizes the same SHA-256 hashing algorithm. One key modification is a reduction in initial mining difficulty, intended to make it easier for miners to participate. Additionally, the eCash network will include seven layer-2 scaling solutions, known as “drivechains,” designed to increase transaction throughput and offer optional on-chain privacy.
-
-What has sparked the most heated debate is Sztorc’s proposal to “manually” reassign a portion of Satoshi Nakamoto’s 1.1 million BTC – coins believed to be inaccessible – to early investors. Sztorc argues the move is a “sustainable fix to Bitcoin's problems,” but prominent Bitcoin advocates have expressed strong opposition. Peter McCormack, a vocal Bitcoin supporter, criticized the plan, calling it “theft and disrespectful.” Similarly, other critics have questioned the need for yet another Bitcoin fork.
-
-Sztorc has sought to distance eCash from past Bitcoin forks like Bitcoin Cash (BCH), which launched in 2017 but failed to achieve significant adoption. “Unlike BCH, there is no ‘Bitcoin’ in the name here,” Sztorc said, emphasizing that eCash aims to address Bitcoin’s technical limitations without creating confusion with the original chain.
-
-The announcement comes at a time when Bitcoin is trading at $77,638 with modest daily gains of 0.44%. The broader market has seen cooling volatility, signaling a slowdown in momentum after recent highs. Sztorc’s timing could reignite debate over Bitcoin’s scalability and privacy as it competes with increasingly advanced blockchain ecosystems like Ethereum and Solana.
-
-Sztorc has been a prominent figure in Bitcoin development circles for over a decade. He is best known for his proposal of BIP 300 and BIP 301, which introduced the Drivechain concept—an approach to integrating sidechains into Bitcoin. This fork represents a culmination of his efforts to push the boundaries of Bitcoin’s capabilities while addressing long-standing criticisms around scalability.
-
-If eCash progresses as planned, it will go live in August, providing Bitcoin holders the option to test the new network. However, the controversial reallocation of Satoshi's coins and the mixed reception from the Bitcoin community could pose challenges for adoption. Traders and developers will be watching closely to see whether eCash can deliver on its promises or face the same fate as past forks like BCH.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/paul-sztorc-ecash-bitcoin-hard-fork]]></description>
-      <content:encoded><![CDATA[Bitcoin developer Paul Sztorc announces eCash hard fork for August, introducing drivechains and controversy over Satoshi's coins.
-
-Paul Sztorc, a well-known Bitcoin developer and creator of Drivechain, has announced plans to launch a new Bitcoin hard fork called eCash in August 2026. The fork will allow Bitcoin holders to exchange BTC for eCash on a 1:1 basis, marking a significant step in Sztorc’s long-standing efforts to expand Bitcoin's scalability and functionality.
-
-According to Sztorc, eCash will run on a layer-1 blockchain that closely mirrors Bitcoin Core software and utilizes the same SHA-256 hashing algorithm. One key modification is a reduction in initial mining difficulty, intended to make it easier for miners to participate. Additionally, the eCash network will include seven layer-2 scaling solutions, known as “drivechains,” designed to increase transaction throughput and offer optional on-chain privacy.
-
-What has sparked the most heated debate is Sztorc’s proposal to “manually” reassign a portion of Satoshi Nakamoto’s 1.1 million BTC – coins believed to be inaccessible – to early investors. Sztorc argues the move is a “sustainable fix to Bitcoin's problems,” but prominent Bitcoin advocates have expressed strong opposition. Peter McCormack, a vocal Bitcoin supporter, criticized the plan, calling it “theft and disrespectful.” Similarly, other critics have questioned the need for yet another Bitcoin fork.
-
-Sztorc has sought to distance eCash from past Bitcoin forks like Bitcoin Cash (BCH), which launched in 2017 but failed to achieve significant adoption. “Unlike BCH, there is no ‘Bitcoin’ in the name here,” Sztorc said, emphasizing that eCash aims to address Bitcoin’s technical limitations without creating confusion with the original chain.
-
-The announcement comes at a time when Bitcoin is trading at $77,638 with modest daily gains of 0.44%. The broader market has seen cooling volatility, signaling a slowdown in momentum after recent highs. Sztorc’s timing could reignite debate over Bitcoin’s scalability and privacy as it competes with increasingly advanced blockchain ecosystems like Ethereum and Solana.
-
-Sztorc has been a prominent figure in Bitcoin development circles for over a decade. He is best known for his proposal of BIP 300 and BIP 301, which introduced the Drivechain concept—an approach to integrating sidechains into Bitcoin. This fork represents a culmination of his efforts to push the boundaries of Bitcoin’s capabilities while addressing long-standing criticisms around scalability.
-
-If eCash progresses as planned, it will go live in August, providing Bitcoin holders the option to test the new network. However, the controversial reallocation of Satoshi's coins and the mixed reception from the Bitcoin community could pose challenges for adoption. Traders and developers will be watching closely to see whether eCash can deliver on its promises or face the same fate as past forks like BCH.
-
-Bitcoin developer Paul Sztorc announces eCash hard fork for August, introducing drivechains and controversy over Satoshi's coins.
-
-Paul Sztorc, a well-known Bitcoin developer and creator of Drivechain, has announced plans to launch a new Bitcoin hard fork called eCash in August 2026. The fork will allow Bitcoin holders to exchange BTC for eCash on a 1:1 basis, marking a significant step in Sztorc’s long-standing efforts to expand Bitcoin's scalability and functionality.
-
-According to Sztorc, eCash will run on a layer-1 blockchain that closely mirrors Bitcoin Core software and utilizes the same SHA-256 hashing algorithm. One key modification is a reduction in initial mining difficulty, intended to make it easier for miners to participate. Additionally, the eCash network will include seven layer-2 scaling solutions, known as “drivechains,” designed to increase transaction throughput and offer optional on-chain privacy.
-
-What has sparked the most heated debate is Sztorc’s proposal to “manually” reassign a portion of Satoshi Nakamoto’s 1.1 million BTC – coins believed to be inaccessible – to early investors. Sztorc argues the move is a “sustainable fix to Bitcoin's problems,” but prominent Bitcoin advocates have expressed strong opposition. Peter McCormack, a vocal Bitcoin supporter, criticized the plan, calling it “theft and disrespectful.” Similarly, other critics have questioned the need for yet another Bitcoin fork.
-
-Sztorc has sought to distance eCash from past Bitcoin forks like Bitcoin Cash (BCH), which launched in 2017 but failed to achieve significant adoption. “Unlike BCH, there is no ‘Bitcoin’ in the name here,” Sztorc said, emphasizing that eCash aims to address Bitcoin’s technical limitations without creating confusion with the original chain.
-
-The announcement comes at a time when Bitcoin is trading at $77,638 with modest daily gains of 0.44%. The broader market has seen cooling volatility, signaling a slowdown in momentum after recent highs. Sztorc’s timing could reignite debate over Bitcoin’s scalability and privacy as it competes with increasingly advanced blockchain ecosystems like Ethereum and Solana.
-
-Sztorc has been a prominent figure in Bitcoin development circles for over a decade. He is best known for his proposal of BIP 300 and BIP 301, which introduced the Drivechain concept—an approach to integrating sidechains into Bitcoin. This fork represents a culmination of his efforts to push the boundaries of Bitcoin’s capabilities while addressing long-standing criticisms around scalability.
-
-If eCash progresses as planned, it will go live in August, providing Bitcoin holders the option to test the new network. However, the controversial reallocation of Satoshi's coins and the mixed reception from the Bitcoin community could pose challenges for adoption. Traders and developers will be watching closely to see whether eCash can deliver on its promises or face the same fate as past forks like BCH.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-7c8b2655588b847c559cc2b88d20a9fb9b10934c</guid>
-      <title>US Freezes $344M in Crypto Linked to Iran&apos;s IRGC, Hizballah | US Treasury freezes $344M in Iran-linked crypto wallets tied to the IRGC and Hizballah, p... https://Blockchain.News/news/us-freezes-crypto-iran-irgc-hizballah</title>
-      <link>https://Blockchain.News/news/us-freezes-crypto-iran-irgc-hizballah</link>
-      <pubDate>Fri, 24 Apr 2026 21:48:59 GMT</pubDate>
-      <description><![CDATA[Original title: US Freezes $344M in Crypto Linked to Iran's IRGC, Hizballah
-Summary: US Treasury freezes $344M in Iran-linked crypto wallets tied to the IRGC and Hizballah, part of broader sanctions targeting Tehran's financial networks.
-Article text: US Treasury freezes $344M in Iran-linked crypto wallets tied to the IRGC and Hizballah, part of broader sanctions targeting Tehran's financial networks.
-
-The U.S. Treasury has frozen $344 million in cryptocurrency allegedly tied to Iran’s Islamic Revolutionary Guard Corps (IRGC) and Hizballah, according to an April 24 announcement. The action, carried out through the Office of Foreign Assets Control (OFAC), sanctioned specific crypto wallets on the Tron blockchain, marking another escalation in the U.S.'s financial pressure campaign against Tehran.
-
-Treasury Secretary Scott Bessent stated via social media that the effort is part of a broader strategy to "systematically degrade Tehran’s ability to generate, move, and repatriate funds." This freeze also follows recent reports of Iran using Bitcoin (BTC) to charge tolls for ships passing through the Strait of Hormuz, an oil shipping chokepoint, further illustrating how digital assets are becoming a tool in geopolitical conflicts.
-
-The sanctions are the latest in a series of U.S. actions targeting Iranian-linked crypto networks. Back in January 2026, OFAC sanctioned two UK-registered exchanges, Zedcex and Zedxion, for processing billions in transactions allegedly tied to the IRGC. These sanctions marked a shift from targeting individual wallets to blacklisting entire exchange platforms suspected of facilitating illicit activity.
-
-Friday’s freeze also involved stablecoin issuer Tether, which confirmed it had acted at the request of U.S. authorities to block $344 million in USDT transactions. Although Tether’s initial statement didn’t explicitly name Iran, it aligns with the Treasury's broader strategy, informally referred to as 'Economic Fury,' to disrupt Iran's financial operations globally.
-
-The use of cryptocurrencies by sanctioned entities like the IRGC highlights why regulators are increasingly scrutinizing the role of digital assets in evading traditional financial controls. Unlike hawala networks or gold, crypto offers programmability and cross-border fluidity, making it a preferred choice for circumventing sanctions.
-
-Blockchain analytics firms, such as Chainalysis and Elliptic, continue to play a critical role in tracing the movement of these funds. Their tools allow authorities to identify wallet clusters and map complex financial flows, enabling targeted actions like Friday’s freeze. For crypto investors, such measures underscore the importance of compliance and due diligence, especially when operating on platforms with lax controls.
-
-The timing of the sanctions is notable. It comes amid heightened tensions in the Strait of Hormuz, where Iran has reportedly begun collecting tolls from ships in Bitcoin. Combined with recent U.S.-Israeli airstrikes on Iranian targets, this paints a picture of escalating financial and military conflicts. While U.S. officials announced a ceasefire agreement earlier this week, the region remains volatile, with reports of Iranian attacks on maritime vessels and U.S. naval blockades in place.
-
-For market participants, these developments could have broader implications for stablecoin liquidity and the reputation of blockchain networks like Tron, which hosted the sanctioned wallets. Any perception of increased regulatory risk may prompt traders to reassess their exposure to these assets and platforms.
-
-With these latest sanctions, the U.S. has demonstrated its commitment to expanding enforcement into the crypto space. As Iran appears to be leaning further into digital assets as a workaround for sanctions, expect OFAC and other agencies to ramp up blockchain analytics and enforcement actions. For traders, staying ahead of regulatory developments is crucial, especially as geopolitical tensions continue to impact both the crypto markets and broader financial systems.
-
-US Treasury freezes $344M in Iran-linked crypto wallets tied to the IRGC and Hizballah, part of broader sanctions targeting Tehran's financial networks.
-
-The U.S. Treasury has frozen $344 million in cryptocurrency allegedly tied to Iran’s Islamic Revolutionary Guard Corps (IRGC) and Hizballah, according to an April 24 announcement. The action, carried out through the Office of Foreign Assets Control (OFAC), sanctioned specific crypto wallets on the Tron blockchain, marking another escalation in the U.S.'s financial pressure campaign against Tehran.
-
-Treasury Secretary Scott Bessent stated via social media that the effort is part of a broader strategy to "systematically degrade Tehran’s ability to generate, move, and repatriate funds." This freeze also follows recent reports of Iran using Bitcoin (BTC) to charge tolls for ships passing through the Strait of Hormuz, an oil shipping chokepoint, further illustrating how digital assets are becoming a tool in geopolitical conflicts.
-
-The sanctions are the latest in a series of U.S. actions targeting Iranian-linked crypto networks. Back in January 2026, OFAC sanctioned two UK-registered exchanges, Zedcex and Zedxion, for processing billions in transactions allegedly tied to the IRGC. These sanctions marked a shift from targeting individual wallets to blacklisting entire exchange platforms suspected of facilitating illicit activity.
-
-Friday’s freeze also involved stablecoin issuer Tether, which confirmed it had acted at the request of U.S. authorities to block $344 million in USDT transactions. Although Tether’s initial statement didn’t explicitly name Iran, it aligns with the Treasury's broader strategy, informally referred to as 'Economic Fury,' to disrupt Iran's financial operations globally.
-
-The use of cryptocurrencies by sanctioned entities like the IRGC highlights why regulators are increasingly scrutinizing the role of digital assets in evading traditional financial controls. Unlike hawala networks or gold, crypto offers programmability and cross-border fluidity, making it a preferred choice for circumventing sanctions.
-
-Blockchain analytics firms, such as Chainalysis and Elliptic, continue to play a critical role in tracing the movement of these funds. Their tools allow authorities to identify wallet clusters and map complex financial flows, enabling targeted actions like Friday’s freeze. For crypto investors, such measures underscore the importance of compliance and due diligence, especially when operating on platforms with lax controls.
-
-The timing of the sanctions is notable. It comes amid heightened tensions in the Strait of Hormuz, where Iran has reportedly begun collecting tolls from ships in Bitcoin. Combined with recent U.S.-Israeli airstrikes on Iranian targets, this paints a picture of escalating financial and military conflicts. While U.S. officials announced a ceasefire agreement earlier this week, the region remains volatile, with reports of Iranian attacks on maritime vessels and U.S. naval blockades in place.
-
-For market participants, these developments could have broader implications for stablecoin liquidity and the reputation of blockchain networks like Tron, which hosted the sanctioned wallets. Any perception of increased regulatory risk may prompt traders to reassess their exposure to these assets and platforms.
-
-With these latest sanctions, the U.S. has demonstrated its commitment to expanding enforcement into the crypto space. As Iran appears to be leaning further into digital assets as a workaround for sanctions, expect OFAC and other agencies to ramp up blockchain analytics and enforcement actions. For traders, staying ahead of regulatory developments is crucial, especially as geopolitical tensions continue to impact both the crypto markets and broader financial systems.
-Source: https://Blockchain.News/news/us-freezes-crypto-iran-irgc-hizballah]]></description>
-      <content:encoded><![CDATA[US Treasury freezes $344M in Iran-linked crypto wallets tied to the IRGC and Hizballah, part of broader sanctions targeting Tehran's financial networks.
-
-The U.S. Treasury has frozen $344 million in cryptocurrency allegedly tied to Iran’s Islamic Revolutionary Guard Corps (IRGC) and Hizballah, according to an April 24 announcement. The action, carried out through the Office of Foreign Assets Control (OFAC), sanctioned specific crypto wallets on the Tron blockchain, marking another escalation in the U.S.'s financial pressure campaign against Tehran.
-
-Treasury Secretary Scott Bessent stated via social media that the effort is part of a broader strategy to "systematically degrade Tehran’s ability to generate, move, and repatriate funds." This freeze also follows recent reports of Iran using Bitcoin (BTC) to charge tolls for ships passing through the Strait of Hormuz, an oil shipping chokepoint, further illustrating how digital assets are becoming a tool in geopolitical conflicts.
-
-The sanctions are the latest in a series of U.S. actions targeting Iranian-linked crypto networks. Back in January 2026, OFAC sanctioned two UK-registered exchanges, Zedcex and Zedxion, for processing billions in transactions allegedly tied to the IRGC. These sanctions marked a shift from targeting individual wallets to blacklisting entire exchange platforms suspected of facilitating illicit activity.
-
-Friday’s freeze also involved stablecoin issuer Tether, which confirmed it had acted at the request of U.S. authorities to block $344 million in USDT transactions. Although Tether’s initial statement didn’t explicitly name Iran, it aligns with the Treasury's broader strategy, informally referred to as 'Economic Fury,' to disrupt Iran's financial operations globally.
-
-The use of cryptocurrencies by sanctioned entities like the IRGC highlights why regulators are increasingly scrutinizing the role of digital assets in evading traditional financial controls. Unlike hawala networks or gold, crypto offers programmability and cross-border fluidity, making it a preferred choice for circumventing sanctions.
-
-Blockchain analytics firms, such as Chainalysis and Elliptic, continue to play a critical role in tracing the movement of these funds. Their tools allow authorities to identify wallet clusters and map complex financial flows, enabling targeted actions like Friday’s freeze. For crypto investors, such measures underscore the importance of compliance and due diligence, especially when operating on platforms with lax controls.
-
-The timing of the sanctions is notable. It comes amid heightened tensions in the Strait of Hormuz, where Iran has reportedly begun collecting tolls from ships in Bitcoin. Combined with recent U.S.-Israeli airstrikes on Iranian targets, this paints a picture of escalating financial and military conflicts. While U.S. officials announced a ceasefire agreement earlier this week, the region remains volatile, with reports of Iranian attacks on maritime vessels and U.S. naval blockades in place.
-
-For market participants, these developments could have broader implications for stablecoin liquidity and the reputation of blockchain networks like Tron, which hosted the sanctioned wallets. Any perception of increased regulatory risk may prompt traders to reassess their exposure to these assets and platforms.
-
-With these latest sanctions, the U.S. has demonstrated its commitment to expanding enforcement into the crypto space. As Iran appears to be leaning further into digital assets as a workaround for sanctions, expect OFAC and other agencies to ramp up blockchain analytics and enforcement actions. For traders, staying ahead of regulatory developments is crucial, especially as geopolitical tensions continue to impact both the crypto markets and broader financial systems.
-
-US Treasury freezes $344M in Iran-linked crypto wallets tied to the IRGC and Hizballah, part of broader sanctions targeting Tehran's financial networks.
-
-The U.S. Treasury has frozen $344 million in cryptocurrency allegedly tied to Iran’s Islamic Revolutionary Guard Corps (IRGC) and Hizballah, according to an April 24 announcement. The action, carried out through the Office of Foreign Assets Control (OFAC), sanctioned specific crypto wallets on the Tron blockchain, marking another escalation in the U.S.'s financial pressure campaign against Tehran.
-
-Treasury Secretary Scott Bessent stated via social media that the effort is part of a broader strategy to "systematically degrade Tehran’s ability to generate, move, and repatriate funds." This freeze also follows recent reports of Iran using Bitcoin (BTC) to charge tolls for ships passing through the Strait of Hormuz, an oil shipping chokepoint, further illustrating how digital assets are becoming a tool in geopolitical conflicts.
-
-The sanctions are the latest in a series of U.S. actions targeting Iranian-linked crypto networks. Back in January 2026, OFAC sanctioned two UK-registered exchanges, Zedcex and Zedxion, for processing billions in transactions allegedly tied to the IRGC. These sanctions marked a shift from targeting individual wallets to blacklisting entire exchange platforms suspected of facilitating illicit activity.
-
-Friday’s freeze also involved stablecoin issuer Tether, which confirmed it had acted at the request of U.S. authorities to block $344 million in USDT transactions. Although Tether’s initial statement didn’t explicitly name Iran, it aligns with the Treasury's broader strategy, informally referred to as 'Economic Fury,' to disrupt Iran's financial operations globally.
-
-The use of cryptocurrencies by sanctioned entities like the IRGC highlights why regulators are increasingly scrutinizing the role of digital assets in evading traditional financial controls. Unlike hawala networks or gold, crypto offers programmability and cross-border fluidity, making it a preferred choice for circumventing sanctions.
-
-Blockchain analytics firms, such as Chainalysis and Elliptic, continue to play a critical role in tracing the movement of these funds. Their tools allow authorities to identify wallet clusters and map complex financial flows, enabling targeted actions like Friday’s freeze. For crypto investors, such measures underscore the importance of compliance and due diligence, especially when operating on platforms with lax controls.
-
-The timing of the sanctions is notable. It comes amid heightened tensions in the Strait of Hormuz, where Iran has reportedly begun collecting tolls from ships in Bitcoin. Combined with recent U.S.-Israeli airstrikes on Iranian targets, this paints a picture of escalating financial and military conflicts. While U.S. officials announced a ceasefire agreement earlier this week, the region remains volatile, with reports of Iranian attacks on maritime vessels and U.S. naval blockades in place.
-
-For market participants, these developments could have broader implications for stablecoin liquidity and the reputation of blockchain networks like Tron, which hosted the sanctioned wallets. Any perception of increased regulatory risk may prompt traders to reassess their exposure to these assets and platforms.
-
-With these latest sanctions, the U.S. has demonstrated its commitment to expanding enforcement into the crypto space. As Iran appears to be leaning further into digital assets as a workaround for sanctions, expect OFAC and other agencies to ramp up blockchain analytics and enforcement actions. For traders, staying ahead of regulatory developments is crucial, especially as geopolitical tensions continue to impact both the crypto markets and broader financial systems.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-1d82d39a16c724f399fc0dae5a8225ab9ee137f9</guid>
-      <title>Core Scientific (CORZ) Sets Q1 2026 Earnings Call for May 6 | Core Scientific will release Q1 2026 earnings on May 6, amid its pivot to AI infrastructu... https://Blockchain.News/news/core-scientific-q1-2026-earnings-call</title>
-      <link>https://Blockchain.News/news/core-scientific-q1-2026-earnings-call</link>
-      <pubDate>Fri, 24 Apr 2026 21:22:36 GMT</pubDate>
-      <description><![CDATA[Original title: Core Scientific (CORZ) Sets Q1 2026 Earnings Call for May 6
-Summary: Core Scientific will release Q1 2026 earnings on May 6, amid its pivot to AI infrastructure. Key details on webcast and investor context.
-Article text: Core Scientific will release Q1 2026 earnings on May 6, amid its pivot to AI infrastructure. Key details on webcast and investor context.
-
-Core Scientific, Inc. (Nasdaq: CORZ), a leading provider of digital infrastructure and high-density colocation (HDC) services, has scheduled its first quarter 2026 earnings release for May 6, 2026. The financial results will be available after market close, followed by an investor conference call and webcast at 3:30 p.m. CT.
-
-The event will feature Core Scientific’s executive team, including CEO Adam Sullivan, COO Matt Brown, CFO Jim Nygaard, and VP of Investor Relations Jon Charbonneau, who will provide an in-depth review of the company's performance and strategy. Investors can access the live webcast on the company's official investor relations page, with an audio replay available post-event.
-
-This earnings call comes as Core Scientific continues its significant pivot away from Bitcoin mining to focus on building GPU-powered data centers tailored for AI and other high-performance computing applications. The company has been aggressively repurposing its facilities to support HDC services, a move underscored by its recent $3.3 billion senior secured notes offering to fund data center expansion.
-
-Core Scientific’s transformation has been closely watched by investors. Despite reporting $319.02 million in revenue for 2025—a decline from the previous year—the company has retained strong analyst support with a 'Strong Buy' rating and a 12-month price target of $24.56. The stock was trading at $21.02 as of April 23, 2026, giving the company a market cap of $6.66 billion.
-
-However, not all investor sentiment is bullish. On April 23, Two Seas Capital disclosed it had reduced its stake in Core Scientific to 4.4%, signaling some hesitation about the company’s ongoing transformation.
-
-The transition away from Bitcoin mining has been costly but strategic. Core Scientific sold approximately $175 million worth of Bitcoin in March 2026 to accelerate its AI infrastructure investments. The company has also announced plans to fully discontinue Bitcoin mining operations, aiming to capitalize on the growing demand for AI-driven computational services.
-
-Investors will be keen to see whether the first quarter results reflect meaningful progress in this direction. The earnings call on May 6 could provide clarity on the company's revenue composition, margins from HDC services, and the execution of its expansion plans.
-
-For shareholders and analysts, the key questions remain: Can Core Scientific successfully shift its business model to capitalize on AI infrastructure demand? And will this pivot translate into sustainable profitability? Answers may begin to emerge during the upcoming earnings release and investor call.
-
-Core Scientific will release Q1 2026 earnings on May 6, amid its pivot to AI infrastructure. Key details on webcast and investor context.
-
-Core Scientific, Inc. (Nasdaq: CORZ), a leading provider of digital infrastructure and high-density colocation (HDC) services, has scheduled its first quarter 2026 earnings release for May 6, 2026. The financial results will be available after market close, followed by an investor conference call and webcast at 3:30 p.m. CT.
-
-The event will feature Core Scientific’s executive team, including CEO Adam Sullivan, COO Matt Brown, CFO Jim Nygaard, and VP of Investor Relations Jon Charbonneau, who will provide an in-depth review of the company's performance and strategy. Investors can access the live webcast on the company's official investor relations page, with an audio replay available post-event.
-
-This earnings call comes as Core Scientific continues its significant pivot away from Bitcoin mining to focus on building GPU-powered data centers tailored for AI and other high-performance computing applications. The company has been aggressively repurposing its facilities to support HDC services, a move underscored by its recent $3.3 billion senior secured notes offering to fund data center expansion.
-
-Core Scientific’s transformation has been closely watched by investors. Despite reporting $319.02 million in revenue for 2025—a decline from the previous year—the company has retained strong analyst support with a 'Strong Buy' rating and a 12-month price target of $24.56. The stock was trading at $21.02 as of April 23, 2026, giving the company a market cap of $6.66 billion.
-
-However, not all investor sentiment is bullish. On April 23, Two Seas Capital disclosed it had reduced its stake in Core Scientific to 4.4%, signaling some hesitation about the company’s ongoing transformation.
-
-The transition away from Bitcoin mining has been costly but strategic. Core Scientific sold approximately $175 million worth of Bitcoin in March 2026 to accelerate its AI infrastructure investments. The company has also announced plans to fully discontinue Bitcoin mining operations, aiming to capitalize on the growing demand for AI-driven computational services.
-
-Investors will be keen to see whether the first quarter results reflect meaningful progress in this direction. The earnings call on May 6 could provide clarity on the company's revenue composition, margins from HDC services, and the execution of its expansion plans.
-
-For shareholders and analysts, the key questions remain: Can Core Scientific successfully shift its business model to capitalize on AI infrastructure demand? And will this pivot translate into sustainable profitability? Answers may begin to emerge during the upcoming earnings release and investor call.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/core-scientific-q1-2026-earnings-call]]></description>
-      <content:encoded><![CDATA[Core Scientific will release Q1 2026 earnings on May 6, amid its pivot to AI infrastructure. Key details on webcast and investor context.
-
-Core Scientific, Inc. (Nasdaq: CORZ), a leading provider of digital infrastructure and high-density colocation (HDC) services, has scheduled its first quarter 2026 earnings release for May 6, 2026. The financial results will be available after market close, followed by an investor conference call and webcast at 3:30 p.m. CT.
-
-The event will feature Core Scientific’s executive team, including CEO Adam Sullivan, COO Matt Brown, CFO Jim Nygaard, and VP of Investor Relations Jon Charbonneau, who will provide an in-depth review of the company's performance and strategy. Investors can access the live webcast on the company's official investor relations page, with an audio replay available post-event.
-
-This earnings call comes as Core Scientific continues its significant pivot away from Bitcoin mining to focus on building GPU-powered data centers tailored for AI and other high-performance computing applications. The company has been aggressively repurposing its facilities to support HDC services, a move underscored by its recent $3.3 billion senior secured notes offering to fund data center expansion.
-
-Core Scientific’s transformation has been closely watched by investors. Despite reporting $319.02 million in revenue for 2025—a decline from the previous year—the company has retained strong analyst support with a 'Strong Buy' rating and a 12-month price target of $24.56. The stock was trading at $21.02 as of April 23, 2026, giving the company a market cap of $6.66 billion.
-
-However, not all investor sentiment is bullish. On April 23, Two Seas Capital disclosed it had reduced its stake in Core Scientific to 4.4%, signaling some hesitation about the company’s ongoing transformation.
-
-The transition away from Bitcoin mining has been costly but strategic. Core Scientific sold approximately $175 million worth of Bitcoin in March 2026 to accelerate its AI infrastructure investments. The company has also announced plans to fully discontinue Bitcoin mining operations, aiming to capitalize on the growing demand for AI-driven computational services.
-
-Investors will be keen to see whether the first quarter results reflect meaningful progress in this direction. The earnings call on May 6 could provide clarity on the company's revenue composition, margins from HDC services, and the execution of its expansion plans.
-
-For shareholders and analysts, the key questions remain: Can Core Scientific successfully shift its business model to capitalize on AI infrastructure demand? And will this pivot translate into sustainable profitability? Answers may begin to emerge during the upcoming earnings release and investor call.
-
-Core Scientific will release Q1 2026 earnings on May 6, amid its pivot to AI infrastructure. Key details on webcast and investor context.
-
-Core Scientific, Inc. (Nasdaq: CORZ), a leading provider of digital infrastructure and high-density colocation (HDC) services, has scheduled its first quarter 2026 earnings release for May 6, 2026. The financial results will be available after market close, followed by an investor conference call and webcast at 3:30 p.m. CT.
-
-The event will feature Core Scientific’s executive team, including CEO Adam Sullivan, COO Matt Brown, CFO Jim Nygaard, and VP of Investor Relations Jon Charbonneau, who will provide an in-depth review of the company's performance and strategy. Investors can access the live webcast on the company's official investor relations page, with an audio replay available post-event.
-
-This earnings call comes as Core Scientific continues its significant pivot away from Bitcoin mining to focus on building GPU-powered data centers tailored for AI and other high-performance computing applications. The company has been aggressively repurposing its facilities to support HDC services, a move underscored by its recent $3.3 billion senior secured notes offering to fund data center expansion.
-
-Core Scientific’s transformation has been closely watched by investors. Despite reporting $319.02 million in revenue for 2025—a decline from the previous year—the company has retained strong analyst support with a 'Strong Buy' rating and a 12-month price target of $24.56. The stock was trading at $21.02 as of April 23, 2026, giving the company a market cap of $6.66 billion.
-
-However, not all investor sentiment is bullish. On April 23, Two Seas Capital disclosed it had reduced its stake in Core Scientific to 4.4%, signaling some hesitation about the company’s ongoing transformation.
-
-The transition away from Bitcoin mining has been costly but strategic. Core Scientific sold approximately $175 million worth of Bitcoin in March 2026 to accelerate its AI infrastructure investments. The company has also announced plans to fully discontinue Bitcoin mining operations, aiming to capitalize on the growing demand for AI-driven computational services.
-
-Investors will be keen to see whether the first quarter results reflect meaningful progress in this direction. The earnings call on May 6 could provide clarity on the company's revenue composition, margins from HDC services, and the execution of its expansion plans.
-
-For shareholders and analysts, the key questions remain: Can Core Scientific successfully shift its business model to capitalize on AI infrastructure demand? And will this pivot translate into sustainable profitability? Answers may begin to emerge during the upcoming earnings release and investor call.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
     </item>
   </channel>
 </rss>
