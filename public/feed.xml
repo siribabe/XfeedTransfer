@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Sat, 09 May 2026 18:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 02:33:46 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-b930edc403c43173d0002487c460a63211e22457</guid>
+      <title>Age Assurance Laws Could Reshape Open Source Development | Age assurance laws are raising concerns for open source developers as policymakers push f... https://Blockchain.News/news/age-assurance-laws-open-source</title>
+      <link>https://Blockchain.News/news/age-assurance-laws-open-source</link>
+      <pubDate>Fri, 08 May 2026 17:03:01 GMT</pubDate>
+      <description><![CDATA[Original title: Age Assurance Laws Could Reshape Open Source Development
+Summary: Age assurance laws are raising concerns for open source developers as policymakers push for stricter youth safety rules across tech platforms.
+Article text: Age assurance laws are raising concerns for open source developers as policymakers push for stricter youth safety rules across tech platforms.
+
+Age assurance laws, aimed at protecting minors online, are sparking debate within the open source development community. With proposals advancing in the U.S., Brazil, and beyond, developers are increasingly concerned about compliance burdens and unintended consequences for decentralized ecosystems.
+
+These laws target serious online risks such as grooming, violent content, and cyberbullying. However, their scope has expanded to include operating systems, app stores, and even developer infrastructure. For open source contributors—many of whom work voluntarily—this shift raises questions about feasibility and fairness.
+
+In the U.S., states like California, Colorado, Illinois, and New York are considering laws that require operating systems and app stores to collect and transmit users’ age data via real-time APIs. For example, California’s AB 1043 and AB 1856 would mandate age signals at account setup, while New York’s S 8102 extends obligations to device manufacturers. Brazil’s Digital Statute for Children and Adolescents (Digital ECA), enforceable as of March 2026, applies broadly to digital services but exempts collaborative and free software models—though enforcement details remain unclear.
+
+GitHub, a key player in the open source sphere, has successfully secured exemptions for open source platforms in some proposals. For instance, France’s Social Media Minimum Age bill explicitly excludes open source collaboration sites, following advocacy efforts that highlighted these platforms’ educational and low-risk nature.
+
+Open source communities operate on principles of decentralization, collaboration, and transparency. Requirements to collect and manage user data or restrict software installations through centralized app stores could undermine these values. Moreover, many open source projects are maintained by small teams or individuals with limited resources, making compliance with sweeping regulations challenging.
+
+Broad definitions of "application store" also pose a threat. Some proposals could classify developer tools like package managers or code repositories as app stores, despite their fundamentally different functions. Misaligned definitions risk creating legal uncertainties that discourage participation in open source projects.
+
+Despite these challenges, there are positive signs. Policymakers in Colorado, for instance, recently clarified that software downloaded outside of app stores is exempt from proposed age assurance requirements. Similarly, the EU’s Cyber Resilience Act was refined through collaboration with developers to better align with the open source ecosystem’s realities.
+
+GitHub continues to advocate for balanced approaches, emphasizing the importance of preserving open source innovation while safeguarding youth online. Developers are encouraged to engage directly with policymakers through public consultations or by joining organizations like the Open Source Initiative and the FreeBSD Foundation.
+
+As these laws evolve, the open source community has a critical opportunity to shape outcomes. GitHub plans to host a Maintainer Month livestream on May 22, 2026, featuring panelists from key open source organizations to discuss the implications of age assurance policies. Developers and stakeholders can use forums like this to ensure laws support child safety goals without stifling collaboration or innovation.
+
+While the push for age assurance reflects legitimate concerns, clearer distinctions and exemptions are essential to protect the unique nature of open source development. With active engagement, the community can help strike a balance that works for both young users and the broader software ecosystem.
+
+Age assurance laws are raising concerns for open source developers as policymakers push for stricter youth safety rules across tech platforms.
+
+Age assurance laws, aimed at protecting minors online, are sparking debate within the open source development community. With proposals advancing in the U.S., Brazil, and beyond, developers are increasingly concerned about compliance burdens and unintended consequences for decentralized ecosystems.
+
+These laws target serious online risks such as grooming, violent content, and cyberbullying. However, their scope has expanded to include operating systems, app stores, and even developer infrastructure. For open source contributors—many of whom work voluntarily—this shift raises questions about feasibility and fairness.
+
+In the U.S., states like California, Colorado, Illinois, and New York are considering laws that require operating systems and app stores to collect and transmit users’ age data via real-time APIs. For example, California’s AB 1043 and AB 1856 would mandate age signals at account setup, while New York’s S 8102 extends obligations to device manufacturers. Brazil’s Digital Statute for Children and Adolescents (Digital ECA), enforceable as of March 2026, applies broadly to digital services but exempts collaborative and free software models—though enforcement details remain unclear.
+
+GitHub, a key player in the open source sphere, has successfully secured exemptions for open source platforms in some proposals. For instance, France’s Social Media Minimum Age bill explicitly excludes open source collaboration sites, following advocacy efforts that highlighted these platforms’ educational and low-risk nature.
+
+Open source communities operate on principles of decentralization, collaboration, and transparency. Requirements to collect and manage user data or restrict software installations through centralized app stores could undermine these values. Moreover, many open source projects are maintained by small teams or individuals with limited resources, making compliance with sweeping regulations challenging.
+
+Broad definitions of "application store" also pose a threat. Some proposals could classify developer tools like package managers or code repositories as app stores, despite their fundamentally different functions. Misaligned definitions risk creating legal uncertainties that discourage participation in open source projects.
+
+Despite these challenges, there are positive signs. Policymakers in Colorado, for instance, recently clarified that software downloaded outside of app stores is exempt from proposed age assurance requirements. Similarly, the EU’s Cyber Resilience Act was refined through collaboration with developers to better align with the open source ecosystem’s realities.
+
+GitHub continues to advocate for balanced approaches, emphasizing the importance of preserving open source innovation while safeguarding youth online. Developers are encouraged to engage directly with policymakers through public consultations or by joining organizations like the Open Source Initiative and the FreeBSD Foundation.
+Source: https://Blockchain.News/news/age-assurance-laws-open-source]]></description>
+      <content:encoded><![CDATA[Age assurance laws are raising concerns for open source developers as policymakers push for stricter youth safety rules across tech platforms.
+
+Age assurance laws, aimed at protecting minors online, are sparking debate within the open source development community. With proposals advancing in the U.S., Brazil, and beyond, developers are increasingly concerned about compliance burdens and unintended consequences for decentralized ecosystems.
+
+These laws target serious online risks such as grooming, violent content, and cyberbullying. However, their scope has expanded to include operating systems, app stores, and even developer infrastructure. For open source contributors—many of whom work voluntarily—this shift raises questions about feasibility and fairness.
+
+In the U.S., states like California, Colorado, Illinois, and New York are considering laws that require operating systems and app stores to collect and transmit users’ age data via real-time APIs. For example, California’s AB 1043 and AB 1856 would mandate age signals at account setup, while New York’s S 8102 extends obligations to device manufacturers. Brazil’s Digital Statute for Children and Adolescents (Digital ECA), enforceable as of March 2026, applies broadly to digital services but exempts collaborative and free software models—though enforcement details remain unclear.
+
+GitHub, a key player in the open source sphere, has successfully secured exemptions for open source platforms in some proposals. For instance, France’s Social Media Minimum Age bill explicitly excludes open source collaboration sites, following advocacy efforts that highlighted these platforms’ educational and low-risk nature.
+
+Open source communities operate on principles of decentralization, collaboration, and transparency. Requirements to collect and manage user data or restrict software installations through centralized app stores could undermine these values. Moreover, many open source projects are maintained by small teams or individuals with limited resources, making compliance with sweeping regulations challenging.
+
+Broad definitions of "application store" also pose a threat. Some proposals could classify developer tools like package managers or code repositories as app stores, despite their fundamentally different functions. Misaligned definitions risk creating legal uncertainties that discourage participation in open source projects.
+
+Despite these challenges, there are positive signs. Policymakers in Colorado, for instance, recently clarified that software downloaded outside of app stores is exempt from proposed age assurance requirements. Similarly, the EU’s Cyber Resilience Act was refined through collaboration with developers to better align with the open source ecosystem’s realities.
+
+GitHub continues to advocate for balanced approaches, emphasizing the importance of preserving open source innovation while safeguarding youth online. Developers are encouraged to engage directly with policymakers through public consultations or by joining organizations like the Open Source Initiative and the FreeBSD Foundation.
+
+As these laws evolve, the open source community has a critical opportunity to shape outcomes. GitHub plans to host a Maintainer Month livestream on May 22, 2026, featuring panelists from key open source organizations to discuss the implications of age assurance policies. Developers and stakeholders can use forums like this to ensure laws support child safety goals without stifling collaboration or innovation.
+
+While the push for age assurance reflects legitimate concerns, clearer distinctions and exemptions are essential to protect the unique nature of open source development. With active engagement, the community can help strike a balance that works for both young users and the broader software ecosystem.
+
+Age assurance laws are raising concerns for open source developers as policymakers push for stricter youth safety rules across tech platforms.
+
+Age assurance laws, aimed at protecting minors online, are sparking debate within the open source development community. With proposals advancing in the U.S., Brazil, and beyond, developers are increasingly concerned about compliance burdens and unintended consequences for decentralized ecosystems.
+
+These laws target serious online risks such as grooming, violent content, and cyberbullying. However, their scope has expanded to include operating systems, app stores, and even developer infrastructure. For open source contributors—many of whom work voluntarily—this shift raises questions about feasibility and fairness.
+
+In the U.S., states like California, Colorado, Illinois, and New York are considering laws that require operating systems and app stores to collect and transmit users’ age data via real-time APIs. For example, California’s AB 1043 and AB 1856 would mandate age signals at account setup, while New York’s S 8102 extends obligations to device manufacturers. Brazil’s Digital Statute for Children and Adolescents (Digital ECA), enforceable as of March 2026, applies broadly to digital services but exempts collaborative and free software models—though enforcement details remain unclear.
+
+GitHub, a key player in the open source sphere, has successfully secured exemptions for open source platforms in some proposals. For instance, France’s Social Media Minimum Age bill explicitly excludes open source collaboration sites, following advocacy efforts that highlighted these platforms’ educational and low-risk nature.
+
+Open source communities operate on principles of decentralization, collaboration, and transparency. Requirements to collect and manage user data or restrict software installations through centralized app stores could undermine these values. Moreover, many open source projects are maintained by small teams or individuals with limited resources, making compliance with sweeping regulations challenging.
+
+Broad definitions of "application store" also pose a threat. Some proposals could classify developer tools like package managers or code repositories as app stores, despite their fundamentally different functions. Misaligned definitions risk creating legal uncertainties that discourage participation in open source projects.
+
+Despite these challenges, there are positive signs. Policymakers in Colorado, for instance, recently clarified that software downloaded outside of app stores is exempt from proposed age assurance requirements. Similarly, the EU’s Cyber Resilience Act was refined through collaboration with developers to better align with the open source ecosystem’s realities.
+
+GitHub continues to advocate for balanced approaches, emphasizing the importance of preserving open source innovation while safeguarding youth online. Developers are encouraged to engage directly with policymakers through public consultations or by joining organizations like the Open Source Initiative and the FreeBSD Foundation.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-3194be600b780aa70213248d7d09b58c47b394c5</guid>
+      <title>NVIDIA Dynamo Enhances Streaming for Agentic Workflows | NVIDIA Dynamo introduces new tools for faster, more accurate agentic workflows, improving... https://Blockchain.News/news/nvidia-dynamo-agentic-streaming-tools</title>
+      <link>https://Blockchain.News/news/nvidia-dynamo-agentic-streaming-tools</link>
+      <pubDate>Fri, 08 May 2026 16:34:52 GMT</pubDate>
+      <description><![CDATA[Original title: NVIDIA Dynamo Enhances Streaming for Agentic Workflows
+Summary: NVIDIA Dynamo introduces new tools for faster, more accurate agentic workflows, improving token streaming and tool-call handling.
+Article text: NVIDIA Dynamo introduces new tools for faster, more accurate agentic workflows, improving token streaming and tool-call handling.
+
+NVIDIA has unveiled significant updates to its Dynamo platform, aimed at optimizing agentic workflows with enhanced streaming, parsing, and tool-call handling. These updates focus on improving responsiveness and accuracy for applications that rely on multi-turn interactions, such as coding assistants and other AI-driven tools.
+
+One of the key highlights is the introduction of streaming tool-call dispatch. This new feature enables tool calls to execute as soon as they are decoded, sidestepping the need to wait for the full response turn to complete. This adjustment not only speeds up the time-to-first-token (TTFT) for users but also removes inefficiencies in agent workflows where reasoning and tool responses are interleaved.
+
+A core improvement centers on prompt stability and KV-cache reuse. By eliminating session-specific preambles, such as Anthropic billing headers, Dynamo ensures consistent token prefixes across sessions. This change reduced TTFT by nearly fivefold in NVIDIA’s tests, from 912ms to 169ms, on a system using a 52K-token prompt.
+
+For developers, maintaining stable prefixes is crucial when handling large, complex prompts across multiple user sessions. These optimizations are particularly valuable for agentic models like Claude Code and Codex, which require precise and repeatable interactions to function effectively.
+
+Dynamo has also overhauled its reasoning and tool-call parsers, extracting them into reusable modules. This allows developers to achieve better alignment between parsed outputs and harness requirements. The updates address a long-standing issue where prior reasoning was either dropped or malformed during multi-turn interactions. In agentic workflows where reasoning explains tool-call sequences, retaining structured reasoning is critical.
+
+For example, NVIDIA demonstrated how its Nemotron-3-Super-120B model can now process interleaved reasoning and tool calls more effectively, ensuring that each reasoning segment remains correctly attached to its corresponding tool action. This prevents issues where reasoning was previously grouped incorrectly, leading to lost context.
+
+Another major improvement is the ability to stream tokenized responses while dispatching tool calls via a side channel. Previously, tool calls were buffered until the end of a response, delaying execution. With the new inline streaming and dispatch capabilities, tool calls become actionable as soon as they are parsed, significantly improving responsiveness for real-time applications.
+
+NVIDIA illustrated this with a timeline comparison showing how Dynamo now parses and streams tool calls mid-response, enabling immediate execution. This redesign minimizes harness-side complexity and ensures seamless integration with custom systems.
+
+The updates also enhance Dynamo’s compatibility with the Anthropic Messages API, a critical interface for tools like Claude Code and OpenClaw. Fixes include proper token counting at the start of streams and the ability to serve model metadata endpoints, both of which bring Dynamo closer to native backend parity.
+
+For Codex users, compatibility with OpenAI’s Responses API has also been improved. NVIDIA has addressed field preservation issues that occurred during internal request processing, ensuring that Codex-specific features like reasoning summaries and tool-call truncation are supported without degrading performance.
+
+Looking forward, NVIDIA is making parts of Dynamo’s serving stack available as modular components, including protocol, parser, and tokenizer crates. This modularity allows developers to build custom harnesses or extend existing ones without duplicating Dynamo’s core functionality.
+
+These updates position Dynamo as a leading solution for agentic workloads, enabling more efficient and accurate multi-turn interactions across a range of applications. For developers and enterprises relying on AI-driven tools, these enhancements offer a more reliable and high-performance infrastructure for tasks such as coding, data analysis, and beyond.
+
+NVIDIA Dynamo introduces new tools for faster, more accurate agentic workflows, improving token streaming and tool-call handling.
+
+NVIDIA has unveiled significant updates to its Dynamo platform, aimed at optimizing agentic workflows with enhanced streaming, parsing, and tool-call handling. These updates focus on improving responsiveness and accuracy for applications that rely on multi-turn interactions, such as coding assistants and other AI-driven tools.
+
+One of the key highlights is the introduction of streaming tool-call dispatch. This new feature enables tool calls to execute as soon as they are decoded, sidestepping the need to wait for the full response turn to complete. This adjustment not only speeds up the time-to-first-token (TTFT) for users but also removes inefficiencies in agent workflows where reasoning and tool responses are interleaved.
+
+A core improvement centers on prompt stability and KV-cache reuse. By eliminating session-specific preambles, such as Anthropic billing headers, Dynamo ensures consistent token prefixes across sessions. This change reduced TTFT by nearly fivefold in NVIDIA’s tests, from 912ms to 169ms, on a system using a 52K-token prompt.
+
+For developers, maintaining stable prefixes is crucial when handling large, complex prompts across multiple user sessions. These optimizations are particularly valuable for agentic models like Claude Code and Codex, which require precise and repeatable interactions to function effectively.
+
+Dynamo has also overhauled its reasoning and tool-call parsers, extracting them into reusable modules. This allows developers to achieve better alignment between parsed outputs and harness requirements. The updates address a long-standing issue where prior reasoning was either dropped or malformed during multi-turn interactions. In agentic workflows where reasoning explains tool-call sequences, retaining structured reasoning is critical.
+
+For example, NVIDIA demonstrated how its Nemotron-3-Super-120B model can now process interleaved reasoning and tool calls more effectively, ensuring that each reasoning segment remains correctly attached to its corresponding tool action. This prevents issues where reasoning was previously grouped incorrectly, leading to lost context.
+Source: https://Blockchain.News/news/nvidia-dynamo-agentic-streaming-tools]]></description>
+      <content:encoded><![CDATA[NVIDIA Dynamo introduces new tools for faster, more accurate agentic workflows, improving token streaming and tool-call handling.
+
+NVIDIA has unveiled significant updates to its Dynamo platform, aimed at optimizing agentic workflows with enhanced streaming, parsing, and tool-call handling. These updates focus on improving responsiveness and accuracy for applications that rely on multi-turn interactions, such as coding assistants and other AI-driven tools.
+
+One of the key highlights is the introduction of streaming tool-call dispatch. This new feature enables tool calls to execute as soon as they are decoded, sidestepping the need to wait for the full response turn to complete. This adjustment not only speeds up the time-to-first-token (TTFT) for users but also removes inefficiencies in agent workflows where reasoning and tool responses are interleaved.
+
+A core improvement centers on prompt stability and KV-cache reuse. By eliminating session-specific preambles, such as Anthropic billing headers, Dynamo ensures consistent token prefixes across sessions. This change reduced TTFT by nearly fivefold in NVIDIA’s tests, from 912ms to 169ms, on a system using a 52K-token prompt.
+
+For developers, maintaining stable prefixes is crucial when handling large, complex prompts across multiple user sessions. These optimizations are particularly valuable for agentic models like Claude Code and Codex, which require precise and repeatable interactions to function effectively.
+
+Dynamo has also overhauled its reasoning and tool-call parsers, extracting them into reusable modules. This allows developers to achieve better alignment between parsed outputs and harness requirements. The updates address a long-standing issue where prior reasoning was either dropped or malformed during multi-turn interactions. In agentic workflows where reasoning explains tool-call sequences, retaining structured reasoning is critical.
+
+For example, NVIDIA demonstrated how its Nemotron-3-Super-120B model can now process interleaved reasoning and tool calls more effectively, ensuring that each reasoning segment remains correctly attached to its corresponding tool action. This prevents issues where reasoning was previously grouped incorrectly, leading to lost context.
+
+Another major improvement is the ability to stream tokenized responses while dispatching tool calls via a side channel. Previously, tool calls were buffered until the end of a response, delaying execution. With the new inline streaming and dispatch capabilities, tool calls become actionable as soon as they are parsed, significantly improving responsiveness for real-time applications.
+
+NVIDIA illustrated this with a timeline comparison showing how Dynamo now parses and streams tool calls mid-response, enabling immediate execution. This redesign minimizes harness-side complexity and ensures seamless integration with custom systems.
+
+The updates also enhance Dynamo’s compatibility with the Anthropic Messages API, a critical interface for tools like Claude Code and OpenClaw. Fixes include proper token counting at the start of streams and the ability to serve model metadata endpoints, both of which bring Dynamo closer to native backend parity.
+
+For Codex users, compatibility with OpenAI’s Responses API has also been improved. NVIDIA has addressed field preservation issues that occurred during internal request processing, ensuring that Codex-specific features like reasoning summaries and tool-call truncation are supported without degrading performance.
+
+Looking forward, NVIDIA is making parts of Dynamo’s serving stack available as modular components, including protocol, parser, and tokenizer crates. This modularity allows developers to build custom harnesses or extend existing ones without duplicating Dynamo’s core functionality.
+
+These updates position Dynamo as a leading solution for agentic workloads, enabling more efficient and accurate multi-turn interactions across a range of applications. For developers and enterprises relying on AI-driven tools, these enhancements offer a more reliable and high-performance infrastructure for tasks such as coding, data analysis, and beyond.
+
+NVIDIA Dynamo introduces new tools for faster, more accurate agentic workflows, improving token streaming and tool-call handling.
+
+NVIDIA has unveiled significant updates to its Dynamo platform, aimed at optimizing agentic workflows with enhanced streaming, parsing, and tool-call handling. These updates focus on improving responsiveness and accuracy for applications that rely on multi-turn interactions, such as coding assistants and other AI-driven tools.
+
+One of the key highlights is the introduction of streaming tool-call dispatch. This new feature enables tool calls to execute as soon as they are decoded, sidestepping the need to wait for the full response turn to complete. This adjustment not only speeds up the time-to-first-token (TTFT) for users but also removes inefficiencies in agent workflows where reasoning and tool responses are interleaved.
+
+A core improvement centers on prompt stability and KV-cache reuse. By eliminating session-specific preambles, such as Anthropic billing headers, Dynamo ensures consistent token prefixes across sessions. This change reduced TTFT by nearly fivefold in NVIDIA’s tests, from 912ms to 169ms, on a system using a 52K-token prompt.
+
+For developers, maintaining stable prefixes is crucial when handling large, complex prompts across multiple user sessions. These optimizations are particularly valuable for agentic models like Claude Code and Codex, which require precise and repeatable interactions to function effectively.
+
+Dynamo has also overhauled its reasoning and tool-call parsers, extracting them into reusable modules. This allows developers to achieve better alignment between parsed outputs and harness requirements. The updates address a long-standing issue where prior reasoning was either dropped or malformed during multi-turn interactions. In agentic workflows where reasoning explains tool-call sequences, retaining structured reasoning is critical.
+
+For example, NVIDIA demonstrated how its Nemotron-3-Super-120B model can now process interleaved reasoning and tool calls more effectively, ensuring that each reasoning segment remains correctly attached to its corresponding tool action. This prevents issues where reasoning was previously grouped incorrectly, leading to lost context.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-16b52ef283d86e55a2449eaf6189b5c36a0a7003</guid>
+      <title>Celsius, SBF Legal Drama Heat Up as US Tightens Crypto Oversight | Key updates: Alex Mashinsky to represent himself, US seeks $10M from SBF, Washington bans... https://Blockchain.News/news/celsius-sbf-legal-drama-us-tightens-oversight</title>
+      <link>https://Blockchain.News/news/celsius-sbf-legal-drama-us-tightens-oversight</link>
+      <pubDate>Fri, 08 May 2026 16:14:36 GMT</pubDate>
+      <description><![CDATA[Original title: Celsius, SBF Legal Drama Heat Up as US Tightens Crypto Oversight
+Summary: Key updates: Alex Mashinsky to represent himself, US seeks $10M from SBF, Washington bans crypto kiosks. Legal pressures mount for crypto.
+Article text: Key updates: Alex Mashinsky to represent himself, US seeks $10M from SBF, Washington bans crypto kiosks. Legal pressures mount for crypto.
+
+Legal battles in the crypto space took several sharp turns this week, with high-profile cases and regulatory moves shaping the industry's future. Former Celsius CEO Alex Mashinsky is set to represent himself in court, U.S. prosecutors are pursuing $10 million tied to Sam Bankman-Fried, and jurisdictions in the U.S. are cracking down on crypto kiosks.
+
+Alex Mashinsky, who was sentenced to 12 years in prison for fraud and price manipulation during his tenure at Celsius, will now represent himself in ongoing legal proceedings. His legal team withdrew on Wednesday, citing his decision to proceed pro se. This unusual move comes as sentencing approaches for Roni Cohen-Pavon, Celsius’ former chief revenue officer, scheduled for May 13. Cohen-Pavon has cooperated with authorities, possibly earning leniency after pleading guilty to fraud charges in September 2023.
+
+Celsius, which went bankrupt in 2022 alongside FTX, symbolizes the broader collapse of several major players during the crypto market downturn. These cases continue to highlight the risks tied to opaque operations and questionable lending practices in the sector.
+
+In a unanimous vote Tuesday, Spokane Valley, Washington, banned virtual currency kiosks and ATMs, citing their frequent use in scams. The ordinance includes a $250 civil penalty and allows authorities to revoke business licenses for violations. Businesses have 30 days to comply.
+
+On Wednesday, Iowa Attorney General Brenna Bird announced additional oversight measures for crypto ATMs under the newly passed SF2296 law. This legislation integrates crypto kiosks into the state’s financial regulatory framework, enabling authorities to impose civil penalties on operators. Both actions signal mounting pressure on crypto service providers to address consumer protection concerns.
+
+U.S. prosecutors took another step in the Sam Bankman-Fried saga, filing a motion Thursday to seize $10 million held in an account at Fiduciary Trust Company. The funds reportedly represent returns from Bankman-Fried’s investment in media outlet Semafor. Ordered to forfeit over $11 billion after his conviction for defrauding FTX investors, SBF remains in legal limbo as he awaits an appeal.
+
+This case underscores the immense financial stakes and far-reaching implications of crypto fraud. As Bankman-Fried serves a 25-year sentence, authorities are working to recover what they can for defrauded investors.
+
+The legal pressure on Mashinsky, Bankman-Fried, and others comes as U.S. regulators tighten their grip on crypto. Just this week, Binance’s compliance with Treasury monitoring guidelines escalated into a formal investigation, tied to allegations of facilitating over $1 billion in transactions linked to sanctioned entities in Iran. Meanwhile, Coinbase’s Chief Legal Officer expressed optimism about the Clarity Act, a proposed bill that could reshape U.S. crypto oversight, potentially clarifying the treatment of stablecoins and market structure by summer 2026.
+
+For traders, these developments underscore the growing legal and regulatory scrutiny facing crypto exchanges, lending platforms, and related services. As governments crack down on fraud, sanctions violations, and consumer scams, the industry is under pressure to increase transparency and compliance—or face further fallout.
+
+Key updates: Alex Mashinsky to represent himself, US seeks $10M from SBF, Washington bans crypto kiosks. Legal pressures mount for crypto.
+
+Legal battles in the crypto space took several sharp turns this week, with high-profile cases and regulatory moves shaping the industry's future. Former Celsius CEO Alex Mashinsky is set to represent himself in court, U.S. prosecutors are pursuing $10 million tied to Sam Bankman-Fried, and jurisdictions in the U.S. are cracking down on crypto kiosks.
+
+Alex Mashinsky, who was sentenced to 12 years in prison for fraud and price manipulation during his tenure at Celsius, will now represent himself in ongoing legal proceedings. His legal team withdrew on Wednesday, citing his decision to proceed pro se. This unusual move comes as sentencing approaches for Roni Cohen-Pavon, Celsius’ former chief revenue officer, scheduled for May 13. Cohen-Pavon has cooperated with authorities, possibly earning leniency after pleading guilty to fraud charges in September 2023.
+
+Celsius, which went bankrupt in 2022 alongside FTX, symbolizes the broader collapse of several major players during the crypto market downturn. These cases continue to highlight the risks tied to opaque operations and questionable lending practices in the sector.
+
+In a unanimous vote Tuesday, Spokane Valley, Washington, banned virtual currency kiosks and ATMs, citing their frequent use in scams. The ordinance includes a $250 civil penalty and allows authorities to revoke business licenses for violations. Businesses have 30 days to comply.
+
+On Wednesday, Iowa Attorney General Brenna Bird announced additional oversight measures for crypto ATMs under the newly passed SF2296 law. This legislation integrates crypto kiosks into the state’s financial regulatory framework, enabling authorities to impose civil penalties on operators. Both actions signal mounting pressure on crypto service providers to address consumer protection concerns.
+
+U.S. prosecutors took another step in the Sam Bankman-Fried saga, filing a motion Thursday to seize $10 million held in an account at Fiduciary Trust Company. The funds reportedly represent returns from Bankman-Fried’s investment in media outlet Semafor. Ordered to forfeit over $11 billion after his conviction for defrauding FTX investors, SBF remains in legal limbo as he awaits an appeal.
+
+This case underscores the immense financial stakes and far-reaching implications of crypto fraud. As Bankman-Fried serves a 25-year sentence, authorities are working to recover what they can for defrauded investors.
+
+The legal pressure on Mashinsky, Bankman-Fried, and others comes as U.S. regulators tighten their grip on crypto. Just this week, Binance’s compliance with Treasury monitoring guidelines escalated into a formal investigation, tied to allegations of facilitating over $1 billion in transactions linked to sanctioned entities in Iran. Meanwhile, Coinbase’s Chief Legal Officer expressed optimism about the Clarity Act, a proposed bill that could reshape U.S. crypto oversight, potentially clarifying the treatment of stablecoins and market structure by summer 2026.
+
+For traders, these developments underscore the growing legal and regulatory scrutiny facing crypto exchanges, lending platforms, and related services. As governments crack down on fraud, sanctions violations, and consumer scams, the industry is under pressure to increase transparency and compliance—or face further fallout.
+Source: https://Blockchain.News/news/celsius-sbf-legal-drama-us-tightens-oversight]]></description>
+      <content:encoded><![CDATA[Key updates: Alex Mashinsky to represent himself, US seeks $10M from SBF, Washington bans crypto kiosks. Legal pressures mount for crypto.
+
+Legal battles in the crypto space took several sharp turns this week, with high-profile cases and regulatory moves shaping the industry's future. Former Celsius CEO Alex Mashinsky is set to represent himself in court, U.S. prosecutors are pursuing $10 million tied to Sam Bankman-Fried, and jurisdictions in the U.S. are cracking down on crypto kiosks.
+
+Alex Mashinsky, who was sentenced to 12 years in prison for fraud and price manipulation during his tenure at Celsius, will now represent himself in ongoing legal proceedings. His legal team withdrew on Wednesday, citing his decision to proceed pro se. This unusual move comes as sentencing approaches for Roni Cohen-Pavon, Celsius’ former chief revenue officer, scheduled for May 13. Cohen-Pavon has cooperated with authorities, possibly earning leniency after pleading guilty to fraud charges in September 2023.
+
+Celsius, which went bankrupt in 2022 alongside FTX, symbolizes the broader collapse of several major players during the crypto market downturn. These cases continue to highlight the risks tied to opaque operations and questionable lending practices in the sector.
+
+In a unanimous vote Tuesday, Spokane Valley, Washington, banned virtual currency kiosks and ATMs, citing their frequent use in scams. The ordinance includes a $250 civil penalty and allows authorities to revoke business licenses for violations. Businesses have 30 days to comply.
+
+On Wednesday, Iowa Attorney General Brenna Bird announced additional oversight measures for crypto ATMs under the newly passed SF2296 law. This legislation integrates crypto kiosks into the state’s financial regulatory framework, enabling authorities to impose civil penalties on operators. Both actions signal mounting pressure on crypto service providers to address consumer protection concerns.
+
+U.S. prosecutors took another step in the Sam Bankman-Fried saga, filing a motion Thursday to seize $10 million held in an account at Fiduciary Trust Company. The funds reportedly represent returns from Bankman-Fried’s investment in media outlet Semafor. Ordered to forfeit over $11 billion after his conviction for defrauding FTX investors, SBF remains in legal limbo as he awaits an appeal.
+
+This case underscores the immense financial stakes and far-reaching implications of crypto fraud. As Bankman-Fried serves a 25-year sentence, authorities are working to recover what they can for defrauded investors.
+
+The legal pressure on Mashinsky, Bankman-Fried, and others comes as U.S. regulators tighten their grip on crypto. Just this week, Binance’s compliance with Treasury monitoring guidelines escalated into a formal investigation, tied to allegations of facilitating over $1 billion in transactions linked to sanctioned entities in Iran. Meanwhile, Coinbase’s Chief Legal Officer expressed optimism about the Clarity Act, a proposed bill that could reshape U.S. crypto oversight, potentially clarifying the treatment of stablecoins and market structure by summer 2026.
+
+For traders, these developments underscore the growing legal and regulatory scrutiny facing crypto exchanges, lending platforms, and related services. As governments crack down on fraud, sanctions violations, and consumer scams, the industry is under pressure to increase transparency and compliance—or face further fallout.
+
+Key updates: Alex Mashinsky to represent himself, US seeks $10M from SBF, Washington bans crypto kiosks. Legal pressures mount for crypto.
+
+Legal battles in the crypto space took several sharp turns this week, with high-profile cases and regulatory moves shaping the industry's future. Former Celsius CEO Alex Mashinsky is set to represent himself in court, U.S. prosecutors are pursuing $10 million tied to Sam Bankman-Fried, and jurisdictions in the U.S. are cracking down on crypto kiosks.
+
+Alex Mashinsky, who was sentenced to 12 years in prison for fraud and price manipulation during his tenure at Celsius, will now represent himself in ongoing legal proceedings. His legal team withdrew on Wednesday, citing his decision to proceed pro se. This unusual move comes as sentencing approaches for Roni Cohen-Pavon, Celsius’ former chief revenue officer, scheduled for May 13. Cohen-Pavon has cooperated with authorities, possibly earning leniency after pleading guilty to fraud charges in September 2023.
+
+Celsius, which went bankrupt in 2022 alongside FTX, symbolizes the broader collapse of several major players during the crypto market downturn. These cases continue to highlight the risks tied to opaque operations and questionable lending practices in the sector.
+
+In a unanimous vote Tuesday, Spokane Valley, Washington, banned virtual currency kiosks and ATMs, citing their frequent use in scams. The ordinance includes a $250 civil penalty and allows authorities to revoke business licenses for violations. Businesses have 30 days to comply.
+
+On Wednesday, Iowa Attorney General Brenna Bird announced additional oversight measures for crypto ATMs under the newly passed SF2296 law. This legislation integrates crypto kiosks into the state’s financial regulatory framework, enabling authorities to impose civil penalties on operators. Both actions signal mounting pressure on crypto service providers to address consumer protection concerns.
+
+U.S. prosecutors took another step in the Sam Bankman-Fried saga, filing a motion Thursday to seize $10 million held in an account at Fiduciary Trust Company. The funds reportedly represent returns from Bankman-Fried’s investment in media outlet Semafor. Ordered to forfeit over $11 billion after his conviction for defrauding FTX investors, SBF remains in legal limbo as he awaits an appeal.
+
+This case underscores the immense financial stakes and far-reaching implications of crypto fraud. As Bankman-Fried serves a 25-year sentence, authorities are working to recover what they can for defrauded investors.
+
+The legal pressure on Mashinsky, Bankman-Fried, and others comes as U.S. regulators tighten their grip on crypto. Just this week, Binance’s compliance with Treasury monitoring guidelines escalated into a formal investigation, tied to allegations of facilitating over $1 billion in transactions linked to sanctioned entities in Iran. Meanwhile, Coinbase’s Chief Legal Officer expressed optimism about the Clarity Act, a proposed bill that could reshape U.S. crypto oversight, potentially clarifying the treatment of stablecoins and market structure by summer 2026.
+
+For traders, these developments underscore the growing legal and regulatory scrutiny facing crypto exchanges, lending platforms, and related services. As governments crack down on fraud, sanctions violations, and consumer scams, the industry is under pressure to increase transparency and compliance—or face further fallout.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-0bb6d4450cddca7c236b07b5f9b59d9d41171d25</guid>
       <title>WLD Price Prediction: Bearish Momentum Targets $0.22 as Whale Positioning Diverges from Retail Optimism | WLD faces immediate downside to $0.24 support with CoinCodex&apos;s $0.22 year-end target look... https://Blockchain.News/news/20260508-price-prediction-wld-b...</title>
@@ -2329,243 +2590,6 @@ Meanwhile, derivatives data reveals a fascinating contradiction. Top traders mai
 The setup is crystal clear for aggressive traders. WLD will likely test $0.27 resistance within 48-72 hours as this dead cat bounce plays out. That's your exit if you're long from lower levels - don't get greedy.
 
 For shorts, wait for rejection at $0.26-$0.27 with volume confirmation. Stop-loss above $0.28 (the 50-day MA) keeps risk tight. Primary target sits at $0.23 (strong support), with extended target at $0.20 if broader crypto markets deteriorate.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-b54ae8e18b7f3d55e0c5393cf409ee32d553c1b3</guid>
-      <title>BNB Price Prediction: $670 Breakout Imminent as Bulls Position for 14-Day Rally | BNB&apos;s technical consolidation at $636 sets up a high-probability move to $670 within two... https://Blockchain.News/news/20260506-price-prediction-bnb-670-breakout-imminent-as-b...</title>
-      <link>https://Blockchain.News/news/20260506-price-prediction-bnb-670-breakout-imminent-as-bulls-position</link>
-      <pubDate>Wed, 06 May 2026 07:08:19 GMT</pubDate>
-      <description><![CDATA[Original title: BNB Price Prediction: $670 Breakout Imminent as Bulls Position for 14-Day Rally
-Summary: BNB's technical consolidation at $636 sets up a high-probability move to $670 within two weeks. Positive funding rates and strategic accumulation create compelling conditions for the next breakout
-Article text: BNB's technical consolidation at $636 sets up a high-probability move to $670 within two weeks. Positive funding rates and strategic accumulation create compelling conditions for the next breakout ...
-
-BNB consolidates at $636 within a tightening range that favors upside resolution. The token holds above critical moving averages while building a foundation between $630-$645. This compression creates an asymmetric opportunity where upside potential significantly outweighs downside risk.
-
-Price action shows accumulation characteristics as BNB maintains elevation above key support levels. The current positioning suggests institutional players are quietly building positions ahead of the next directional move. Blockchain.news analysis indicates this type of sideways action often precedes significant breakouts when combined with supportive market structure.
-
-Derivatives data reveals bullish undercurrents developing beneath surface price action. Funding rates remain positive at 0.0113%, indicating sustained demand from leveraged buyers. This creates a feedback loop where shorts face pressure while longs maintain conviction.
-
-The long/short ratio at 2.28 demonstrates retail confidence aligning with smart money positioning at 2.17. Open interest decline of 3.53% to $354 million suggests weak positions are clearing, leaving a cleaner technical picture for the next move higher.
-
-Volume patterns support accumulation theory with $94 million in spot activity maintaining consistent participation. The taker buy/sell ratio at 1.06 shows balanced order flow without artificial manipulation, creating sustainable conditions for upward momentum.
-
-BNB faces immediate resistance at $643, representing the first hurdle toward higher targets. A decisive break above this level would trigger momentum buying and open space toward $670. The probability matrix heavily favors this scenario developing within 14 trading days.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Technical indicators support this outlook as momentum builds without reaching overbought extremes. The setup resembles previous BNB breakout patterns where patient accumulation preceded rapid price expansion. Blockchain.news models suggest maintaining exposure above $630 remains critical for bullish continuation.
-
-Downside protection exists at $629 with stronger backing near $622. This creates a favorable risk profile where potential gains toward $670 represent 5.3% upside against limited 2.2% downside to key support levels.
-
-Smart traders should monitor volume expansion above $643 as confirmation for the $670 target. The current setup offers one of the cleanest BNB opportunities in recent weeks, combining technical alignment with supportive market structure.
-
-The convergence of positive funding, strategic positioning, and technical compression creates conditions for meaningful upside. Patient capital positioned here benefits from asymmetric risk/reward as BNB builds toward its next breakout phase.
-
-BNB's technical consolidation at $636 sets up a high-probability move to $670 within two weeks. Positive funding rates and strategic accumulation create compelling conditions for the next breakout ...
-
-BNB consolidates at $636 within a tightening range that favors upside resolution. The token holds above critical moving averages while building a foundation between $630-$645. This compression creates an asymmetric opportunity where upside potential significantly outweighs downside risk.
-
-Price action shows accumulation characteristics as BNB maintains elevation above key support levels. The current positioning suggests institutional players are quietly building positions ahead of the next directional move. Blockchain.news analysis indicates this type of sideways action often precedes significant breakouts when combined with supportive market structure.
-
-Derivatives data reveals bullish undercurrents developing beneath surface price action. Funding rates remain positive at 0.0113%, indicating sustained demand from leveraged buyers. This creates a feedback loop where shorts face pressure while longs maintain conviction.
-
-The long/short ratio at 2.28 demonstrates retail confidence aligning with smart money positioning at 2.17. Open interest decline of 3.53% to $354 million suggests weak positions are clearing, leaving a cleaner technical picture for the next move higher.
-
-Volume patterns support accumulation theory with $94 million in spot activity maintaining consistent participation. The taker buy/sell ratio at 1.06 shows balanced order flow without artificial manipulation, creating sustainable conditions for upward momentum.
-
-BNB faces immediate resistance at $643, representing the first hurdle toward higher targets. A decisive break above this level would trigger momentum buying and open space toward $670. The probability matrix heavily favors this scenario developing within 14 trading days.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-Source: https://Blockchain.News/news/20260506-price-prediction-bnb-670-breakout-imminent-as-bulls-position]]></description>
-      <content:encoded><![CDATA[BNB's technical consolidation at $636 sets up a high-probability move to $670 within two weeks. Positive funding rates and strategic accumulation create compelling conditions for the next breakout ...
-
-BNB consolidates at $636 within a tightening range that favors upside resolution. The token holds above critical moving averages while building a foundation between $630-$645. This compression creates an asymmetric opportunity where upside potential significantly outweighs downside risk.
-
-Price action shows accumulation characteristics as BNB maintains elevation above key support levels. The current positioning suggests institutional players are quietly building positions ahead of the next directional move. Blockchain.news analysis indicates this type of sideways action often precedes significant breakouts when combined with supportive market structure.
-
-Derivatives data reveals bullish undercurrents developing beneath surface price action. Funding rates remain positive at 0.0113%, indicating sustained demand from leveraged buyers. This creates a feedback loop where shorts face pressure while longs maintain conviction.
-
-The long/short ratio at 2.28 demonstrates retail confidence aligning with smart money positioning at 2.17. Open interest decline of 3.53% to $354 million suggests weak positions are clearing, leaving a cleaner technical picture for the next move higher.
-
-Volume patterns support accumulation theory with $94 million in spot activity maintaining consistent participation. The taker buy/sell ratio at 1.06 shows balanced order flow without artificial manipulation, creating sustainable conditions for upward momentum.
-
-BNB faces immediate resistance at $643, representing the first hurdle toward higher targets. A decisive break above this level would trigger momentum buying and open space toward $670. The probability matrix heavily favors this scenario developing within 14 trading days.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Technical indicators support this outlook as momentum builds without reaching overbought extremes. The setup resembles previous BNB breakout patterns where patient accumulation preceded rapid price expansion. Blockchain.news models suggest maintaining exposure above $630 remains critical for bullish continuation.
-
-Downside protection exists at $629 with stronger backing near $622. This creates a favorable risk profile where potential gains toward $670 represent 5.3% upside against limited 2.2% downside to key support levels.
-
-Smart traders should monitor volume expansion above $643 as confirmation for the $670 target. The current setup offers one of the cleanest BNB opportunities in recent weeks, combining technical alignment with supportive market structure.
-
-The convergence of positive funding, strategic positioning, and technical compression creates conditions for meaningful upside. Patient capital positioned here benefits from asymmetric risk/reward as BNB builds toward its next breakout phase.
-
-BNB's technical consolidation at $636 sets up a high-probability move to $670 within two weeks. Positive funding rates and strategic accumulation create compelling conditions for the next breakout ...
-
-BNB consolidates at $636 within a tightening range that favors upside resolution. The token holds above critical moving averages while building a foundation between $630-$645. This compression creates an asymmetric opportunity where upside potential significantly outweighs downside risk.
-
-Price action shows accumulation characteristics as BNB maintains elevation above key support levels. The current positioning suggests institutional players are quietly building positions ahead of the next directional move. Blockchain.news analysis indicates this type of sideways action often precedes significant breakouts when combined with supportive market structure.
-
-Derivatives data reveals bullish undercurrents developing beneath surface price action. Funding rates remain positive at 0.0113%, indicating sustained demand from leveraged buyers. This creates a feedback loop where shorts face pressure while longs maintain conviction.
-
-The long/short ratio at 2.28 demonstrates retail confidence aligning with smart money positioning at 2.17. Open interest decline of 3.53% to $354 million suggests weak positions are clearing, leaving a cleaner technical picture for the next move higher.
-
-Volume patterns support accumulation theory with $94 million in spot activity maintaining consistent participation. The taker buy/sell ratio at 1.06 shows balanced order flow without artificial manipulation, creating sustainable conditions for upward momentum.
-
-BNB faces immediate resistance at $643, representing the first hurdle toward higher targets. A decisive break above this level would trigger momentum buying and open space toward $670. The probability matrix heavily favors this scenario developing within 14 trading days.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-f78089b709ba9b21af6eb999df84c510f3f0c017</guid>
-      <title>ETH Price Prediction: $2,500 Target Within 14 Days as Bullish Divergence Emerges | Ethereum shows classic accumulation patterns at $2,370 with smart money positioning long... https://Blockchain.News/news/20260506-price-prediction-target-eth-2500-within-14-day...</title>
-      <link>https://Blockchain.News/news/20260506-price-prediction-target-eth-2500-within-14-days-as-bullish</link>
-      <pubDate>Wed, 06 May 2026 07:04:28 GMT</pubDate>
-      <description><![CDATA[Original title: ETH Price Prediction: $2,500 Target Within 14 Days as Bullish Divergence Emerges
-Summary: Ethereum shows classic accumulation patterns at $2,370 with smart money positioning long while retail remains overextended. Technical setup points to 70% probability of testing $2,500 resistance by
-Article text: Ethereum shows classic accumulation patterns at $2,370 with smart money positioning long while retail remains overextended. Technical setup points to 70% probability of testing $2,500 resistance by...
-
-Ethereum's current positioning screams controlled accumulation. Trading at $2,370 with an RSI hovering at 58.67, we're seeing textbook neutral momentum that's primed for directional commitment. The MACD histogram flatlined at zero reveals the exact moment where momentum shifts occur - and with price sitting 77% up the Bollinger Band range, buyers are clearly testing upper boundaries without panic buying.
-
-What's particularly telling is ETH's relationship with its moving averages. Price trades nearly 7% above the 200-day SMA at $2,695, yet maintains disciplined distance from the 20-day at $2,324. This spread indicates institutional-grade positioning rather than retail FOMO. The $67 daily ATR confirms volatility remains elevated enough for significant moves, but contained enough to prevent washout scenarios.
-
-According to data tracked by Blockchain.news, this technical alignment often precedes sustained upward momentum when combined with favorable derivatives positioning.
-
-The derivatives market tells a compelling story that contradicts surface-level bearish sentiment. With $632 million in spot volume and $4.87 billion in open interest, institutional participation remains robust. The -0.0020% funding rate signals neither excessive bullishness nor bearish capitulation - exactly where smart money likes to operate.
-
-The most revealing metric? Top traders maintain a 54.2% long bias while retail crowds into 61.1% long positions. This 7% spread typically indicates sophisticated players are positioned ahead of retail, not fighting them. When combined with the balanced 1.04 taker buy/sell ratio, we're seeing methodical accumulation rather than emotional positioning.
-
-CoinCodex's January prediction of $3,357 by early January proved overly optimistic, but their directional bias aligns with current technical setup. ETHNews highlighted stabilization patterns that we're now witnessing in real-time, with institutional adoption creating sustainable demand floors around current levels.
-
-The absence of fresh KOL predictions in the last 24 hours actually strengthens the bullish case. When crypto Twitter goes quiet on Ethereum, it typically signals accumulation phases rather than distribution. Blockchain.news analysis suggests this pattern often precedes 15-20% moves within two-week timeframes.
-
-The probability matrix favors upside resolution. With strong support established at $2,350 and immediate resistance at $2,395, Ethereum faces a classic compression setup. The 70% probability scenario targets $2,500 within 14 days, representing a 5.5% gain that aligns with current volatility expectations.
-
-Key trigger levels: A decisive break above $2,420 opens the path to $2,500, while failure to hold $2,350 would target the 50-day SMA at $2,220. The 30% downside scenario becomes more likely only if Bitcoin weakens significantly or macro conditions deteriorate.
-
-Smart positioning involves scaling into long exposure on any weakness toward $2,350, with profit targets at $2,480-$2,500. The risk/reward setup favors buyers, as insights from Blockchain.news confirm this technical pattern has resolved bullishly in 7 of the last 10 occurrences since 2024.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Stop losses below $2,300 protect against the lower probability breakdown scenario, but current positioning suggests Ethereum is coiling for its next major leg higher.
-
-Ethereum shows classic accumulation patterns at $2,370 with smart money positioning long while retail remains overextended. Technical setup points to 70% probability of testing $2,500 resistance by...
-
-Ethereum's current positioning screams controlled accumulation. Trading at $2,370 with an RSI hovering at 58.67, we're seeing textbook neutral momentum that's primed for directional commitment. The MACD histogram flatlined at zero reveals the exact moment where momentum shifts occur - and with price sitting 77% up the Bollinger Band range, buyers are clearly testing upper boundaries without panic buying.
-
-What's particularly telling is ETH's relationship with its moving averages. Price trades nearly 7% above the 200-day SMA at $2,695, yet maintains disciplined distance from the 20-day at $2,324. This spread indicates institutional-grade positioning rather than retail FOMO. The $67 daily ATR confirms volatility remains elevated enough for significant moves, but contained enough to prevent washout scenarios.
-
-According to data tracked by Blockchain.news, this technical alignment often precedes sustained upward momentum when combined with favorable derivatives positioning.
-
-The derivatives market tells a compelling story that contradicts surface-level bearish sentiment. With $632 million in spot volume and $4.87 billion in open interest, institutional participation remains robust. The -0.0020% funding rate signals neither excessive bullishness nor bearish capitulation - exactly where smart money likes to operate.
-
-The most revealing metric? Top traders maintain a 54.2% long bias while retail crowds into 61.1% long positions. This 7% spread typically indicates sophisticated players are positioned ahead of retail, not fighting them. When combined with the balanced 1.04 taker buy/sell ratio, we're seeing methodical accumulation rather than emotional positioning.
-
-CoinCodex's January prediction of $3,357 by early January proved overly optimistic, but their directional bias aligns with current technical setup. ETHNews highlighted stabilization patterns that we're now witnessing in real-time, with institutional adoption creating sustainable demand floors around current levels.
-Source: https://Blockchain.News/news/20260506-price-prediction-target-eth-2500-within-14-days-as-bullish]]></description>
-      <content:encoded><![CDATA[Ethereum shows classic accumulation patterns at $2,370 with smart money positioning long while retail remains overextended. Technical setup points to 70% probability of testing $2,500 resistance by...
-
-Ethereum's current positioning screams controlled accumulation. Trading at $2,370 with an RSI hovering at 58.67, we're seeing textbook neutral momentum that's primed for directional commitment. The MACD histogram flatlined at zero reveals the exact moment where momentum shifts occur - and with price sitting 77% up the Bollinger Band range, buyers are clearly testing upper boundaries without panic buying.
-
-What's particularly telling is ETH's relationship with its moving averages. Price trades nearly 7% above the 200-day SMA at $2,695, yet maintains disciplined distance from the 20-day at $2,324. This spread indicates institutional-grade positioning rather than retail FOMO. The $67 daily ATR confirms volatility remains elevated enough for significant moves, but contained enough to prevent washout scenarios.
-
-According to data tracked by Blockchain.news, this technical alignment often precedes sustained upward momentum when combined with favorable derivatives positioning.
-
-The derivatives market tells a compelling story that contradicts surface-level bearish sentiment. With $632 million in spot volume and $4.87 billion in open interest, institutional participation remains robust. The -0.0020% funding rate signals neither excessive bullishness nor bearish capitulation - exactly where smart money likes to operate.
-
-The most revealing metric? Top traders maintain a 54.2% long bias while retail crowds into 61.1% long positions. This 7% spread typically indicates sophisticated players are positioned ahead of retail, not fighting them. When combined with the balanced 1.04 taker buy/sell ratio, we're seeing methodical accumulation rather than emotional positioning.
-
-CoinCodex's January prediction of $3,357 by early January proved overly optimistic, but their directional bias aligns with current technical setup. ETHNews highlighted stabilization patterns that we're now witnessing in real-time, with institutional adoption creating sustainable demand floors around current levels.
-
-The absence of fresh KOL predictions in the last 24 hours actually strengthens the bullish case. When crypto Twitter goes quiet on Ethereum, it typically signals accumulation phases rather than distribution. Blockchain.news analysis suggests this pattern often precedes 15-20% moves within two-week timeframes.
-
-The probability matrix favors upside resolution. With strong support established at $2,350 and immediate resistance at $2,395, Ethereum faces a classic compression setup. The 70% probability scenario targets $2,500 within 14 days, representing a 5.5% gain that aligns with current volatility expectations.
-
-Key trigger levels: A decisive break above $2,420 opens the path to $2,500, while failure to hold $2,350 would target the 50-day SMA at $2,220. The 30% downside scenario becomes more likely only if Bitcoin weakens significantly or macro conditions deteriorate.
-
-Smart positioning involves scaling into long exposure on any weakness toward $2,350, with profit targets at $2,480-$2,500. The risk/reward setup favors buyers, as insights from Blockchain.news confirm this technical pattern has resolved bullishly in 7 of the last 10 occurrences since 2024.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Stop losses below $2,300 protect against the lower probability breakdown scenario, but current positioning suggests Ethereum is coiling for its next major leg higher.
-
-Ethereum shows classic accumulation patterns at $2,370 with smart money positioning long while retail remains overextended. Technical setup points to 70% probability of testing $2,500 resistance by...
-
-Ethereum's current positioning screams controlled accumulation. Trading at $2,370 with an RSI hovering at 58.67, we're seeing textbook neutral momentum that's primed for directional commitment. The MACD histogram flatlined at zero reveals the exact moment where momentum shifts occur - and with price sitting 77% up the Bollinger Band range, buyers are clearly testing upper boundaries without panic buying.
-
-What's particularly telling is ETH's relationship with its moving averages. Price trades nearly 7% above the 200-day SMA at $2,695, yet maintains disciplined distance from the 20-day at $2,324. This spread indicates institutional-grade positioning rather than retail FOMO. The $67 daily ATR confirms volatility remains elevated enough for significant moves, but contained enough to prevent washout scenarios.
-
-According to data tracked by Blockchain.news, this technical alignment often precedes sustained upward momentum when combined with favorable derivatives positioning.
-
-The derivatives market tells a compelling story that contradicts surface-level bearish sentiment. With $632 million in spot volume and $4.87 billion in open interest, institutional participation remains robust. The -0.0020% funding rate signals neither excessive bullishness nor bearish capitulation - exactly where smart money likes to operate.
-
-The most revealing metric? Top traders maintain a 54.2% long bias while retail crowds into 61.1% long positions. This 7% spread typically indicates sophisticated players are positioned ahead of retail, not fighting them. When combined with the balanced 1.04 taker buy/sell ratio, we're seeing methodical accumulation rather than emotional positioning.
-
-CoinCodex's January prediction of $3,357 by early January proved overly optimistic, but their directional bias aligns with current technical setup. ETHNews highlighted stabilization patterns that we're now witnessing in real-time, with institutional adoption creating sustainable demand floors around current levels.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-ada6a4f4fe16c547e3df121347c724239e07f7a6</guid>
-      <title>BTC Price Prediction: $85K Breakout Favored Despite $78K Risk - 48 Hour Decision Point | Bitcoin&apos;s $82K resistance test combined with oversold derivatives positioning creates a c... https://Blockchain.News/news/20260506-price-prediction-btc-85k-breakout-favor...</title>
-      <link>https://Blockchain.News/news/20260506-price-prediction-btc-85k-breakout-favored-despite-78k-risk</link>
-      <pubDate>Wed, 06 May 2026 07:01:26 GMT</pubDate>
-      <description><![CDATA[Original title: BTC Price Prediction: $85K Breakout Favored Despite $78K Risk - 48 Hour Decision Point
-Summary: Bitcoin's $82K resistance test combined with oversold derivatives positioning creates a compelling bullish case for $85K within 48 hours. Technical momentum supports the upside despite Standard Cha
-Article text: Bitcoin's $82K resistance test combined with oversold derivatives positioning creates a compelling bullish case for $85K within 48 hours. Technical momentum supports the upside despite Standard Cha...
-
-Bitcoin sits at $81,491, mere dollars from the pivotal $82K resistance that has defined this consolidation phase. The technical picture reveals momentum building beneath the surface - RSI at 69 provides ample runway for expansion while the compressed 24-hour range of just $1,264 sits well below the 14-day average true range of $1,804. This compression typically precedes significant directional moves, and current price action above all major moving averages except the 200 SMA at $83,314 suggests bulls maintain structural control despite the hesitation at resistance.
-
-The derivatives landscape tells a contrarian story that favors upside resolution. Smart money positioning shows 65% short exposure while retail sentiment remains 66% bearish - this asymmetric positioning often precedes sharp moves opposite to consensus. The negative funding rate of -0.0092% indicates traders are paying to hold short positions, creating natural buying pressure as these positions unwind. When combined with declining open interest down 5.26% in 24 hours, the setup points toward short covering acceleration if price breaks above $82,100.
-
-A decisive break above $82,534 opens a clear path to the 200 SMA confluence zone between $85,000-$86,000 where Blockchain.news analysis indicates major resistance awaits. The stochastic reading of 95.62 suggests overbought conditions, but this often extends further in strong trending markets before reversal occurs. Key support levels cluster around $80,749 with critical defense at $80,006, providing a clear risk framework for position management.
-
-While the technical setup favors upside, rejection at current levels could trigger swift profit-taking toward $78,500-$79,000 where moving average support converges. Standard Chartered's $200K target appears increasingly divorced from market reality given current positioning dynamics. The flatlining MACD histogram suggests buyer conviction needs strengthening above $82K to sustain any breakout attempt. Blockchain.news technical frameworks emphasize the importance of volume confirmation on any decisive move above resistance to validate the bullish thesis for the coming 48-72 hour window.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Bitcoin's $82K resistance test combined with oversold derivatives positioning creates a compelling bullish case for $85K within 48 hours. Technical momentum supports the upside despite Standard Cha...
-
-Bitcoin sits at $81,491, mere dollars from the pivotal $82K resistance that has defined this consolidation phase. The technical picture reveals momentum building beneath the surface - RSI at 69 provides ample runway for expansion while the compressed 24-hour range of just $1,264 sits well below the 14-day average true range of $1,804. This compression typically precedes significant directional moves, and current price action above all major moving averages except the 200 SMA at $83,314 suggests bulls maintain structural control despite the hesitation at resistance.
-
-The derivatives landscape tells a contrarian story that favors upside resolution. Smart money positioning shows 65% short exposure while retail sentiment remains 66% bearish - this asymmetric positioning often precedes sharp moves opposite to consensus. The negative funding rate of -0.0092% indicates traders are paying to hold short positions, creating natural buying pressure as these positions unwind. When combined with declining open interest down 5.26% in 24 hours, the setup points toward short covering acceleration if price breaks above $82,100.
-
-A decisive break above $82,534 opens a clear path to the 200 SMA confluence zone between $85,000-$86,000 where Blockchain.news analysis indicates major resistance awaits. The stochastic reading of 95.62 suggests overbought conditions, but this often extends further in strong trending markets before reversal occurs. Key support levels cluster around $80,749 with critical defense at $80,006, providing a clear risk framework for position management.
-
-While the technical setup favors upside, rejection at current levels could trigger swift profit-taking toward $78,500-$79,000 where moving average support converges. Standard Chartered's $200K target appears increasingly divorced from market reality given current positioning dynamics. The flatlining MACD histogram suggests buyer conviction needs strengthening above $82K to sustain any breakout attempt. Blockchain.news technical frameworks emphasize the importance of volume confirmation on any decisive move above resistance to validate the bullish thesis for the coming 48-72 hour window.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/20260506-price-prediction-btc-85k-breakout-favored-despite-78k-risk]]></description>
-      <content:encoded><![CDATA[Bitcoin's $82K resistance test combined with oversold derivatives positioning creates a compelling bullish case for $85K within 48 hours. Technical momentum supports the upside despite Standard Cha...
-
-Bitcoin sits at $81,491, mere dollars from the pivotal $82K resistance that has defined this consolidation phase. The technical picture reveals momentum building beneath the surface - RSI at 69 provides ample runway for expansion while the compressed 24-hour range of just $1,264 sits well below the 14-day average true range of $1,804. This compression typically precedes significant directional moves, and current price action above all major moving averages except the 200 SMA at $83,314 suggests bulls maintain structural control despite the hesitation at resistance.
-
-The derivatives landscape tells a contrarian story that favors upside resolution. Smart money positioning shows 65% short exposure while retail sentiment remains 66% bearish - this asymmetric positioning often precedes sharp moves opposite to consensus. The negative funding rate of -0.0092% indicates traders are paying to hold short positions, creating natural buying pressure as these positions unwind. When combined with declining open interest down 5.26% in 24 hours, the setup points toward short covering acceleration if price breaks above $82,100.
-
-A decisive break above $82,534 opens a clear path to the 200 SMA confluence zone between $85,000-$86,000 where Blockchain.news analysis indicates major resistance awaits. The stochastic reading of 95.62 suggests overbought conditions, but this often extends further in strong trending markets before reversal occurs. Key support levels cluster around $80,749 with critical defense at $80,006, providing a clear risk framework for position management.
-
-While the technical setup favors upside, rejection at current levels could trigger swift profit-taking toward $78,500-$79,000 where moving average support converges. Standard Chartered's $200K target appears increasingly divorced from market reality given current positioning dynamics. The flatlining MACD histogram suggests buyer conviction needs strengthening above $82K to sustain any breakout attempt. Blockchain.news technical frameworks emphasize the importance of volume confirmation on any decisive move above resistance to validate the bullish thesis for the coming 48-72 hour window.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Bitcoin's $82K resistance test combined with oversold derivatives positioning creates a compelling bullish case for $85K within 48 hours. Technical momentum supports the upside despite Standard Cha...
-
-Bitcoin sits at $81,491, mere dollars from the pivotal $82K resistance that has defined this consolidation phase. The technical picture reveals momentum building beneath the surface - RSI at 69 provides ample runway for expansion while the compressed 24-hour range of just $1,264 sits well below the 14-day average true range of $1,804. This compression typically precedes significant directional moves, and current price action above all major moving averages except the 200 SMA at $83,314 suggests bulls maintain structural control despite the hesitation at resistance.
-
-The derivatives landscape tells a contrarian story that favors upside resolution. Smart money positioning shows 65% short exposure while retail sentiment remains 66% bearish - this asymmetric positioning often precedes sharp moves opposite to consensus. The negative funding rate of -0.0092% indicates traders are paying to hold short positions, creating natural buying pressure as these positions unwind. When combined with declining open interest down 5.26% in 24 hours, the setup points toward short covering acceleration if price breaks above $82,100.
-
-A decisive break above $82,534 opens a clear path to the 200 SMA confluence zone between $85,000-$86,000 where Blockchain.news analysis indicates major resistance awaits. The stochastic reading of 95.62 suggests overbought conditions, but this often extends further in strong trending markets before reversal occurs. Key support levels cluster around $80,749 with critical defense at $80,006, providing a clear risk framework for position management.
-
-While the technical setup favors upside, rejection at current levels could trigger swift profit-taking toward $78,500-$79,000 where moving average support converges. Standard Chartered's $200K target appears increasingly divorced from market reality given current positioning dynamics. The flatlining MACD histogram suggests buyer conviction needs strengthening above $82K to sustain any breakout attempt. Blockchain.news technical frameworks emphasize the importance of volume confirmation on any decisive move above resistance to validate the bullish thesis for the coming 48-72 hour window.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
     </item>
   </channel>
 </rss>
