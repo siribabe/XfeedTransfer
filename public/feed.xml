@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Mon, 11 May 2026 14:39:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:41:45 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-df941aac930ceedbff5556b15b6b0ef92e9e1e8d</guid>
+      <title>Whitehat Hacker Returns $190K to Renegade After Exploit | A whitehat hacker returned $190,000 to Renegade&apos;s Arbitrum dark pool after exploiting a v... https://Blockchain.News/news/whitehat-returns-190k-renegade-exploit</title>
+      <link>https://Blockchain.News/news/whitehat-returns-190k-renegade-exploit</link>
+      <pubDate>Mon, 11 May 2026 06:12:35 GMT</pubDate>
+      <description><![CDATA[Original title: Whitehat Hacker Returns $190K to Renegade After Exploit
+Summary: A whitehat hacker returned $190,000 to Renegade's Arbitrum dark pool after exploiting a vulnerability. Renegade promises compensation and a full analysis.
+Article text: A whitehat hacker returned $190,000 to Renegade's Arbitrum dark pool after exploiting a vulnerability. Renegade promises compensation and a full analysis.
+
+A whitehat hacker has returned $190,000 to the developers of Renegade, an Arbitrum-based decentralized dark pool protocol, just hours after exploiting flaws in one of its smart contracts. The protocol confirmed the return of funds on May 10, following an exploit that initially netted the hacker $209,000 worth of crypto assets.
+
+The breach targeted Renegade's V1 Arbitrum dark pool, where the attacker leveraged a faulty function to inject malicious logic and steal 27 different ERC-20 tokens. Blockchain analytics platform Blockaid flagged the exploit at 8:27 AM UTC. In response, Renegade communicated with the hacker through an onchain message, offering a 10% "whitehat bounty" in exchange for the safe return of 90% of the stolen funds and a promise to avoid legal consequences.
+
+According to blockchain data, the hacker complied, transferring $190,000 worth of assets back to Renegade's wallet. The returned funds included $84,370 in USDC, $27,885 in wrapped Bitcoin, and $23,950 in wrapped Ether.
+
+In their onchain response, the hacker justified the exploit as a measure to protect DeFi users from potential vulnerabilities, though they acknowledged the ethical concerns surrounding their actions. They also criticized Renegade's security, calling the exploited vulnerability "too simple and bad."
+
+Renegade attributes the exploit to deployment code that failed to assign an explicit owner and flaws in a migration during an April 2025 software update. These oversights allowed unauthorized individuals to rewrite the smart contract governing its V1 dark pool.
+
+The incident highlights the ongoing role of whitehat hackers in identifying and mitigating vulnerabilities in the DeFi space. Initiatives like Security Alliance's Safe Harbor framework aim to provide legal cover for ethical hackers who temporarily take control of funds for safekeeping.
+
+Renegade has stated it will publish a full post-mortem analysis to explain the root causes of the breach. The protocol also assured users that only 7% of its trading volume was processed through the compromised dark pool and that affected users would be fully compensated. The team is contacting impacted users directly to resolve the incident.
+
+Dark pools, like the one operated by Renegade, allow large trades to be executed privately, shielding participants from market impact. However, this case underscores the importance of robust security measures in such platforms, particularly as they attract significant liquidity.
+
+A whitehat hacker returned $190,000 to Renegade's Arbitrum dark pool after exploiting a vulnerability. Renegade promises compensation and a full analysis.
+
+A whitehat hacker has returned $190,000 to the developers of Renegade, an Arbitrum-based decentralized dark pool protocol, just hours after exploiting flaws in one of its smart contracts. The protocol confirmed the return of funds on May 10, following an exploit that initially netted the hacker $209,000 worth of crypto assets.
+
+The breach targeted Renegade's V1 Arbitrum dark pool, where the attacker leveraged a faulty function to inject malicious logic and steal 27 different ERC-20 tokens. Blockchain analytics platform Blockaid flagged the exploit at 8:27 AM UTC. In response, Renegade communicated with the hacker through an onchain message, offering a 10% "whitehat bounty" in exchange for the safe return of 90% of the stolen funds and a promise to avoid legal consequences.
+
+According to blockchain data, the hacker complied, transferring $190,000 worth of assets back to Renegade's wallet. The returned funds included $84,370 in USDC, $27,885 in wrapped Bitcoin, and $23,950 in wrapped Ether.
+
+In their onchain response, the hacker justified the exploit as a measure to protect DeFi users from potential vulnerabilities, though they acknowledged the ethical concerns surrounding their actions. They also criticized Renegade's security, calling the exploited vulnerability "too simple and bad."
+
+Renegade attributes the exploit to deployment code that failed to assign an explicit owner and flaws in a migration during an April 2025 software update. These oversights allowed unauthorized individuals to rewrite the smart contract governing its V1 dark pool.
+
+The incident highlights the ongoing role of whitehat hackers in identifying and mitigating vulnerabilities in the DeFi space. Initiatives like Security Alliance's Safe Harbor framework aim to provide legal cover for ethical hackers who temporarily take control of funds for safekeeping.
+
+Renegade has stated it will publish a full post-mortem analysis to explain the root causes of the breach. The protocol also assured users that only 7% of its trading volume was processed through the compromised dark pool and that affected users would be fully compensated. The team is contacting impacted users directly to resolve the incident.
+
+Dark pools, like the one operated by Renegade, allow large trades to be executed privately, shielding participants from market impact. However, this case underscores the importance of robust security measures in such platforms, particularly as they attract significant liquidity.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/whitehat-returns-190k-renegade-exploit]]></description>
+      <content:encoded><![CDATA[A whitehat hacker returned $190,000 to Renegade's Arbitrum dark pool after exploiting a vulnerability. Renegade promises compensation and a full analysis.
+
+A whitehat hacker has returned $190,000 to the developers of Renegade, an Arbitrum-based decentralized dark pool protocol, just hours after exploiting flaws in one of its smart contracts. The protocol confirmed the return of funds on May 10, following an exploit that initially netted the hacker $209,000 worth of crypto assets.
+
+The breach targeted Renegade's V1 Arbitrum dark pool, where the attacker leveraged a faulty function to inject malicious logic and steal 27 different ERC-20 tokens. Blockchain analytics platform Blockaid flagged the exploit at 8:27 AM UTC. In response, Renegade communicated with the hacker through an onchain message, offering a 10% "whitehat bounty" in exchange for the safe return of 90% of the stolen funds and a promise to avoid legal consequences.
+
+According to blockchain data, the hacker complied, transferring $190,000 worth of assets back to Renegade's wallet. The returned funds included $84,370 in USDC, $27,885 in wrapped Bitcoin, and $23,950 in wrapped Ether.
+
+In their onchain response, the hacker justified the exploit as a measure to protect DeFi users from potential vulnerabilities, though they acknowledged the ethical concerns surrounding their actions. They also criticized Renegade's security, calling the exploited vulnerability "too simple and bad."
+
+Renegade attributes the exploit to deployment code that failed to assign an explicit owner and flaws in a migration during an April 2025 software update. These oversights allowed unauthorized individuals to rewrite the smart contract governing its V1 dark pool.
+
+The incident highlights the ongoing role of whitehat hackers in identifying and mitigating vulnerabilities in the DeFi space. Initiatives like Security Alliance's Safe Harbor framework aim to provide legal cover for ethical hackers who temporarily take control of funds for safekeeping.
+
+Renegade has stated it will publish a full post-mortem analysis to explain the root causes of the breach. The protocol also assured users that only 7% of its trading volume was processed through the compromised dark pool and that affected users would be fully compensated. The team is contacting impacted users directly to resolve the incident.
+
+Dark pools, like the one operated by Renegade, allow large trades to be executed privately, shielding participants from market impact. However, this case underscores the importance of robust security measures in such platforms, particularly as they attract significant liquidity.
+
+A whitehat hacker returned $190,000 to Renegade's Arbitrum dark pool after exploiting a vulnerability. Renegade promises compensation and a full analysis.
+
+A whitehat hacker has returned $190,000 to the developers of Renegade, an Arbitrum-based decentralized dark pool protocol, just hours after exploiting flaws in one of its smart contracts. The protocol confirmed the return of funds on May 10, following an exploit that initially netted the hacker $209,000 worth of crypto assets.
+
+The breach targeted Renegade's V1 Arbitrum dark pool, where the attacker leveraged a faulty function to inject malicious logic and steal 27 different ERC-20 tokens. Blockchain analytics platform Blockaid flagged the exploit at 8:27 AM UTC. In response, Renegade communicated with the hacker through an onchain message, offering a 10% "whitehat bounty" in exchange for the safe return of 90% of the stolen funds and a promise to avoid legal consequences.
+
+According to blockchain data, the hacker complied, transferring $190,000 worth of assets back to Renegade's wallet. The returned funds included $84,370 in USDC, $27,885 in wrapped Bitcoin, and $23,950 in wrapped Ether.
+
+In their onchain response, the hacker justified the exploit as a measure to protect DeFi users from potential vulnerabilities, though they acknowledged the ethical concerns surrounding their actions. They also criticized Renegade's security, calling the exploited vulnerability "too simple and bad."
+
+Renegade attributes the exploit to deployment code that failed to assign an explicit owner and flaws in a migration during an April 2025 software update. These oversights allowed unauthorized individuals to rewrite the smart contract governing its V1 dark pool.
+
+The incident highlights the ongoing role of whitehat hackers in identifying and mitigating vulnerabilities in the DeFi space. Initiatives like Security Alliance's Safe Harbor framework aim to provide legal cover for ethical hackers who temporarily take control of funds for safekeeping.
+
+Renegade has stated it will publish a full post-mortem analysis to explain the root causes of the breach. The protocol also assured users that only 7% of its trading volume was processed through the compromised dark pool and that affected users would be fully compensated. The team is contacting impacted users directly to resolve the incident.
+
+Dark pools, like the one operated by Renegade, allow large trades to be executed privately, shielding participants from market impact. However, this case underscores the importance of robust security measures in such platforms, particularly as they attract significant liquidity.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-42b412f9d3daf570691480b5f73dca665cc46aba</guid>
+      <title>Bitcoin Jumps 2.3% to $82K After Trump&apos;s Iran Rejection | Bitcoin surged 2.3% to $82,350 following Trump&apos;s rejection of Iran’s peace offer, wiping... https://Blockchain.News/news/bitcoin-82k-trump-iran-rejection</title>
+      <link>https://Blockchain.News/news/bitcoin-82k-trump-iran-rejection</link>
+      <pubDate>Mon, 11 May 2026 03:10:55 GMT</pubDate>
+      <description><![CDATA[Original title: Bitcoin Jumps 2.3% to $82K After Trump's Iran Rejection
+Summary: Bitcoin surged 2.3% to $82,350 following Trump's rejection of Iran’s peace offer, wiping out $64M in short positions.
+Article text: Bitcoin surged 2.3% to $82,350 following Trump's rejection of Iran’s peace offer, wiping out $64M in short positions.
+
+Bitcoin (BTC) surged 2.3% to $82,350 on Sunday after U.S. President Donald Trump rejected Iran's peace proposal, signaling prolonged tensions in the Middle East. The move erased nearly $64 million in short positions, according to Coinglass data.
+
+The cryptocurrency initially dipped to $80,520 following Trump's comments on Truth Social, where he labeled Iran's counteroffer as "TOTALLY UNACCEPTABLE." Within three hours, Bitcoin reversed course, climbing to $82,347 per CoinGecko data. This volatility underscores Bitcoin’s role as a potential hedge during geopolitical uncertainty.
+
+Market reactions extended beyond crypto. Oil prices jumped 4.6% to $98.70 per barrel, reflecting concerns over the ongoing conflict near the Strait of Hormuz, a critical chokepoint for global oil trade. Meanwhile, S&P 500 futures rose a modest 0.13% shortly after Trump’s announcement.
+
+The U.S.-Iran war, which began in late February, has disrupted global markets for over two months. Israeli Prime Minister Benjamin Netanyahu added fuel to the fire, stating the conflict would persist until Iran’s nuclear facilities are dismantled—a comment that further clouds the timeline for resolution.
+
+Bitcoin’s recent price resilience might also benefit from upcoming U.S. regulatory developments. Markus Thielen, CEO of 10x Research, pointed to two key catalysts this week: the Senate’s vote on Kevin Warsh’s nomination as Federal Reserve chair on Monday and the Senate Banking Committee’s markup of the CLARITY Act on Thursday.
+
+“Both events lean bullish for Bitcoin,” Thielen told Cointelegraph. “Regulatory clarity reduces institutional friction, and a smooth Fed leadership transition avoids the policy uncertainty that typically pressures risk assets.”
+
+The CLARITY Act, described as a landmark piece of crypto legislation, could provide much-needed regulatory certainty for digital assets, potentially encouraging greater institutional adoption.
+
+Since the U.S.-Iran conflict erupted on February 28, Bitcoin has gained 29.7%, outperforming traditional safe-haven assets like gold and even the S&P 500. The cryptocurrency has steadily rebounded from its October high of $126,080, regaining some lost ground despite mounting global uncertainty.
+
+As the conflict continues to escalate, Bitcoin’s performance could remain tied to geopolitical developments. Traders will also be closely watching U.S. regulatory progress this week for signs of how it may shape the crypto market in the months ahead.
+
+Bitcoin surged 2.3% to $82,350 following Trump's rejection of Iran’s peace offer, wiping out $64M in short positions.
+
+Bitcoin (BTC) surged 2.3% to $82,350 on Sunday after U.S. President Donald Trump rejected Iran's peace proposal, signaling prolonged tensions in the Middle East. The move erased nearly $64 million in short positions, according to Coinglass data.
+
+The cryptocurrency initially dipped to $80,520 following Trump's comments on Truth Social, where he labeled Iran's counteroffer as "TOTALLY UNACCEPTABLE." Within three hours, Bitcoin reversed course, climbing to $82,347 per CoinGecko data. This volatility underscores Bitcoin’s role as a potential hedge during geopolitical uncertainty.
+
+Market reactions extended beyond crypto. Oil prices jumped 4.6% to $98.70 per barrel, reflecting concerns over the ongoing conflict near the Strait of Hormuz, a critical chokepoint for global oil trade. Meanwhile, S&P 500 futures rose a modest 0.13% shortly after Trump’s announcement.
+
+The U.S.-Iran war, which began in late February, has disrupted global markets for over two months. Israeli Prime Minister Benjamin Netanyahu added fuel to the fire, stating the conflict would persist until Iran’s nuclear facilities are dismantled—a comment that further clouds the timeline for resolution.
+
+Bitcoin’s recent price resilience might also benefit from upcoming U.S. regulatory developments. Markus Thielen, CEO of 10x Research, pointed to two key catalysts this week: the Senate’s vote on Kevin Warsh’s nomination as Federal Reserve chair on Monday and the Senate Banking Committee’s markup of the CLARITY Act on Thursday.
+
+“Both events lean bullish for Bitcoin,” Thielen told Cointelegraph. “Regulatory clarity reduces institutional friction, and a smooth Fed leadership transition avoids the policy uncertainty that typically pressures risk assets.”
+
+The CLARITY Act, described as a landmark piece of crypto legislation, could provide much-needed regulatory certainty for digital assets, potentially encouraging greater institutional adoption.
+
+Since the U.S.-Iran conflict erupted on February 28, Bitcoin has gained 29.7%, outperforming traditional safe-haven assets like gold and even the S&P 500. The cryptocurrency has steadily rebounded from its October high of $126,080, regaining some lost ground despite mounting global uncertainty.
+
+As the conflict continues to escalate, Bitcoin’s performance could remain tied to geopolitical developments. Traders will also be closely watching U.S. regulatory progress this week for signs of how it may shape the crypto market in the months ahead.
+Source: https://Blockchain.News/news/bitcoin-82k-trump-iran-rejection]]></description>
+      <content:encoded><![CDATA[Bitcoin surged 2.3% to $82,350 following Trump's rejection of Iran’s peace offer, wiping out $64M in short positions.
+
+Bitcoin (BTC) surged 2.3% to $82,350 on Sunday after U.S. President Donald Trump rejected Iran's peace proposal, signaling prolonged tensions in the Middle East. The move erased nearly $64 million in short positions, according to Coinglass data.
+
+The cryptocurrency initially dipped to $80,520 following Trump's comments on Truth Social, where he labeled Iran's counteroffer as "TOTALLY UNACCEPTABLE." Within three hours, Bitcoin reversed course, climbing to $82,347 per CoinGecko data. This volatility underscores Bitcoin’s role as a potential hedge during geopolitical uncertainty.
+
+Market reactions extended beyond crypto. Oil prices jumped 4.6% to $98.70 per barrel, reflecting concerns over the ongoing conflict near the Strait of Hormuz, a critical chokepoint for global oil trade. Meanwhile, S&P 500 futures rose a modest 0.13% shortly after Trump’s announcement.
+
+The U.S.-Iran war, which began in late February, has disrupted global markets for over two months. Israeli Prime Minister Benjamin Netanyahu added fuel to the fire, stating the conflict would persist until Iran’s nuclear facilities are dismantled—a comment that further clouds the timeline for resolution.
+
+Bitcoin’s recent price resilience might also benefit from upcoming U.S. regulatory developments. Markus Thielen, CEO of 10x Research, pointed to two key catalysts this week: the Senate’s vote on Kevin Warsh’s nomination as Federal Reserve chair on Monday and the Senate Banking Committee’s markup of the CLARITY Act on Thursday.
+
+“Both events lean bullish for Bitcoin,” Thielen told Cointelegraph. “Regulatory clarity reduces institutional friction, and a smooth Fed leadership transition avoids the policy uncertainty that typically pressures risk assets.”
+
+The CLARITY Act, described as a landmark piece of crypto legislation, could provide much-needed regulatory certainty for digital assets, potentially encouraging greater institutional adoption.
+
+Since the U.S.-Iran conflict erupted on February 28, Bitcoin has gained 29.7%, outperforming traditional safe-haven assets like gold and even the S&P 500. The cryptocurrency has steadily rebounded from its October high of $126,080, regaining some lost ground despite mounting global uncertainty.
+
+As the conflict continues to escalate, Bitcoin’s performance could remain tied to geopolitical developments. Traders will also be closely watching U.S. regulatory progress this week for signs of how it may shape the crypto market in the months ahead.
+
+Bitcoin surged 2.3% to $82,350 following Trump's rejection of Iran’s peace offer, wiping out $64M in short positions.
+
+Bitcoin (BTC) surged 2.3% to $82,350 on Sunday after U.S. President Donald Trump rejected Iran's peace proposal, signaling prolonged tensions in the Middle East. The move erased nearly $64 million in short positions, according to Coinglass data.
+
+The cryptocurrency initially dipped to $80,520 following Trump's comments on Truth Social, where he labeled Iran's counteroffer as "TOTALLY UNACCEPTABLE." Within three hours, Bitcoin reversed course, climbing to $82,347 per CoinGecko data. This volatility underscores Bitcoin’s role as a potential hedge during geopolitical uncertainty.
+
+Market reactions extended beyond crypto. Oil prices jumped 4.6% to $98.70 per barrel, reflecting concerns over the ongoing conflict near the Strait of Hormuz, a critical chokepoint for global oil trade. Meanwhile, S&P 500 futures rose a modest 0.13% shortly after Trump’s announcement.
+
+The U.S.-Iran war, which began in late February, has disrupted global markets for over two months. Israeli Prime Minister Benjamin Netanyahu added fuel to the fire, stating the conflict would persist until Iran’s nuclear facilities are dismantled—a comment that further clouds the timeline for resolution.
+
+Bitcoin’s recent price resilience might also benefit from upcoming U.S. regulatory developments. Markus Thielen, CEO of 10x Research, pointed to two key catalysts this week: the Senate’s vote on Kevin Warsh’s nomination as Federal Reserve chair on Monday and the Senate Banking Committee’s markup of the CLARITY Act on Thursday.
+
+“Both events lean bullish for Bitcoin,” Thielen told Cointelegraph. “Regulatory clarity reduces institutional friction, and a smooth Fed leadership transition avoids the policy uncertainty that typically pressures risk assets.”
+
+The CLARITY Act, described as a landmark piece of crypto legislation, could provide much-needed regulatory certainty for digital assets, potentially encouraging greater institutional adoption.
+
+Since the U.S.-Iran conflict erupted on February 28, Bitcoin has gained 29.7%, outperforming traditional safe-haven assets like gold and even the S&P 500. The cryptocurrency has steadily rebounded from its October high of $126,080, regaining some lost ground despite mounting global uncertainty.
+
+As the conflict continues to escalate, Bitcoin’s performance could remain tied to geopolitical developments. Traders will also be closely watching U.S. regulatory progress this week for signs of how it may shape the crypto market in the months ahead.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-caf26681f8d08a54c0900b3dd35a0c5b7c6016ee</guid>
+      <title>Michael Saylor Signals New Bitcoin Buy Amid Treasury Strategy Shift | Michael Saylor hints at a fresh BTC purchase as Strategy explores selling portions of its... https://Blockchain.News/news/michael-saylor-bitcoin-buy-strategy-shift</title>
+      <link>https://Blockchain.News/news/michael-saylor-bitcoin-buy-strategy-shift</link>
+      <pubDate>Sun, 10 May 2026 19:04:11 GMT</pubDate>
+      <description><![CDATA[Original title: Michael Saylor Signals New Bitcoin Buy Amid Treasury Strategy Shift
+Summary: Michael Saylor hints at a fresh BTC purchase as Strategy explores selling portions of its treasury to fund dividends, sparking mixed reactions.
+Article text: Michael Saylor hints at a fresh BTC purchase as Strategy explores selling portions of its treasury to fund dividends, sparking mixed reactions.
+
+Michael Saylor, co-founder of Strategy, has signaled that the Bitcoin-focused treasury firm plans to resume its BTC buying spree as early as Monday. The news comes after a brief pause in acquisitions ahead of Strategy’s Q1 2026 earnings call, during which Saylor also hinted at a controversial shift: the potential periodic sale of Bitcoin to fund dividends.
+
+In a post on X (formerly Twitter) on Sunday, Saylor shared, “Back to work, BTC,” a phrase he’s used in the past to foreshadow imminent Bitcoin purchases. The company’s last acquisition, on April 27, added 3,273 BTC to its holdings at an average price of $78,000 per coin, bringing its total stash to 818,334 BTC—valued at approximately $61.8 billion at the time.
+
+This announcement follows Strategy’s disclosure that it may occasionally sell Bitcoin to meet obligations such as dividend payments to credit holders. The move marks a stark departure from the company’s long-standing “never sell” principle, and it has stirred debate within the Bitcoin community.
+
+During the Q1 earnings call, Saylor described the decision to sell portions of BTC as a way to “inoculate the market,” suggesting it could normalize the practice and reduce volatility concerns. Strategy CEO Phong Le later clarified that such sales would only occur in specific scenarios, including paying dividends and covering taxes. He downplayed fears of market impact, noting that Bitcoin’s daily trading volume—exceeding $60 billion—could absorb the company’s $1.5 billion annual dividend obligations without significant disruption.
+
+The shift in Strategy’s approach has drawn mixed reactions. Supporters, like investor Adam Livingston, argue that periodic sales could actually enhance the company’s ability to buy more Bitcoin over time. Meanwhile, critics warn of a potential “doom loop,” where sales and credit obligations suppress BTC’s spot market price.
+
+With Strategy holding roughly 4% of Bitcoin’s total supply, its actions carry weight in the ecosystem. Some analysts, like Samson Mow, view the added flexibility to sell as a positive, providing the firm with greater agility in navigating financial markets. Others, however, worry that even minor sales could send bearish signals to traders and institutional investors.
+
+Strategy’s next Bitcoin purchase, expected to follow Saylor’s Sunday hint, will be closely watched. Whether the firm’s evolving treasury strategy bolsters or undermines market confidence remains to be seen.
+
+As the crypto community debates the implications of Strategy’s new direction, one thing is clear: Michael Saylor’s moves continue to wield significant influence over Bitcoin’s narrative and price dynamics.
+
+Michael Saylor hints at a fresh BTC purchase as Strategy explores selling portions of its treasury to fund dividends, sparking mixed reactions.
+
+Michael Saylor, co-founder of Strategy, has signaled that the Bitcoin-focused treasury firm plans to resume its BTC buying spree as early as Monday. The news comes after a brief pause in acquisitions ahead of Strategy’s Q1 2026 earnings call, during which Saylor also hinted at a controversial shift: the potential periodic sale of Bitcoin to fund dividends.
+
+In a post on X (formerly Twitter) on Sunday, Saylor shared, “Back to work, BTC,” a phrase he’s used in the past to foreshadow imminent Bitcoin purchases. The company’s last acquisition, on April 27, added 3,273 BTC to its holdings at an average price of $78,000 per coin, bringing its total stash to 818,334 BTC—valued at approximately $61.8 billion at the time.
+
+This announcement follows Strategy’s disclosure that it may occasionally sell Bitcoin to meet obligations such as dividend payments to credit holders. The move marks a stark departure from the company’s long-standing “never sell” principle, and it has stirred debate within the Bitcoin community.
+
+During the Q1 earnings call, Saylor described the decision to sell portions of BTC as a way to “inoculate the market,” suggesting it could normalize the practice and reduce volatility concerns. Strategy CEO Phong Le later clarified that such sales would only occur in specific scenarios, including paying dividends and covering taxes. He downplayed fears of market impact, noting that Bitcoin’s daily trading volume—exceeding $60 billion—could absorb the company’s $1.5 billion annual dividend obligations without significant disruption.
+
+The shift in Strategy’s approach has drawn mixed reactions. Supporters, like investor Adam Livingston, argue that periodic sales could actually enhance the company’s ability to buy more Bitcoin over time. Meanwhile, critics warn of a potential “doom loop,” where sales and credit obligations suppress BTC’s spot market price.
+
+With Strategy holding roughly 4% of Bitcoin’s total supply, its actions carry weight in the ecosystem. Some analysts, like Samson Mow, view the added flexibility to sell as a positive, providing the firm with greater agility in navigating financial markets. Others, however, worry that even minor sales could send bearish signals to traders and institutional investors.
+
+Strategy’s next Bitcoin purchase, expected to follow Saylor’s Sunday hint, will be closely watched. Whether the firm’s evolving treasury strategy bolsters or undermines market confidence remains to be seen.
+
+As the crypto community debates the implications of Strategy’s new direction, one thing is clear: Michael Saylor’s moves continue to wield significant influence over Bitcoin’s narrative and price dynamics.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/michael-saylor-bitcoin-buy-strategy-shift]]></description>
+      <content:encoded><![CDATA[Michael Saylor hints at a fresh BTC purchase as Strategy explores selling portions of its treasury to fund dividends, sparking mixed reactions.
+
+Michael Saylor, co-founder of Strategy, has signaled that the Bitcoin-focused treasury firm plans to resume its BTC buying spree as early as Monday. The news comes after a brief pause in acquisitions ahead of Strategy’s Q1 2026 earnings call, during which Saylor also hinted at a controversial shift: the potential periodic sale of Bitcoin to fund dividends.
+
+In a post on X (formerly Twitter) on Sunday, Saylor shared, “Back to work, BTC,” a phrase he’s used in the past to foreshadow imminent Bitcoin purchases. The company’s last acquisition, on April 27, added 3,273 BTC to its holdings at an average price of $78,000 per coin, bringing its total stash to 818,334 BTC—valued at approximately $61.8 billion at the time.
+
+This announcement follows Strategy’s disclosure that it may occasionally sell Bitcoin to meet obligations such as dividend payments to credit holders. The move marks a stark departure from the company’s long-standing “never sell” principle, and it has stirred debate within the Bitcoin community.
+
+During the Q1 earnings call, Saylor described the decision to sell portions of BTC as a way to “inoculate the market,” suggesting it could normalize the practice and reduce volatility concerns. Strategy CEO Phong Le later clarified that such sales would only occur in specific scenarios, including paying dividends and covering taxes. He downplayed fears of market impact, noting that Bitcoin’s daily trading volume—exceeding $60 billion—could absorb the company’s $1.5 billion annual dividend obligations without significant disruption.
+
+The shift in Strategy’s approach has drawn mixed reactions. Supporters, like investor Adam Livingston, argue that periodic sales could actually enhance the company’s ability to buy more Bitcoin over time. Meanwhile, critics warn of a potential “doom loop,” where sales and credit obligations suppress BTC’s spot market price.
+
+With Strategy holding roughly 4% of Bitcoin’s total supply, its actions carry weight in the ecosystem. Some analysts, like Samson Mow, view the added flexibility to sell as a positive, providing the firm with greater agility in navigating financial markets. Others, however, worry that even minor sales could send bearish signals to traders and institutional investors.
+
+Strategy’s next Bitcoin purchase, expected to follow Saylor’s Sunday hint, will be closely watched. Whether the firm’s evolving treasury strategy bolsters or undermines market confidence remains to be seen.
+
+As the crypto community debates the implications of Strategy’s new direction, one thing is clear: Michael Saylor’s moves continue to wield significant influence over Bitcoin’s narrative and price dynamics.
+
+Michael Saylor hints at a fresh BTC purchase as Strategy explores selling portions of its treasury to fund dividends, sparking mixed reactions.
+
+Michael Saylor, co-founder of Strategy, has signaled that the Bitcoin-focused treasury firm plans to resume its BTC buying spree as early as Monday. The news comes after a brief pause in acquisitions ahead of Strategy’s Q1 2026 earnings call, during which Saylor also hinted at a controversial shift: the potential periodic sale of Bitcoin to fund dividends.
+
+In a post on X (formerly Twitter) on Sunday, Saylor shared, “Back to work, BTC,” a phrase he’s used in the past to foreshadow imminent Bitcoin purchases. The company’s last acquisition, on April 27, added 3,273 BTC to its holdings at an average price of $78,000 per coin, bringing its total stash to 818,334 BTC—valued at approximately $61.8 billion at the time.
+
+This announcement follows Strategy’s disclosure that it may occasionally sell Bitcoin to meet obligations such as dividend payments to credit holders. The move marks a stark departure from the company’s long-standing “never sell” principle, and it has stirred debate within the Bitcoin community.
+
+During the Q1 earnings call, Saylor described the decision to sell portions of BTC as a way to “inoculate the market,” suggesting it could normalize the practice and reduce volatility concerns. Strategy CEO Phong Le later clarified that such sales would only occur in specific scenarios, including paying dividends and covering taxes. He downplayed fears of market impact, noting that Bitcoin’s daily trading volume—exceeding $60 billion—could absorb the company’s $1.5 billion annual dividend obligations without significant disruption.
+
+The shift in Strategy’s approach has drawn mixed reactions. Supporters, like investor Adam Livingston, argue that periodic sales could actually enhance the company’s ability to buy more Bitcoin over time. Meanwhile, critics warn of a potential “doom loop,” where sales and credit obligations suppress BTC’s spot market price.
+
+With Strategy holding roughly 4% of Bitcoin’s total supply, its actions carry weight in the ecosystem. Some analysts, like Samson Mow, view the added flexibility to sell as a positive, providing the firm with greater agility in navigating financial markets. Others, however, worry that even minor sales could send bearish signals to traders and institutional investors.
+
+Strategy’s next Bitcoin purchase, expected to follow Saylor’s Sunday hint, will be closely watched. Whether the firm’s evolving treasury strategy bolsters or undermines market confidence remains to be seen.
+
+As the crypto community debates the implications of Strategy’s new direction, one thing is clear: Michael Saylor’s moves continue to wield significant influence over Bitcoin’s narrative and price dynamics.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-4eb7f3fa9cc22155329a9db7428b0df3ed13b30e</guid>
       <title>UNI Price Prediction: $4.50 Target Within 7 Days, But Overbought Warning Flashes Red | UNI&apos;s explosive 10% surge to $4.05 has momentum indicators screaming overbought with RSI... https://Blockchain.News/news/20260510-price-prediction-target-uni-450-within-7-d...</title>
@@ -2305,267 +2566,6 @@ AI-Driven R&D: With AI increasingly used to advance science and even improve sub
 Anthropic's focus on transparency and public engagement distinguishes its approach. The company has emphasized that effective AI research requires proximity to frontier systems, which aligns with its broader commitment to safety and ethical design. By sharing data like the Economic Index and insights from its internal operations, TAI aims to serve as an "early warning signal" for disruptive economic and societal changes.
 
 Anthropic’s initiative arrives as advanced AI systems are increasingly reshaping industries and sparking policy debates. The company, founded in 2021 by Daniela and Dario Amodei, has positioned itself as a leader in AI safety and interpretability. Its flagship model, Claude, exemplifies its commitment to building steerable and reliable AI systems guided by a "Constitutional AI" framework.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-ac52b512bad895d312c2037b61fa01842145b44b</guid>
-      <title>Agentic by Eigen Event Spotlights AI Verifiability Challenges | Agentic by Eigen dives into AI verifiability, sovereignty, and agent limitations, showcas... https://Blockchain.News/news/agentic-eigen-ai-verifiability</title>
-      <link>https://Blockchain.News/news/agentic-eigen-ai-verifiability</link>
-      <pubDate>Thu, 07 May 2026 08:37:52 GMT</pubDate>
-      <description><![CDATA[Original title: Agentic by Eigen Event Spotlights AI Verifiability Challenges
-Summary: Agentic by Eigen dives into AI verifiability, sovereignty, and agent limitations, showcasing the growing need for accountable agent-driven systems.
-Article text: Agentic by Eigen dives into AI verifiability, sovereignty, and agent limitations, showcasing the growing need for accountable agent-driven systems.
-
-Last week, Eigen Labs' Agentic by Eigen event brought together builders, founders, and researchers in the Network State community to tackle one of AI's thorniest issues: creating agents that are not just autonomous but also verifiable and resilient. The event highlighted key challenges in building agentic AI systems and underscored the importance of accountability in an increasingly agent-driven economy.
-
-AI Workflow Disruptions and the Rise of 'Vibe Coding'
-
-The opening session focused on "vibe coding," a term describing how AI tools like generative models have drastically reduced the time needed to go from concept to execution. Participants discussed the benefits of this acceleration, but also the breaking points in workflows where existing AI tools fail to deliver. Much of the room had months of hands-on experience, making discussions less hypothetical and more grounded in real-world bottlenecks.
-
-Agent Challenges: Handoffs, Longevity, and Missing Tools
-
-The conversation then shifted to the nuts and bolts of building autonomous agents. While demos often showcase agents performing well in isolated scenarios, attendees noted that these systems tend to falter over extended workflows due to tool handoff issues and gaps in the emerging "agent stack." These missing components remain a barrier to deploying agents in production environments, particularly in data-sensitive industries.
-
-One of the most pressing discussions centered on verifiability. When agents operate autonomously, how can developers ensure the deployed code runs as intended, that inputs remain untampered, and outputs are trustworthy? This becomes especially critical in applications involving finance, healthcare, or governance, where trust is paramount.
-
-Eigen Labs has been pioneering solutions in this space through its EigenCloud platform, which integrates tools like EigenCompute for verifiable computation, EigenAI for deterministic inference, and EigenDA for data availability. The cryptoeconomic security provided by EigenLayer further ensures that agents operating on the platform are held accountable. Slashing mechanisms, for instance, penalize bad behavior, adding an extra layer of trust to the system.
-
-The event came on the heels of other significant milestones for Eigen Labs. Just days earlier, the company showcased its Dark Bloom and EigenCompute tools in Hyderabad, emphasizing the increasing importance of decentralized, accountable AI systems. Meanwhile, Nebius' $643 million buyout of Eigen AI underscores the growing demand for robust AI infrastructure capable of powering the next generation of smart agents.
-
-Market interest in agentic AI has been reflected in the token price as well. As of May 7, 2026, the token associated with Eigen Labs is trading at $0.20, up 8.59% over the past 24 hours, with a total market capitalization of $146.85 million.
-
-As highlighted by Aasha Das, the event's real value often comes in the informal, post-session discussions. Smaller breakout groups allowed participants to dive deeper into unresolved challenges, exchange ideas, and identify gaps in infrastructure that are not yet publicly addressed. These candid conversations are where actionable solutions tend to emerge.
-
-For those tracking agentic AI's trajectory, the takeaways from Agentic by Eigen are clear: the space is maturing, but significant challenges remain, particularly around reliability and trust. As Eigen Labs continues to refine its tools and expand its ecosystem, it will be worth watching how these developments shape both the AI and crypto industries.
-
-Agentic by Eigen dives into AI verifiability, sovereignty, and agent limitations, showcasing the growing need for accountable agent-driven systems.
-
-Last week, Eigen Labs' Agentic by Eigen event brought together builders, founders, and researchers in the Network State community to tackle one of AI's thorniest issues: creating agents that are not just autonomous but also verifiable and resilient. The event highlighted key challenges in building agentic AI systems and underscored the importance of accountability in an increasingly agent-driven economy.
-
-AI Workflow Disruptions and the Rise of 'Vibe Coding'
-
-The opening session focused on "vibe coding," a term describing how AI tools like generative models have drastically reduced the time needed to go from concept to execution. Participants discussed the benefits of this acceleration, but also the breaking points in workflows where existing AI tools fail to deliver. Much of the room had months of hands-on experience, making discussions less hypothetical and more grounded in real-world bottlenecks.
-
-Agent Challenges: Handoffs, Longevity, and Missing Tools
-
-The conversation then shifted to the nuts and bolts of building autonomous agents. While demos often showcase agents performing well in isolated scenarios, attendees noted that these systems tend to falter over extended workflows due to tool handoff issues and gaps in the emerging "agent stack." These missing components remain a barrier to deploying agents in production environments, particularly in data-sensitive industries.
-
-One of the most pressing discussions centered on verifiability. When agents operate autonomously, how can developers ensure the deployed code runs as intended, that inputs remain untampered, and outputs are trustworthy? This becomes especially critical in applications involving finance, healthcare, or governance, where trust is paramount.
-
-Eigen Labs has been pioneering solutions in this space through its EigenCloud platform, which integrates tools like EigenCompute for verifiable computation, EigenAI for deterministic inference, and EigenDA for data availability. The cryptoeconomic security provided by EigenLayer further ensures that agents operating on the platform are held accountable. Slashing mechanisms, for instance, penalize bad behavior, adding an extra layer of trust to the system.
-Source: https://Blockchain.News/news/agentic-eigen-ai-verifiability]]></description>
-      <content:encoded><![CDATA[Agentic by Eigen dives into AI verifiability, sovereignty, and agent limitations, showcasing the growing need for accountable agent-driven systems.
-
-Last week, Eigen Labs' Agentic by Eigen event brought together builders, founders, and researchers in the Network State community to tackle one of AI's thorniest issues: creating agents that are not just autonomous but also verifiable and resilient. The event highlighted key challenges in building agentic AI systems and underscored the importance of accountability in an increasingly agent-driven economy.
-
-AI Workflow Disruptions and the Rise of 'Vibe Coding'
-
-The opening session focused on "vibe coding," a term describing how AI tools like generative models have drastically reduced the time needed to go from concept to execution. Participants discussed the benefits of this acceleration, but also the breaking points in workflows where existing AI tools fail to deliver. Much of the room had months of hands-on experience, making discussions less hypothetical and more grounded in real-world bottlenecks.
-
-Agent Challenges: Handoffs, Longevity, and Missing Tools
-
-The conversation then shifted to the nuts and bolts of building autonomous agents. While demos often showcase agents performing well in isolated scenarios, attendees noted that these systems tend to falter over extended workflows due to tool handoff issues and gaps in the emerging "agent stack." These missing components remain a barrier to deploying agents in production environments, particularly in data-sensitive industries.
-
-One of the most pressing discussions centered on verifiability. When agents operate autonomously, how can developers ensure the deployed code runs as intended, that inputs remain untampered, and outputs are trustworthy? This becomes especially critical in applications involving finance, healthcare, or governance, where trust is paramount.
-
-Eigen Labs has been pioneering solutions in this space through its EigenCloud platform, which integrates tools like EigenCompute for verifiable computation, EigenAI for deterministic inference, and EigenDA for data availability. The cryptoeconomic security provided by EigenLayer further ensures that agents operating on the platform are held accountable. Slashing mechanisms, for instance, penalize bad behavior, adding an extra layer of trust to the system.
-
-The event came on the heels of other significant milestones for Eigen Labs. Just days earlier, the company showcased its Dark Bloom and EigenCompute tools in Hyderabad, emphasizing the increasing importance of decentralized, accountable AI systems. Meanwhile, Nebius' $643 million buyout of Eigen AI underscores the growing demand for robust AI infrastructure capable of powering the next generation of smart agents.
-
-Market interest in agentic AI has been reflected in the token price as well. As of May 7, 2026, the token associated with Eigen Labs is trading at $0.20, up 8.59% over the past 24 hours, with a total market capitalization of $146.85 million.
-
-As highlighted by Aasha Das, the event's real value often comes in the informal, post-session discussions. Smaller breakout groups allowed participants to dive deeper into unresolved challenges, exchange ideas, and identify gaps in infrastructure that are not yet publicly addressed. These candid conversations are where actionable solutions tend to emerge.
-
-For those tracking agentic AI's trajectory, the takeaways from Agentic by Eigen are clear: the space is maturing, but significant challenges remain, particularly around reliability and trust. As Eigen Labs continues to refine its tools and expand its ecosystem, it will be worth watching how these developments shape both the AI and crypto industries.
-
-Agentic by Eigen dives into AI verifiability, sovereignty, and agent limitations, showcasing the growing need for accountable agent-driven systems.
-
-Last week, Eigen Labs' Agentic by Eigen event brought together builders, founders, and researchers in the Network State community to tackle one of AI's thorniest issues: creating agents that are not just autonomous but also verifiable and resilient. The event highlighted key challenges in building agentic AI systems and underscored the importance of accountability in an increasingly agent-driven economy.
-
-AI Workflow Disruptions and the Rise of 'Vibe Coding'
-
-The opening session focused on "vibe coding," a term describing how AI tools like generative models have drastically reduced the time needed to go from concept to execution. Participants discussed the benefits of this acceleration, but also the breaking points in workflows where existing AI tools fail to deliver. Much of the room had months of hands-on experience, making discussions less hypothetical and more grounded in real-world bottlenecks.
-
-Agent Challenges: Handoffs, Longevity, and Missing Tools
-
-The conversation then shifted to the nuts and bolts of building autonomous agents. While demos often showcase agents performing well in isolated scenarios, attendees noted that these systems tend to falter over extended workflows due to tool handoff issues and gaps in the emerging "agent stack." These missing components remain a barrier to deploying agents in production environments, particularly in data-sensitive industries.
-
-One of the most pressing discussions centered on verifiability. When agents operate autonomously, how can developers ensure the deployed code runs as intended, that inputs remain untampered, and outputs are trustworthy? This becomes especially critical in applications involving finance, healthcare, or governance, where trust is paramount.
-
-Eigen Labs has been pioneering solutions in this space through its EigenCloud platform, which integrates tools like EigenCompute for verifiable computation, EigenAI for deterministic inference, and EigenDA for data availability. The cryptoeconomic security provided by EigenLayer further ensures that agents operating on the platform are held accountable. Slashing mechanisms, for instance, penalize bad behavior, adding an extra layer of trust to the system.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-e5d04cffda99b6c6b3f5b9bc312545110a85f3db</guid>
-      <title>ALGO Price Prediction: $0.15 Target Within 10 Days as Breakout Builds | ALGO tests critical $0.13 resistance with whale accumulation accelerating and momentum in... https://Blockchain.News/news/20260507-price-prediction-target-algo-015-within-10-days-as-break...</title>
-      <link>https://Blockchain.News/news/20260507-price-prediction-target-algo-015-within-10-days-as-breakout</link>
-      <pubDate>Thu, 07 May 2026 08:36:55 GMT</pubDate>
-      <description><![CDATA[Original title: ALGO Price Prediction: $0.15 Target Within 10 Days as Breakout Builds
-Summary: ALGO tests critical $0.13 resistance with whale accumulation accelerating and momentum indicators aligning for upside. Technical confluence points to $0.145-$0.15 within 7-10 days if bulls maintain
-Article text: ALGO tests critical $0.13 resistance with whale accumulation accelerating and momentum indicators aligning for upside. Technical confluence points to $0.145-$0.15 within 7-10 days if bulls maintain...
-
-Algorand sits at a pivotal juncture, trading at $0.13 after a 3.89% daily surge that's pushed the token directly into resistance territory. The price action reflects controlled accumulation rather than speculative buying, with momentum building steadily beneath the surface. Bulls are testing waters that could either launch ALGO toward $0.15 or send it tumbling back to support.
-
-The technical picture reveals a compressed volatility environment ready to expand. With the daily ATR at $0.01, any directional break promises significant follow-through. The current positioning suggests smart money is positioning for the upside scenario.
-
-ALGO's immediate battle centers around the $0.13-$0.14 resistance zone, where recent highs have consistently stalled rallies. Breaking cleanly above this level opens the door to $0.145-$0.15, representing the next logical target zone based on measured move projections from the recent consolidation.
-
-Support structures remain intact with $0.12 providing the first meaningful floor. Blockchain.news technical analysis shows the critical support cluster around $0.11 represents the line in the sand for maintaining bullish structure. Any sustained break below this level would shift the narrative bearish and target deeper retracements.
-
-The momentum backdrop tells a compelling story. While RSI approaches overbought territory at 68.36, the reading suggests controlled buying pressure rather than euphoric speculation. The MACD sits neutral, indicating we're at an inflection point where either bulls seize control or bears reassert dominance.
-
-The derivatives landscape reveals sophisticated positioning that often precedes significant moves. Long positioning dominates with whales holding 61.5% bias while retail follows at 59.7%. More telling is the 4.61% surge in open interest to $11.5 million, indicating fresh capital entering the market rather than existing positions adding size.
-
-Funding rates remain neutral at 0.0067%, eliminating the squeeze risk that often derails momentum plays. This measured positioning creates ideal conditions for sustained moves when they develop. Blockchain.news data confirms this type of accumulation pattern frequently precedes breakouts that catch traders off-guard.
-
-The risk-reward equation favors aggressive positioning with disciplined stops. Entry opportunities exist on any pullback toward $0.1285-$0.13, offering clean risk management with stops below $0.1195. This setup provides roughly 2.5% downside risk for potential 12-15% upside to primary targets.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Primary target zone spans $0.145-$0.15, where measured move projections and previous resistance levels converge. Secondary targets extend toward $0.16 if momentum sustains and accumulation continues. The setup invalidates on any close below $0.12, which would signal a return to range-bound trading.
-
-Current probability assessments favor the upside scenario at 65% within the next 7-10 trading days, assuming continued smart money positioning and technical follow-through. The compressed volatility and positioning dynamics create conditions ripe for significant directional moves.
-
-ALGO tests critical $0.13 resistance with whale accumulation accelerating and momentum indicators aligning for upside. Technical confluence points to $0.145-$0.15 within 7-10 days if bulls maintain...
-
-Algorand sits at a pivotal juncture, trading at $0.13 after a 3.89% daily surge that's pushed the token directly into resistance territory. The price action reflects controlled accumulation rather than speculative buying, with momentum building steadily beneath the surface. Bulls are testing waters that could either launch ALGO toward $0.15 or send it tumbling back to support.
-
-The technical picture reveals a compressed volatility environment ready to expand. With the daily ATR at $0.01, any directional break promises significant follow-through. The current positioning suggests smart money is positioning for the upside scenario.
-
-ALGO's immediate battle centers around the $0.13-$0.14 resistance zone, where recent highs have consistently stalled rallies. Breaking cleanly above this level opens the door to $0.145-$0.15, representing the next logical target zone based on measured move projections from the recent consolidation.
-
-Support structures remain intact with $0.12 providing the first meaningful floor. Blockchain.news technical analysis shows the critical support cluster around $0.11 represents the line in the sand for maintaining bullish structure. Any sustained break below this level would shift the narrative bearish and target deeper retracements.
-
-The momentum backdrop tells a compelling story. While RSI approaches overbought territory at 68.36, the reading suggests controlled buying pressure rather than euphoric speculation. The MACD sits neutral, indicating we're at an inflection point where either bulls seize control or bears reassert dominance.
-
-The derivatives landscape reveals sophisticated positioning that often precedes significant moves. Long positioning dominates with whales holding 61.5% bias while retail follows at 59.7%. More telling is the 4.61% surge in open interest to $11.5 million, indicating fresh capital entering the market rather than existing positions adding size.
-
-Funding rates remain neutral at 0.0067%, eliminating the squeeze risk that often derails momentum plays. This measured positioning creates ideal conditions for sustained moves when they develop. Blockchain.news data confirms this type of accumulation pattern frequently precedes breakouts that catch traders off-guard.
-Source: https://Blockchain.News/news/20260507-price-prediction-target-algo-015-within-10-days-as-breakout]]></description>
-      <content:encoded><![CDATA[ALGO tests critical $0.13 resistance with whale accumulation accelerating and momentum indicators aligning for upside. Technical confluence points to $0.145-$0.15 within 7-10 days if bulls maintain...
-
-Algorand sits at a pivotal juncture, trading at $0.13 after a 3.89% daily surge that's pushed the token directly into resistance territory. The price action reflects controlled accumulation rather than speculative buying, with momentum building steadily beneath the surface. Bulls are testing waters that could either launch ALGO toward $0.15 or send it tumbling back to support.
-
-The technical picture reveals a compressed volatility environment ready to expand. With the daily ATR at $0.01, any directional break promises significant follow-through. The current positioning suggests smart money is positioning for the upside scenario.
-
-ALGO's immediate battle centers around the $0.13-$0.14 resistance zone, where recent highs have consistently stalled rallies. Breaking cleanly above this level opens the door to $0.145-$0.15, representing the next logical target zone based on measured move projections from the recent consolidation.
-
-Support structures remain intact with $0.12 providing the first meaningful floor. Blockchain.news technical analysis shows the critical support cluster around $0.11 represents the line in the sand for maintaining bullish structure. Any sustained break below this level would shift the narrative bearish and target deeper retracements.
-
-The momentum backdrop tells a compelling story. While RSI approaches overbought territory at 68.36, the reading suggests controlled buying pressure rather than euphoric speculation. The MACD sits neutral, indicating we're at an inflection point where either bulls seize control or bears reassert dominance.
-
-The derivatives landscape reveals sophisticated positioning that often precedes significant moves. Long positioning dominates with whales holding 61.5% bias while retail follows at 59.7%. More telling is the 4.61% surge in open interest to $11.5 million, indicating fresh capital entering the market rather than existing positions adding size.
-
-Funding rates remain neutral at 0.0067%, eliminating the squeeze risk that often derails momentum plays. This measured positioning creates ideal conditions for sustained moves when they develop. Blockchain.news data confirms this type of accumulation pattern frequently precedes breakouts that catch traders off-guard.
-
-The risk-reward equation favors aggressive positioning with disciplined stops. Entry opportunities exist on any pullback toward $0.1285-$0.13, offering clean risk management with stops below $0.1195. This setup provides roughly 2.5% downside risk for potential 12-15% upside to primary targets.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Primary target zone spans $0.145-$0.15, where measured move projections and previous resistance levels converge. Secondary targets extend toward $0.16 if momentum sustains and accumulation continues. The setup invalidates on any close below $0.12, which would signal a return to range-bound trading.
-
-Current probability assessments favor the upside scenario at 65% within the next 7-10 trading days, assuming continued smart money positioning and technical follow-through. The compressed volatility and positioning dynamics create conditions ripe for significant directional moves.
-
-ALGO tests critical $0.13 resistance with whale accumulation accelerating and momentum indicators aligning for upside. Technical confluence points to $0.145-$0.15 within 7-10 days if bulls maintain...
-
-Algorand sits at a pivotal juncture, trading at $0.13 after a 3.89% daily surge that's pushed the token directly into resistance territory. The price action reflects controlled accumulation rather than speculative buying, with momentum building steadily beneath the surface. Bulls are testing waters that could either launch ALGO toward $0.15 or send it tumbling back to support.
-
-The technical picture reveals a compressed volatility environment ready to expand. With the daily ATR at $0.01, any directional break promises significant follow-through. The current positioning suggests smart money is positioning for the upside scenario.
-
-ALGO's immediate battle centers around the $0.13-$0.14 resistance zone, where recent highs have consistently stalled rallies. Breaking cleanly above this level opens the door to $0.145-$0.15, representing the next logical target zone based on measured move projections from the recent consolidation.
-
-Support structures remain intact with $0.12 providing the first meaningful floor. Blockchain.news technical analysis shows the critical support cluster around $0.11 represents the line in the sand for maintaining bullish structure. Any sustained break below this level would shift the narrative bearish and target deeper retracements.
-
-The momentum backdrop tells a compelling story. While RSI approaches overbought territory at 68.36, the reading suggests controlled buying pressure rather than euphoric speculation. The MACD sits neutral, indicating we're at an inflection point where either bulls seize control or bears reassert dominance.
-
-The derivatives landscape reveals sophisticated positioning that often precedes significant moves. Long positioning dominates with whales holding 61.5% bias while retail follows at 59.7%. More telling is the 4.61% surge in open interest to $11.5 million, indicating fresh capital entering the market rather than existing positions adding size.
-
-Funding rates remain neutral at 0.0067%, eliminating the squeeze risk that often derails momentum plays. This measured positioning creates ideal conditions for sustained moves when they develop. Blockchain.news data confirms this type of accumulation pattern frequently precedes breakouts that catch traders off-guard.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-59d91da24029f41464bf01d495d73ca3ad7ca68d</guid>
-      <title>FILE Price Prediction: $1.30 Breakout Target Within 10 Days | FILE trades at $1.11 with RSI at 74.35 signaling overbought conditions, yet whale positio... https://Blockchain.News/news/20260507-file-price-prediction-130-breakout-target-within-10-days</title>
-      <link>https://Blockchain.News/news/20260507-file-price-prediction-130-breakout-target-within-10-days</link>
-      <pubDate>Thu, 07 May 2026 08:33:19 GMT</pubDate>
-      <description><![CDATA[Original title: FILE Price Prediction: $1.30 Breakout Target Within 10 Days
-Summary: FILE trades at $1.11 with RSI at 74.35 signaling overbought conditions, yet whale positioning at 2.28:1 long ratio supports momentum toward $1.30 resistance. Downside risk remains at $0.95 support
-Article text: FILE trades at $1.11 with RSI at 74.35 signaling overbought conditions, yet whale positioning at 2.28:1 long ratio supports momentum toward $1.30 resistance. Downside risk remains at $0.95 support ...
-
-FILE's surge past $1.11 represents a systematic break above all short-term moving averages, with price now trading 12% above the 20-day SMA at $0.95. This technical breakout coincides with increased institutional interest in decentralized storage solutions, positioning FILE as a direct beneficiary of the ongoing data sovereignty narrative gaining traction across crypto markets.
-
-The $43.6 million in 24-hour spot volume on Binance alone signals conviction behind this move. While the 0.27% daily gain appears modest, it masks the underlying accumulation pattern that's been building over recent weeks. FILE's ability to hold above the $1.09 pivot point despite broader market uncertainty demonstrates genuine buying interest rather than speculative momentum.
-
-The current setup presents a classic overbought scenario that separates disciplined traders from momentum chasers. FILE's RSI at 74.35 signals overextended conditions, but the MACD histogram sitting at zero suggests momentum is consolidating rather than reversing. This divergence typically precedes either explosive continuation moves or sharp corrections.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-FILE's position at 1.21 on the Bollinger Band scale puts it firmly in stretched territory, yet the band width remains narrow, indicating low volatility preceding potential expansion. The Stochastic indicators show %K at 80.97 versus %D at 64.78, with this spread suggesting the overbought condition is still accelerating rather than mature. According to Blockchain.news analysis, similar technical setups in storage tokens have historically resolved with significant directional moves within two weeks.
-
-Smart money positioning reveals the underlying strength behind FILE's momentum. The top trader long/short ratio of 2.28:1 shows professional traders maintaining heavy long exposure even at current elevated levels. When combined with the retail ratio of 2.08:1, this alignment between institutional and retail sentiment creates a foundation for continued upside.
-
-The open interest decline of 36% suggests weak hands have been flushed out, leaving committed positions to drive the next move. Blockchain.news reports that similar cleansing moves in decentralized storage tokens have historically produced 15-25% follow-through gains within the subsequent trading period.
-
-The bull case centers on FILE's approach to the $1.18 resistance level. A clean break above this threshold opens the path to $1.30, representing 17% upside from current levels. The convergence of whale positioning, technical momentum, and sector rotation into storage solutions creates multiple catalysts for this scenario.
-
-However, downside risk cannot be ignored. RSI divergence combined with the current Bollinger Band position creates vulnerability if momentum falters. A failure to hold the $1.09 pivot point would likely trigger algorithmic selling toward the 20-day SMA at $0.95, representing a 14% correction. The neutral funding rate of 0.0100% provides little cushion against leveraged long liquidations if sentiment shifts.
-
-The probability structure favors a continued push toward $1.30 within 7-10 trading days, but position sizing should account for the elevated technical risk. Risk-adjusted entries near $1.05 support offer optimal reward-to-risk positioning for this anticipated breakout move.
-
-FILE trades at $1.11 with RSI at 74.35 signaling overbought conditions, yet whale positioning at 2.28:1 long ratio supports momentum toward $1.30 resistance. Downside risk remains at $0.95 support ...
-
-FILE's surge past $1.11 represents a systematic break above all short-term moving averages, with price now trading 12% above the 20-day SMA at $0.95. This technical breakout coincides with increased institutional interest in decentralized storage solutions, positioning FILE as a direct beneficiary of the ongoing data sovereignty narrative gaining traction across crypto markets.
-
-The $43.6 million in 24-hour spot volume on Binance alone signals conviction behind this move. While the 0.27% daily gain appears modest, it masks the underlying accumulation pattern that's been building over recent weeks. FILE's ability to hold above the $1.09 pivot point despite broader market uncertainty demonstrates genuine buying interest rather than speculative momentum.
-
-The current setup presents a classic overbought scenario that separates disciplined traders from momentum chasers. FILE's RSI at 74.35 signals overextended conditions, but the MACD histogram sitting at zero suggests momentum is consolidating rather than reversing. This divergence typically precedes either explosive continuation moves or sharp corrections.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-FILE's position at 1.21 on the Bollinger Band scale puts it firmly in stretched territory, yet the band width remains narrow, indicating low volatility preceding potential expansion. The Stochastic indicators show %K at 80.97 versus %D at 64.78, with this spread suggesting the overbought condition is still accelerating rather than mature. According to Blockchain.news analysis, similar technical setups in storage tokens have historically resolved with significant directional moves within two weeks.
-
-Smart money positioning reveals the underlying strength behind FILE's momentum. The top trader long/short ratio of 2.28:1 shows professional traders maintaining heavy long exposure even at current elevated levels. When combined with the retail ratio of 2.08:1, this alignment between institutional and retail sentiment creates a foundation for continued upside.
-
-The open interest decline of 36% suggests weak hands have been flushed out, leaving committed positions to drive the next move. Blockchain.news reports that similar cleansing moves in decentralized storage tokens have historically produced 15-25% follow-through gains within the subsequent trading period.
-
-The bull case centers on FILE's approach to the $1.18 resistance level. A clean break above this threshold opens the path to $1.30, representing 17% upside from current levels. The convergence of whale positioning, technical momentum, and sector rotation into storage solutions creates multiple catalysts for this scenario.
-Source: https://Blockchain.News/news/20260507-file-price-prediction-130-breakout-target-within-10-days]]></description>
-      <content:encoded><![CDATA[FILE trades at $1.11 with RSI at 74.35 signaling overbought conditions, yet whale positioning at 2.28:1 long ratio supports momentum toward $1.30 resistance. Downside risk remains at $0.95 support ...
-
-FILE's surge past $1.11 represents a systematic break above all short-term moving averages, with price now trading 12% above the 20-day SMA at $0.95. This technical breakout coincides with increased institutional interest in decentralized storage solutions, positioning FILE as a direct beneficiary of the ongoing data sovereignty narrative gaining traction across crypto markets.
-
-The $43.6 million in 24-hour spot volume on Binance alone signals conviction behind this move. While the 0.27% daily gain appears modest, it masks the underlying accumulation pattern that's been building over recent weeks. FILE's ability to hold above the $1.09 pivot point despite broader market uncertainty demonstrates genuine buying interest rather than speculative momentum.
-
-The current setup presents a classic overbought scenario that separates disciplined traders from momentum chasers. FILE's RSI at 74.35 signals overextended conditions, but the MACD histogram sitting at zero suggests momentum is consolidating rather than reversing. This divergence typically precedes either explosive continuation moves or sharp corrections.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-FILE's position at 1.21 on the Bollinger Band scale puts it firmly in stretched territory, yet the band width remains narrow, indicating low volatility preceding potential expansion. The Stochastic indicators show %K at 80.97 versus %D at 64.78, with this spread suggesting the overbought condition is still accelerating rather than mature. According to Blockchain.news analysis, similar technical setups in storage tokens have historically resolved with significant directional moves within two weeks.
-
-Smart money positioning reveals the underlying strength behind FILE's momentum. The top trader long/short ratio of 2.28:1 shows professional traders maintaining heavy long exposure even at current elevated levels. When combined with the retail ratio of 2.08:1, this alignment between institutional and retail sentiment creates a foundation for continued upside.
-
-The open interest decline of 36% suggests weak hands have been flushed out, leaving committed positions to drive the next move. Blockchain.news reports that similar cleansing moves in decentralized storage tokens have historically produced 15-25% follow-through gains within the subsequent trading period.
-
-The bull case centers on FILE's approach to the $1.18 resistance level. A clean break above this threshold opens the path to $1.30, representing 17% upside from current levels. The convergence of whale positioning, technical momentum, and sector rotation into storage solutions creates multiple catalysts for this scenario.
-
-However, downside risk cannot be ignored. RSI divergence combined with the current Bollinger Band position creates vulnerability if momentum falters. A failure to hold the $1.09 pivot point would likely trigger algorithmic selling toward the 20-day SMA at $0.95, representing a 14% correction. The neutral funding rate of 0.0100% provides little cushion against leveraged long liquidations if sentiment shifts.
-
-The probability structure favors a continued push toward $1.30 within 7-10 trading days, but position sizing should account for the elevated technical risk. Risk-adjusted entries near $1.05 support offer optimal reward-to-risk positioning for this anticipated breakout move.
-
-FILE trades at $1.11 with RSI at 74.35 signaling overbought conditions, yet whale positioning at 2.28:1 long ratio supports momentum toward $1.30 resistance. Downside risk remains at $0.95 support ...
-
-FILE's surge past $1.11 represents a systematic break above all short-term moving averages, with price now trading 12% above the 20-day SMA at $0.95. This technical breakout coincides with increased institutional interest in decentralized storage solutions, positioning FILE as a direct beneficiary of the ongoing data sovereignty narrative gaining traction across crypto markets.
-
-The $43.6 million in 24-hour spot volume on Binance alone signals conviction behind this move. While the 0.27% daily gain appears modest, it masks the underlying accumulation pattern that's been building over recent weeks. FILE's ability to hold above the $1.09 pivot point despite broader market uncertainty demonstrates genuine buying interest rather than speculative momentum.
-
-The current setup presents a classic overbought scenario that separates disciplined traders from momentum chasers. FILE's RSI at 74.35 signals overextended conditions, but the MACD histogram sitting at zero suggests momentum is consolidating rather than reversing. This divergence typically precedes either explosive continuation moves or sharp corrections.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-FILE's position at 1.21 on the Bollinger Band scale puts it firmly in stretched territory, yet the band width remains narrow, indicating low volatility preceding potential expansion. The Stochastic indicators show %K at 80.97 versus %D at 64.78, with this spread suggesting the overbought condition is still accelerating rather than mature. According to Blockchain.news analysis, similar technical setups in storage tokens have historically resolved with significant directional moves within two weeks.
-
-Smart money positioning reveals the underlying strength behind FILE's momentum. The top trader long/short ratio of 2.28:1 shows professional traders maintaining heavy long exposure even at current elevated levels. When combined with the retail ratio of 2.08:1, this alignment between institutional and retail sentiment creates a foundation for continued upside.
-
-The open interest decline of 36% suggests weak hands have been flushed out, leaving committed positions to drive the next move. Blockchain.news reports that similar cleansing moves in decentralized storage tokens have historically produced 15-25% follow-through gains within the subsequent trading period.
-
-The bull case centers on FILE's approach to the $1.18 resistance level. A clean break above this threshold opens the path to $1.30, representing 17% upside from current levels. The convergence of whale positioning, technical momentum, and sector rotation into storage solutions creates multiple catalysts for this scenario.]]></content:encoded>
     </item>
   </channel>
 </rss>
