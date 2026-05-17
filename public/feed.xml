@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Sat, 16 May 2026 18:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 02:41:10 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-ffce7e2eed6a3122c4a4aed7b5f905417b11aedb</guid>
+      <title>Anyscale Launches Persistent Ray Dashboards for Debugging AI Workloads | Anyscale introduces new Cluster and Actor dashboards for Ray, offering full data persiste... https://Blockchain.News/news/anyscale-ray-cluster-actor-dashboards</title>
+      <link>https://Blockchain.News/news/anyscale-ray-cluster-actor-dashboards</link>
+      <pubDate>Fri, 15 May 2026 16:39:22 GMT</pubDate>
+      <description><![CDATA[Original title: Anyscale Launches Persistent Ray Dashboards for Debugging AI Workloads
+Summary: Anyscale introduces new Cluster and Actor dashboards for Ray, offering full data persistence and enhanced debugging for distributed AI workloads.
+Article text: Anyscale introduces new Cluster and Actor dashboards for Ray, offering full data persistence and enhanced debugging for distributed AI workloads.
+
+Anyscale has unveiled its new Cluster and Actor dashboards for Ray, completing a fully persistent suite of monitoring tools designed to optimize and debug distributed AI workloads. This release addresses long-standing pain points for developers working at scale, such as ephemeral data loss and limited observability in Ray’s existing infrastructure tools. By persisting workload and cluster data even after the job completes, the new dashboards aim to simplify debugging and post-mortem analysis for complex AI pipelines.
+
+Ray, an open-source framework developed at UC Berkeley’s RISELab, is a cornerstone for distributed machine learning and Python applications. It powers everything from hyperparameter tuning to multimodal AI data processing, as seen in Anyscale’s recent integration with NVIDIA RTX GPUs announced in March 2026. Anyscale, the commercial steward of Ray, continues to expand its offerings for developers grappling with large-scale AI infrastructure challenges.
+
+Before this update, developers faced critical limitations when using Ray’s original dashboards. Cluster data was ephemeral, often disappearing once a cluster shut down, making root cause analysis for failures nearly impossible without rerunning expensive jobs. Additionally, data retention was minimal—dead node information persisted for only ten minutes, and records for terminated actors were capped at 100,000 entries. These constraints made it difficult to scale workloads effectively across hundreds of nodes and millions of tasks.
+
+The new Cluster and Actor dashboards, powered by the Ray Event Export Framework, stream and store cluster events in Anyscale-managed infrastructure. This allows developers to analyze failures, optimize performance, and compare workloads long after the cluster has terminated, without the need to build custom storage solutions. Improvements include:
+
+Anyscale demonstrated the power of the new dashboards with a real-world debugging scenario involving a Ray Data pipeline for audio embeddings. The job, which processed 19,000 audio clips, took over an hour to complete—far longer than the expected 10 minutes. Using the dashboards, developers pinpointed the issue: actor scheduling constraints on the GPU node caused a serialization of tasks that negated the expected parallelism benefits. The GPU, the most expensive resource in the cluster, sat idle for most of the job.
+
+The debugging workflow highlights how the dashboards integrate seamlessly. The Data dashboard flagged the delay in embedding output, the Task and Actor dashboards traced it to resource allocation issues, and the Cluster dashboard revealed the root cause: CPU slots on the GPU node were entirely consumed by preprocessing actors. Suggested fixes included reducing concurrency, using scheduling labels, or explicitly reserving resources for GPU-dependent tasks—all of which improved pipeline efficiency without requiring cluster reconfiguration.
+
+As AI workloads grow larger and more complex, the ability to debug distributed systems efficiently is becoming a critical differentiator for developers. The new dashboards align with broader trends in AI infrastructure, where observability and cost optimization are paramount. Anyscale’s focus on persistent data and unified monitoring tools is especially relevant as companies adopt multimodal data pipelines and GPU-heavy architectures, like those seen in recent NVIDIA integrations.
+
+For organizations running production AI systems on Ray, the enhanced dashboards could significantly reduce operational overhead by eliminating the need to reproduce failures and by streamlining debugging workflows. This aligns with Anyscale’s mission of making Ray accessible and efficient at scale, as seen in its recent introduction of Anyscale Agent Skills, which enable faster workload optimization through AI coding agents.
+
+With these updates, Anyscale not only strengthens Ray’s position as a leading distributed computing framework but also sets a new standard for AI observability tools. Developers and enterprises relying on Ray for large-scale machine learning now have a more reliable and scalable way to tackle the complexities of distributed workloads.
+
+Get key crypto and blockchain stories in your inbox.
+
+Anyscale introduces new Cluster and Actor dashboards for Ray, offering full data persistence and enhanced debugging for distributed AI workloads.
+
+Anyscale has unveiled its new Cluster and Actor dashboards for Ray, completing a fully persistent suite of monitoring tools designed to optimize and debug distributed AI workloads. This release addresses long-standing pain points for developers working at scale, such as ephemeral data loss and limited observability in Ray’s existing infrastructure tools. By persisting workload and cluster data even after the job completes, the new dashboards aim to simplify debugging and post-mortem analysis for complex AI pipelines.
+
+Ray, an open-source framework developed at UC Berkeley’s RISELab, is a cornerstone for distributed machine learning and Python applications. It powers everything from hyperparameter tuning to multimodal AI data processing, as seen in Anyscale’s recent integration with NVIDIA RTX GPUs announced in March 2026. Anyscale, the commercial steward of Ray, continues to expand its offerings for developers grappling with large-scale AI infrastructure challenges.
+
+Before this update, developers faced critical limitations when using Ray’s original dashboards. Cluster data was ephemeral, often disappearing once a cluster shut down, making root cause analysis for failures nearly impossible without rerunning expensive jobs. Additionally, data retention was minimal—dead node information persisted for only ten minutes, and records for terminated actors were capped at 100,000 entries. These constraints made it difficult to scale workloads effectively across hundreds of nodes and millions of tasks.
+
+The new Cluster and Actor dashboards, powered by the Ray Event Export Framework, stream and store cluster events in Anyscale-managed infrastructure. This allows developers to analyze failures, optimize performance, and compare workloads long after the cluster has terminated, without the need to build custom storage solutions. Improvements include:
+
+Anyscale demonstrated the power of the new dashboards with a real-world debugging scenario involving a Ray Data pipeline for audio embeddings. The job, which processed 19,000 audio clips, took over an hour to complete—far longer than the expected 10 minutes. Using the dashboards, developers pinpointed the issue: actor scheduling constraints on the GPU node caused a serialization of tasks that negated the expected parallelism benefits. The GPU, the most expensive resource in the cluster, sat idle for most of the job.
+
+The debugging workflow highlights how the dashboards integrate seamlessly. The Data dashboard flagged the delay in embedding output, the Task and Actor dashboards traced it to resource allocation issues, and the Cluster dashboard revealed the root cause: CPU slots on the GPU node were entirely consumed by preprocessing actors. Suggested fixes included reducing concurrency, using scheduling labels, or explicitly reserving resources for GPU-dependent tasks—all of which improved pipeline efficiency without requiring cluster reconfiguration.
+
+As AI workloads grow larger and more complex, the ability to debug distributed systems efficiently is becoming a critical differentiator for developers. The new dashboards align with broader trends in AI infrastructure, where observability and cost optimization are paramount. Anyscale’s focus on persistent data and unified monitoring tools is especially relevant as companies adopt multimodal data pipelines and GPU-heavy architectures, like those seen in recent NVIDIA integrations.
+
+For organizations running production AI systems on Ray, the enhanced dashboards could significantly reduce operational overhead by eliminating the need to reproduce failures and by streamlining debugging workflows. This aligns with Anyscale’s mission of making Ray accessible and efficient at scale, as seen in its recent introduction of Anyscale Agent Skills, which enable faster workload optimization through AI coding agents.
+Source: https://Blockchain.News/news/anyscale-ray-cluster-actor-dashboards]]></description>
+      <content:encoded><![CDATA[Anyscale introduces new Cluster and Actor dashboards for Ray, offering full data persistence and enhanced debugging for distributed AI workloads.
+
+Anyscale has unveiled its new Cluster and Actor dashboards for Ray, completing a fully persistent suite of monitoring tools designed to optimize and debug distributed AI workloads. This release addresses long-standing pain points for developers working at scale, such as ephemeral data loss and limited observability in Ray’s existing infrastructure tools. By persisting workload and cluster data even after the job completes, the new dashboards aim to simplify debugging and post-mortem analysis for complex AI pipelines.
+
+Ray, an open-source framework developed at UC Berkeley’s RISELab, is a cornerstone for distributed machine learning and Python applications. It powers everything from hyperparameter tuning to multimodal AI data processing, as seen in Anyscale’s recent integration with NVIDIA RTX GPUs announced in March 2026. Anyscale, the commercial steward of Ray, continues to expand its offerings for developers grappling with large-scale AI infrastructure challenges.
+
+Before this update, developers faced critical limitations when using Ray’s original dashboards. Cluster data was ephemeral, often disappearing once a cluster shut down, making root cause analysis for failures nearly impossible without rerunning expensive jobs. Additionally, data retention was minimal—dead node information persisted for only ten minutes, and records for terminated actors were capped at 100,000 entries. These constraints made it difficult to scale workloads effectively across hundreds of nodes and millions of tasks.
+
+The new Cluster and Actor dashboards, powered by the Ray Event Export Framework, stream and store cluster events in Anyscale-managed infrastructure. This allows developers to analyze failures, optimize performance, and compare workloads long after the cluster has terminated, without the need to build custom storage solutions. Improvements include:
+
+Anyscale demonstrated the power of the new dashboards with a real-world debugging scenario involving a Ray Data pipeline for audio embeddings. The job, which processed 19,000 audio clips, took over an hour to complete—far longer than the expected 10 minutes. Using the dashboards, developers pinpointed the issue: actor scheduling constraints on the GPU node caused a serialization of tasks that negated the expected parallelism benefits. The GPU, the most expensive resource in the cluster, sat idle for most of the job.
+
+The debugging workflow highlights how the dashboards integrate seamlessly. The Data dashboard flagged the delay in embedding output, the Task and Actor dashboards traced it to resource allocation issues, and the Cluster dashboard revealed the root cause: CPU slots on the GPU node were entirely consumed by preprocessing actors. Suggested fixes included reducing concurrency, using scheduling labels, or explicitly reserving resources for GPU-dependent tasks—all of which improved pipeline efficiency without requiring cluster reconfiguration.
+
+As AI workloads grow larger and more complex, the ability to debug distributed systems efficiently is becoming a critical differentiator for developers. The new dashboards align with broader trends in AI infrastructure, where observability and cost optimization are paramount. Anyscale’s focus on persistent data and unified monitoring tools is especially relevant as companies adopt multimodal data pipelines and GPU-heavy architectures, like those seen in recent NVIDIA integrations.
+
+For organizations running production AI systems on Ray, the enhanced dashboards could significantly reduce operational overhead by eliminating the need to reproduce failures and by streamlining debugging workflows. This aligns with Anyscale’s mission of making Ray accessible and efficient at scale, as seen in its recent introduction of Anyscale Agent Skills, which enable faster workload optimization through AI coding agents.
+
+With these updates, Anyscale not only strengthens Ray’s position as a leading distributed computing framework but also sets a new standard for AI observability tools. Developers and enterprises relying on Ray for large-scale machine learning now have a more reliable and scalable way to tackle the complexities of distributed workloads.
+
+Get key crypto and blockchain stories in your inbox.
+
+Anyscale introduces new Cluster and Actor dashboards for Ray, offering full data persistence and enhanced debugging for distributed AI workloads.
+
+Anyscale has unveiled its new Cluster and Actor dashboards for Ray, completing a fully persistent suite of monitoring tools designed to optimize and debug distributed AI workloads. This release addresses long-standing pain points for developers working at scale, such as ephemeral data loss and limited observability in Ray’s existing infrastructure tools. By persisting workload and cluster data even after the job completes, the new dashboards aim to simplify debugging and post-mortem analysis for complex AI pipelines.
+
+Ray, an open-source framework developed at UC Berkeley’s RISELab, is a cornerstone for distributed machine learning and Python applications. It powers everything from hyperparameter tuning to multimodal AI data processing, as seen in Anyscale’s recent integration with NVIDIA RTX GPUs announced in March 2026. Anyscale, the commercial steward of Ray, continues to expand its offerings for developers grappling with large-scale AI infrastructure challenges.
+
+Before this update, developers faced critical limitations when using Ray’s original dashboards. Cluster data was ephemeral, often disappearing once a cluster shut down, making root cause analysis for failures nearly impossible without rerunning expensive jobs. Additionally, data retention was minimal—dead node information persisted for only ten minutes, and records for terminated actors were capped at 100,000 entries. These constraints made it difficult to scale workloads effectively across hundreds of nodes and millions of tasks.
+
+The new Cluster and Actor dashboards, powered by the Ray Event Export Framework, stream and store cluster events in Anyscale-managed infrastructure. This allows developers to analyze failures, optimize performance, and compare workloads long after the cluster has terminated, without the need to build custom storage solutions. Improvements include:
+
+Anyscale demonstrated the power of the new dashboards with a real-world debugging scenario involving a Ray Data pipeline for audio embeddings. The job, which processed 19,000 audio clips, took over an hour to complete—far longer than the expected 10 minutes. Using the dashboards, developers pinpointed the issue: actor scheduling constraints on the GPU node caused a serialization of tasks that negated the expected parallelism benefits. The GPU, the most expensive resource in the cluster, sat idle for most of the job.
+
+The debugging workflow highlights how the dashboards integrate seamlessly. The Data dashboard flagged the delay in embedding output, the Task and Actor dashboards traced it to resource allocation issues, and the Cluster dashboard revealed the root cause: CPU slots on the GPU node were entirely consumed by preprocessing actors. Suggested fixes included reducing concurrency, using scheduling labels, or explicitly reserving resources for GPU-dependent tasks—all of which improved pipeline efficiency without requiring cluster reconfiguration.
+
+As AI workloads grow larger and more complex, the ability to debug distributed systems efficiently is becoming a critical differentiator for developers. The new dashboards align with broader trends in AI infrastructure, where observability and cost optimization are paramount. Anyscale’s focus on persistent data and unified monitoring tools is especially relevant as companies adopt multimodal data pipelines and GPU-heavy architectures, like those seen in recent NVIDIA integrations.
+
+For organizations running production AI systems on Ray, the enhanced dashboards could significantly reduce operational overhead by eliminating the need to reproduce failures and by streamlining debugging workflows. This aligns with Anyscale’s mission of making Ray accessible and efficient at scale, as seen in its recent introduction of Anyscale Agent Skills, which enable faster workload optimization through AI coding agents.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-783cf186008e065d5b0875e73f0d6bcdee706153</guid>
+      <title>How AI Is Transforming Legal Research in 2026 | AI is revolutionizing legal research by accelerating workflows, improving accuracy, and i... https://Blockchain.News/news/ai-transforming-legal-research-2026</title>
+      <link>https://Blockchain.News/news/ai-transforming-legal-research-2026</link>
+      <pubDate>Fri, 15 May 2026 16:30:22 GMT</pubDate>
+      <description><![CDATA[Original title: How AI Is Transforming Legal Research in 2026
+Summary: AI is revolutionizing legal research by accelerating workflows, improving accuracy, and integrating drafting tools. Here's how platforms like Harvey are leading the charge.
+Article text: AI is revolutionizing legal research by accelerating workflows, improving accuracy, and integrating drafting tools. Here's how platforms like Harvey are leading the charge.
+
+Artificial intelligence is fundamentally reshaping legal research, cutting hours off traditional workflows while improving accuracy and integration with drafting tools. Platforms like Harvey AI, Westlaw Precision, and Lexis+ Protégé are setting new standards for how legal professionals access and analyze information.
+
+Legal research has always been a cornerstone of the profession, but the introduction of AI is turning what was once a labor-intensive process into a streamlined, efficient operation. AI-native startups like Harvey and legacy players such as LexisNexis and Thomson Reuters are racing to dominate this rapidly growing market, which has seen explosive adoption rates in 2026.
+
+Traditional legal research relied heavily on keyword searches, Boolean strings, and manual review of case law, statutes, and secondary sources. This process was time-consuming and often left room for oversight. AI platforms, however, are changing the game by introducing natural language processing (NLP) and advanced synthesis capabilities.
+
+Take Harvey AI, for example. The platform allows lawyers to ask complex, jurisdiction-specific questions in plain English — such as, "What is the enforceability of non-compete clauses in California post-2023 reforms?" — and receive structured, citation-backed answers. This isn't just a search engine; it's a tool that organizes findings, highlights conflicting precedents, and connects directly to drafting workflows.
+
+Meanwhile, legacy providers like LexisNexis have enhanced their offerings with AI. In February 2026, Lexis+ Protégé replaced Lexis+ AI, adding features like agentic skills and collaboration tools to streamline research and drafting. Similarly, Westlaw Precision's AI-Assisted Research offers jurisdiction-aware analysis and citation validation, reinforcing its dominance among legal professionals.
+
+Not all AI tools are created equal. The best platforms excel in several key areas:
+
+Harvey AI's rapid adoption underscores the demand for these capabilities. By May 2026, the platform had over 1,000 clients across 60 countries, including several top-tier global law firms. Its recent $200 million funding round, which valued the company at $11 billion, highlights the market's confidence in AI-native platforms.
+
+The strategic value of AI in legal research extends beyond efficiency. By surfacing relevant authorities earlier in the process, these tools provide lawyers with a stronger foundation for analysis. This not only shortens the time to draft memos, briefs, or diligence summaries but also ensures higher consistency across large legal teams.
+
+For example, Harvey Knowledge integrates firm-specific historical data with public legal databases, enabling lawyers to draw insights not just from the law but also from their organization’s own precedents and templates. This is particularly valuable for firms managing multi-jurisdictional litigation or complex regulatory work.
+
+Despite its advantages, AI research tools are not without risks. Common issues include hallucinated citations, incomplete source coverage, and jurisdictional oversights. To mitigate these challenges, firms must pair AI adoption with rigorous validation protocols and choose platforms designed specifically for legal workflows. Harvey, for instance, emphasizes cited answers and offers robust data governance features, ensuring lawyers retain control over sensitive information.
+
+The legal AI market is more competitive than ever. Legacy players like LexisNexis and Westlaw are embedding generative AI into proprietary databases, while startups like Harvey are pushing boundaries with agent-based systems that integrate research, drafting, and automation. Anthropic’s recent rollout of legal-focused tools for its Claude AI further highlights the industry's rapid evolution.
+
+For legal professionals, the message is clear: AI isn’t just a tool for improving research efficiency; it’s becoming an essential piece of legal infrastructure. As adoption accelerates, the ability to leverage these platforms effectively will increasingly distinguish top-performing legal teams from the rest.
+
+Get key crypto and blockchain stories in your inbox.
+
+AI is revolutionizing legal research by accelerating workflows, improving accuracy, and integrating drafting tools. Here's how platforms like Harvey are leading the charge.
+
+Artificial intelligence is fundamentally reshaping legal research, cutting hours off traditional workflows while improving accuracy and integration with drafting tools. Platforms like Harvey AI, Westlaw Precision, and Lexis+ Protégé are setting new standards for how legal professionals access and analyze information.
+
+Legal research has always been a cornerstone of the profession, but the introduction of AI is turning what was once a labor-intensive process into a streamlined, efficient operation. AI-native startups like Harvey and legacy players such as LexisNexis and Thomson Reuters are racing to dominate this rapidly growing market, which has seen explosive adoption rates in 2026.
+
+Traditional legal research relied heavily on keyword searches, Boolean strings, and manual review of case law, statutes, and secondary sources. This process was time-consuming and often left room for oversight. AI platforms, however, are changing the game by introducing natural language processing (NLP) and advanced synthesis capabilities.
+
+Take Harvey AI, for example. The platform allows lawyers to ask complex, jurisdiction-specific questions in plain English — such as, "What is the enforceability of non-compete clauses in California post-2023 reforms?" — and receive structured, citation-backed answers. This isn't just a search engine; it's a tool that organizes findings, highlights conflicting precedents, and connects directly to drafting workflows.
+
+Meanwhile, legacy providers like LexisNexis have enhanced their offerings with AI. In February 2026, Lexis+ Protégé replaced Lexis+ AI, adding features like agentic skills and collaboration tools to streamline research and drafting. Similarly, Westlaw Precision's AI-Assisted Research offers jurisdiction-aware analysis and citation validation, reinforcing its dominance among legal professionals.
+Source: https://Blockchain.News/news/ai-transforming-legal-research-2026]]></description>
+      <content:encoded><![CDATA[AI is revolutionizing legal research by accelerating workflows, improving accuracy, and integrating drafting tools. Here's how platforms like Harvey are leading the charge.
+
+Artificial intelligence is fundamentally reshaping legal research, cutting hours off traditional workflows while improving accuracy and integration with drafting tools. Platforms like Harvey AI, Westlaw Precision, and Lexis+ Protégé are setting new standards for how legal professionals access and analyze information.
+
+Legal research has always been a cornerstone of the profession, but the introduction of AI is turning what was once a labor-intensive process into a streamlined, efficient operation. AI-native startups like Harvey and legacy players such as LexisNexis and Thomson Reuters are racing to dominate this rapidly growing market, which has seen explosive adoption rates in 2026.
+
+Traditional legal research relied heavily on keyword searches, Boolean strings, and manual review of case law, statutes, and secondary sources. This process was time-consuming and often left room for oversight. AI platforms, however, are changing the game by introducing natural language processing (NLP) and advanced synthesis capabilities.
+
+Take Harvey AI, for example. The platform allows lawyers to ask complex, jurisdiction-specific questions in plain English — such as, "What is the enforceability of non-compete clauses in California post-2023 reforms?" — and receive structured, citation-backed answers. This isn't just a search engine; it's a tool that organizes findings, highlights conflicting precedents, and connects directly to drafting workflows.
+
+Meanwhile, legacy providers like LexisNexis have enhanced their offerings with AI. In February 2026, Lexis+ Protégé replaced Lexis+ AI, adding features like agentic skills and collaboration tools to streamline research and drafting. Similarly, Westlaw Precision's AI-Assisted Research offers jurisdiction-aware analysis and citation validation, reinforcing its dominance among legal professionals.
+
+Not all AI tools are created equal. The best platforms excel in several key areas:
+
+Harvey AI's rapid adoption underscores the demand for these capabilities. By May 2026, the platform had over 1,000 clients across 60 countries, including several top-tier global law firms. Its recent $200 million funding round, which valued the company at $11 billion, highlights the market's confidence in AI-native platforms.
+
+The strategic value of AI in legal research extends beyond efficiency. By surfacing relevant authorities earlier in the process, these tools provide lawyers with a stronger foundation for analysis. This not only shortens the time to draft memos, briefs, or diligence summaries but also ensures higher consistency across large legal teams.
+
+For example, Harvey Knowledge integrates firm-specific historical data with public legal databases, enabling lawyers to draw insights not just from the law but also from their organization’s own precedents and templates. This is particularly valuable for firms managing multi-jurisdictional litigation or complex regulatory work.
+
+Despite its advantages, AI research tools are not without risks. Common issues include hallucinated citations, incomplete source coverage, and jurisdictional oversights. To mitigate these challenges, firms must pair AI adoption with rigorous validation protocols and choose platforms designed specifically for legal workflows. Harvey, for instance, emphasizes cited answers and offers robust data governance features, ensuring lawyers retain control over sensitive information.
+
+The legal AI market is more competitive than ever. Legacy players like LexisNexis and Westlaw are embedding generative AI into proprietary databases, while startups like Harvey are pushing boundaries with agent-based systems that integrate research, drafting, and automation. Anthropic’s recent rollout of legal-focused tools for its Claude AI further highlights the industry's rapid evolution.
+
+For legal professionals, the message is clear: AI isn’t just a tool for improving research efficiency; it’s becoming an essential piece of legal infrastructure. As adoption accelerates, the ability to leverage these platforms effectively will increasingly distinguish top-performing legal teams from the rest.
+
+Get key crypto and blockchain stories in your inbox.
+
+AI is revolutionizing legal research by accelerating workflows, improving accuracy, and integrating drafting tools. Here's how platforms like Harvey are leading the charge.
+
+Artificial intelligence is fundamentally reshaping legal research, cutting hours off traditional workflows while improving accuracy and integration with drafting tools. Platforms like Harvey AI, Westlaw Precision, and Lexis+ Protégé are setting new standards for how legal professionals access and analyze information.
+
+Legal research has always been a cornerstone of the profession, but the introduction of AI is turning what was once a labor-intensive process into a streamlined, efficient operation. AI-native startups like Harvey and legacy players such as LexisNexis and Thomson Reuters are racing to dominate this rapidly growing market, which has seen explosive adoption rates in 2026.
+
+Traditional legal research relied heavily on keyword searches, Boolean strings, and manual review of case law, statutes, and secondary sources. This process was time-consuming and often left room for oversight. AI platforms, however, are changing the game by introducing natural language processing (NLP) and advanced synthesis capabilities.
+
+Take Harvey AI, for example. The platform allows lawyers to ask complex, jurisdiction-specific questions in plain English — such as, "What is the enforceability of non-compete clauses in California post-2023 reforms?" — and receive structured, citation-backed answers. This isn't just a search engine; it's a tool that organizes findings, highlights conflicting precedents, and connects directly to drafting workflows.
+
+Meanwhile, legacy providers like LexisNexis have enhanced their offerings with AI. In February 2026, Lexis+ Protégé replaced Lexis+ AI, adding features like agentic skills and collaboration tools to streamline research and drafting. Similarly, Westlaw Precision's AI-Assisted Research offers jurisdiction-aware analysis and citation validation, reinforcing its dominance among legal professionals.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-414a52f08cc2a901c765215e2b585a55d7a24584</guid>
+      <title>ChatGPT Adds Personal Finance Tools for U.S. Pro Users | OpenAI launches a personal finance feature in ChatGPT, enabling Pro users in the U.S. to... https://Blockchain.News/news/chatgpt-personal-finance-tools-pro-users</title>
+      <link>https://Blockchain.News/news/chatgpt-personal-finance-tools-pro-users</link>
+      <pubDate>Fri, 15 May 2026 16:21:22 GMT</pubDate>
+      <description><![CDATA[Original title: ChatGPT Adds Personal Finance Tools for U.S. Pro Users
+Summary: OpenAI launches a personal finance feature in ChatGPT, enabling Pro users in the U.S. to connect financial accounts and receive AI-driven insights.
+Article text: OpenAI launches a personal finance feature in ChatGPT, enabling Pro users in the U.S. to connect financial accounts and receive AI-driven insights.
+
+OpenAI has introduced a new personal finance feature to ChatGPT, allowing Pro users in the U.S. to securely link their financial accounts and receive tailored, AI-powered guidance. The feature was announced on May 14, 2026, and marks a significant step in OpenAI's integration of financial tools with conversational AI.
+
+The system leverages GPT-5.5, OpenAI’s latest reasoning model, to analyze users’ financial data and personal goals. By connecting over 12,000 financial institutions via trusted platforms like Plaid, ChatGPT provides users with a comprehensive dashboard that visualizes their spending, subscriptions, investments, and more. This deeper financial context enables ChatGPT to assist with budgeting, goal-setting, and financial planning in a way that feels more personalized and actionable.
+
+Users can ask ChatGPT questions like, “How can I save an extra $500 a month?” or “What’s the best way to pay off my credit card debt?” The AI combines account data with user-provided context—such as upcoming expenses or savings goals—to deliver practical advice. ChatGPT can also save key financial details in its "financial memories," making future conversations more relevant.
+
+For example, if a user mentions they’re saving for a car purchase, ChatGPT will incorporate that goal into its recommendations. This functionality builds on personalization features OpenAI began rolling out in May 2026, alongside the launch of GPT-5.5 Instant as the default ChatGPT model. These enhancements aim to reduce errors in sensitive areas like finance while maintaining fast response times.
+
+Accessing the feature is straightforward: users can open the "Finances" tab in ChatGPT's sidebar or type "@Finances, connect my accounts" to start the setup process. Account linking is currently powered by Plaid, with Intuit integration expected soon. Once accounts are connected, the AI will categorize transactions and sync data within minutes, providing a real-time overview of financial standing.
+
+Beyond account connections, users can manually share non-digital financial details, such as loans or planned major purchases, to further enhance ChatGPT's guidance. OpenAI emphasizes that while the tool offers helpful insights, it is not a substitute for professional financial advice.
+
+OpenAI has implemented several safeguards to protect user data. Financial accounts can be disconnected at any time, with all synced data deleted from OpenAI’s systems within 30 days. Users can also delete specific financial memories or use temporary chats that do not access connected accounts. Multi-factor authentication (MFA) is available for added account security.
+
+This release builds on a series of financial integrations OpenAI has introduced over the past year, including ChatGPT for Excel (March 2026) and partnerships with financial data providers like FactSet and S&P Global. The ultimate goal is to make ChatGPT a hub for financial decision-making, from budgeting and analysis to taking secure actions directly within the interface.
+
+OpenAI’s collaboration with Intuit, announced in late 2025, is central to this vision. Future updates may allow users to take actions like applying for credit cards or scheduling tax consultations directly through ChatGPT. This positions the platform as a one-stop shop for both financial advice and execution.
+
+The personal finance feature is currently in preview for Pro users, with plans to roll it out to ChatGPT Plus and eventually all users. OpenAI intends to refine the experience based on early feedback, ensuring broader accessibility in the coming months.
+
+By embedding financial intelligence into its conversational AI, OpenAI is not just answering questions—it’s transforming ChatGPT into a tool for meaningful financial action. As adoption grows and integrations deepen, this could become a valuable asset for anyone looking to streamline their financial management.
+
+Get key crypto and blockchain stories in your inbox.
+
+OpenAI launches a personal finance feature in ChatGPT, enabling Pro users in the U.S. to connect financial accounts and receive AI-driven insights.
+
+OpenAI has introduced a new personal finance feature to ChatGPT, allowing Pro users in the U.S. to securely link their financial accounts and receive tailored, AI-powered guidance. The feature was announced on May 14, 2026, and marks a significant step in OpenAI's integration of financial tools with conversational AI.
+
+The system leverages GPT-5.5, OpenAI’s latest reasoning model, to analyze users’ financial data and personal goals. By connecting over 12,000 financial institutions via trusted platforms like Plaid, ChatGPT provides users with a comprehensive dashboard that visualizes their spending, subscriptions, investments, and more. This deeper financial context enables ChatGPT to assist with budgeting, goal-setting, and financial planning in a way that feels more personalized and actionable.
+
+Users can ask ChatGPT questions like, “How can I save an extra $500 a month?” or “What’s the best way to pay off my credit card debt?” The AI combines account data with user-provided context—such as upcoming expenses or savings goals—to deliver practical advice. ChatGPT can also save key financial details in its "financial memories," making future conversations more relevant.
+
+For example, if a user mentions they’re saving for a car purchase, ChatGPT will incorporate that goal into its recommendations. This functionality builds on personalization features OpenAI began rolling out in May 2026, alongside the launch of GPT-5.5 Instant as the default ChatGPT model. These enhancements aim to reduce errors in sensitive areas like finance while maintaining fast response times.
+
+Accessing the feature is straightforward: users can open the "Finances" tab in ChatGPT's sidebar or type "@Finances, connect my accounts" to start the setup process. Account linking is currently powered by Plaid, with Intuit integration expected soon. Once accounts are connected, the AI will categorize transactions and sync data within minutes, providing a real-time overview of financial standing.
+
+Beyond account connections, users can manually share non-digital financial details, such as loans or planned major purchases, to further enhance ChatGPT's guidance. OpenAI emphasizes that while the tool offers helpful insights, it is not a substitute for professional financial advice.
+Source: https://Blockchain.News/news/chatgpt-personal-finance-tools-pro-users]]></description>
+      <content:encoded><![CDATA[OpenAI launches a personal finance feature in ChatGPT, enabling Pro users in the U.S. to connect financial accounts and receive AI-driven insights.
+
+OpenAI has introduced a new personal finance feature to ChatGPT, allowing Pro users in the U.S. to securely link their financial accounts and receive tailored, AI-powered guidance. The feature was announced on May 14, 2026, and marks a significant step in OpenAI's integration of financial tools with conversational AI.
+
+The system leverages GPT-5.5, OpenAI’s latest reasoning model, to analyze users’ financial data and personal goals. By connecting over 12,000 financial institutions via trusted platforms like Plaid, ChatGPT provides users with a comprehensive dashboard that visualizes their spending, subscriptions, investments, and more. This deeper financial context enables ChatGPT to assist with budgeting, goal-setting, and financial planning in a way that feels more personalized and actionable.
+
+Users can ask ChatGPT questions like, “How can I save an extra $500 a month?” or “What’s the best way to pay off my credit card debt?” The AI combines account data with user-provided context—such as upcoming expenses or savings goals—to deliver practical advice. ChatGPT can also save key financial details in its "financial memories," making future conversations more relevant.
+
+For example, if a user mentions they’re saving for a car purchase, ChatGPT will incorporate that goal into its recommendations. This functionality builds on personalization features OpenAI began rolling out in May 2026, alongside the launch of GPT-5.5 Instant as the default ChatGPT model. These enhancements aim to reduce errors in sensitive areas like finance while maintaining fast response times.
+
+Accessing the feature is straightforward: users can open the "Finances" tab in ChatGPT's sidebar or type "@Finances, connect my accounts" to start the setup process. Account linking is currently powered by Plaid, with Intuit integration expected soon. Once accounts are connected, the AI will categorize transactions and sync data within minutes, providing a real-time overview of financial standing.
+
+Beyond account connections, users can manually share non-digital financial details, such as loans or planned major purchases, to further enhance ChatGPT's guidance. OpenAI emphasizes that while the tool offers helpful insights, it is not a substitute for professional financial advice.
+
+OpenAI has implemented several safeguards to protect user data. Financial accounts can be disconnected at any time, with all synced data deleted from OpenAI’s systems within 30 days. Users can also delete specific financial memories or use temporary chats that do not access connected accounts. Multi-factor authentication (MFA) is available for added account security.
+
+This release builds on a series of financial integrations OpenAI has introduced over the past year, including ChatGPT for Excel (March 2026) and partnerships with financial data providers like FactSet and S&P Global. The ultimate goal is to make ChatGPT a hub for financial decision-making, from budgeting and analysis to taking secure actions directly within the interface.
+
+OpenAI’s collaboration with Intuit, announced in late 2025, is central to this vision. Future updates may allow users to take actions like applying for credit cards or scheduling tax consultations directly through ChatGPT. This positions the platform as a one-stop shop for both financial advice and execution.
+
+The personal finance feature is currently in preview for Pro users, with plans to roll it out to ChatGPT Plus and eventually all users. OpenAI intends to refine the experience based on early feedback, ensuring broader accessibility in the coming months.
+
+By embedding financial intelligence into its conversational AI, OpenAI is not just answering questions—it’s transforming ChatGPT into a tool for meaningful financial action. As adoption grows and integrations deepen, this could become a valuable asset for anyone looking to streamline their financial management.
+
+Get key crypto and blockchain stories in your inbox.
+
+OpenAI launches a personal finance feature in ChatGPT, enabling Pro users in the U.S. to connect financial accounts and receive AI-driven insights.
+
+OpenAI has introduced a new personal finance feature to ChatGPT, allowing Pro users in the U.S. to securely link their financial accounts and receive tailored, AI-powered guidance. The feature was announced on May 14, 2026, and marks a significant step in OpenAI's integration of financial tools with conversational AI.
+
+The system leverages GPT-5.5, OpenAI’s latest reasoning model, to analyze users’ financial data and personal goals. By connecting over 12,000 financial institutions via trusted platforms like Plaid, ChatGPT provides users with a comprehensive dashboard that visualizes their spending, subscriptions, investments, and more. This deeper financial context enables ChatGPT to assist with budgeting, goal-setting, and financial planning in a way that feels more personalized and actionable.
+
+Users can ask ChatGPT questions like, “How can I save an extra $500 a month?” or “What’s the best way to pay off my credit card debt?” The AI combines account data with user-provided context—such as upcoming expenses or savings goals—to deliver practical advice. ChatGPT can also save key financial details in its "financial memories," making future conversations more relevant.
+
+For example, if a user mentions they’re saving for a car purchase, ChatGPT will incorporate that goal into its recommendations. This functionality builds on personalization features OpenAI began rolling out in May 2026, alongside the launch of GPT-5.5 Instant as the default ChatGPT model. These enhancements aim to reduce errors in sensitive areas like finance while maintaining fast response times.
+
+Accessing the feature is straightforward: users can open the "Finances" tab in ChatGPT's sidebar or type "@Finances, connect my accounts" to start the setup process. Account linking is currently powered by Plaid, with Intuit integration expected soon. Once accounts are connected, the AI will categorize transactions and sync data within minutes, providing a real-time overview of financial standing.
+
+Beyond account connections, users can manually share non-digital financial details, such as loans or planned major purchases, to further enhance ChatGPT's guidance. OpenAI emphasizes that while the tool offers helpful insights, it is not a substitute for professional financial advice.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-9d32d71d0fef63c8ac71b6e4201f7aa65f930433</guid>
       <title>ATOM Price Prediction: $2.15 Retest Within 14 Days as Momentum Flickers | ATOM trades in technical limbo at $2.01 with neutral RSI and stalled MACD signaling indec... https://Blockchain.News/news/20260515-price-prediction-atom-215-retest-within-14-days-as</title>
@@ -2337,259 +2598,6 @@ The technical setup points toward a test of $0.12 support within the next 14 day
 The decline would likely begin with a break below immediate support at $0.15, triggering stop-loss orders and creating cascading pressure toward the 50-day moving average near $0.12. Should this level fail to hold, Blockchain.news analysis suggests further weakness toward the lower Bollinger Band around $0.10.
 
 The alternative 35% scenario requires OP to decisively reclaim $0.16 resistance with substantial volume, breaking the current bearish momentum. However, given the aggressive selling pressure and technical deterioration, this outcome appears increasingly unlikely without significant fundamental catalysts.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-8d5d99fead6e03a90f8efb6735efb3be79a33ce9</guid>
-      <title>First US Hyperliquid ETF (THYP) Sees $1.2M Inflows on Launch | 21Shares&apos; Hyperliquid ETF (THYP) debuts with $1.2M in net inflows and $1.8M trading volum... https://Blockchain.News/news/first-us-hyperliquid-etf-thyp-debut</title>
-      <link>https://Blockchain.News/news/first-us-hyperliquid-etf-thyp-debut</link>
-      <pubDate>Wed, 13 May 2026 05:59:25 GMT</pubDate>
-      <description><![CDATA[Original title: First US Hyperliquid ETF (THYP) Sees $1.2M Inflows on Launch
-Summary: 21Shares' Hyperliquid ETF (THYP) debuts with $1.2M in net inflows and $1.8M trading volume, signaling moderate interest in crypto ETFs.
-Article text: 21Shares' Hyperliquid ETF (THYP) debuts with $1.2M in net inflows and $1.8M trading volume, signaling moderate interest in crypto ETFs.
-
-The first Hyperliquid exchange-traded fund (ETF) in the United States, launched by crypto asset manager 21Shares, recorded $1.2 million in net inflows and $1.8 million in trading volume on its debut day, according to data from May 13, 2026. Trading on the Nasdaq under the ticker THYP, the fund aims to track the spot price of the Hyperliquid (HYPE) token, which powers a perpetual futures platform with over $8.4 trillion in trading volume since its 2023 launch.
-
-While the inflows were notable for an ETF debut, they pale in comparison to earlier crypto ETF launches. The Bitwise Solana Staking ETF (BSOL) and the Canary XRP ETF (XRPC) both recorded opening-day volumes exceeding $56 million in late 2025. Bloomberg ETF analyst James Seyffart described THYP's debut as "better than your average ETF launch for sure but nothing too crazy."
-
-THYP’s competitive edge lies in its relatively low 0.3% management fee, undercutting Bitwise's proposed 0.67% fee for its upcoming Hyperliquid Staking ETF (BHYP). Grayscale, another major player in the crypto ETF space, is also awaiting regulatory approval for its Grayscale HYPE ETF (GHYP), although pricing details for that product remain undisclosed.
-
-The launch of THYP comes amid a regulatory shift in the U.S. Securities and Exchange Commission's (SEC) approach to crypto ETFs. In September 2025, the SEC moved to "generic listing standards," simplifying the approval process for crypto ETFs. This policy change has fueled a wave of new ETF filings, with the BHYP expected to follow THYP's approval.
-
-Despite the optimism surrounding these products, Seyffart has cautioned about the longevity of crypto ETFs, predicting that many could face liquidation by 2027 due to insufficient demand. A recent Bloomberg report highlighted a shrinking average lifespan for ETFs, dropping from 4.66 years in 2024 to 3.5 years in 2025, further underscoring concerns about market sustainability.
-
-For now, THYP adds another option for institutional and retail investors seeking exposure to altcoins via traditional financial markets. Its performance in the coming months will likely be closely watched as a barometer for the broader appetite for crypto ETFs.
-
-Get key crypto and blockchain stories in your inbox.
-
-21Shares' Hyperliquid ETF (THYP) debuts with $1.2M in net inflows and $1.8M trading volume, signaling moderate interest in crypto ETFs.
-
-The first Hyperliquid exchange-traded fund (ETF) in the United States, launched by crypto asset manager 21Shares, recorded $1.2 million in net inflows and $1.8 million in trading volume on its debut day, according to data from May 13, 2026. Trading on the Nasdaq under the ticker THYP, the fund aims to track the spot price of the Hyperliquid (HYPE) token, which powers a perpetual futures platform with over $8.4 trillion in trading volume since its 2023 launch.
-
-While the inflows were notable for an ETF debut, they pale in comparison to earlier crypto ETF launches. The Bitwise Solana Staking ETF (BSOL) and the Canary XRP ETF (XRPC) both recorded opening-day volumes exceeding $56 million in late 2025. Bloomberg ETF analyst James Seyffart described THYP's debut as "better than your average ETF launch for sure but nothing too crazy."
-
-THYP’s competitive edge lies in its relatively low 0.3% management fee, undercutting Bitwise's proposed 0.67% fee for its upcoming Hyperliquid Staking ETF (BHYP). Grayscale, another major player in the crypto ETF space, is also awaiting regulatory approval for its Grayscale HYPE ETF (GHYP), although pricing details for that product remain undisclosed.
-
-The launch of THYP comes amid a regulatory shift in the U.S. Securities and Exchange Commission's (SEC) approach to crypto ETFs. In September 2025, the SEC moved to "generic listing standards," simplifying the approval process for crypto ETFs. This policy change has fueled a wave of new ETF filings, with the BHYP expected to follow THYP's approval.
-
-Despite the optimism surrounding these products, Seyffart has cautioned about the longevity of crypto ETFs, predicting that many could face liquidation by 2027 due to insufficient demand. A recent Bloomberg report highlighted a shrinking average lifespan for ETFs, dropping from 4.66 years in 2024 to 3.5 years in 2025, further underscoring concerns about market sustainability.
-
-For now, THYP adds another option for institutional and retail investors seeking exposure to altcoins via traditional financial markets. Its performance in the coming months will likely be closely watched as a barometer for the broader appetite for crypto ETFs.
-
-Get key crypto and blockchain stories in your inbox.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/first-us-hyperliquid-etf-thyp-debut]]></description>
-      <content:encoded><![CDATA[21Shares' Hyperliquid ETF (THYP) debuts with $1.2M in net inflows and $1.8M trading volume, signaling moderate interest in crypto ETFs.
-
-The first Hyperliquid exchange-traded fund (ETF) in the United States, launched by crypto asset manager 21Shares, recorded $1.2 million in net inflows and $1.8 million in trading volume on its debut day, according to data from May 13, 2026. Trading on the Nasdaq under the ticker THYP, the fund aims to track the spot price of the Hyperliquid (HYPE) token, which powers a perpetual futures platform with over $8.4 trillion in trading volume since its 2023 launch.
-
-While the inflows were notable for an ETF debut, they pale in comparison to earlier crypto ETF launches. The Bitwise Solana Staking ETF (BSOL) and the Canary XRP ETF (XRPC) both recorded opening-day volumes exceeding $56 million in late 2025. Bloomberg ETF analyst James Seyffart described THYP's debut as "better than your average ETF launch for sure but nothing too crazy."
-
-THYP’s competitive edge lies in its relatively low 0.3% management fee, undercutting Bitwise's proposed 0.67% fee for its upcoming Hyperliquid Staking ETF (BHYP). Grayscale, another major player in the crypto ETF space, is also awaiting regulatory approval for its Grayscale HYPE ETF (GHYP), although pricing details for that product remain undisclosed.
-
-The launch of THYP comes amid a regulatory shift in the U.S. Securities and Exchange Commission's (SEC) approach to crypto ETFs. In September 2025, the SEC moved to "generic listing standards," simplifying the approval process for crypto ETFs. This policy change has fueled a wave of new ETF filings, with the BHYP expected to follow THYP's approval.
-
-Despite the optimism surrounding these products, Seyffart has cautioned about the longevity of crypto ETFs, predicting that many could face liquidation by 2027 due to insufficient demand. A recent Bloomberg report highlighted a shrinking average lifespan for ETFs, dropping from 4.66 years in 2024 to 3.5 years in 2025, further underscoring concerns about market sustainability.
-
-For now, THYP adds another option for institutional and retail investors seeking exposure to altcoins via traditional financial markets. Its performance in the coming months will likely be closely watched as a barometer for the broader appetite for crypto ETFs.
-
-Get key crypto and blockchain stories in your inbox.
-
-21Shares' Hyperliquid ETF (THYP) debuts with $1.2M in net inflows and $1.8M trading volume, signaling moderate interest in crypto ETFs.
-
-The first Hyperliquid exchange-traded fund (ETF) in the United States, launched by crypto asset manager 21Shares, recorded $1.2 million in net inflows and $1.8 million in trading volume on its debut day, according to data from May 13, 2026. Trading on the Nasdaq under the ticker THYP, the fund aims to track the spot price of the Hyperliquid (HYPE) token, which powers a perpetual futures platform with over $8.4 trillion in trading volume since its 2023 launch.
-
-While the inflows were notable for an ETF debut, they pale in comparison to earlier crypto ETF launches. The Bitwise Solana Staking ETF (BSOL) and the Canary XRP ETF (XRPC) both recorded opening-day volumes exceeding $56 million in late 2025. Bloomberg ETF analyst James Seyffart described THYP's debut as "better than your average ETF launch for sure but nothing too crazy."
-
-THYP’s competitive edge lies in its relatively low 0.3% management fee, undercutting Bitwise's proposed 0.67% fee for its upcoming Hyperliquid Staking ETF (BHYP). Grayscale, another major player in the crypto ETF space, is also awaiting regulatory approval for its Grayscale HYPE ETF (GHYP), although pricing details for that product remain undisclosed.
-
-The launch of THYP comes amid a regulatory shift in the U.S. Securities and Exchange Commission's (SEC) approach to crypto ETFs. In September 2025, the SEC moved to "generic listing standards," simplifying the approval process for crypto ETFs. This policy change has fueled a wave of new ETF filings, with the BHYP expected to follow THYP's approval.
-
-Despite the optimism surrounding these products, Seyffart has cautioned about the longevity of crypto ETFs, predicting that many could face liquidation by 2027 due to insufficient demand. A recent Bloomberg report highlighted a shrinking average lifespan for ETFs, dropping from 4.66 years in 2024 to 3.5 years in 2025, further underscoring concerns about market sustainability.
-
-For now, THYP adds another option for institutional and retail investors seeking exposure to altcoins via traditional financial markets. Its performance in the coming months will likely be closely watched as a barometer for the broader appetite for crypto ETFs.
-
-Get key crypto and blockchain stories in your inbox.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-af99aebd5637ae4432ec5e33907e4206c0e1dc2a</guid>
-      <title>Kraken Exchange Revenue Triples as IPO Plans Advance | Kraken&apos;s revenue tripled to $2.2B in 2025, fueled by trading volume and acquisitions, as... https://Blockchain.News/news/kraken-revenue-triples-ipo-plans-advance</title>
-      <link>https://Blockchain.News/news/kraken-revenue-triples-ipo-plans-advance</link>
-      <pubDate>Wed, 13 May 2026 05:10:39 GMT</pubDate>
-      <description><![CDATA[Original title: Kraken Exchange Revenue Triples as IPO Plans Advance
-Summary: Kraken's revenue tripled to $2.2B in 2025, fueled by trading volume and acquisitions, as the exchange nears its US IPO launch.
-Article text: Kraken's revenue tripled to $2.2B in 2025, fueled by trading volume and acquisitions, as the exchange nears its US IPO launch.
-
-Kraken, one of the largest cryptocurrency exchanges in the U.S., is gearing up for a public listing while reporting significant financial growth. The exchange's adjusted revenue soared from $0.7 billion in 2023 to $2.2 billion in 2025, with $531 million in EBITDA last year, according to a new report.
-
-This growth has been driven by a combination of surging trading volumes and aggressive acquisitions. Kraken averaged $1.07 billion in monthly spot trading volume during the first four months of 2026, with weekdays seeing significantly higher activity than weekends. Perpetual futures trading lagged behind, averaging $0.68 billion monthly over the same period.
-
-February 5, 2026, marked a standout trading day as Bitcoin plunged 14.1% from $73,100 to $62,800, triggering a surge in both spot ($3.51 billion) and perpetual ($2.52 billion) trading volumes. Despite a temporary dip in open interest (OI) to $227.45 million following the crash, Kraken’s OI has since rebounded to $320.06 million, illustrating the platform's resilience.
-
-Kraken’s reserves, however, have declined by 5.1% in 2026, falling to $14.36 billion by May. Ethereum reserves were hit hardest, with a 21.4% outflow and a $487.4 million decline in value, while stablecoin holdings dropped by 43.4% to $424.6 million.
-
-In early 2026, Kraken listed 147 new tokens, with nearly half focused on tokenized assets like real-world assets (RWAs) and xStocks, reflecting its shift toward innovative financial instruments. Despite these efforts, trading volumes for tokenized assets remain modest. The top 20 trading pairs on Kraken still dominate activity, accounting for 82% of spot trading volume, with fiat/crypto pairs making up 93.1% of that figure. Bitcoin and Ethereum continue to lead both spot and perpetual markets, contributing 28.9% and 10.5% of spot trading volume, respectively.
-
-Kraken has been actively preparing for a U.S. IPO, with Co-CEO Arjun Sethi confirming recently that the company is approximately 80% ready. The exchange has bolstered its position through a series of acquisitions, including NinjaTrader ($1.5 billion), Bitnomial ($550 million), and Reap Technologies ($600 million). These moves have expanded Kraken's capabilities across futures trading, stock tokenization, and stablecoin payments.
-
-Additionally, Kraken achieved a significant milestone by securing a "skinny" Federal Reserve Master Account in March 2026, a rare achievement for a crypto-focused institution. The company also raised $800 million in late 2025, valuing it at $20 billion. Notable investors included Citadel Securities, Jane Street, and Deutsche Börse, which recently acquired a 1.5% stake for $200 million.
-
-While Kraken confidentially filed an S-1 with the SEC in late 2025, reports in early 2026 suggested a pause in IPO plans due to market conditions. A management shakeup, including the departure of its CFO, also added uncertainty. However, Kraken's recent financial transparency and strategic growth point to strong positioning as it moves closer to a public debut.
-
-Kraken’s rapid expansion, focus on tokenized assets, and robust revenue growth signal strong momentum as the company eyes its IPO. If market conditions stabilize, Kraken could soon join Coinbase as one of the few publicly traded crypto exchanges, further legitimizing the sector in traditional finance.
-
-Get key crypto and blockchain stories in your inbox.
-
-Kraken's revenue tripled to $2.2B in 2025, fueled by trading volume and acquisitions, as the exchange nears its US IPO launch.
-
-Kraken, one of the largest cryptocurrency exchanges in the U.S., is gearing up for a public listing while reporting significant financial growth. The exchange's adjusted revenue soared from $0.7 billion in 2023 to $2.2 billion in 2025, with $531 million in EBITDA last year, according to a new report.
-
-This growth has been driven by a combination of surging trading volumes and aggressive acquisitions. Kraken averaged $1.07 billion in monthly spot trading volume during the first four months of 2026, with weekdays seeing significantly higher activity than weekends. Perpetual futures trading lagged behind, averaging $0.68 billion monthly over the same period.
-
-February 5, 2026, marked a standout trading day as Bitcoin plunged 14.1% from $73,100 to $62,800, triggering a surge in both spot ($3.51 billion) and perpetual ($2.52 billion) trading volumes. Despite a temporary dip in open interest (OI) to $227.45 million following the crash, Kraken’s OI has since rebounded to $320.06 million, illustrating the platform's resilience.
-
-Kraken’s reserves, however, have declined by 5.1% in 2026, falling to $14.36 billion by May. Ethereum reserves were hit hardest, with a 21.4% outflow and a $487.4 million decline in value, while stablecoin holdings dropped by 43.4% to $424.6 million.
-
-In early 2026, Kraken listed 147 new tokens, with nearly half focused on tokenized assets like real-world assets (RWAs) and xStocks, reflecting its shift toward innovative financial instruments. Despite these efforts, trading volumes for tokenized assets remain modest. The top 20 trading pairs on Kraken still dominate activity, accounting for 82% of spot trading volume, with fiat/crypto pairs making up 93.1% of that figure. Bitcoin and Ethereum continue to lead both spot and perpetual markets, contributing 28.9% and 10.5% of spot trading volume, respectively.
-
-Kraken has been actively preparing for a U.S. IPO, with Co-CEO Arjun Sethi confirming recently that the company is approximately 80% ready. The exchange has bolstered its position through a series of acquisitions, including NinjaTrader ($1.5 billion), Bitnomial ($550 million), and Reap Technologies ($600 million). These moves have expanded Kraken's capabilities across futures trading, stock tokenization, and stablecoin payments.
-
-Additionally, Kraken achieved a significant milestone by securing a "skinny" Federal Reserve Master Account in March 2026, a rare achievement for a crypto-focused institution. The company also raised $800 million in late 2025, valuing it at $20 billion. Notable investors included Citadel Securities, Jane Street, and Deutsche Börse, which recently acquired a 1.5% stake for $200 million.
-
-While Kraken confidentially filed an S-1 with the SEC in late 2025, reports in early 2026 suggested a pause in IPO plans due to market conditions. A management shakeup, including the departure of its CFO, also added uncertainty. However, Kraken's recent financial transparency and strategic growth point to strong positioning as it moves closer to a public debut.
-Source: https://Blockchain.News/news/kraken-revenue-triples-ipo-plans-advance]]></description>
-      <content:encoded><![CDATA[Kraken's revenue tripled to $2.2B in 2025, fueled by trading volume and acquisitions, as the exchange nears its US IPO launch.
-
-Kraken, one of the largest cryptocurrency exchanges in the U.S., is gearing up for a public listing while reporting significant financial growth. The exchange's adjusted revenue soared from $0.7 billion in 2023 to $2.2 billion in 2025, with $531 million in EBITDA last year, according to a new report.
-
-This growth has been driven by a combination of surging trading volumes and aggressive acquisitions. Kraken averaged $1.07 billion in monthly spot trading volume during the first four months of 2026, with weekdays seeing significantly higher activity than weekends. Perpetual futures trading lagged behind, averaging $0.68 billion monthly over the same period.
-
-February 5, 2026, marked a standout trading day as Bitcoin plunged 14.1% from $73,100 to $62,800, triggering a surge in both spot ($3.51 billion) and perpetual ($2.52 billion) trading volumes. Despite a temporary dip in open interest (OI) to $227.45 million following the crash, Kraken’s OI has since rebounded to $320.06 million, illustrating the platform's resilience.
-
-Kraken’s reserves, however, have declined by 5.1% in 2026, falling to $14.36 billion by May. Ethereum reserves were hit hardest, with a 21.4% outflow and a $487.4 million decline in value, while stablecoin holdings dropped by 43.4% to $424.6 million.
-
-In early 2026, Kraken listed 147 new tokens, with nearly half focused on tokenized assets like real-world assets (RWAs) and xStocks, reflecting its shift toward innovative financial instruments. Despite these efforts, trading volumes for tokenized assets remain modest. The top 20 trading pairs on Kraken still dominate activity, accounting for 82% of spot trading volume, with fiat/crypto pairs making up 93.1% of that figure. Bitcoin and Ethereum continue to lead both spot and perpetual markets, contributing 28.9% and 10.5% of spot trading volume, respectively.
-
-Kraken has been actively preparing for a U.S. IPO, with Co-CEO Arjun Sethi confirming recently that the company is approximately 80% ready. The exchange has bolstered its position through a series of acquisitions, including NinjaTrader ($1.5 billion), Bitnomial ($550 million), and Reap Technologies ($600 million). These moves have expanded Kraken's capabilities across futures trading, stock tokenization, and stablecoin payments.
-
-Additionally, Kraken achieved a significant milestone by securing a "skinny" Federal Reserve Master Account in March 2026, a rare achievement for a crypto-focused institution. The company also raised $800 million in late 2025, valuing it at $20 billion. Notable investors included Citadel Securities, Jane Street, and Deutsche Börse, which recently acquired a 1.5% stake for $200 million.
-
-While Kraken confidentially filed an S-1 with the SEC in late 2025, reports in early 2026 suggested a pause in IPO plans due to market conditions. A management shakeup, including the departure of its CFO, also added uncertainty. However, Kraken's recent financial transparency and strategic growth point to strong positioning as it moves closer to a public debut.
-
-Kraken’s rapid expansion, focus on tokenized assets, and robust revenue growth signal strong momentum as the company eyes its IPO. If market conditions stabilize, Kraken could soon join Coinbase as one of the few publicly traded crypto exchanges, further legitimizing the sector in traditional finance.
-
-Get key crypto and blockchain stories in your inbox.
-
-Kraken's revenue tripled to $2.2B in 2025, fueled by trading volume and acquisitions, as the exchange nears its US IPO launch.
-
-Kraken, one of the largest cryptocurrency exchanges in the U.S., is gearing up for a public listing while reporting significant financial growth. The exchange's adjusted revenue soared from $0.7 billion in 2023 to $2.2 billion in 2025, with $531 million in EBITDA last year, according to a new report.
-
-This growth has been driven by a combination of surging trading volumes and aggressive acquisitions. Kraken averaged $1.07 billion in monthly spot trading volume during the first four months of 2026, with weekdays seeing significantly higher activity than weekends. Perpetual futures trading lagged behind, averaging $0.68 billion monthly over the same period.
-
-February 5, 2026, marked a standout trading day as Bitcoin plunged 14.1% from $73,100 to $62,800, triggering a surge in both spot ($3.51 billion) and perpetual ($2.52 billion) trading volumes. Despite a temporary dip in open interest (OI) to $227.45 million following the crash, Kraken’s OI has since rebounded to $320.06 million, illustrating the platform's resilience.
-
-Kraken’s reserves, however, have declined by 5.1% in 2026, falling to $14.36 billion by May. Ethereum reserves were hit hardest, with a 21.4% outflow and a $487.4 million decline in value, while stablecoin holdings dropped by 43.4% to $424.6 million.
-
-In early 2026, Kraken listed 147 new tokens, with nearly half focused on tokenized assets like real-world assets (RWAs) and xStocks, reflecting its shift toward innovative financial instruments. Despite these efforts, trading volumes for tokenized assets remain modest. The top 20 trading pairs on Kraken still dominate activity, accounting for 82% of spot trading volume, with fiat/crypto pairs making up 93.1% of that figure. Bitcoin and Ethereum continue to lead both spot and perpetual markets, contributing 28.9% and 10.5% of spot trading volume, respectively.
-
-Kraken has been actively preparing for a U.S. IPO, with Co-CEO Arjun Sethi confirming recently that the company is approximately 80% ready. The exchange has bolstered its position through a series of acquisitions, including NinjaTrader ($1.5 billion), Bitnomial ($550 million), and Reap Technologies ($600 million). These moves have expanded Kraken's capabilities across futures trading, stock tokenization, and stablecoin payments.
-
-Additionally, Kraken achieved a significant milestone by securing a "skinny" Federal Reserve Master Account in March 2026, a rare achievement for a crypto-focused institution. The company also raised $800 million in late 2025, valuing it at $20 billion. Notable investors included Citadel Securities, Jane Street, and Deutsche Börse, which recently acquired a 1.5% stake for $200 million.
-
-While Kraken confidentially filed an S-1 with the SEC in late 2025, reports in early 2026 suggested a pause in IPO plans due to market conditions. A management shakeup, including the departure of its CFO, also added uncertainty. However, Kraken's recent financial transparency and strategic growth point to strong positioning as it moves closer to a public debut.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-27cc66d99d435bececd682edb386f438cd2c18d7</guid>
-      <title>Ethereum Introduces Clear Signing to Combat Blind Signing Risks | Ethereum&apos;s Clear Signing feature eliminates blind signing risks by making transactions hu... https://Blockchain.News/news/ethereum-clear-signing-feature-blind-signing</title>
-      <link>https://Blockchain.News/news/ethereum-clear-signing-feature-blind-signing</link>
-      <pubDate>Wed, 13 May 2026 05:00:21 GMT</pubDate>
-      <description><![CDATA[Original title: Ethereum Introduces Clear Signing to Combat Blind Signing Risks
-Summary: Ethereum's Clear Signing feature eliminates blind signing risks by making transactions human-readable, addressing a major security flaw.
-Article text: Ethereum's Clear Signing feature eliminates blind signing risks by making transactions human-readable, addressing a major security flaw.
-
-The Ethereum community has unveiled Clear Signing, a new security feature designed to eliminate blind signing—a practice that has long exposed users to significant risks. Announced as part of the Ethereum Foundation’s Trillion Dollar Security Initiative, Clear Signing makes transactions human-readable before approval, replacing cryptic hex data with transparent descriptions.
-
-Blind signing, where users approve transactions without fully understanding the details, has led to billions of dollars in losses. The Ethereum Foundation highlighted the $1.4 billion Bybit hack in 2025, where attackers exploited transaction signatures, as a key example of the issue. Calling blind signing a "structural flaw," the foundation emphasized the urgency of implementing solutions like Clear Signing to protect users.
-
-The new feature uses the open-source ERC-7730 token standard and incorporates key elements such as human-readable transaction descriptions and a descriptor registry. It also includes an attestation framework, enabling auditors to verify the accuracy of these descriptors. Major wallet providers like Ledger, Trezor, and MetaMask are integrating the feature, which aims to provide an additional layer of security for self-custody users.
-
-Trezor CTO Tomáš Sušánka explained that attackers have exploited the lack of transparency in transaction details to deceive users into signing malicious contracts. "This issue has led users to unknowingly sign them and lose everything," Sušánka told Cointelegraph. He described Clear Signing as a "critical security advancement" and confirmed that Trezor plans to roll out the feature by June 30.
-
-Clear Signing arrives at a time when crypto-related hacks and scams are becoming increasingly sophisticated. North Korean state-sponsored groups alone have reportedly stolen over $7 billion since 2009, with a significant portion coming from compromised crypto platforms. The Bybit hack remains one of the largest, underscoring the need for enhanced security measures across the industry.
-
-Beyond wallets like Ledger and Trezor, several other platforms have contributed to the development of Clear Signing, including WalletConnect, Fireblocks, and Zama. The collective effort highlights a broader industry push toward making decentralized finance (DeFi) safer for everyday users.
-
-With Clear Signing, Ethereum aims to set a new standard for transaction security, reducing the risks associated with blind signing and paving the way for more secure interactions on the blockchain.
-
-Get key crypto and blockchain stories in your inbox.
-
-Ethereum's Clear Signing feature eliminates blind signing risks by making transactions human-readable, addressing a major security flaw.
-
-The Ethereum community has unveiled Clear Signing, a new security feature designed to eliminate blind signing—a practice that has long exposed users to significant risks. Announced as part of the Ethereum Foundation’s Trillion Dollar Security Initiative, Clear Signing makes transactions human-readable before approval, replacing cryptic hex data with transparent descriptions.
-
-Blind signing, where users approve transactions without fully understanding the details, has led to billions of dollars in losses. The Ethereum Foundation highlighted the $1.4 billion Bybit hack in 2025, where attackers exploited transaction signatures, as a key example of the issue. Calling blind signing a "structural flaw," the foundation emphasized the urgency of implementing solutions like Clear Signing to protect users.
-
-The new feature uses the open-source ERC-7730 token standard and incorporates key elements such as human-readable transaction descriptions and a descriptor registry. It also includes an attestation framework, enabling auditors to verify the accuracy of these descriptors. Major wallet providers like Ledger, Trezor, and MetaMask are integrating the feature, which aims to provide an additional layer of security for self-custody users.
-
-Trezor CTO Tomáš Sušánka explained that attackers have exploited the lack of transparency in transaction details to deceive users into signing malicious contracts. "This issue has led users to unknowingly sign them and lose everything," Sušánka told Cointelegraph. He described Clear Signing as a "critical security advancement" and confirmed that Trezor plans to roll out the feature by June 30.
-
-Clear Signing arrives at a time when crypto-related hacks and scams are becoming increasingly sophisticated. North Korean state-sponsored groups alone have reportedly stolen over $7 billion since 2009, with a significant portion coming from compromised crypto platforms. The Bybit hack remains one of the largest, underscoring the need for enhanced security measures across the industry.
-
-Beyond wallets like Ledger and Trezor, several other platforms have contributed to the development of Clear Signing, including WalletConnect, Fireblocks, and Zama. The collective effort highlights a broader industry push toward making decentralized finance (DeFi) safer for everyday users.
-
-With Clear Signing, Ethereum aims to set a new standard for transaction security, reducing the risks associated with blind signing and paving the way for more secure interactions on the blockchain.
-
-Get key crypto and blockchain stories in your inbox.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
-Source: https://Blockchain.News/news/ethereum-clear-signing-feature-blind-signing]]></description>
-      <content:encoded><![CDATA[Ethereum's Clear Signing feature eliminates blind signing risks by making transactions human-readable, addressing a major security flaw.
-
-The Ethereum community has unveiled Clear Signing, a new security feature designed to eliminate blind signing—a practice that has long exposed users to significant risks. Announced as part of the Ethereum Foundation’s Trillion Dollar Security Initiative, Clear Signing makes transactions human-readable before approval, replacing cryptic hex data with transparent descriptions.
-
-Blind signing, where users approve transactions without fully understanding the details, has led to billions of dollars in losses. The Ethereum Foundation highlighted the $1.4 billion Bybit hack in 2025, where attackers exploited transaction signatures, as a key example of the issue. Calling blind signing a "structural flaw," the foundation emphasized the urgency of implementing solutions like Clear Signing to protect users.
-
-The new feature uses the open-source ERC-7730 token standard and incorporates key elements such as human-readable transaction descriptions and a descriptor registry. It also includes an attestation framework, enabling auditors to verify the accuracy of these descriptors. Major wallet providers like Ledger, Trezor, and MetaMask are integrating the feature, which aims to provide an additional layer of security for self-custody users.
-
-Trezor CTO Tomáš Sušánka explained that attackers have exploited the lack of transparency in transaction details to deceive users into signing malicious contracts. "This issue has led users to unknowingly sign them and lose everything," Sušánka told Cointelegraph. He described Clear Signing as a "critical security advancement" and confirmed that Trezor plans to roll out the feature by June 30.
-
-Clear Signing arrives at a time when crypto-related hacks and scams are becoming increasingly sophisticated. North Korean state-sponsored groups alone have reportedly stolen over $7 billion since 2009, with a significant portion coming from compromised crypto platforms. The Bybit hack remains one of the largest, underscoring the need for enhanced security measures across the industry.
-
-Beyond wallets like Ledger and Trezor, several other platforms have contributed to the development of Clear Signing, including WalletConnect, Fireblocks, and Zama. The collective effort highlights a broader industry push toward making decentralized finance (DeFi) safer for everyday users.
-
-With Clear Signing, Ethereum aims to set a new standard for transaction security, reducing the risks associated with blind signing and paving the way for more secure interactions on the blockchain.
-
-Get key crypto and blockchain stories in your inbox.
-
-Ethereum's Clear Signing feature eliminates blind signing risks by making transactions human-readable, addressing a major security flaw.
-
-The Ethereum community has unveiled Clear Signing, a new security feature designed to eliminate blind signing—a practice that has long exposed users to significant risks. Announced as part of the Ethereum Foundation’s Trillion Dollar Security Initiative, Clear Signing makes transactions human-readable before approval, replacing cryptic hex data with transparent descriptions.
-
-Blind signing, where users approve transactions without fully understanding the details, has led to billions of dollars in losses. The Ethereum Foundation highlighted the $1.4 billion Bybit hack in 2025, where attackers exploited transaction signatures, as a key example of the issue. Calling blind signing a "structural flaw," the foundation emphasized the urgency of implementing solutions like Clear Signing to protect users.
-
-The new feature uses the open-source ERC-7730 token standard and incorporates key elements such as human-readable transaction descriptions and a descriptor registry. It also includes an attestation framework, enabling auditors to verify the accuracy of these descriptors. Major wallet providers like Ledger, Trezor, and MetaMask are integrating the feature, which aims to provide an additional layer of security for self-custody users.
-
-Trezor CTO Tomáš Sušánka explained that attackers have exploited the lack of transparency in transaction details to deceive users into signing malicious contracts. "This issue has led users to unknowingly sign them and lose everything," Sušánka told Cointelegraph. He described Clear Signing as a "critical security advancement" and confirmed that Trezor plans to roll out the feature by June 30.
-
-Clear Signing arrives at a time when crypto-related hacks and scams are becoming increasingly sophisticated. North Korean state-sponsored groups alone have reportedly stolen over $7 billion since 2009, with a significant portion coming from compromised crypto platforms. The Bybit hack remains one of the largest, underscoring the need for enhanced security measures across the industry.
-
-Beyond wallets like Ledger and Trezor, several other platforms have contributed to the development of Clear Signing, including WalletConnect, Fireblocks, and Zama. The collective effort highlights a broader industry push toward making decentralized finance (DeFi) safer for everyday users.
-
-With Clear Signing, Ethereum aims to set a new standard for transaction security, reducing the risks associated with blind signing and paving the way for more secure interactions on the blockchain.
-
-Get key crypto and blockchain stories in your inbox.
-
-Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
-
-Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
     </item>
   </channel>
 </rss>
