@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Sun, 17 May 2026 02:41:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 08:14:43 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-b18e9bce7e47ca735278239a795627fcd81f7ad0</guid>
+      <title>Anyscale Launches LLM Post-Training Tool to Simplify Fine-Tuning | Anyscale unveils a post-training skill for large language models, streamlining methodolog... https://Blockchain.News/news/anyscale-llm-post-training-tool</title>
+      <link>https://Blockchain.News/news/anyscale-llm-post-training-tool</link>
+      <pubDate>Fri, 15 May 2026 17:23:12 GMT</pubDate>
+      <description><![CDATA[Original title: Anyscale Launches LLM Post-Training Tool to Simplify Fine-Tuning
+Summary: Anyscale unveils a post-training skill for large language models, streamlining methodology selection, GPU planning, and configuration generation.
+Article text: Anyscale unveils a post-training skill for large language models, streamlining methodology selection, GPU planning, and configuration generation.
+
+Anyscale, the AI infrastructure company behind the popular Ray distributed computing framework, has unveiled a new tool designed to simplify the increasingly complex process of fine-tuning large language models (LLMs). The 'Anyscale LLM Post-Training Skill' was announced on May 14, 2026, as part of the company's broader push to streamline AI development and deployment, leveraging its expertise in distributed systems.
+
+The post-training skill operates as part of Anyscale’s Agent Skills suite, first introduced in April 2026. This new addition guides developers through the intricate processes of selecting fine-tuning methods, configuring GPUs, and generating training scripts tailored to the unique requirements of LLMs like LLaMA, DeepSeek, and Qwen. It supports a range of fine-tuning techniques, including supervised fine-tuning (SFT), reinforcement learning from human feedback (RLHF), and newer methods like deep preference optimization (DPO) and reinforcement learning from verifiable rewards (RLVR).
+
+Fine-tuning LLMs has become critical for aligning models to specific tasks, but it's also more challenging than ever. Models like OpenAI’s InstructGPT and ChatGPT popularized RLHF as a foundational framework, but new methodologies such as RLVR—where rewards are programmatically verified rather than learned—are gaining traction for applications like mathematical reasoning and SQL query generation. Each approach has unique trade-offs in terms of data requirements, computational overhead, and alignment precision.
+
+However, choosing the right methodology is just one hurdle. Developers face a labyrinth of technical challenges, from GPU memory planning to framework compatibility. For example, optimizing a 7-billion-parameter model in RLVR requires careful coordination of multiple model instances, each consuming approximately 14 GB of memory. Framework misalignment or CUDA version mismatches can bring training to a halt. These are precisely the kinds of pitfalls the Anyscale skill aims to mitigate.
+
+Anyscale's post-training skill acts as an interactive assistant, walking users through a step-by-step process to scope their projects and generate all necessary artifacts for deployment. Key features include:
+
+Unlike some proprietary solutions, the skill outputs open-source code, giving developers full control over their training loops. Additionally, it provides pre-run estimates for time and resource usage, ensuring teams can plan effectively before incurring cloud costs.
+
+This launch reinforces Anyscale’s position as a leading player in AI infrastructure. Founded in 2019, the San Francisco-based company has built its reputation around Ray, an open-source framework used by major names like OpenAI, Uber, and Shopify. Anyscale’s managed platform extends Ray’s capabilities, offering end-to-end tools for developing, training, and deploying AI models at scale.
+
+In recent years, the company has expanded its offerings to address the operational challenges of AI workloads. Its Agent Skills suite, introduced earlier this year, is a prime example of this focus. By automating key aspects of workload management, Anyscale aims to help teams optimize GPU utilization and reduce development timelines.
+
+The Anyscale LLM Post-Training Skill is available now as part of the Agent Skills release. Developers can install it via the Anyscale CLI, with support for various frameworks and model architectures. Looking ahead, Anyscale plans to integrate the skill with its workload-serving tools, enabling seamless transitions from fine-tuning to production deployment.
+
+While Anyscale remains a privately held company, its innovations continue to attract attention. Ranked #11 on Forbes America’s Best Startup Employers 2026, Anyscale has raised $259 million in funding to date and is valued at $1.1 billion. With the demand for scalable AI infrastructure only growing, tools like the LLM Post-Training Skill position the company to capture an even larger share of this rapidly evolving market.
+
+Get key crypto and blockchain stories in your inbox.
+
+Anyscale unveils a post-training skill for large language models, streamlining methodology selection, GPU planning, and configuration generation.
+
+Anyscale, the AI infrastructure company behind the popular Ray distributed computing framework, has unveiled a new tool designed to simplify the increasingly complex process of fine-tuning large language models (LLMs). The 'Anyscale LLM Post-Training Skill' was announced on May 14, 2026, as part of the company's broader push to streamline AI development and deployment, leveraging its expertise in distributed systems.
+
+The post-training skill operates as part of Anyscale’s Agent Skills suite, first introduced in April 2026. This new addition guides developers through the intricate processes of selecting fine-tuning methods, configuring GPUs, and generating training scripts tailored to the unique requirements of LLMs like LLaMA, DeepSeek, and Qwen. It supports a range of fine-tuning techniques, including supervised fine-tuning (SFT), reinforcement learning from human feedback (RLHF), and newer methods like deep preference optimization (DPO) and reinforcement learning from verifiable rewards (RLVR).
+
+Fine-tuning LLMs has become critical for aligning models to specific tasks, but it's also more challenging than ever. Models like OpenAI’s InstructGPT and ChatGPT popularized RLHF as a foundational framework, but new methodologies such as RLVR—where rewards are programmatically verified rather than learned—are gaining traction for applications like mathematical reasoning and SQL query generation. Each approach has unique trade-offs in terms of data requirements, computational overhead, and alignment precision.
+
+However, choosing the right methodology is just one hurdle. Developers face a labyrinth of technical challenges, from GPU memory planning to framework compatibility. For example, optimizing a 7-billion-parameter model in RLVR requires careful coordination of multiple model instances, each consuming approximately 14 GB of memory. Framework misalignment or CUDA version mismatches can bring training to a halt. These are precisely the kinds of pitfalls the Anyscale skill aims to mitigate.
+
+Anyscale's post-training skill acts as an interactive assistant, walking users through a step-by-step process to scope their projects and generate all necessary artifacts for deployment. Key features include:
+
+Unlike some proprietary solutions, the skill outputs open-source code, giving developers full control over their training loops. Additionally, it provides pre-run estimates for time and resource usage, ensuring teams can plan effectively before incurring cloud costs.
+
+This launch reinforces Anyscale’s position as a leading player in AI infrastructure. Founded in 2019, the San Francisco-based company has built its reputation around Ray, an open-source framework used by major names like OpenAI, Uber, and Shopify. Anyscale’s managed platform extends Ray’s capabilities, offering end-to-end tools for developing, training, and deploying AI models at scale.
+Source: https://Blockchain.News/news/anyscale-llm-post-training-tool]]></description>
+      <content:encoded><![CDATA[Anyscale unveils a post-training skill for large language models, streamlining methodology selection, GPU planning, and configuration generation.
+
+Anyscale, the AI infrastructure company behind the popular Ray distributed computing framework, has unveiled a new tool designed to simplify the increasingly complex process of fine-tuning large language models (LLMs). The 'Anyscale LLM Post-Training Skill' was announced on May 14, 2026, as part of the company's broader push to streamline AI development and deployment, leveraging its expertise in distributed systems.
+
+The post-training skill operates as part of Anyscale’s Agent Skills suite, first introduced in April 2026. This new addition guides developers through the intricate processes of selecting fine-tuning methods, configuring GPUs, and generating training scripts tailored to the unique requirements of LLMs like LLaMA, DeepSeek, and Qwen. It supports a range of fine-tuning techniques, including supervised fine-tuning (SFT), reinforcement learning from human feedback (RLHF), and newer methods like deep preference optimization (DPO) and reinforcement learning from verifiable rewards (RLVR).
+
+Fine-tuning LLMs has become critical for aligning models to specific tasks, but it's also more challenging than ever. Models like OpenAI’s InstructGPT and ChatGPT popularized RLHF as a foundational framework, but new methodologies such as RLVR—where rewards are programmatically verified rather than learned—are gaining traction for applications like mathematical reasoning and SQL query generation. Each approach has unique trade-offs in terms of data requirements, computational overhead, and alignment precision.
+
+However, choosing the right methodology is just one hurdle. Developers face a labyrinth of technical challenges, from GPU memory planning to framework compatibility. For example, optimizing a 7-billion-parameter model in RLVR requires careful coordination of multiple model instances, each consuming approximately 14 GB of memory. Framework misalignment or CUDA version mismatches can bring training to a halt. These are precisely the kinds of pitfalls the Anyscale skill aims to mitigate.
+
+Anyscale's post-training skill acts as an interactive assistant, walking users through a step-by-step process to scope their projects and generate all necessary artifacts for deployment. Key features include:
+
+Unlike some proprietary solutions, the skill outputs open-source code, giving developers full control over their training loops. Additionally, it provides pre-run estimates for time and resource usage, ensuring teams can plan effectively before incurring cloud costs.
+
+This launch reinforces Anyscale’s position as a leading player in AI infrastructure. Founded in 2019, the San Francisco-based company has built its reputation around Ray, an open-source framework used by major names like OpenAI, Uber, and Shopify. Anyscale’s managed platform extends Ray’s capabilities, offering end-to-end tools for developing, training, and deploying AI models at scale.
+
+In recent years, the company has expanded its offerings to address the operational challenges of AI workloads. Its Agent Skills suite, introduced earlier this year, is a prime example of this focus. By automating key aspects of workload management, Anyscale aims to help teams optimize GPU utilization and reduce development timelines.
+
+The Anyscale LLM Post-Training Skill is available now as part of the Agent Skills release. Developers can install it via the Anyscale CLI, with support for various frameworks and model architectures. Looking ahead, Anyscale plans to integrate the skill with its workload-serving tools, enabling seamless transitions from fine-tuning to production deployment.
+
+While Anyscale remains a privately held company, its innovations continue to attract attention. Ranked #11 on Forbes America’s Best Startup Employers 2026, Anyscale has raised $259 million in funding to date and is valued at $1.1 billion. With the demand for scalable AI infrastructure only growing, tools like the LLM Post-Training Skill position the company to capture an even larger share of this rapidly evolving market.
+
+Get key crypto and blockchain stories in your inbox.
+
+Anyscale unveils a post-training skill for large language models, streamlining methodology selection, GPU planning, and configuration generation.
+
+Anyscale, the AI infrastructure company behind the popular Ray distributed computing framework, has unveiled a new tool designed to simplify the increasingly complex process of fine-tuning large language models (LLMs). The 'Anyscale LLM Post-Training Skill' was announced on May 14, 2026, as part of the company's broader push to streamline AI development and deployment, leveraging its expertise in distributed systems.
+
+The post-training skill operates as part of Anyscale’s Agent Skills suite, first introduced in April 2026. This new addition guides developers through the intricate processes of selecting fine-tuning methods, configuring GPUs, and generating training scripts tailored to the unique requirements of LLMs like LLaMA, DeepSeek, and Qwen. It supports a range of fine-tuning techniques, including supervised fine-tuning (SFT), reinforcement learning from human feedback (RLHF), and newer methods like deep preference optimization (DPO) and reinforcement learning from verifiable rewards (RLVR).
+
+Fine-tuning LLMs has become critical for aligning models to specific tasks, but it's also more challenging than ever. Models like OpenAI’s InstructGPT and ChatGPT popularized RLHF as a foundational framework, but new methodologies such as RLVR—where rewards are programmatically verified rather than learned—are gaining traction for applications like mathematical reasoning and SQL query generation. Each approach has unique trade-offs in terms of data requirements, computational overhead, and alignment precision.
+
+However, choosing the right methodology is just one hurdle. Developers face a labyrinth of technical challenges, from GPU memory planning to framework compatibility. For example, optimizing a 7-billion-parameter model in RLVR requires careful coordination of multiple model instances, each consuming approximately 14 GB of memory. Framework misalignment or CUDA version mismatches can bring training to a halt. These are precisely the kinds of pitfalls the Anyscale skill aims to mitigate.
+
+Anyscale's post-training skill acts as an interactive assistant, walking users through a step-by-step process to scope their projects and generate all necessary artifacts for deployment. Key features include:
+
+Unlike some proprietary solutions, the skill outputs open-source code, giving developers full control over their training loops. Additionally, it provides pre-run estimates for time and resource usage, ensuring teams can plan effectively before incurring cloud costs.
+
+This launch reinforces Anyscale’s position as a leading player in AI infrastructure. Founded in 2019, the San Francisco-based company has built its reputation around Ray, an open-source framework used by major names like OpenAI, Uber, and Shopify. Anyscale’s managed platform extends Ray’s capabilities, offering end-to-end tools for developing, training, and deploying AI models at scale.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-2b31f0bb452e6bd529795b62e3343a457ec13e5d</guid>
+      <title>Together AI Joins Pearl Labs to Cut AI Inference Costs With Blockchain | Together AI partners with Pearl Research Labs to slash AI inference costs using Proof of... https://Blockchain.News/news/together-ai-pearl-labs-proof-of-useful-work</title>
+      <link>https://Blockchain.News/news/together-ai-pearl-labs-proof-of-useful-work</link>
+      <pubDate>Fri, 15 May 2026 17:07:51 GMT</pubDate>
+      <description><![CDATA[Original title: Together AI Joins Pearl Labs to Cut AI Inference Costs With Blockchain
+Summary: Together AI partners with Pearl Research Labs to slash AI inference costs using Proof of Useful Work, generating crypto rewards for GPU workloads.
+Article text: Together AI partners with Pearl Research Labs to slash AI inference costs using Proof of Useful Work, generating crypto rewards for GPU workloads.
+
+Together AI has teamed up with Pearl Research Labs to tackle one of the most pressing challenges in artificial intelligence: the high cost of inference. The partnership introduces a discounted inference endpoint for the Gemma-4-31B-it-pearl model, leveraging Pearl’s blockchain protocol to turn AI computations into cryptocurrency emissions. Together AI claims this setup reduces inference costs by over 25%, a significant potential savings for enterprises deploying large-scale AI models.
+
+At the core of Pearl’s approach is Proof of Useful Work (PoUW), a blockchain consensus mechanism designed to replace traditional energy-wasting Proof of Work (PoW) tasks with computations that deliver real-world value. In this case, GPU cycles powering AI model training and inference simultaneously secure the blockchain and mine Pearl’s native cryptocurrency, ¶PRL. This dual utility not only offsets operational costs but also makes AI workloads economically productive.
+
+The discounted endpoint for Gemma-4-31B-it-pearl, an instruction-tuned large language model, is the first product in Together AI’s Pearl-integrated portfolio. According to Omri Weinstein, Co-founder and CEO of Pearl Research Labs, this offering is a milestone in the application of PoUW, demonstrating how AI workloads can generate tangible financial benefits. Weinstein stated, “Pearl changes the unit economics of AI by allowing every GPU cycle to produce a native proof-of-work digital asset, ¶PRL, at no additional cost.”
+
+Proof of Useful Work has been gaining traction as a more efficient and environmentally friendly alternative to traditional blockchain consensus mechanisms. Unlike PoW, which relies on solving arbitrary cryptographic puzzles, PoUW directs computational resources toward valuable tasks such as model training, scientific simulations, or data analysis. These computations are validated through cryptographic proofs, ensuring they meet both blockchain security standards and external utility benchmarks. Recent developments in zero-knowledge proofs and verifiable computing have further pushed PoUW into mainstream adoption, particularly within decentralized AI infrastructure projects.
+
+This collaboration isn’t just a technical innovation—it’s also a strategic move in an increasingly competitive AI space where cost reduction is key. By integrating blockchain rewards into its pricing model, Together AI is betting on the long-term viability of crypto incentives to drive adoption. The timing aligns with a broader trend: decentralized compute networks have been rapidly adopting PoUW to make AI workloads more transparent, efficient, and economically viable. This partnership could serve as a test case for whether such models can scale effectively in commercial AI deployments.
+
+For developers and enterprises interested in experimenting with this technology, the Gemma-4-31B-it-pearl endpoint is now available via Together AI’s platform. Meanwhile, Pearl Research Labs is continuing its efforts to expand the utility and adoption of ¶PRL by collaborating with other AI providers and pushing for standardization in PoUW frameworks.
+
+As the AI and blockchain industries converge, projects like this one highlight how distributed ledger technology can be more than just a database—it can fundamentally reshape the economics of computation. Whether this model gains widespread adoption will depend on its ability to deliver consistent cost savings and seamless integration for businesses navigating the high-stakes world of AI deployment.
+
+Get key crypto and blockchain stories in your inbox.
+
+Together AI partners with Pearl Research Labs to slash AI inference costs using Proof of Useful Work, generating crypto rewards for GPU workloads.
+
+Together AI has teamed up with Pearl Research Labs to tackle one of the most pressing challenges in artificial intelligence: the high cost of inference. The partnership introduces a discounted inference endpoint for the Gemma-4-31B-it-pearl model, leveraging Pearl’s blockchain protocol to turn AI computations into cryptocurrency emissions. Together AI claims this setup reduces inference costs by over 25%, a significant potential savings for enterprises deploying large-scale AI models.
+
+At the core of Pearl’s approach is Proof of Useful Work (PoUW), a blockchain consensus mechanism designed to replace traditional energy-wasting Proof of Work (PoW) tasks with computations that deliver real-world value. In this case, GPU cycles powering AI model training and inference simultaneously secure the blockchain and mine Pearl’s native cryptocurrency, ¶PRL. This dual utility not only offsets operational costs but also makes AI workloads economically productive.
+
+The discounted endpoint for Gemma-4-31B-it-pearl, an instruction-tuned large language model, is the first product in Together AI’s Pearl-integrated portfolio. According to Omri Weinstein, Co-founder and CEO of Pearl Research Labs, this offering is a milestone in the application of PoUW, demonstrating how AI workloads can generate tangible financial benefits. Weinstein stated, “Pearl changes the unit economics of AI by allowing every GPU cycle to produce a native proof-of-work digital asset, ¶PRL, at no additional cost.”
+
+Proof of Useful Work has been gaining traction as a more efficient and environmentally friendly alternative to traditional blockchain consensus mechanisms. Unlike PoW, which relies on solving arbitrary cryptographic puzzles, PoUW directs computational resources toward valuable tasks such as model training, scientific simulations, or data analysis. These computations are validated through cryptographic proofs, ensuring they meet both blockchain security standards and external utility benchmarks. Recent developments in zero-knowledge proofs and verifiable computing have further pushed PoUW into mainstream adoption, particularly within decentralized AI infrastructure projects.
+
+This collaboration isn’t just a technical innovation—it’s also a strategic move in an increasingly competitive AI space where cost reduction is key. By integrating blockchain rewards into its pricing model, Together AI is betting on the long-term viability of crypto incentives to drive adoption. The timing aligns with a broader trend: decentralized compute networks have been rapidly adopting PoUW to make AI workloads more transparent, efficient, and economically viable. This partnership could serve as a test case for whether such models can scale effectively in commercial AI deployments.
+
+For developers and enterprises interested in experimenting with this technology, the Gemma-4-31B-it-pearl endpoint is now available via Together AI’s platform. Meanwhile, Pearl Research Labs is continuing its efforts to expand the utility and adoption of ¶PRL by collaborating with other AI providers and pushing for standardization in PoUW frameworks.
+
+As the AI and blockchain industries converge, projects like this one highlight how distributed ledger technology can be more than just a database—it can fundamentally reshape the economics of computation. Whether this model gains widespread adoption will depend on its ability to deliver consistent cost savings and seamless integration for businesses navigating the high-stakes world of AI deployment.
+
+Get key crypto and blockchain stories in your inbox.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/together-ai-pearl-labs-proof-of-useful-work]]></description>
+      <content:encoded><![CDATA[Together AI partners with Pearl Research Labs to slash AI inference costs using Proof of Useful Work, generating crypto rewards for GPU workloads.
+
+Together AI has teamed up with Pearl Research Labs to tackle one of the most pressing challenges in artificial intelligence: the high cost of inference. The partnership introduces a discounted inference endpoint for the Gemma-4-31B-it-pearl model, leveraging Pearl’s blockchain protocol to turn AI computations into cryptocurrency emissions. Together AI claims this setup reduces inference costs by over 25%, a significant potential savings for enterprises deploying large-scale AI models.
+
+At the core of Pearl’s approach is Proof of Useful Work (PoUW), a blockchain consensus mechanism designed to replace traditional energy-wasting Proof of Work (PoW) tasks with computations that deliver real-world value. In this case, GPU cycles powering AI model training and inference simultaneously secure the blockchain and mine Pearl’s native cryptocurrency, ¶PRL. This dual utility not only offsets operational costs but also makes AI workloads economically productive.
+
+The discounted endpoint for Gemma-4-31B-it-pearl, an instruction-tuned large language model, is the first product in Together AI’s Pearl-integrated portfolio. According to Omri Weinstein, Co-founder and CEO of Pearl Research Labs, this offering is a milestone in the application of PoUW, demonstrating how AI workloads can generate tangible financial benefits. Weinstein stated, “Pearl changes the unit economics of AI by allowing every GPU cycle to produce a native proof-of-work digital asset, ¶PRL, at no additional cost.”
+
+Proof of Useful Work has been gaining traction as a more efficient and environmentally friendly alternative to traditional blockchain consensus mechanisms. Unlike PoW, which relies on solving arbitrary cryptographic puzzles, PoUW directs computational resources toward valuable tasks such as model training, scientific simulations, or data analysis. These computations are validated through cryptographic proofs, ensuring they meet both blockchain security standards and external utility benchmarks. Recent developments in zero-knowledge proofs and verifiable computing have further pushed PoUW into mainstream adoption, particularly within decentralized AI infrastructure projects.
+
+This collaboration isn’t just a technical innovation—it’s also a strategic move in an increasingly competitive AI space where cost reduction is key. By integrating blockchain rewards into its pricing model, Together AI is betting on the long-term viability of crypto incentives to drive adoption. The timing aligns with a broader trend: decentralized compute networks have been rapidly adopting PoUW to make AI workloads more transparent, efficient, and economically viable. This partnership could serve as a test case for whether such models can scale effectively in commercial AI deployments.
+
+For developers and enterprises interested in experimenting with this technology, the Gemma-4-31B-it-pearl endpoint is now available via Together AI’s platform. Meanwhile, Pearl Research Labs is continuing its efforts to expand the utility and adoption of ¶PRL by collaborating with other AI providers and pushing for standardization in PoUW frameworks.
+
+As the AI and blockchain industries converge, projects like this one highlight how distributed ledger technology can be more than just a database—it can fundamentally reshape the economics of computation. Whether this model gains widespread adoption will depend on its ability to deliver consistent cost savings and seamless integration for businesses navigating the high-stakes world of AI deployment.
+
+Get key crypto and blockchain stories in your inbox.
+
+Together AI partners with Pearl Research Labs to slash AI inference costs using Proof of Useful Work, generating crypto rewards for GPU workloads.
+
+Together AI has teamed up with Pearl Research Labs to tackle one of the most pressing challenges in artificial intelligence: the high cost of inference. The partnership introduces a discounted inference endpoint for the Gemma-4-31B-it-pearl model, leveraging Pearl’s blockchain protocol to turn AI computations into cryptocurrency emissions. Together AI claims this setup reduces inference costs by over 25%, a significant potential savings for enterprises deploying large-scale AI models.
+
+At the core of Pearl’s approach is Proof of Useful Work (PoUW), a blockchain consensus mechanism designed to replace traditional energy-wasting Proof of Work (PoW) tasks with computations that deliver real-world value. In this case, GPU cycles powering AI model training and inference simultaneously secure the blockchain and mine Pearl’s native cryptocurrency, ¶PRL. This dual utility not only offsets operational costs but also makes AI workloads economically productive.
+
+The discounted endpoint for Gemma-4-31B-it-pearl, an instruction-tuned large language model, is the first product in Together AI’s Pearl-integrated portfolio. According to Omri Weinstein, Co-founder and CEO of Pearl Research Labs, this offering is a milestone in the application of PoUW, demonstrating how AI workloads can generate tangible financial benefits. Weinstein stated, “Pearl changes the unit economics of AI by allowing every GPU cycle to produce a native proof-of-work digital asset, ¶PRL, at no additional cost.”
+
+Proof of Useful Work has been gaining traction as a more efficient and environmentally friendly alternative to traditional blockchain consensus mechanisms. Unlike PoW, which relies on solving arbitrary cryptographic puzzles, PoUW directs computational resources toward valuable tasks such as model training, scientific simulations, or data analysis. These computations are validated through cryptographic proofs, ensuring they meet both blockchain security standards and external utility benchmarks. Recent developments in zero-knowledge proofs and verifiable computing have further pushed PoUW into mainstream adoption, particularly within decentralized AI infrastructure projects.
+
+This collaboration isn’t just a technical innovation—it’s also a strategic move in an increasingly competitive AI space where cost reduction is key. By integrating blockchain rewards into its pricing model, Together AI is betting on the long-term viability of crypto incentives to drive adoption. The timing aligns with a broader trend: decentralized compute networks have been rapidly adopting PoUW to make AI workloads more transparent, efficient, and economically viable. This partnership could serve as a test case for whether such models can scale effectively in commercial AI deployments.
+
+For developers and enterprises interested in experimenting with this technology, the Gemma-4-31B-it-pearl endpoint is now available via Together AI’s platform. Meanwhile, Pearl Research Labs is continuing its efforts to expand the utility and adoption of ¶PRL by collaborating with other AI providers and pushing for standardization in PoUW frameworks.
+
+As the AI and blockchain industries converge, projects like this one highlight how distributed ledger technology can be more than just a database—it can fundamentally reshape the economics of computation. Whether this model gains widespread adoption will depend on its ability to deliver consistent cost savings and seamless integration for businesses navigating the high-stakes world of AI deployment.
+
+Get key crypto and blockchain stories in your inbox.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-bc84eafadba3fb4218d23fd659d512720f948341</guid>
+      <title>Myanmar Proposes Life in Prison for Crypto Scammers | Myanmar&apos;s military government proposes severe penalties for crypto fraud, including life... https://Blockchain.News/news/myanmar-life-prison-crypto-scammers</title>
+      <link>https://Blockchain.News/news/myanmar-life-prison-crypto-scammers</link>
+      <pubDate>Fri, 15 May 2026 17:02:08 GMT</pubDate>
+      <description><![CDATA[Original title: Myanmar Proposes Life in Prison for Crypto Scammers
+Summary: Myanmar's military government proposes severe penalties for crypto fraud, including life imprisonment and death, amid ongoing crypto ban.
+Article text: Myanmar's military government proposes severe penalties for crypto fraud, including life imprisonment and death, amid ongoing crypto ban.
+
+Myanmar’s military government has drafted legislation proposing life imprisonment—and in some cases, the death penalty—for individuals convicted of crypto-related fraud. The proposed Anti-Online Fraud Bill, unveiled on May 15, 2026, reflects the regime’s escalating crackdown on digital currency activities and online scam operations.
+
+According to the draft text, anyone found guilty of "digital currency fraud" could face sentences ranging from 10 years to life imprisonment. The death penalty would apply in cases where scam operations led to fatalities, such as the coercion or exploitation of individuals into fraudulent schemes that resulted in deaths. The bill, which still requires parliamentary approval, is expected to be discussed in early June.
+
+This move underscores the junta’s aggressive stance toward cryptocurrency. Since assuming power in a 2021 coup, Myanmar’s military has maintained a strict prohibition on crypto activities. The Central Bank of Myanmar (CBM) formally banned trading, mining, and use of cryptocurrencies in 2020 under the Anti-Money Laundering Law and the Financial Institutions Law. Despite these bans, underground crypto activity—particularly involving USDT (Tether)—persists, enabled by VPNs and peer-to-peer trading platforms.
+
+Myanmar’s proposed penalties rank among the harshest globally for crypto-related fraud, surpassing even China’s strict measures. Earlier this year, China executed 11 individuals linked to scam centers operating in Myanmar, which had trafficked Chinese nationals and orchestrated large-scale fraud schemes.
+
+The broader Southeast Asian region has become a hotspot for crypto scams, including notorious schemes like “pig butchering” and romance scams. In April 2026, U.S. authorities collaborated with counterparts in China and Dubai to dismantle nine scam centers, arresting over 200 individuals.
+
+Myanmar’s draft bill also highlights the growing role of crypto in facilitating transnational crimes. According to the FBI, Americans alone lost over $11 billion to crypto scams in 2025, contributing to over $20 billion in total online fraud losses. A March 2026 executive order from U.S. President Donald Trump prioritized the dismantling of scam centers, particularly those tied to organized crime in Southeast Asia.
+
+The timing of this legislation reflects the military’s broader effort to consolidate control following its widely criticized 2026 elections. While the junta enforces a crypto ban, the opposition National Unity Government (NUG) has embraced digital assets, declaring Tether an official currency and using blockchain tools for fundraising. This stark policy divergence underscores crypto’s role as a battleground in Myanmar’s ongoing political turmoil.
+
+Enforcement of crypto bans in Myanmar remains inconsistent, with underground trading continuing despite legal risks. The absence of a licensing framework or tax guidance further complicates regulation. However, the proposed bill signals a shift toward more draconian penalties, leveraging the Anti-Online Fraud Bill as both a legal and political tool.
+
+Myanmar’s parliament is set to review the bill during its June session. If passed, the legislation could significantly impact the region’s crypto landscape by intensifying government crackdowns on scam networks. For traders operating in or near Myanmar, this development underscores the risks of engaging in unregulated markets—especially amid mounting legal and political volatility.
+
+Get key crypto and blockchain stories in your inbox.
+
+Myanmar's military government proposes severe penalties for crypto fraud, including life imprisonment and death, amid ongoing crypto ban.
+
+Myanmar’s military government has drafted legislation proposing life imprisonment—and in some cases, the death penalty—for individuals convicted of crypto-related fraud. The proposed Anti-Online Fraud Bill, unveiled on May 15, 2026, reflects the regime’s escalating crackdown on digital currency activities and online scam operations.
+
+According to the draft text, anyone found guilty of "digital currency fraud" could face sentences ranging from 10 years to life imprisonment. The death penalty would apply in cases where scam operations led to fatalities, such as the coercion or exploitation of individuals into fraudulent schemes that resulted in deaths. The bill, which still requires parliamentary approval, is expected to be discussed in early June.
+
+This move underscores the junta’s aggressive stance toward cryptocurrency. Since assuming power in a 2021 coup, Myanmar’s military has maintained a strict prohibition on crypto activities. The Central Bank of Myanmar (CBM) formally banned trading, mining, and use of cryptocurrencies in 2020 under the Anti-Money Laundering Law and the Financial Institutions Law. Despite these bans, underground crypto activity—particularly involving USDT (Tether)—persists, enabled by VPNs and peer-to-peer trading platforms.
+
+Myanmar’s proposed penalties rank among the harshest globally for crypto-related fraud, surpassing even China’s strict measures. Earlier this year, China executed 11 individuals linked to scam centers operating in Myanmar, which had trafficked Chinese nationals and orchestrated large-scale fraud schemes.
+
+The broader Southeast Asian region has become a hotspot for crypto scams, including notorious schemes like “pig butchering” and romance scams. In April 2026, U.S. authorities collaborated with counterparts in China and Dubai to dismantle nine scam centers, arresting over 200 individuals.
+
+Myanmar’s draft bill also highlights the growing role of crypto in facilitating transnational crimes. According to the FBI, Americans alone lost over $11 billion to crypto scams in 2025, contributing to over $20 billion in total online fraud losses. A March 2026 executive order from U.S. President Donald Trump prioritized the dismantling of scam centers, particularly those tied to organized crime in Southeast Asia.
+
+The timing of this legislation reflects the military’s broader effort to consolidate control following its widely criticized 2026 elections. While the junta enforces a crypto ban, the opposition National Unity Government (NUG) has embraced digital assets, declaring Tether an official currency and using blockchain tools for fundraising. This stark policy divergence underscores crypto’s role as a battleground in Myanmar’s ongoing political turmoil.
+
+Enforcement of crypto bans in Myanmar remains inconsistent, with underground trading continuing despite legal risks. The absence of a licensing framework or tax guidance further complicates regulation. However, the proposed bill signals a shift toward more draconian penalties, leveraging the Anti-Online Fraud Bill as both a legal and political tool.
+Source: https://Blockchain.News/news/myanmar-life-prison-crypto-scammers]]></description>
+      <content:encoded><![CDATA[Myanmar's military government proposes severe penalties for crypto fraud, including life imprisonment and death, amid ongoing crypto ban.
+
+Myanmar’s military government has drafted legislation proposing life imprisonment—and in some cases, the death penalty—for individuals convicted of crypto-related fraud. The proposed Anti-Online Fraud Bill, unveiled on May 15, 2026, reflects the regime’s escalating crackdown on digital currency activities and online scam operations.
+
+According to the draft text, anyone found guilty of "digital currency fraud" could face sentences ranging from 10 years to life imprisonment. The death penalty would apply in cases where scam operations led to fatalities, such as the coercion or exploitation of individuals into fraudulent schemes that resulted in deaths. The bill, which still requires parliamentary approval, is expected to be discussed in early June.
+
+This move underscores the junta’s aggressive stance toward cryptocurrency. Since assuming power in a 2021 coup, Myanmar’s military has maintained a strict prohibition on crypto activities. The Central Bank of Myanmar (CBM) formally banned trading, mining, and use of cryptocurrencies in 2020 under the Anti-Money Laundering Law and the Financial Institutions Law. Despite these bans, underground crypto activity—particularly involving USDT (Tether)—persists, enabled by VPNs and peer-to-peer trading platforms.
+
+Myanmar’s proposed penalties rank among the harshest globally for crypto-related fraud, surpassing even China’s strict measures. Earlier this year, China executed 11 individuals linked to scam centers operating in Myanmar, which had trafficked Chinese nationals and orchestrated large-scale fraud schemes.
+
+The broader Southeast Asian region has become a hotspot for crypto scams, including notorious schemes like “pig butchering” and romance scams. In April 2026, U.S. authorities collaborated with counterparts in China and Dubai to dismantle nine scam centers, arresting over 200 individuals.
+
+Myanmar’s draft bill also highlights the growing role of crypto in facilitating transnational crimes. According to the FBI, Americans alone lost over $11 billion to crypto scams in 2025, contributing to over $20 billion in total online fraud losses. A March 2026 executive order from U.S. President Donald Trump prioritized the dismantling of scam centers, particularly those tied to organized crime in Southeast Asia.
+
+The timing of this legislation reflects the military’s broader effort to consolidate control following its widely criticized 2026 elections. While the junta enforces a crypto ban, the opposition National Unity Government (NUG) has embraced digital assets, declaring Tether an official currency and using blockchain tools for fundraising. This stark policy divergence underscores crypto’s role as a battleground in Myanmar’s ongoing political turmoil.
+
+Enforcement of crypto bans in Myanmar remains inconsistent, with underground trading continuing despite legal risks. The absence of a licensing framework or tax guidance further complicates regulation. However, the proposed bill signals a shift toward more draconian penalties, leveraging the Anti-Online Fraud Bill as both a legal and political tool.
+
+Myanmar’s parliament is set to review the bill during its June session. If passed, the legislation could significantly impact the region’s crypto landscape by intensifying government crackdowns on scam networks. For traders operating in or near Myanmar, this development underscores the risks of engaging in unregulated markets—especially amid mounting legal and political volatility.
+
+Get key crypto and blockchain stories in your inbox.
+
+Myanmar's military government proposes severe penalties for crypto fraud, including life imprisonment and death, amid ongoing crypto ban.
+
+Myanmar’s military government has drafted legislation proposing life imprisonment—and in some cases, the death penalty—for individuals convicted of crypto-related fraud. The proposed Anti-Online Fraud Bill, unveiled on May 15, 2026, reflects the regime’s escalating crackdown on digital currency activities and online scam operations.
+
+According to the draft text, anyone found guilty of "digital currency fraud" could face sentences ranging from 10 years to life imprisonment. The death penalty would apply in cases where scam operations led to fatalities, such as the coercion or exploitation of individuals into fraudulent schemes that resulted in deaths. The bill, which still requires parliamentary approval, is expected to be discussed in early June.
+
+This move underscores the junta’s aggressive stance toward cryptocurrency. Since assuming power in a 2021 coup, Myanmar’s military has maintained a strict prohibition on crypto activities. The Central Bank of Myanmar (CBM) formally banned trading, mining, and use of cryptocurrencies in 2020 under the Anti-Money Laundering Law and the Financial Institutions Law. Despite these bans, underground crypto activity—particularly involving USDT (Tether)—persists, enabled by VPNs and peer-to-peer trading platforms.
+
+Myanmar’s proposed penalties rank among the harshest globally for crypto-related fraud, surpassing even China’s strict measures. Earlier this year, China executed 11 individuals linked to scam centers operating in Myanmar, which had trafficked Chinese nationals and orchestrated large-scale fraud schemes.
+
+The broader Southeast Asian region has become a hotspot for crypto scams, including notorious schemes like “pig butchering” and romance scams. In April 2026, U.S. authorities collaborated with counterparts in China and Dubai to dismantle nine scam centers, arresting over 200 individuals.
+
+Myanmar’s draft bill also highlights the growing role of crypto in facilitating transnational crimes. According to the FBI, Americans alone lost over $11 billion to crypto scams in 2025, contributing to over $20 billion in total online fraud losses. A March 2026 executive order from U.S. President Donald Trump prioritized the dismantling of scam centers, particularly those tied to organized crime in Southeast Asia.
+
+The timing of this legislation reflects the military’s broader effort to consolidate control following its widely criticized 2026 elections. While the junta enforces a crypto ban, the opposition National Unity Government (NUG) has embraced digital assets, declaring Tether an official currency and using blockchain tools for fundraising. This stark policy divergence underscores crypto’s role as a battleground in Myanmar’s ongoing political turmoil.
+
+Enforcement of crypto bans in Myanmar remains inconsistent, with underground trading continuing despite legal risks. The absence of a licensing framework or tax guidance further complicates regulation. However, the proposed bill signals a shift toward more draconian penalties, leveraging the Anti-Online Fraud Bill as both a legal and political tool.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-ffce7e2eed6a3122c4a4aed7b5f905417b11aedb</guid>
       <title>Anyscale Launches Persistent Ray Dashboards for Debugging AI Workloads | Anyscale introduces new Cluster and Actor dashboards for Ray, offering full data persiste... https://Blockchain.News/news/anyscale-ray-cluster-actor-dashboards</title>
@@ -2337,267 +2598,6 @@ Importantly, Tron’s infrastructure itself cannot block transactions, but the n
 As crypto adoption continues to intersect with global sanctions enforcement, the tools and tactics used to trace illicit activity will likely play a key role in shaping the regulatory landscape.
 
 Get key crypto and blockchain stories in your inbox.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-de73c09d37709c7527591eca46b00057e8c0a5b4</guid>
-      <title>WLD Price Prediction: $0.32 Target Within Two Weeks as Whale Money Accumulates | Worldcoin shows classic accumulation patterns at $0.28 with open interest surging 9.99% w... https://Blockchain.News/news/20260513-price-prediction-target-wld-032-within-two-week...</title>
-      <link>https://Blockchain.News/news/20260513-price-prediction-target-wld-032-within-two-weeks-as-whale</link>
-      <pubDate>Wed, 13 May 2026 08:02:16 GMT</pubDate>
-      <description><![CDATA[Original title: WLD Price Prediction: $0.32 Target Within Two Weeks as Whale Money Accumulates
-Summary: Worldcoin shows classic accumulation patterns at $0.28 with open interest surging 9.99% while smart money maintains 2.18 long-to-short positioning. Technical confluence points to 14% upside toward
-Article text: Worldcoin shows classic accumulation patterns at $0.28 with open interest surging 9.99% while smart money maintains 2.18 long-to-short positioning. Technical confluence points to 14% upside toward ...
-
-Worldcoin trades at $0.28 with compelling momentum characteristics emerging from recent consolidation. The RSI at 55 sits comfortably in neutral territory while MACD histogram flatlining at zero indicates selling pressure exhaustion rather than directional weakness. Bollinger Band positioning at 0.86 places WLD near upper resistance at $0.29, creating a coiled spring effect when combined with non-overbought RSI levels.
-
-Short-term moving averages cluster between $0.26-$0.27, providing technical support foundation while the distant 200-day SMA at $0.46 represents long-term resistance. This positioning typically signals accumulation phases where patient capital builds positions ahead of breakout attempts.
-
-Open interest value reached $44.4 million alongside $10.3 million daily spot volume, with institutional positioning becoming increasingly apparent through derivatives flows. Blockchain.news tracking shows open interest surged 9.99% in 24 hours while price remained stable, indicating sophisticated accumulation behavior rather than speculative positioning.
-
-Top traders maintain a decisive 2.18 long-to-short ratio with 68.6% positioned bullish, while retail sentiment aligns at 64.3% long. This convergence between institutional and retail positioning creates momentum fuel for sustained directional moves. The taker buy-sell ratio of 1.20 demonstrates aggressive buying pressure outweighing selling by $550,000 in recent hourly volume, confirming demand at current levels.
-
-WLD maintains relative strength against broader crypto market weakness, with consistent support above $0.27 demonstrating underlying institutional demand. The neutral 0.0042% funding rate indicates balanced sentiment without excessive speculation, allowing organic price discovery mechanisms to function effectively.
-
-Volume patterns suggest methodical accumulation rather than momentum-driven speculation. Blockchain.news analysis confirms WLD's ability to consolidate near resistance while building technical momentum creates constructive conditions for upside resolution.
-
-WLD faces binary outcomes over the next 14-day period with 70% probability favoring the $0.32 target level. This represents 14% upside potential that aligns with upper Bollinger Band expansion and coincides with historical resistance from previous trading ranges. Breaking decisive resistance at $0.29 with volume confirmation serves as the primary catalyst for this scenario.
-
-The alternative 30% probability involves rejection at current levels, potentially pulling WLD toward $0.25 strong support. However, whale positioning combined with positive momentum divergence and consolidation near resistance favors upside breakout attempts. Any pullback below $0.26 would likely trigger aggressive institutional buying based on current positioning patterns.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Traders should monitor decisive breaks above $0.29 with volume confirmation as triggers for the $0.32 target within the projected timeframe.
-
-Get key crypto and blockchain stories in your inbox.
-
-Worldcoin shows classic accumulation patterns at $0.28 with open interest surging 9.99% while smart money maintains 2.18 long-to-short positioning. Technical confluence points to 14% upside toward ...
-
-Worldcoin trades at $0.28 with compelling momentum characteristics emerging from recent consolidation. The RSI at 55 sits comfortably in neutral territory while MACD histogram flatlining at zero indicates selling pressure exhaustion rather than directional weakness. Bollinger Band positioning at 0.86 places WLD near upper resistance at $0.29, creating a coiled spring effect when combined with non-overbought RSI levels.
-
-Short-term moving averages cluster between $0.26-$0.27, providing technical support foundation while the distant 200-day SMA at $0.46 represents long-term resistance. This positioning typically signals accumulation phases where patient capital builds positions ahead of breakout attempts.
-
-Open interest value reached $44.4 million alongside $10.3 million daily spot volume, with institutional positioning becoming increasingly apparent through derivatives flows. Blockchain.news tracking shows open interest surged 9.99% in 24 hours while price remained stable, indicating sophisticated accumulation behavior rather than speculative positioning.
-
-Top traders maintain a decisive 2.18 long-to-short ratio with 68.6% positioned bullish, while retail sentiment aligns at 64.3% long. This convergence between institutional and retail positioning creates momentum fuel for sustained directional moves. The taker buy-sell ratio of 1.20 demonstrates aggressive buying pressure outweighing selling by $550,000 in recent hourly volume, confirming demand at current levels.
-
-WLD maintains relative strength against broader crypto market weakness, with consistent support above $0.27 demonstrating underlying institutional demand. The neutral 0.0042% funding rate indicates balanced sentiment without excessive speculation, allowing organic price discovery mechanisms to function effectively.
-
-Volume patterns suggest methodical accumulation rather than momentum-driven speculation. Blockchain.news analysis confirms WLD's ability to consolidate near resistance while building technical momentum creates constructive conditions for upside resolution.
-
-WLD faces binary outcomes over the next 14-day period with 70% probability favoring the $0.32 target level. This represents 14% upside potential that aligns with upper Bollinger Band expansion and coincides with historical resistance from previous trading ranges. Breaking decisive resistance at $0.29 with volume confirmation serves as the primary catalyst for this scenario.
-Source: https://Blockchain.News/news/20260513-price-prediction-target-wld-032-within-two-weeks-as-whale]]></description>
-      <content:encoded><![CDATA[Worldcoin shows classic accumulation patterns at $0.28 with open interest surging 9.99% while smart money maintains 2.18 long-to-short positioning. Technical confluence points to 14% upside toward ...
-
-Worldcoin trades at $0.28 with compelling momentum characteristics emerging from recent consolidation. The RSI at 55 sits comfortably in neutral territory while MACD histogram flatlining at zero indicates selling pressure exhaustion rather than directional weakness. Bollinger Band positioning at 0.86 places WLD near upper resistance at $0.29, creating a coiled spring effect when combined with non-overbought RSI levels.
-
-Short-term moving averages cluster between $0.26-$0.27, providing technical support foundation while the distant 200-day SMA at $0.46 represents long-term resistance. This positioning typically signals accumulation phases where patient capital builds positions ahead of breakout attempts.
-
-Open interest value reached $44.4 million alongside $10.3 million daily spot volume, with institutional positioning becoming increasingly apparent through derivatives flows. Blockchain.news tracking shows open interest surged 9.99% in 24 hours while price remained stable, indicating sophisticated accumulation behavior rather than speculative positioning.
-
-Top traders maintain a decisive 2.18 long-to-short ratio with 68.6% positioned bullish, while retail sentiment aligns at 64.3% long. This convergence between institutional and retail positioning creates momentum fuel for sustained directional moves. The taker buy-sell ratio of 1.20 demonstrates aggressive buying pressure outweighing selling by $550,000 in recent hourly volume, confirming demand at current levels.
-
-WLD maintains relative strength against broader crypto market weakness, with consistent support above $0.27 demonstrating underlying institutional demand. The neutral 0.0042% funding rate indicates balanced sentiment without excessive speculation, allowing organic price discovery mechanisms to function effectively.
-
-Volume patterns suggest methodical accumulation rather than momentum-driven speculation. Blockchain.news analysis confirms WLD's ability to consolidate near resistance while building technical momentum creates constructive conditions for upside resolution.
-
-WLD faces binary outcomes over the next 14-day period with 70% probability favoring the $0.32 target level. This represents 14% upside potential that aligns with upper Bollinger Band expansion and coincides with historical resistance from previous trading ranges. Breaking decisive resistance at $0.29 with volume confirmation serves as the primary catalyst for this scenario.
-
-The alternative 30% probability involves rejection at current levels, potentially pulling WLD toward $0.25 strong support. However, whale positioning combined with positive momentum divergence and consolidation near resistance favors upside breakout attempts. Any pullback below $0.26 would likely trigger aggressive institutional buying based on current positioning patterns.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Traders should monitor decisive breaks above $0.29 with volume confirmation as triggers for the $0.32 target within the projected timeframe.
-
-Get key crypto and blockchain stories in your inbox.
-
-Worldcoin shows classic accumulation patterns at $0.28 with open interest surging 9.99% while smart money maintains 2.18 long-to-short positioning. Technical confluence points to 14% upside toward ...
-
-Worldcoin trades at $0.28 with compelling momentum characteristics emerging from recent consolidation. The RSI at 55 sits comfortably in neutral territory while MACD histogram flatlining at zero indicates selling pressure exhaustion rather than directional weakness. Bollinger Band positioning at 0.86 places WLD near upper resistance at $0.29, creating a coiled spring effect when combined with non-overbought RSI levels.
-
-Short-term moving averages cluster between $0.26-$0.27, providing technical support foundation while the distant 200-day SMA at $0.46 represents long-term resistance. This positioning typically signals accumulation phases where patient capital builds positions ahead of breakout attempts.
-
-Open interest value reached $44.4 million alongside $10.3 million daily spot volume, with institutional positioning becoming increasingly apparent through derivatives flows. Blockchain.news tracking shows open interest surged 9.99% in 24 hours while price remained stable, indicating sophisticated accumulation behavior rather than speculative positioning.
-
-Top traders maintain a decisive 2.18 long-to-short ratio with 68.6% positioned bullish, while retail sentiment aligns at 64.3% long. This convergence between institutional and retail positioning creates momentum fuel for sustained directional moves. The taker buy-sell ratio of 1.20 demonstrates aggressive buying pressure outweighing selling by $550,000 in recent hourly volume, confirming demand at current levels.
-
-WLD maintains relative strength against broader crypto market weakness, with consistent support above $0.27 demonstrating underlying institutional demand. The neutral 0.0042% funding rate indicates balanced sentiment without excessive speculation, allowing organic price discovery mechanisms to function effectively.
-
-Volume patterns suggest methodical accumulation rather than momentum-driven speculation. Blockchain.news analysis confirms WLD's ability to consolidate near resistance while building technical momentum creates constructive conditions for upside resolution.
-
-WLD faces binary outcomes over the next 14-day period with 70% probability favoring the $0.32 target level. This represents 14% upside potential that aligns with upper Bollinger Band expansion and coincides with historical resistance from previous trading ranges. Breaking decisive resistance at $0.29 with volume confirmation serves as the primary catalyst for this scenario.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-89e7fb5642dcd9ff0a8e07f5380e72a6d8094baa</guid>
-      <title>SUI Price Prediction: $2.01 Breakout Target Despite Overbought RSI - 65% Probability by June | SUI&apos;s RSI at 71.29 signals dangerous overbought territory, but whale positioning at 65% l... https://Blockchain.News/news/20260513-price-prediction-target-sui-201-b...</title>
-      <link>https://Blockchain.News/news/20260513-price-prediction-target-sui-201-breakout-despite-overbought-rsi-65</link>
-      <pubDate>Wed, 13 May 2026 07:58:16 GMT</pubDate>
-      <description><![CDATA[Original title: SUI Price Prediction: $2.01 Breakout Target Despite Overbought RSI - 65% Probability by June
-Summary: SUI's RSI at 71.29 signals dangerous overbought territory, but whale positioning at 65% long creates compelling upside potential to $2.01. Pullback to $1.18 support expected before momentum resumes
-Article text: SUI's RSI at 71.29 signals dangerous overbought territory, but whale positioning at 65% long creates compelling upside potential to $2.01. Pullback to $1.18 support expected before momentum resumes.
-
-SUI trades at $1.25 in precarious territory, hovering near its upper Bollinger Band resistance at $1.29 while the RSI screams overbought at 71.29. The price action shows clear exhaustion signals after recent gains, yet the MACD histogram at flat zero suggests bulls maintain some control. The disconnect between technical overextension and institutional positioning creates an intriguing dynamic - smart money leans heavily long at 65.1% while retail follows at 64%, an alignment that typically precedes major moves.
-
-The 24-hour volume of $79.2 million on Binance spot reveals sustained interest, but the -2.56% daily decline shows profit-taking pressure building. Blockchain.news technical analysis reveals SUI trapped between immediate resistance at $1.28 and critical support developing around $1.21-$1.18.
-
-The moving average structure tells a story of momentum at a crossroads. SUI trades comfortably above short-term EMAs with EMA 12 at $1.12 and EMA 26 at $1.04, but remains capped below the 200-day SMA at $1.32. This resistance ceiling represents the key battleground for any sustained upward movement. The 22% premium to the SMA 20 at $1.02 appears unsustainable without fundamental catalysts driving demand.
-
-Strong support materializes at $1.18, reinforced by the convergence of EMA 12 and recent swing lows. Below that level, a void extends to the SMA 50 at $0.96, representing a potential 23% correction if momentum breaks. The Bollinger Band %B position at 0.92 confirms SUI rides the upper channel edge, historically marking dangerous territory for momentum plays.
-
-The derivatives market provides context through mixed signals. The slightly negative funding rate of -0.0016% suggests futures traders aren't aggressively leveraging long positions despite bullish sentiment. Open interest surged 3.66% in 24 hours to $135.6 million, indicating fresh capital entering positions rather than existing traders adding size. The 1.25 taker buy/sell ratio shows modest aggressive buying pressure without the capitulation or euphoria marking major turning points.
-
-Blockchain.news market structure analysis suggests institutional positioning at 65% long provides a foundation for higher prices, but overbought technical conditions demand patience. The convergence of multiple resistance levels near current prices creates a natural consolidation zone that must resolve through either time or price correction.
-
-The setup favors a measured approach targeting the $2.01 structural level based on descending wedge pattern analysis. Expect a healthy pullback to the $1.18-$1.21 zone where EMA 12 and recent support converge. This represents optimal entry territory for swing traders, offering attractive risk-reward dynamics given current momentum structure and institutional positioning.
-
-Entry Zone: $1.18-$1.21 on any pullback Stop Loss: $1.12 (below EMA 12 support) Primary Target: $1.45 (11% gain, 75% probability) Extended Target: $2.01 (67% gain, 65% probability by June)
-
-The invalidation level sits at $1.12, where EMA 12 breach would collapse the bullish thesis. Risk management requires position sizing that withstands 7-10% drawdown from entry levels. For aggressive traders, any break above $1.32 with volume confirmation triggers momentum entries targeting the $1.45-$2.01 range.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-The probability matrix favors patience over impulsive action. Let overbought conditions resolve through time or price correction before committing capital. The next major move higher requires either successful support retest or decisive break above 200-day moving average resistance.
-
-Get key crypto and blockchain stories in your inbox.
-
-SUI's RSI at 71.29 signals dangerous overbought territory, but whale positioning at 65% long creates compelling upside potential to $2.01. Pullback to $1.18 support expected before momentum resumes.
-
-SUI trades at $1.25 in precarious territory, hovering near its upper Bollinger Band resistance at $1.29 while the RSI screams overbought at 71.29. The price action shows clear exhaustion signals after recent gains, yet the MACD histogram at flat zero suggests bulls maintain some control. The disconnect between technical overextension and institutional positioning creates an intriguing dynamic - smart money leans heavily long at 65.1% while retail follows at 64%, an alignment that typically precedes major moves.
-
-The 24-hour volume of $79.2 million on Binance spot reveals sustained interest, but the -2.56% daily decline shows profit-taking pressure building. Blockchain.news technical analysis reveals SUI trapped between immediate resistance at $1.28 and critical support developing around $1.21-$1.18.
-
-The moving average structure tells a story of momentum at a crossroads. SUI trades comfortably above short-term EMAs with EMA 12 at $1.12 and EMA 26 at $1.04, but remains capped below the 200-day SMA at $1.32. This resistance ceiling represents the key battleground for any sustained upward movement. The 22% premium to the SMA 20 at $1.02 appears unsustainable without fundamental catalysts driving demand.
-
-Strong support materializes at $1.18, reinforced by the convergence of EMA 12 and recent swing lows. Below that level, a void extends to the SMA 50 at $0.96, representing a potential 23% correction if momentum breaks. The Bollinger Band %B position at 0.92 confirms SUI rides the upper channel edge, historically marking dangerous territory for momentum plays.
-
-The derivatives market provides context through mixed signals. The slightly negative funding rate of -0.0016% suggests futures traders aren't aggressively leveraging long positions despite bullish sentiment. Open interest surged 3.66% in 24 hours to $135.6 million, indicating fresh capital entering positions rather than existing traders adding size. The 1.25 taker buy/sell ratio shows modest aggressive buying pressure without the capitulation or euphoria marking major turning points.
-
-Blockchain.news market structure analysis suggests institutional positioning at 65% long provides a foundation for higher prices, but overbought technical conditions demand patience. The convergence of multiple resistance levels near current prices creates a natural consolidation zone that must resolve through either time or price correction.
-Source: https://Blockchain.News/news/20260513-price-prediction-target-sui-201-breakout-despite-overbought-rsi-65]]></description>
-      <content:encoded><![CDATA[SUI's RSI at 71.29 signals dangerous overbought territory, but whale positioning at 65% long creates compelling upside potential to $2.01. Pullback to $1.18 support expected before momentum resumes.
-
-SUI trades at $1.25 in precarious territory, hovering near its upper Bollinger Band resistance at $1.29 while the RSI screams overbought at 71.29. The price action shows clear exhaustion signals after recent gains, yet the MACD histogram at flat zero suggests bulls maintain some control. The disconnect between technical overextension and institutional positioning creates an intriguing dynamic - smart money leans heavily long at 65.1% while retail follows at 64%, an alignment that typically precedes major moves.
-
-The 24-hour volume of $79.2 million on Binance spot reveals sustained interest, but the -2.56% daily decline shows profit-taking pressure building. Blockchain.news technical analysis reveals SUI trapped between immediate resistance at $1.28 and critical support developing around $1.21-$1.18.
-
-The moving average structure tells a story of momentum at a crossroads. SUI trades comfortably above short-term EMAs with EMA 12 at $1.12 and EMA 26 at $1.04, but remains capped below the 200-day SMA at $1.32. This resistance ceiling represents the key battleground for any sustained upward movement. The 22% premium to the SMA 20 at $1.02 appears unsustainable without fundamental catalysts driving demand.
-
-Strong support materializes at $1.18, reinforced by the convergence of EMA 12 and recent swing lows. Below that level, a void extends to the SMA 50 at $0.96, representing a potential 23% correction if momentum breaks. The Bollinger Band %B position at 0.92 confirms SUI rides the upper channel edge, historically marking dangerous territory for momentum plays.
-
-The derivatives market provides context through mixed signals. The slightly negative funding rate of -0.0016% suggests futures traders aren't aggressively leveraging long positions despite bullish sentiment. Open interest surged 3.66% in 24 hours to $135.6 million, indicating fresh capital entering positions rather than existing traders adding size. The 1.25 taker buy/sell ratio shows modest aggressive buying pressure without the capitulation or euphoria marking major turning points.
-
-Blockchain.news market structure analysis suggests institutional positioning at 65% long provides a foundation for higher prices, but overbought technical conditions demand patience. The convergence of multiple resistance levels near current prices creates a natural consolidation zone that must resolve through either time or price correction.
-
-The setup favors a measured approach targeting the $2.01 structural level based on descending wedge pattern analysis. Expect a healthy pullback to the $1.18-$1.21 zone where EMA 12 and recent support converge. This represents optimal entry territory for swing traders, offering attractive risk-reward dynamics given current momentum structure and institutional positioning.
-
-Entry Zone: $1.18-$1.21 on any pullback Stop Loss: $1.12 (below EMA 12 support) Primary Target: $1.45 (11% gain, 75% probability) Extended Target: $2.01 (67% gain, 65% probability by June)
-
-The invalidation level sits at $1.12, where EMA 12 breach would collapse the bullish thesis. Risk management requires position sizing that withstands 7-10% drawdown from entry levels. For aggressive traders, any break above $1.32 with volume confirmation triggers momentum entries targeting the $1.45-$2.01 range.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-The probability matrix favors patience over impulsive action. Let overbought conditions resolve through time or price correction before committing capital. The next major move higher requires either successful support retest or decisive break above 200-day moving average resistance.
-
-Get key crypto and blockchain stories in your inbox.
-
-SUI's RSI at 71.29 signals dangerous overbought territory, but whale positioning at 65% long creates compelling upside potential to $2.01. Pullback to $1.18 support expected before momentum resumes.
-
-SUI trades at $1.25 in precarious territory, hovering near its upper Bollinger Band resistance at $1.29 while the RSI screams overbought at 71.29. The price action shows clear exhaustion signals after recent gains, yet the MACD histogram at flat zero suggests bulls maintain some control. The disconnect between technical overextension and institutional positioning creates an intriguing dynamic - smart money leans heavily long at 65.1% while retail follows at 64%, an alignment that typically precedes major moves.
-
-The 24-hour volume of $79.2 million on Binance spot reveals sustained interest, but the -2.56% daily decline shows profit-taking pressure building. Blockchain.news technical analysis reveals SUI trapped between immediate resistance at $1.28 and critical support developing around $1.21-$1.18.
-
-The moving average structure tells a story of momentum at a crossroads. SUI trades comfortably above short-term EMAs with EMA 12 at $1.12 and EMA 26 at $1.04, but remains capped below the 200-day SMA at $1.32. This resistance ceiling represents the key battleground for any sustained upward movement. The 22% premium to the SMA 20 at $1.02 appears unsustainable without fundamental catalysts driving demand.
-
-Strong support materializes at $1.18, reinforced by the convergence of EMA 12 and recent swing lows. Below that level, a void extends to the SMA 50 at $0.96, representing a potential 23% correction if momentum breaks. The Bollinger Band %B position at 0.92 confirms SUI rides the upper channel edge, historically marking dangerous territory for momentum plays.
-
-The derivatives market provides context through mixed signals. The slightly negative funding rate of -0.0016% suggests futures traders aren't aggressively leveraging long positions despite bullish sentiment. Open interest surged 3.66% in 24 hours to $135.6 million, indicating fresh capital entering positions rather than existing traders adding size. The 1.25 taker buy/sell ratio shows modest aggressive buying pressure without the capitulation or euphoria marking major turning points.
-
-Blockchain.news market structure analysis suggests institutional positioning at 65% long provides a foundation for higher prices, but overbought technical conditions demand patience. The convergence of multiple resistance levels near current prices creates a natural consolidation zone that must resolve through either time or price correction.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-ea3167ca39fdce84559b3730407ed47d5edc11ed</guid>
-      <title>OP Price Prediction: $0.12 Target Approaches as Technical Support Crumbles | Optimism faces mounting pressure toward $0.12 as bearish momentum accelerates through wea... https://Blockchain.News/news/20260513-price-prediction-target-op-012-approaches-as-techni...</title>
-      <link>https://Blockchain.News/news/20260513-price-prediction-target-op-012-approaches-as-technical-support-crumbles</link>
-      <pubDate>Wed, 13 May 2026 07:57:14 GMT</pubDate>
-      <description><![CDATA[Original title: OP Price Prediction: $0.12 Target Approaches as Technical Support Crumbles
-Summary: Optimism faces mounting pressure toward $0.12 as bearish momentum accelerates through weakening support levels. Multiple technical indicators align for a potential 20% decline within two weeks.
-Article text: Optimism faces mounting pressure toward $0.12 as bearish momentum accelerates through weakening support levels. Multiple technical indicators align for a potential 20% decline within two weeks.
-
-Optimism's price action reveals mounting bearish pressure as key technical levels begin to fail. The RSI at 63.28 sits in neutral territory while the MACD histogram flatlines at zero, indicating momentum has stalled after recent gains. Trading at 0.76 position within its Bollinger Bands places OP dangerously close to the upper boundary, suggesting an imminent reversion toward the middle band at $0.14.
-
-The moving average structure exposes underlying weakness despite OP's position above the 7-day SMA at $0.16. The token barely maintains its hold above the critical 20-day average at $0.14, while a significant gap to the 200-day SMA at $0.23 demonstrates the substantial distance from longer-term trend support. This configuration typically precedes sharp corrections when Blockchain.news technical analysis shows momentum divergence.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Derivatives data reveals a concerning disconnect between trader positioning and actual market activity. While retail traders maintain 62.6% long positions and smart money shows 67.9% bullish positioning, the taker buy/sell ratio of 0.5263 exposes aggressive selling pressure overwhelming buying interest by nearly 2:1.
-
-Open interest has climbed to $21.4 million with a 3.07% daily increase, building leveraged positions that could amplify price movements. The negative funding rate of -0.0063% compensates short sellers, creating additional downward pressure as the market structure favors bearish positions.
-
-The technical setup points toward a test of $0.12 support within the next 14 days, representing approximately 20% downside from current levels. This scenario carries roughly 65% probability based on the convergence of bearish indicators and weakening support structure.
-
-The decline would likely begin with a break below immediate support at $0.15, triggering stop-loss orders and creating cascading pressure toward the 50-day moving average near $0.12. Should this level fail to hold, Blockchain.news analysis suggests further weakness toward the lower Bollinger Band around $0.10.
-
-The alternative 35% scenario requires OP to decisively reclaim $0.16 resistance with substantial volume, breaking the current bearish momentum. However, given the aggressive selling pressure and technical deterioration, this outcome appears increasingly unlikely without significant fundamental catalysts.
-
-For traders considering positions, the risk/reward structure favors short-term bearish strategies with stops above $0.165 and targets near $0.12. The momentum shift creates challenging conditions for bullish positions as overleveraged long positions face potential liquidation pressure.
-
-Get key crypto and blockchain stories in your inbox.
-
-Optimism faces mounting pressure toward $0.12 as bearish momentum accelerates through weakening support levels. Multiple technical indicators align for a potential 20% decline within two weeks.
-
-Optimism's price action reveals mounting bearish pressure as key technical levels begin to fail. The RSI at 63.28 sits in neutral territory while the MACD histogram flatlines at zero, indicating momentum has stalled after recent gains. Trading at 0.76 position within its Bollinger Bands places OP dangerously close to the upper boundary, suggesting an imminent reversion toward the middle band at $0.14.
-
-The moving average structure exposes underlying weakness despite OP's position above the 7-day SMA at $0.16. The token barely maintains its hold above the critical 20-day average at $0.14, while a significant gap to the 200-day SMA at $0.23 demonstrates the substantial distance from longer-term trend support. This configuration typically precedes sharp corrections when Blockchain.news technical analysis shows momentum divergence.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Derivatives data reveals a concerning disconnect between trader positioning and actual market activity. While retail traders maintain 62.6% long positions and smart money shows 67.9% bullish positioning, the taker buy/sell ratio of 0.5263 exposes aggressive selling pressure overwhelming buying interest by nearly 2:1.
-
-Open interest has climbed to $21.4 million with a 3.07% daily increase, building leveraged positions that could amplify price movements. The negative funding rate of -0.0063% compensates short sellers, creating additional downward pressure as the market structure favors bearish positions.
-
-The technical setup points toward a test of $0.12 support within the next 14 days, representing approximately 20% downside from current levels. This scenario carries roughly 65% probability based on the convergence of bearish indicators and weakening support structure.
-
-The decline would likely begin with a break below immediate support at $0.15, triggering stop-loss orders and creating cascading pressure toward the 50-day moving average near $0.12. Should this level fail to hold, Blockchain.news analysis suggests further weakness toward the lower Bollinger Band around $0.10.
-
-The alternative 35% scenario requires OP to decisively reclaim $0.16 resistance with substantial volume, breaking the current bearish momentum. However, given the aggressive selling pressure and technical deterioration, this outcome appears increasingly unlikely without significant fundamental catalysts.
-Source: https://Blockchain.News/news/20260513-price-prediction-target-op-012-approaches-as-technical-support-crumbles]]></description>
-      <content:encoded><![CDATA[Optimism faces mounting pressure toward $0.12 as bearish momentum accelerates through weakening support levels. Multiple technical indicators align for a potential 20% decline within two weeks.
-
-Optimism's price action reveals mounting bearish pressure as key technical levels begin to fail. The RSI at 63.28 sits in neutral territory while the MACD histogram flatlines at zero, indicating momentum has stalled after recent gains. Trading at 0.76 position within its Bollinger Bands places OP dangerously close to the upper boundary, suggesting an imminent reversion toward the middle band at $0.14.
-
-The moving average structure exposes underlying weakness despite OP's position above the 7-day SMA at $0.16. The token barely maintains its hold above the critical 20-day average at $0.14, while a significant gap to the 200-day SMA at $0.23 demonstrates the substantial distance from longer-term trend support. This configuration typically precedes sharp corrections when Blockchain.news technical analysis shows momentum divergence.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Derivatives data reveals a concerning disconnect between trader positioning and actual market activity. While retail traders maintain 62.6% long positions and smart money shows 67.9% bullish positioning, the taker buy/sell ratio of 0.5263 exposes aggressive selling pressure overwhelming buying interest by nearly 2:1.
-
-Open interest has climbed to $21.4 million with a 3.07% daily increase, building leveraged positions that could amplify price movements. The negative funding rate of -0.0063% compensates short sellers, creating additional downward pressure as the market structure favors bearish positions.
-
-The technical setup points toward a test of $0.12 support within the next 14 days, representing approximately 20% downside from current levels. This scenario carries roughly 65% probability based on the convergence of bearish indicators and weakening support structure.
-
-The decline would likely begin with a break below immediate support at $0.15, triggering stop-loss orders and creating cascading pressure toward the 50-day moving average near $0.12. Should this level fail to hold, Blockchain.news analysis suggests further weakness toward the lower Bollinger Band around $0.10.
-
-The alternative 35% scenario requires OP to decisively reclaim $0.16 resistance with substantial volume, breaking the current bearish momentum. However, given the aggressive selling pressure and technical deterioration, this outcome appears increasingly unlikely without significant fundamental catalysts.
-
-For traders considering positions, the risk/reward structure favors short-term bearish strategies with stops above $0.165 and targets near $0.12. The momentum shift creates challenging conditions for bullish positions as overleveraged long positions face potential liquidation pressure.
-
-Get key crypto and blockchain stories in your inbox.
-
-Optimism faces mounting pressure toward $0.12 as bearish momentum accelerates through weakening support levels. Multiple technical indicators align for a potential 20% decline within two weeks.
-
-Optimism's price action reveals mounting bearish pressure as key technical levels begin to fail. The RSI at 63.28 sits in neutral territory while the MACD histogram flatlines at zero, indicating momentum has stalled after recent gains. Trading at 0.76 position within its Bollinger Bands places OP dangerously close to the upper boundary, suggesting an imminent reversion toward the middle band at $0.14.
-
-The moving average structure exposes underlying weakness despite OP's position above the 7-day SMA at $0.16. The token barely maintains its hold above the critical 20-day average at $0.14, while a significant gap to the 200-day SMA at $0.23 demonstrates the substantial distance from longer-term trend support. This configuration typically precedes sharp corrections when Blockchain.news technical analysis shows momentum divergence.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-Derivatives data reveals a concerning disconnect between trader positioning and actual market activity. While retail traders maintain 62.6% long positions and smart money shows 67.9% bullish positioning, the taker buy/sell ratio of 0.5263 exposes aggressive selling pressure overwhelming buying interest by nearly 2:1.
-
-Open interest has climbed to $21.4 million with a 3.07% daily increase, building leveraged positions that could amplify price movements. The negative funding rate of -0.0063% compensates short sellers, creating additional downward pressure as the market structure favors bearish positions.
-
-The technical setup points toward a test of $0.12 support within the next 14 days, representing approximately 20% downside from current levels. This scenario carries roughly 65% probability based on the convergence of bearish indicators and weakening support structure.
-
-The decline would likely begin with a break below immediate support at $0.15, triggering stop-loss orders and creating cascading pressure toward the 50-day moving average near $0.12. Should this level fail to hold, Blockchain.news analysis suggests further weakness toward the lower Bollinger Band around $0.10.
-
-The alternative 35% scenario requires OP to decisively reclaim $0.16 resistance with substantial volume, breaking the current bearish momentum. However, given the aggressive selling pressure and technical deterioration, this outcome appears increasingly unlikely without significant fundamental catalysts.]]></content:encoded>
     </item>
   </channel>
 </rss>
