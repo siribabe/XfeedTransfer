@@ -4,7 +4,268 @@
     <title>X Feed Transfer Source Feed</title>
     <link>https://siribabe.github.io/XfeedTransfer/feed.xml</link>
     <description>Inspection feed with source articles and extracted body text</description>
-    <lastBuildDate>Mon, 18 May 2026 15:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:40:27 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">xfeed-b477793014e29d15818c61f462d92350bfbf8731</guid>
+      <title>Circle&apos;s API Monetization Tool Uses USDC for AI Agent Payments | Circle introduces Gateway for API monetization, enabling USDC micropayments by AI agents... https://Blockchain.News/news/circle-api-usdc-ai-payments</title>
+      <link>https://Blockchain.News/news/circle-api-usdc-ai-payments</link>
+      <pubDate>Mon, 18 May 2026 02:59:52 GMT</pubDate>
+      <description><![CDATA[Original title: Circle's API Monetization Tool Uses USDC for AI Agent Payments
+Summary: Circle introduces Gateway for API monetization, enabling USDC micropayments by AI agents and seamless revenue withdrawal via Arc Testnet.
+Article text: Circle introduces Gateway for API monetization, enabling USDC micropayments by AI agents and seamless revenue withdrawal via Arc Testnet.
+
+Circle has unveiled a new monetization framework that allows developers to transform APIs into storefronts for autonomous AI agents. The announcement highlights the use of Circle's Gateway infrastructure to enable USDC micropayments for API calls, with revenue managed and withdrawn via the Arc Testnet. This move positions USDC as a critical piece of programmable payments infrastructure in the emerging agentic economy.
+
+With Gateway, an API can prompt AI agents with a 402 Payment Required response, accept USDC payments as small as $0.000001, and seamlessly return the requested data or service. Seller revenue is deposited directly into a "Gateway Balance" and can later be withdrawn in on-chain USDC to a designated Payout Wallet. Circle's Agent Stack complements this system by offering tools like Agent Wallets and the Agent Marketplace, which streamline interactions between autonomous agents and seller services.
+
+USDC, backed by Circle and pegged to the U.S. dollar, has become a key player in blockchain-based payments. As of May 16, 2026, USDC's market capitalization reached $76.97 billion, with $77 billion in circulation according to Circle's Q1 earnings report. On-chain transaction volume surged 263% year-over-year in the first quarter, hitting $21.5 trillion. The stablecoin also accounted for 63% of stablecoin transaction volume in Q1 2026, illustrating its dominance in the programmable money space.
+
+By embedding USDC payments into API interactions, Circle aligns with the growing trend of machine-to-machine (M2M) payments. Recent developments, such as Circle's April 28 launch of the Arc Testnet and NEAR AI's May 14 integration of private USDC payments for autonomous agents, underscore the increasing demand for blockchain-based, low-friction settlement systems tailored for AI-driven applications.
+
+For developers, Circle’s approach removes many of the traditional barriers to monetizing APIs, such as building custom billing systems or creating account-registration workflows. Instead, developers can set prices directly within the API, collect USDC payments, and withdraw revenue on a schedule that fits their needs. The integration of nanopayments also opens up possibilities for new business models, particularly in data services, AI model APIs, and other machine-accessible resources.
+
+From a market perspective, this reinforces USDC's utility beyond traditional remittances or DeFi, embedding it as a transactional layer for emerging AI economies. As AI agents increasingly interact with APIs to complete tasks autonomously, the ability to price and settle in USDC offers developers a compliant, scalable, and dollar-backed solution.
+
+Circle's Gateway and related tools are part of a broader push to position USDC as the backbone of programmable payments in both enterprise and decentralized applications. With the Arc Testnet serving as a sandbox for innovation, developers can prototype and deploy solutions for M2M payments without the overhead of building out complex payment infrastructure. As Circle continues to expand its offerings, the stablecoin's role in AI and blockchain ecosystems is likely to grow, setting the stage for deeper integration into both consumer and enterprise use cases.
+
+Get key crypto and blockchain stories in your inbox.
+
+Circle introduces Gateway for API monetization, enabling USDC micropayments by AI agents and seamless revenue withdrawal via Arc Testnet.
+
+Circle has unveiled a new monetization framework that allows developers to transform APIs into storefronts for autonomous AI agents. The announcement highlights the use of Circle's Gateway infrastructure to enable USDC micropayments for API calls, with revenue managed and withdrawn via the Arc Testnet. This move positions USDC as a critical piece of programmable payments infrastructure in the emerging agentic economy.
+
+With Gateway, an API can prompt AI agents with a 402 Payment Required response, accept USDC payments as small as $0.000001, and seamlessly return the requested data or service. Seller revenue is deposited directly into a "Gateway Balance" and can later be withdrawn in on-chain USDC to a designated Payout Wallet. Circle's Agent Stack complements this system by offering tools like Agent Wallets and the Agent Marketplace, which streamline interactions between autonomous agents and seller services.
+
+USDC, backed by Circle and pegged to the U.S. dollar, has become a key player in blockchain-based payments. As of May 16, 2026, USDC's market capitalization reached $76.97 billion, with $77 billion in circulation according to Circle's Q1 earnings report. On-chain transaction volume surged 263% year-over-year in the first quarter, hitting $21.5 trillion. The stablecoin also accounted for 63% of stablecoin transaction volume in Q1 2026, illustrating its dominance in the programmable money space.
+
+By embedding USDC payments into API interactions, Circle aligns with the growing trend of machine-to-machine (M2M) payments. Recent developments, such as Circle's April 28 launch of the Arc Testnet and NEAR AI's May 14 integration of private USDC payments for autonomous agents, underscore the increasing demand for blockchain-based, low-friction settlement systems tailored for AI-driven applications.
+
+For developers, Circle’s approach removes many of the traditional barriers to monetizing APIs, such as building custom billing systems or creating account-registration workflows. Instead, developers can set prices directly within the API, collect USDC payments, and withdraw revenue on a schedule that fits their needs. The integration of nanopayments also opens up possibilities for new business models, particularly in data services, AI model APIs, and other machine-accessible resources.
+
+From a market perspective, this reinforces USDC's utility beyond traditional remittances or DeFi, embedding it as a transactional layer for emerging AI economies. As AI agents increasingly interact with APIs to complete tasks autonomously, the ability to price and settle in USDC offers developers a compliant, scalable, and dollar-backed solution.
+
+Circle's Gateway and related tools are part of a broader push to position USDC as the backbone of programmable payments in both enterprise and decentralized applications. With the Arc Testnet serving as a sandbox for innovation, developers can prototype and deploy solutions for M2M payments without the overhead of building out complex payment infrastructure. As Circle continues to expand its offerings, the stablecoin's role in AI and blockchain ecosystems is likely to grow, setting the stage for deeper integration into both consumer and enterprise use cases.
+
+Get key crypto and blockchain stories in your inbox.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/circle-api-usdc-ai-payments]]></description>
+      <content:encoded><![CDATA[Circle introduces Gateway for API monetization, enabling USDC micropayments by AI agents and seamless revenue withdrawal via Arc Testnet.
+
+Circle has unveiled a new monetization framework that allows developers to transform APIs into storefronts for autonomous AI agents. The announcement highlights the use of Circle's Gateway infrastructure to enable USDC micropayments for API calls, with revenue managed and withdrawn via the Arc Testnet. This move positions USDC as a critical piece of programmable payments infrastructure in the emerging agentic economy.
+
+With Gateway, an API can prompt AI agents with a 402 Payment Required response, accept USDC payments as small as $0.000001, and seamlessly return the requested data or service. Seller revenue is deposited directly into a "Gateway Balance" and can later be withdrawn in on-chain USDC to a designated Payout Wallet. Circle's Agent Stack complements this system by offering tools like Agent Wallets and the Agent Marketplace, which streamline interactions between autonomous agents and seller services.
+
+USDC, backed by Circle and pegged to the U.S. dollar, has become a key player in blockchain-based payments. As of May 16, 2026, USDC's market capitalization reached $76.97 billion, with $77 billion in circulation according to Circle's Q1 earnings report. On-chain transaction volume surged 263% year-over-year in the first quarter, hitting $21.5 trillion. The stablecoin also accounted for 63% of stablecoin transaction volume in Q1 2026, illustrating its dominance in the programmable money space.
+
+By embedding USDC payments into API interactions, Circle aligns with the growing trend of machine-to-machine (M2M) payments. Recent developments, such as Circle's April 28 launch of the Arc Testnet and NEAR AI's May 14 integration of private USDC payments for autonomous agents, underscore the increasing demand for blockchain-based, low-friction settlement systems tailored for AI-driven applications.
+
+For developers, Circle’s approach removes many of the traditional barriers to monetizing APIs, such as building custom billing systems or creating account-registration workflows. Instead, developers can set prices directly within the API, collect USDC payments, and withdraw revenue on a schedule that fits their needs. The integration of nanopayments also opens up possibilities for new business models, particularly in data services, AI model APIs, and other machine-accessible resources.
+
+From a market perspective, this reinforces USDC's utility beyond traditional remittances or DeFi, embedding it as a transactional layer for emerging AI economies. As AI agents increasingly interact with APIs to complete tasks autonomously, the ability to price and settle in USDC offers developers a compliant, scalable, and dollar-backed solution.
+
+Circle's Gateway and related tools are part of a broader push to position USDC as the backbone of programmable payments in both enterprise and decentralized applications. With the Arc Testnet serving as a sandbox for innovation, developers can prototype and deploy solutions for M2M payments without the overhead of building out complex payment infrastructure. As Circle continues to expand its offerings, the stablecoin's role in AI and blockchain ecosystems is likely to grow, setting the stage for deeper integration into both consumer and enterprise use cases.
+
+Get key crypto and blockchain stories in your inbox.
+
+Circle introduces Gateway for API monetization, enabling USDC micropayments by AI agents and seamless revenue withdrawal via Arc Testnet.
+
+Circle has unveiled a new monetization framework that allows developers to transform APIs into storefronts for autonomous AI agents. The announcement highlights the use of Circle's Gateway infrastructure to enable USDC micropayments for API calls, with revenue managed and withdrawn via the Arc Testnet. This move positions USDC as a critical piece of programmable payments infrastructure in the emerging agentic economy.
+
+With Gateway, an API can prompt AI agents with a 402 Payment Required response, accept USDC payments as small as $0.000001, and seamlessly return the requested data or service. Seller revenue is deposited directly into a "Gateway Balance" and can later be withdrawn in on-chain USDC to a designated Payout Wallet. Circle's Agent Stack complements this system by offering tools like Agent Wallets and the Agent Marketplace, which streamline interactions between autonomous agents and seller services.
+
+USDC, backed by Circle and pegged to the U.S. dollar, has become a key player in blockchain-based payments. As of May 16, 2026, USDC's market capitalization reached $76.97 billion, with $77 billion in circulation according to Circle's Q1 earnings report. On-chain transaction volume surged 263% year-over-year in the first quarter, hitting $21.5 trillion. The stablecoin also accounted for 63% of stablecoin transaction volume in Q1 2026, illustrating its dominance in the programmable money space.
+
+By embedding USDC payments into API interactions, Circle aligns with the growing trend of machine-to-machine (M2M) payments. Recent developments, such as Circle's April 28 launch of the Arc Testnet and NEAR AI's May 14 integration of private USDC payments for autonomous agents, underscore the increasing demand for blockchain-based, low-friction settlement systems tailored for AI-driven applications.
+
+For developers, Circle’s approach removes many of the traditional barriers to monetizing APIs, such as building custom billing systems or creating account-registration workflows. Instead, developers can set prices directly within the API, collect USDC payments, and withdraw revenue on a schedule that fits their needs. The integration of nanopayments also opens up possibilities for new business models, particularly in data services, AI model APIs, and other machine-accessible resources.
+
+From a market perspective, this reinforces USDC's utility beyond traditional remittances or DeFi, embedding it as a transactional layer for emerging AI economies. As AI agents increasingly interact with APIs to complete tasks autonomously, the ability to price and settle in USDC offers developers a compliant, scalable, and dollar-backed solution.
+
+Circle's Gateway and related tools are part of a broader push to position USDC as the backbone of programmable payments in both enterprise and decentralized applications. With the Arc Testnet serving as a sandbox for innovation, developers can prototype and deploy solutions for M2M payments without the overhead of building out complex payment infrastructure. As Circle continues to expand its offerings, the stablecoin's role in AI and blockchain ecosystems is likely to grow, setting the stage for deeper integration into both consumer and enterprise use cases.
+
+Get key crypto and blockchain stories in your inbox.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-d113aea7df21631ec3cef639ed789014293cb932</guid>
+      <title>Grayscale, VanEck Amend BNB ETF Filings Amid SEC Feedback | Grayscale and VanEck update spot BNB ETF filings as analysts speculate approval may be ne... https://Blockchain.News/news/grayscale-vaneck-amend-bnb-etf-filings</title>
+      <link>https://Blockchain.News/news/grayscale-vaneck-amend-bnb-etf-filings</link>
+      <pubDate>Mon, 18 May 2026 02:51:52 GMT</pubDate>
+      <description><![CDATA[Original title: Grayscale, VanEck Amend BNB ETF Filings Amid SEC Feedback
+Summary: Grayscale and VanEck update spot BNB ETF filings as analysts speculate approval may be near. BNB holds $83B market cap and tests resistance at $690.
+Article text: Grayscale and VanEck update spot BNB ETF filings as analysts speculate approval may be near. BNB holds $83B market cap and tests resistance at $690.
+
+Grayscale and VanEck have updated their filings for spot BNB exchange-traded funds (ETFs), signaling potential progress toward U.S. Securities and Exchange Commission (SEC) approval. The amendments, submitted on Friday, align with what analysts believe is the final stage of SEC feedback. Bloomberg ETF analyst James Seyffart speculated that this could bring the launch of a BNB ETF closer.
+
+Grayscale’s latest S-1 amendment for its Grayscale BNB ETF (GBNB) marks its second update since the initial filing on January 23, 2026. VanEck, which initially filed for its VanEck BNB ETF (VBNB) in May 2025, submitted its fifth amendment, proposing a 0.39% management fee. S-1 filings, critical for SEC approval, outline an ETF’s structure, management fees, and risks.
+
+BNB, the fourth-largest cryptocurrency by market capitalization at $83.03 billion as of May 18, 2026, is notably absent from the growing roster of U.S. spot altcoin ETFs. Existing ETFs track assets like Solana (SOL), XRP, and Litecoin (LTC), while BNB remains a key utility token within the Binance ecosystem. Its uses range from transaction fees on the BNB Chain to staking and decentralized storage via Greenfield.
+
+BNB’s price hovered at $644.55 on May 18, following a volatile week in which it tested resistance levels at $680–$690. Analysts see these levels as pivotal, with continued strength in overall crypto market sentiment potentially pushing the token toward $950 in upcoming rallies. This backdrop could amplify investor interest if a BNB spot ETF receives SEC approval.
+
+The SEC’s broader shift toward standardized ETF listing processes, implemented in September 2025, has paved the way for the rapid expansion of altcoin ETFs. However, not all launches have seen strong traction. For example, the recently debuted Hyperliquid ETF attracted only $1.2 million in net inflows on its launch day, compared to $69.5 million for the Bitwise Solana Staking ETF and $245 million for the Canary XRP ETF.
+
+While the SEC has yet to greenlight a BNB ETF, the updated filings suggest Grayscale and VanEck are addressing regulatory concerns in real-time. Approval would mark a significant milestone for BNB, further integrating it into institutional portfolios alongside Bitcoin (BTC) and Ether (ETH), which dominate the crypto ETF market with $58.4 billion and $11.8 billion in assets, respectively.
+
+For traders, the approval—or rejection—of a BNB ETF could act as a key catalyst. Any official decision is likely to coincide with heightened market volatility, especially given BNB’s recent technical levels and its role within Binance’s vast ecosystem. Investors should watch for SEC announcements in the coming weeks, as well as BNB’s movements near the $690 resistance zone, for potential trading opportunities.
+
+Get key crypto and blockchain stories in your inbox.
+
+Grayscale and VanEck update spot BNB ETF filings as analysts speculate approval may be near. BNB holds $83B market cap and tests resistance at $690.
+
+Grayscale and VanEck have updated their filings for spot BNB exchange-traded funds (ETFs), signaling potential progress toward U.S. Securities and Exchange Commission (SEC) approval. The amendments, submitted on Friday, align with what analysts believe is the final stage of SEC feedback. Bloomberg ETF analyst James Seyffart speculated that this could bring the launch of a BNB ETF closer.
+
+Grayscale’s latest S-1 amendment for its Grayscale BNB ETF (GBNB) marks its second update since the initial filing on January 23, 2026. VanEck, which initially filed for its VanEck BNB ETF (VBNB) in May 2025, submitted its fifth amendment, proposing a 0.39% management fee. S-1 filings, critical for SEC approval, outline an ETF’s structure, management fees, and risks.
+
+BNB, the fourth-largest cryptocurrency by market capitalization at $83.03 billion as of May 18, 2026, is notably absent from the growing roster of U.S. spot altcoin ETFs. Existing ETFs track assets like Solana (SOL), XRP, and Litecoin (LTC), while BNB remains a key utility token within the Binance ecosystem. Its uses range from transaction fees on the BNB Chain to staking and decentralized storage via Greenfield.
+
+BNB’s price hovered at $644.55 on May 18, following a volatile week in which it tested resistance levels at $680–$690. Analysts see these levels as pivotal, with continued strength in overall crypto market sentiment potentially pushing the token toward $950 in upcoming rallies. This backdrop could amplify investor interest if a BNB spot ETF receives SEC approval.
+
+The SEC’s broader shift toward standardized ETF listing processes, implemented in September 2025, has paved the way for the rapid expansion of altcoin ETFs. However, not all launches have seen strong traction. For example, the recently debuted Hyperliquid ETF attracted only $1.2 million in net inflows on its launch day, compared to $69.5 million for the Bitwise Solana Staking ETF and $245 million for the Canary XRP ETF.
+
+While the SEC has yet to greenlight a BNB ETF, the updated filings suggest Grayscale and VanEck are addressing regulatory concerns in real-time. Approval would mark a significant milestone for BNB, further integrating it into institutional portfolios alongside Bitcoin (BTC) and Ether (ETH), which dominate the crypto ETF market with $58.4 billion and $11.8 billion in assets, respectively.
+
+For traders, the approval—or rejection—of a BNB ETF could act as a key catalyst. Any official decision is likely to coincide with heightened market volatility, especially given BNB’s recent technical levels and its role within Binance’s vast ecosystem. Investors should watch for SEC announcements in the coming weeks, as well as BNB’s movements near the $690 resistance zone, for potential trading opportunities.
+
+Get key crypto and blockchain stories in your inbox.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.
+Source: https://Blockchain.News/news/grayscale-vaneck-amend-bnb-etf-filings]]></description>
+      <content:encoded><![CDATA[Grayscale and VanEck update spot BNB ETF filings as analysts speculate approval may be near. BNB holds $83B market cap and tests resistance at $690.
+
+Grayscale and VanEck have updated their filings for spot BNB exchange-traded funds (ETFs), signaling potential progress toward U.S. Securities and Exchange Commission (SEC) approval. The amendments, submitted on Friday, align with what analysts believe is the final stage of SEC feedback. Bloomberg ETF analyst James Seyffart speculated that this could bring the launch of a BNB ETF closer.
+
+Grayscale’s latest S-1 amendment for its Grayscale BNB ETF (GBNB) marks its second update since the initial filing on January 23, 2026. VanEck, which initially filed for its VanEck BNB ETF (VBNB) in May 2025, submitted its fifth amendment, proposing a 0.39% management fee. S-1 filings, critical for SEC approval, outline an ETF’s structure, management fees, and risks.
+
+BNB, the fourth-largest cryptocurrency by market capitalization at $83.03 billion as of May 18, 2026, is notably absent from the growing roster of U.S. spot altcoin ETFs. Existing ETFs track assets like Solana (SOL), XRP, and Litecoin (LTC), while BNB remains a key utility token within the Binance ecosystem. Its uses range from transaction fees on the BNB Chain to staking and decentralized storage via Greenfield.
+
+BNB’s price hovered at $644.55 on May 18, following a volatile week in which it tested resistance levels at $680–$690. Analysts see these levels as pivotal, with continued strength in overall crypto market sentiment potentially pushing the token toward $950 in upcoming rallies. This backdrop could amplify investor interest if a BNB spot ETF receives SEC approval.
+
+The SEC’s broader shift toward standardized ETF listing processes, implemented in September 2025, has paved the way for the rapid expansion of altcoin ETFs. However, not all launches have seen strong traction. For example, the recently debuted Hyperliquid ETF attracted only $1.2 million in net inflows on its launch day, compared to $69.5 million for the Bitwise Solana Staking ETF and $245 million for the Canary XRP ETF.
+
+While the SEC has yet to greenlight a BNB ETF, the updated filings suggest Grayscale and VanEck are addressing regulatory concerns in real-time. Approval would mark a significant milestone for BNB, further integrating it into institutional portfolios alongside Bitcoin (BTC) and Ether (ETH), which dominate the crypto ETF market with $58.4 billion and $11.8 billion in assets, respectively.
+
+For traders, the approval—or rejection—of a BNB ETF could act as a key catalyst. Any official decision is likely to coincide with heightened market volatility, especially given BNB’s recent technical levels and its role within Binance’s vast ecosystem. Investors should watch for SEC announcements in the coming weeks, as well as BNB’s movements near the $690 resistance zone, for potential trading opportunities.
+
+Get key crypto and blockchain stories in your inbox.
+
+Grayscale and VanEck update spot BNB ETF filings as analysts speculate approval may be near. BNB holds $83B market cap and tests resistance at $690.
+
+Grayscale and VanEck have updated their filings for spot BNB exchange-traded funds (ETFs), signaling potential progress toward U.S. Securities and Exchange Commission (SEC) approval. The amendments, submitted on Friday, align with what analysts believe is the final stage of SEC feedback. Bloomberg ETF analyst James Seyffart speculated that this could bring the launch of a BNB ETF closer.
+
+Grayscale’s latest S-1 amendment for its Grayscale BNB ETF (GBNB) marks its second update since the initial filing on January 23, 2026. VanEck, which initially filed for its VanEck BNB ETF (VBNB) in May 2025, submitted its fifth amendment, proposing a 0.39% management fee. S-1 filings, critical for SEC approval, outline an ETF’s structure, management fees, and risks.
+
+BNB, the fourth-largest cryptocurrency by market capitalization at $83.03 billion as of May 18, 2026, is notably absent from the growing roster of U.S. spot altcoin ETFs. Existing ETFs track assets like Solana (SOL), XRP, and Litecoin (LTC), while BNB remains a key utility token within the Binance ecosystem. Its uses range from transaction fees on the BNB Chain to staking and decentralized storage via Greenfield.
+
+BNB’s price hovered at $644.55 on May 18, following a volatile week in which it tested resistance levels at $680–$690. Analysts see these levels as pivotal, with continued strength in overall crypto market sentiment potentially pushing the token toward $950 in upcoming rallies. This backdrop could amplify investor interest if a BNB spot ETF receives SEC approval.
+
+The SEC’s broader shift toward standardized ETF listing processes, implemented in September 2025, has paved the way for the rapid expansion of altcoin ETFs. However, not all launches have seen strong traction. For example, the recently debuted Hyperliquid ETF attracted only $1.2 million in net inflows on its launch day, compared to $69.5 million for the Bitwise Solana Staking ETF and $245 million for the Canary XRP ETF.
+
+While the SEC has yet to greenlight a BNB ETF, the updated filings suggest Grayscale and VanEck are addressing regulatory concerns in real-time. Approval would mark a significant milestone for BNB, further integrating it into institutional portfolios alongside Bitcoin (BTC) and Ether (ETH), which dominate the crypto ETF market with $58.4 billion and $11.8 billion in assets, respectively.
+
+For traders, the approval—or rejection—of a BNB ETF could act as a key catalyst. Any official decision is likely to coincide with heightened market volatility, especially given BNB’s recent technical levels and its role within Binance’s vast ecosystem. Investors should watch for SEC announcements in the coming weeks, as well as BNB’s movements near the $690 resistance zone, for potential trading opportunities.
+
+Get key crypto and blockchain stories in your inbox.
+
+Welcome to your premier source for the latest in AI, cryptocurrency, blockchain, and AI search tools—driving tomorrow's innovations today.
+
+Disclaimer: Blockchain.news provides content for informational purposes only. In no event shall blockchain.news be responsible for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, the information provided. This includes, but is not limited to, any loss or damage resulting from decisions made based on the content. Readers should conduct their own research and consult professionals before making financial decisions.]]></content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">xfeed-9921fde28e5806aa489cd67418b3e4042203d571</guid>
+      <title>Bernstein Sees FIGR&apos;s Q1 Earnings Highlight Blockchain Edge | Figure Technology&apos;s Q1 results beat expectations, showcasing its unique blockchain-native... https://Blockchain.News/news/bernstein-figr-q1-blockchain-marketplace</title>
+      <link>https://Blockchain.News/news/bernstein-figr-q1-blockchain-marketplace</link>
+      <pubDate>Sun, 17 May 2026 20:50:34 GMT</pubDate>
+      <description><![CDATA[Original title: Bernstein Sees FIGR's Q1 Earnings Highlight Blockchain Edge
+Summary: Figure Technology's Q1 results beat expectations, showcasing its unique blockchain-native marketplace for tokenized real-world assets.
+Article text: Figure Technology's Q1 results beat expectations, showcasing its unique blockchain-native marketplace for tokenized real-world assets.
+
+Figure Technology Solutions (Nasdaq: FIGR) is proving its mettle as a blockchain pioneer, according to Bernstein analysts. Following a stellar first-quarter earnings performance on May 11, the firm has cemented its position as a standout player among blockchain-native marketplaces. FIGR stock closed at $38.97 on May 17, reflecting growing investor interest in the company's blockchain-focused approach to real-world credit assets.
+
+Figure’s Q1 results exceeded Wall Street’s estimates on both revenue and EBITDA, driven by its strategy to tokenize real-world assets (RWAs) like home equity loans, auto loans, and small-business credit. Instead of operating as a traditional balance sheet-heavy lender, Figure is building a blockchain-native ecosystem where these assets can be traded, funded, and liquidated more efficiently. Bernstein analysts believe this approach positions Figure not just as a fintech, but as a full-stack capital markets platform.
+
+In a May 15 note, Bernstein highlighted Figure’s potential to disrupt traditional financial markets. "FIGR’s live blockchain data suggests an all-time high record Q2 upcoming," the analysts said. They also noted that as the market becomes better at tracking real-time blockchain loan volumes, FIGR’s stock could serve as a barometer for activity in tokenized credit markets.
+
+At the heart of Figure’s innovation is its Forge platform, which fractionalizes whole loans into single-dollar liquid participation units. This architecture addresses a key challenge in the tokenized RWA space: how to make traditionally illiquid assets (like mortgages or HELOCs) tradable and accessible within decentralized finance (DeFi). Co-founder and Executive Chairman Mike Cagney explained on the May 12 earnings call that this structure enables more efficient lending and borrowing, leveraging blockchain’s transparency and immutability.
+
+However, skepticism persists among institutional investors regarding the practicality of blockchain-based finance. CEO Michael Tannenbaum acknowledged this on the same call but emphasized the operational advantages of blockchain. He likened blockchain to "the nervous system" and AI as "the brain," illustrating how blockchain-native data structures streamline underwriting, compliance, and loan verification processes.
+
+Figure operates in a rapidly growing but still nascent market. The tokenized credit sector, currently valued at $5.14 billion, represents a fraction of the estimated $4 trillion total addressable market for credit origination across mortgages, auto loans, and other consumer credit. This gap underscores the long-term growth potential for blockchain-based marketplaces like Figure’s.
+
+The company has also been expanding its footprint. Recent collaborations, such as its May 5 partnership with SMB lending platform Credibly, aim to modernize small-business credit origination via blockchain. Figure is further diversifying into areas like auto loans through initiatives like the Hastra DeFi protocol, which connects tokenized credit products to broader DeFi ecosystems.
+
+Having gone public in September 2025, Figure has quickly scaled its blockchain-native offerings. Its Q1 2026 results showcase the momentum it has built in less than a year. For investors eyeing exposure to blockchain infrastructure tied to real assets, FIGR’s performance and strategic direction offer compelling reasons to watch closely as the company continues to redefine capital markets.
+
+Get key crypto and blockchain stories in your inbox.
+
+Figure Technology's Q1 results beat expectations, showcasing its unique blockchain-native marketplace for tokenized real-world assets.
+
+Figure Technology Solutions (Nasdaq: FIGR) is proving its mettle as a blockchain pioneer, according to Bernstein analysts. Following a stellar first-quarter earnings performance on May 11, the firm has cemented its position as a standout player among blockchain-native marketplaces. FIGR stock closed at $38.97 on May 17, reflecting growing investor interest in the company's blockchain-focused approach to real-world credit assets.
+
+Figure’s Q1 results exceeded Wall Street’s estimates on both revenue and EBITDA, driven by its strategy to tokenize real-world assets (RWAs) like home equity loans, auto loans, and small-business credit. Instead of operating as a traditional balance sheet-heavy lender, Figure is building a blockchain-native ecosystem where these assets can be traded, funded, and liquidated more efficiently. Bernstein analysts believe this approach positions Figure not just as a fintech, but as a full-stack capital markets platform.
+
+In a May 15 note, Bernstein highlighted Figure’s potential to disrupt traditional financial markets. "FIGR’s live blockchain data suggests an all-time high record Q2 upcoming," the analysts said. They also noted that as the market becomes better at tracking real-time blockchain loan volumes, FIGR’s stock could serve as a barometer for activity in tokenized credit markets.
+
+At the heart of Figure’s innovation is its Forge platform, which fractionalizes whole loans into single-dollar liquid participation units. This architecture addresses a key challenge in the tokenized RWA space: how to make traditionally illiquid assets (like mortgages or HELOCs) tradable and accessible within decentralized finance (DeFi). Co-founder and Executive Chairman Mike Cagney explained on the May 12 earnings call that this structure enables more efficient lending and borrowing, leveraging blockchain’s transparency and immutability.
+
+However, skepticism persists among institutional investors regarding the practicality of blockchain-based finance. CEO Michael Tannenbaum acknowledged this on the same call but emphasized the operational advantages of blockchain. He likened blockchain to "the nervous system" and AI as "the brain," illustrating how blockchain-native data structures streamline underwriting, compliance, and loan verification processes.
+
+Figure operates in a rapidly growing but still nascent market. The tokenized credit sector, currently valued at $5.14 billion, represents a fraction of the estimated $4 trillion total addressable market for credit origination across mortgages, auto loans, and other consumer credit. This gap underscores the long-term growth potential for blockchain-based marketplaces like Figure’s.
+
+The company has also been expanding its footprint. Recent collaborations, such as its May 5 partnership with SMB lending platform Credibly, aim to modernize small-business credit origination via blockchain. Figure is further diversifying into areas like auto loans through initiatives like the Hastra DeFi protocol, which connects tokenized credit products to broader DeFi ecosystems.
+
+Having gone public in September 2025, Figure has quickly scaled its blockchain-native offerings. Its Q1 2026 results showcase the momentum it has built in less than a year. For investors eyeing exposure to blockchain infrastructure tied to real assets, FIGR’s performance and strategic direction offer compelling reasons to watch closely as the company continues to redefine capital markets.
+
+Get key crypto and blockchain stories in your inbox.
+Source: https://Blockchain.News/news/bernstein-figr-q1-blockchain-marketplace]]></description>
+      <content:encoded><![CDATA[Figure Technology's Q1 results beat expectations, showcasing its unique blockchain-native marketplace for tokenized real-world assets.
+
+Figure Technology Solutions (Nasdaq: FIGR) is proving its mettle as a blockchain pioneer, according to Bernstein analysts. Following a stellar first-quarter earnings performance on May 11, the firm has cemented its position as a standout player among blockchain-native marketplaces. FIGR stock closed at $38.97 on May 17, reflecting growing investor interest in the company's blockchain-focused approach to real-world credit assets.
+
+Figure’s Q1 results exceeded Wall Street’s estimates on both revenue and EBITDA, driven by its strategy to tokenize real-world assets (RWAs) like home equity loans, auto loans, and small-business credit. Instead of operating as a traditional balance sheet-heavy lender, Figure is building a blockchain-native ecosystem where these assets can be traded, funded, and liquidated more efficiently. Bernstein analysts believe this approach positions Figure not just as a fintech, but as a full-stack capital markets platform.
+
+In a May 15 note, Bernstein highlighted Figure’s potential to disrupt traditional financial markets. "FIGR’s live blockchain data suggests an all-time high record Q2 upcoming," the analysts said. They also noted that as the market becomes better at tracking real-time blockchain loan volumes, FIGR’s stock could serve as a barometer for activity in tokenized credit markets.
+
+At the heart of Figure’s innovation is its Forge platform, which fractionalizes whole loans into single-dollar liquid participation units. This architecture addresses a key challenge in the tokenized RWA space: how to make traditionally illiquid assets (like mortgages or HELOCs) tradable and accessible within decentralized finance (DeFi). Co-founder and Executive Chairman Mike Cagney explained on the May 12 earnings call that this structure enables more efficient lending and borrowing, leveraging blockchain’s transparency and immutability.
+
+However, skepticism persists among institutional investors regarding the practicality of blockchain-based finance. CEO Michael Tannenbaum acknowledged this on the same call but emphasized the operational advantages of blockchain. He likened blockchain to "the nervous system" and AI as "the brain," illustrating how blockchain-native data structures streamline underwriting, compliance, and loan verification processes.
+
+Figure operates in a rapidly growing but still nascent market. The tokenized credit sector, currently valued at $5.14 billion, represents a fraction of the estimated $4 trillion total addressable market for credit origination across mortgages, auto loans, and other consumer credit. This gap underscores the long-term growth potential for blockchain-based marketplaces like Figure’s.
+
+The company has also been expanding its footprint. Recent collaborations, such as its May 5 partnership with SMB lending platform Credibly, aim to modernize small-business credit origination via blockchain. Figure is further diversifying into areas like auto loans through initiatives like the Hastra DeFi protocol, which connects tokenized credit products to broader DeFi ecosystems.
+
+Having gone public in September 2025, Figure has quickly scaled its blockchain-native offerings. Its Q1 2026 results showcase the momentum it has built in less than a year. For investors eyeing exposure to blockchain infrastructure tied to real assets, FIGR’s performance and strategic direction offer compelling reasons to watch closely as the company continues to redefine capital markets.
+
+Get key crypto and blockchain stories in your inbox.
+
+Figure Technology's Q1 results beat expectations, showcasing its unique blockchain-native marketplace for tokenized real-world assets.
+
+Figure Technology Solutions (Nasdaq: FIGR) is proving its mettle as a blockchain pioneer, according to Bernstein analysts. Following a stellar first-quarter earnings performance on May 11, the firm has cemented its position as a standout player among blockchain-native marketplaces. FIGR stock closed at $38.97 on May 17, reflecting growing investor interest in the company's blockchain-focused approach to real-world credit assets.
+
+Figure’s Q1 results exceeded Wall Street’s estimates on both revenue and EBITDA, driven by its strategy to tokenize real-world assets (RWAs) like home equity loans, auto loans, and small-business credit. Instead of operating as a traditional balance sheet-heavy lender, Figure is building a blockchain-native ecosystem where these assets can be traded, funded, and liquidated more efficiently. Bernstein analysts believe this approach positions Figure not just as a fintech, but as a full-stack capital markets platform.
+
+In a May 15 note, Bernstein highlighted Figure’s potential to disrupt traditional financial markets. "FIGR’s live blockchain data suggests an all-time high record Q2 upcoming," the analysts said. They also noted that as the market becomes better at tracking real-time blockchain loan volumes, FIGR’s stock could serve as a barometer for activity in tokenized credit markets.
+
+At the heart of Figure’s innovation is its Forge platform, which fractionalizes whole loans into single-dollar liquid participation units. This architecture addresses a key challenge in the tokenized RWA space: how to make traditionally illiquid assets (like mortgages or HELOCs) tradable and accessible within decentralized finance (DeFi). Co-founder and Executive Chairman Mike Cagney explained on the May 12 earnings call that this structure enables more efficient lending and borrowing, leveraging blockchain’s transparency and immutability.
+
+However, skepticism persists among institutional investors regarding the practicality of blockchain-based finance. CEO Michael Tannenbaum acknowledged this on the same call but emphasized the operational advantages of blockchain. He likened blockchain to "the nervous system" and AI as "the brain," illustrating how blockchain-native data structures streamline underwriting, compliance, and loan verification processes.
+
+Figure operates in a rapidly growing but still nascent market. The tokenized credit sector, currently valued at $5.14 billion, represents a fraction of the estimated $4 trillion total addressable market for credit origination across mortgages, auto loans, and other consumer credit. This gap underscores the long-term growth potential for blockchain-based marketplaces like Figure’s.
+
+The company has also been expanding its footprint. Recent collaborations, such as its May 5 partnership with SMB lending platform Credibly, aim to modernize small-business credit origination via blockchain. Figure is further diversifying into areas like auto loans through initiatives like the Hastra DeFi protocol, which connects tokenized credit products to broader DeFi ecosystems.
+
+Having gone public in September 2025, Figure has quickly scaled its blockchain-native offerings. Its Q1 2026 results showcase the momentum it has built in less than a year. For investors eyeing exposure to blockchain infrastructure tied to real assets, FIGR’s performance and strategic direction offer compelling reasons to watch closely as the company continues to redefine capital markets.
+
+Get key crypto and blockchain stories in your inbox.]]></content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">xfeed-6d949ef5a8e6883f2363ba8b0a830ebc7f120fde</guid>
       <title>SUI Price Prediction: $1.15 Breakout Expected as Institutional Money Flows In | SUI trades at $1.07 with neutral momentum but heavy whale accumulation creating upside pr... https://Blockchain.News/news/20260517-price-prediction-sui-115-breakout-expected-as-in...</title>
@@ -2337,267 +2598,6 @@ Emerging markets are at the forefront of this trend. In regions like Latin Ameri
 As crypto payments become commonplace, attention is turning to the next major hurdle: identity verification. Know Your Customer (KYC) requirements remain a bottleneck, often requiring repetitive document submissions that frustrate users. Decentralized identity solutions aim to solve this by enabling reusable credentials. Platforms like Web3.bio are aggregating on-chain activity—wallet holdings, NFTs, DAO participation—into unified, portable digital profiles.
 
 This shift could transform KYC from a compliance-heavy process into a user-controlled trust layer. For example, combining biometric verification with aggregated social reputation could streamline onboarding, reducing friction for both users and service providers.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-57ff264521a0cb90c1fdfbf757813b3040350128</guid>
-      <title>BTC Price Prediction: $85K Breakout or $76K Capitulation Within 10 Days | Bitcoin sits at a critical inflection point around $80,600 with momentum indicators screa... https://Blockchain.News/news/20260515-price-prediction-btc-85k-breakout-or-76k-capitulation-...</title>
-      <link>https://Blockchain.News/news/20260515-price-prediction-btc-85k-breakout-or-76k-capitulation-within</link>
-      <pubDate>Fri, 15 May 2026 07:05:38 GMT</pubDate>
-      <description><![CDATA[Original title: BTC Price Prediction: $85K Breakout or $76K Capitulation Within 10 Days
-Summary: Bitcoin sits at a critical inflection point around $80,600 with momentum indicators screaming mixed signals. 65% probability of testing $85K resistance within 10 days, but failure opens the door to
-Article text: Bitcoin sits at a critical inflection point around $80,600 with momentum indicators screaming mixed signals. 65% probability of testing $85K resistance within 10 days, but failure opens the door to...
-
-Bitcoin is trading in no-man's land at $80,599, caught between conviction and confusion. The RSI at 57.82 shows buyers aren't panicking, but they're not exactly rushing in either. Meanwhile, the MACD histogram sitting at zero tells the real story - momentum has completely stalled out. This isn't the setup of a market ready to rip higher or crash lower; it's the setup of a market waiting for a catalyst.
-
-The Bollinger Band position at 0.66 puts Bitcoin in the upper portion of its recent range, suggesting some underlying strength despite the lackluster momentum. Trading above the 20-day SMA ($79,426) while sitting below the 200-day SMA ($81,963) creates a technical sandwich that professional traders recognize as decision time. Blockchain.news analysis of similar setups historically shows resolution within 5-10 trading sessions.
-
-The $1.67 billion in daily spot volume tells a story of institutional hesitation rather than retail panic. This isn't the volume profile of a market preparing to dump - it's the volume of smart money positioning for the next move. The tight trading range between $79,230 and $82,048 over the past 24 hours screams consolidation, not distribution.
-
-Professional traders know that when Bitcoin trades in a $2,800 range with decent volume, it's usually coiling for a significant breakout. The daily ATR of $1,913 suggests we're due for larger moves, and the current price action is compressing volatility like a spring. The funding rate at -0.0042% shows shorts are paying longs, indicating bearish positioning that could fuel a squeeze.
-
-Keith Alan's prediction that "new highs may not arrive until 2027" provides crucial context for realistic expectations. This isn't about Bitcoin hitting $150K next month - it's about whether we can break through immediate resistance or face another leg down. Blockchain.news tracked similar expert sentiment during previous consolidation phases, and such cautious outlooks often coincide with surprise breakouts.
-
-Forex24.pro's target of $88,265 support testing followed by a move above $102,505 aligns with the technical picture showing potential for a significant move in either direction. The fact that FX Leaders noted Bitcoin "struggling against strong resistance" confirms what the charts are screaming - we're at a make-or-break level.
-
-The next 10 days will determine Bitcoin's trajectory through summer 2026. There's a 65% probability Bitcoin breaks above the $83,443 strong resistance level, targeting $85,000-$88,000 as the initial upside objective. The 200-day SMA at $81,963 acts as the immediate hurdle, and clearing it decisively opens the door for momentum players to pile in.
-
-However, failure to hold current levels presents a 35% probability scenario where Bitcoin tests the $76,800 support zone within two weeks. A break below $79,204 immediate support would trigger algorithmic selling and likely push Bitcoin toward the $77,808 strong support level rapidly.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-The key inflection point remains the $82,000-$83,000 zone. Break above it with volume, and we're looking at $85K within 7-10 days. Fail here, and Blockchain.news technical models suggest a swift retreat to test lower support structures around $76,800. Position sizing and risk management become critical in this environment where a $4,000-$6,000 move in either direction appears increasingly likely.
-
-Get key crypto and blockchain stories in your inbox.
-
-Bitcoin sits at a critical inflection point around $80,600 with momentum indicators screaming mixed signals. 65% probability of testing $85K resistance within 10 days, but failure opens the door to...
-
-Bitcoin is trading in no-man's land at $80,599, caught between conviction and confusion. The RSI at 57.82 shows buyers aren't panicking, but they're not exactly rushing in either. Meanwhile, the MACD histogram sitting at zero tells the real story - momentum has completely stalled out. This isn't the setup of a market ready to rip higher or crash lower; it's the setup of a market waiting for a catalyst.
-
-The Bollinger Band position at 0.66 puts Bitcoin in the upper portion of its recent range, suggesting some underlying strength despite the lackluster momentum. Trading above the 20-day SMA ($79,426) while sitting below the 200-day SMA ($81,963) creates a technical sandwich that professional traders recognize as decision time. Blockchain.news analysis of similar setups historically shows resolution within 5-10 trading sessions.
-
-The $1.67 billion in daily spot volume tells a story of institutional hesitation rather than retail panic. This isn't the volume profile of a market preparing to dump - it's the volume of smart money positioning for the next move. The tight trading range between $79,230 and $82,048 over the past 24 hours screams consolidation, not distribution.
-
-Professional traders know that when Bitcoin trades in a $2,800 range with decent volume, it's usually coiling for a significant breakout. The daily ATR of $1,913 suggests we're due for larger moves, and the current price action is compressing volatility like a spring. The funding rate at -0.0042% shows shorts are paying longs, indicating bearish positioning that could fuel a squeeze.
-
-Keith Alan's prediction that "new highs may not arrive until 2027" provides crucial context for realistic expectations. This isn't about Bitcoin hitting $150K next month - it's about whether we can break through immediate resistance or face another leg down. Blockchain.news tracked similar expert sentiment during previous consolidation phases, and such cautious outlooks often coincide with surprise breakouts.
-
-Forex24.pro's target of $88,265 support testing followed by a move above $102,505 aligns with the technical picture showing potential for a significant move in either direction. The fact that FX Leaders noted Bitcoin "struggling against strong resistance" confirms what the charts are screaming - we're at a make-or-break level.
-
-The next 10 days will determine Bitcoin's trajectory through summer 2026. There's a 65% probability Bitcoin breaks above the $83,443 strong resistance level, targeting $85,000-$88,000 as the initial upside objective. The 200-day SMA at $81,963 acts as the immediate hurdle, and clearing it decisively opens the door for momentum players to pile in.
-Source: https://Blockchain.News/news/20260515-price-prediction-btc-85k-breakout-or-76k-capitulation-within]]></description>
-      <content:encoded><![CDATA[Bitcoin sits at a critical inflection point around $80,600 with momentum indicators screaming mixed signals. 65% probability of testing $85K resistance within 10 days, but failure opens the door to...
-
-Bitcoin is trading in no-man's land at $80,599, caught between conviction and confusion. The RSI at 57.82 shows buyers aren't panicking, but they're not exactly rushing in either. Meanwhile, the MACD histogram sitting at zero tells the real story - momentum has completely stalled out. This isn't the setup of a market ready to rip higher or crash lower; it's the setup of a market waiting for a catalyst.
-
-The Bollinger Band position at 0.66 puts Bitcoin in the upper portion of its recent range, suggesting some underlying strength despite the lackluster momentum. Trading above the 20-day SMA ($79,426) while sitting below the 200-day SMA ($81,963) creates a technical sandwich that professional traders recognize as decision time. Blockchain.news analysis of similar setups historically shows resolution within 5-10 trading sessions.
-
-The $1.67 billion in daily spot volume tells a story of institutional hesitation rather than retail panic. This isn't the volume profile of a market preparing to dump - it's the volume of smart money positioning for the next move. The tight trading range between $79,230 and $82,048 over the past 24 hours screams consolidation, not distribution.
-
-Professional traders know that when Bitcoin trades in a $2,800 range with decent volume, it's usually coiling for a significant breakout. The daily ATR of $1,913 suggests we're due for larger moves, and the current price action is compressing volatility like a spring. The funding rate at -0.0042% shows shorts are paying longs, indicating bearish positioning that could fuel a squeeze.
-
-Keith Alan's prediction that "new highs may not arrive until 2027" provides crucial context for realistic expectations. This isn't about Bitcoin hitting $150K next month - it's about whether we can break through immediate resistance or face another leg down. Blockchain.news tracked similar expert sentiment during previous consolidation phases, and such cautious outlooks often coincide with surprise breakouts.
-
-Forex24.pro's target of $88,265 support testing followed by a move above $102,505 aligns with the technical picture showing potential for a significant move in either direction. The fact that FX Leaders noted Bitcoin "struggling against strong resistance" confirms what the charts are screaming - we're at a make-or-break level.
-
-The next 10 days will determine Bitcoin's trajectory through summer 2026. There's a 65% probability Bitcoin breaks above the $83,443 strong resistance level, targeting $85,000-$88,000 as the initial upside objective. The 200-day SMA at $81,963 acts as the immediate hurdle, and clearing it decisively opens the door for momentum players to pile in.
-
-However, failure to hold current levels presents a 35% probability scenario where Bitcoin tests the $76,800 support zone within two weeks. A break below $79,204 immediate support would trigger algorithmic selling and likely push Bitcoin toward the $77,808 strong support level rapidly.
-
-Hourly candlesticks (about 96 bars), same endpoint as our cryptocurrency price pages. Numbers below refresh from 1-minute klines.
-
-The key inflection point remains the $82,000-$83,000 zone. Break above it with volume, and we're looking at $85K within 7-10 days. Fail here, and Blockchain.news technical models suggest a swift retreat to test lower support structures around $76,800. Position sizing and risk management become critical in this environment where a $4,000-$6,000 move in either direction appears increasingly likely.
-
-Get key crypto and blockchain stories in your inbox.
-
-Bitcoin sits at a critical inflection point around $80,600 with momentum indicators screaming mixed signals. 65% probability of testing $85K resistance within 10 days, but failure opens the door to...
-
-Bitcoin is trading in no-man's land at $80,599, caught between conviction and confusion. The RSI at 57.82 shows buyers aren't panicking, but they're not exactly rushing in either. Meanwhile, the MACD histogram sitting at zero tells the real story - momentum has completely stalled out. This isn't the setup of a market ready to rip higher or crash lower; it's the setup of a market waiting for a catalyst.
-
-The Bollinger Band position at 0.66 puts Bitcoin in the upper portion of its recent range, suggesting some underlying strength despite the lackluster momentum. Trading above the 20-day SMA ($79,426) while sitting below the 200-day SMA ($81,963) creates a technical sandwich that professional traders recognize as decision time. Blockchain.news analysis of similar setups historically shows resolution within 5-10 trading sessions.
-
-The $1.67 billion in daily spot volume tells a story of institutional hesitation rather than retail panic. This isn't the volume profile of a market preparing to dump - it's the volume of smart money positioning for the next move. The tight trading range between $79,230 and $82,048 over the past 24 hours screams consolidation, not distribution.
-
-Professional traders know that when Bitcoin trades in a $2,800 range with decent volume, it's usually coiling for a significant breakout. The daily ATR of $1,913 suggests we're due for larger moves, and the current price action is compressing volatility like a spring. The funding rate at -0.0042% shows shorts are paying longs, indicating bearish positioning that could fuel a squeeze.
-
-Keith Alan's prediction that "new highs may not arrive until 2027" provides crucial context for realistic expectations. This isn't about Bitcoin hitting $150K next month - it's about whether we can break through immediate resistance or face another leg down. Blockchain.news tracked similar expert sentiment during previous consolidation phases, and such cautious outlooks often coincide with surprise breakouts.
-
-Forex24.pro's target of $88,265 support testing followed by a move above $102,505 aligns with the technical picture showing potential for a significant move in either direction. The fact that FX Leaders noted Bitcoin "struggling against strong resistance" confirms what the charts are screaming - we're at a make-or-break level.
-
-The next 10 days will determine Bitcoin's trajectory through summer 2026. There's a 65% probability Bitcoin breaks above the $83,443 strong resistance level, targeting $85,000-$88,000 as the initial upside objective. The 200-day SMA at $81,963 acts as the immediate hurdle, and clearing it decisively opens the door for momentum players to pile in.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-a1e6faae72842c45f8b47858c379db7a6b6955f5</guid>
-      <title>Kraken Joins Exodus from LayerZero, Adopts Chainlink CCIP | Kraken switches to Chainlink CCIP after Kelp DAO&apos;s $292M exploit, joining a $3B TVL migra... https://Blockchain.News/news/kraken-switches-to-chainlink-ccip</title>
-      <link>https://Blockchain.News/news/kraken-switches-to-chainlink-ccip</link>
-      <pubDate>Fri, 15 May 2026 07:00:55 GMT</pubDate>
-      <description><![CDATA[Original title: Kraken Joins Exodus from LayerZero, Adopts Chainlink CCIP
-Summary: Kraken switches to Chainlink CCIP after Kelp DAO's $292M exploit, joining a $3B TVL migration from LayerZero.
-Article text: Kraken switches to Chainlink CCIP after Kelp DAO's $292M exploit, joining a $3B TVL migration from LayerZero.
-
-Kraken has officially migrated its cross-chain infrastructure from LayerZero to Chainlink's Cross-Chain Interoperability Protocol (CCIP) following the $292 million Kelp DAO exploit in April 2026. The decision, announced on May 15, positions Chainlink as Kraken's sole partner for securing wrapped tokens, including its Kraken Wrapped Bitcoin (kBTC).
-
-"Chainlink CCIP offers enterprise-grade infrastructure with strict security and risk management requirements," Kraken stated. These include a secure-by-default design, 16 independent nodes, and native rate-limiting mechanisms—features that have become critical after the Kelp DAO attack exposed vulnerabilities in cross-chain protocols.
-
-The Kelp DAO breach on April 18, 2026, remains the largest DeFi exploit of the year. Attackers exploited a vulnerability in LayerZero’s single Decentralized Verifier Network (DVN) setup to forge a cross-chain message, siphoning 116,500 rsETH worth approximately $292 million. LayerZero later attributed the hack to North Korea’s Lazarus Group but maintained the exploit was isolated to Kelp DAO’s specific configuration. However, Kelp DAO countered that the vulnerability stemmed from LayerZero's default settings.
-
-The incident triggered widespread concerns about the security of cross-chain bridges. Within 48 hours, total value locked (TVL) in DeFi dropped by $13 billion, highlighting the systemic risk posed by such exploits. More than $3 billion in TVL has since migrated from LayerZero to Chainlink CCIP, as protocols reassess their dependence on single-verifier setups.
-
-Kraken isn’t alone in abandoning LayerZero. Kelp DAO itself is in the process of migrating to Chainlink CCIP as part of its recovery efforts, while Solv Protocol recently moved $700 million in tokenized Bitcoin to the platform. On-chain reinsurance protocol Re also transitioned $475 million in total value locked to Chainlink earlier this month.
-
-Major players like Lido, the largest Ethereum liquid staking protocol, already rely on Chainlink CCIP. Lido has called Chainlink’s security model the "definitive standard" for cross-chain operations, emphasizing its defense-in-depth approach.
-
-Despite the shift, Chainlink's native token LINK remains stagnant around $10, down 80% from its 2021 peak. In contrast, LayerZero's token ZRO has suffered a 30% decline since the April hack and is down more than 80% from its 2024 all-time high, according to CoinGecko.
-
-For LayerZero, the reputational damage continues to mount. Although it issued an apology on May 9 for its handling of the exploit, emphasizing that no other applications were affected, the statement has done little to stem the exodus.
-
-The fallout from the Kelp DAO exploit underscores the critical need for robust security in cross-chain protocols. Single-verifier designs, while efficient, are increasingly seen as a liability in a DeFi ecosystem that is growing more interconnected—and vulnerable—by the day. As protocols like Kraken and Kelp DAO pivot to Chainlink’s CCIP, it’s clear the industry is prioritizing resilience over speed.
-
-For traders and stakeholders, the mass migration raises questions about the long-term viability of LayerZero and underscores the importance of scrutinizing the underlying infrastructure of DeFi projects. As interoperability becomes a cornerstone of blockchain innovation, the focus will likely shift toward solutions that balance scalability with uncompromising security.
-
-Get key crypto and blockchain stories in your inbox.
-
-Kraken switches to Chainlink CCIP after Kelp DAO's $292M exploit, joining a $3B TVL migration from LayerZero.
-
-Kraken has officially migrated its cross-chain infrastructure from LayerZero to Chainlink's Cross-Chain Interoperability Protocol (CCIP) following the $292 million Kelp DAO exploit in April 2026. The decision, announced on May 15, positions Chainlink as Kraken's sole partner for securing wrapped tokens, including its Kraken Wrapped Bitcoin (kBTC).
-
-"Chainlink CCIP offers enterprise-grade infrastructure with strict security and risk management requirements," Kraken stated. These include a secure-by-default design, 16 independent nodes, and native rate-limiting mechanisms—features that have become critical after the Kelp DAO attack exposed vulnerabilities in cross-chain protocols.
-
-The Kelp DAO breach on April 18, 2026, remains the largest DeFi exploit of the year. Attackers exploited a vulnerability in LayerZero’s single Decentralized Verifier Network (DVN) setup to forge a cross-chain message, siphoning 116,500 rsETH worth approximately $292 million. LayerZero later attributed the hack to North Korea’s Lazarus Group but maintained the exploit was isolated to Kelp DAO’s specific configuration. However, Kelp DAO countered that the vulnerability stemmed from LayerZero's default settings.
-
-The incident triggered widespread concerns about the security of cross-chain bridges. Within 48 hours, total value locked (TVL) in DeFi dropped by $13 billion, highlighting the systemic risk posed by such exploits. More than $3 billion in TVL has since migrated from LayerZero to Chainlink CCIP, as protocols reassess their dependence on single-verifier setups.
-
-Kraken isn’t alone in abandoning LayerZero. Kelp DAO itself is in the process of migrating to Chainlink CCIP as part of its recovery efforts, while Solv Protocol recently moved $700 million in tokenized Bitcoin to the platform. On-chain reinsurance protocol Re also transitioned $475 million in total value locked to Chainlink earlier this month.
-
-Major players like Lido, the largest Ethereum liquid staking protocol, already rely on Chainlink CCIP. Lido has called Chainlink’s security model the "definitive standard" for cross-chain operations, emphasizing its defense-in-depth approach.
-
-Despite the shift, Chainlink's native token LINK remains stagnant around $10, down 80% from its 2021 peak. In contrast, LayerZero's token ZRO has suffered a 30% decline since the April hack and is down more than 80% from its 2024 all-time high, according to CoinGecko.
-Source: https://Blockchain.News/news/kraken-switches-to-chainlink-ccip]]></description>
-      <content:encoded><![CDATA[Kraken switches to Chainlink CCIP after Kelp DAO's $292M exploit, joining a $3B TVL migration from LayerZero.
-
-Kraken has officially migrated its cross-chain infrastructure from LayerZero to Chainlink's Cross-Chain Interoperability Protocol (CCIP) following the $292 million Kelp DAO exploit in April 2026. The decision, announced on May 15, positions Chainlink as Kraken's sole partner for securing wrapped tokens, including its Kraken Wrapped Bitcoin (kBTC).
-
-"Chainlink CCIP offers enterprise-grade infrastructure with strict security and risk management requirements," Kraken stated. These include a secure-by-default design, 16 independent nodes, and native rate-limiting mechanisms—features that have become critical after the Kelp DAO attack exposed vulnerabilities in cross-chain protocols.
-
-The Kelp DAO breach on April 18, 2026, remains the largest DeFi exploit of the year. Attackers exploited a vulnerability in LayerZero’s single Decentralized Verifier Network (DVN) setup to forge a cross-chain message, siphoning 116,500 rsETH worth approximately $292 million. LayerZero later attributed the hack to North Korea’s Lazarus Group but maintained the exploit was isolated to Kelp DAO’s specific configuration. However, Kelp DAO countered that the vulnerability stemmed from LayerZero's default settings.
-
-The incident triggered widespread concerns about the security of cross-chain bridges. Within 48 hours, total value locked (TVL) in DeFi dropped by $13 billion, highlighting the systemic risk posed by such exploits. More than $3 billion in TVL has since migrated from LayerZero to Chainlink CCIP, as protocols reassess their dependence on single-verifier setups.
-
-Kraken isn’t alone in abandoning LayerZero. Kelp DAO itself is in the process of migrating to Chainlink CCIP as part of its recovery efforts, while Solv Protocol recently moved $700 million in tokenized Bitcoin to the platform. On-chain reinsurance protocol Re also transitioned $475 million in total value locked to Chainlink earlier this month.
-
-Major players like Lido, the largest Ethereum liquid staking protocol, already rely on Chainlink CCIP. Lido has called Chainlink’s security model the "definitive standard" for cross-chain operations, emphasizing its defense-in-depth approach.
-
-Despite the shift, Chainlink's native token LINK remains stagnant around $10, down 80% from its 2021 peak. In contrast, LayerZero's token ZRO has suffered a 30% decline since the April hack and is down more than 80% from its 2024 all-time high, according to CoinGecko.
-
-For LayerZero, the reputational damage continues to mount. Although it issued an apology on May 9 for its handling of the exploit, emphasizing that no other applications were affected, the statement has done little to stem the exodus.
-
-The fallout from the Kelp DAO exploit underscores the critical need for robust security in cross-chain protocols. Single-verifier designs, while efficient, are increasingly seen as a liability in a DeFi ecosystem that is growing more interconnected—and vulnerable—by the day. As protocols like Kraken and Kelp DAO pivot to Chainlink’s CCIP, it’s clear the industry is prioritizing resilience over speed.
-
-For traders and stakeholders, the mass migration raises questions about the long-term viability of LayerZero and underscores the importance of scrutinizing the underlying infrastructure of DeFi projects. As interoperability becomes a cornerstone of blockchain innovation, the focus will likely shift toward solutions that balance scalability with uncompromising security.
-
-Get key crypto and blockchain stories in your inbox.
-
-Kraken switches to Chainlink CCIP after Kelp DAO's $292M exploit, joining a $3B TVL migration from LayerZero.
-
-Kraken has officially migrated its cross-chain infrastructure from LayerZero to Chainlink's Cross-Chain Interoperability Protocol (CCIP) following the $292 million Kelp DAO exploit in April 2026. The decision, announced on May 15, positions Chainlink as Kraken's sole partner for securing wrapped tokens, including its Kraken Wrapped Bitcoin (kBTC).
-
-"Chainlink CCIP offers enterprise-grade infrastructure with strict security and risk management requirements," Kraken stated. These include a secure-by-default design, 16 independent nodes, and native rate-limiting mechanisms—features that have become critical after the Kelp DAO attack exposed vulnerabilities in cross-chain protocols.
-
-The Kelp DAO breach on April 18, 2026, remains the largest DeFi exploit of the year. Attackers exploited a vulnerability in LayerZero’s single Decentralized Verifier Network (DVN) setup to forge a cross-chain message, siphoning 116,500 rsETH worth approximately $292 million. LayerZero later attributed the hack to North Korea’s Lazarus Group but maintained the exploit was isolated to Kelp DAO’s specific configuration. However, Kelp DAO countered that the vulnerability stemmed from LayerZero's default settings.
-
-The incident triggered widespread concerns about the security of cross-chain bridges. Within 48 hours, total value locked (TVL) in DeFi dropped by $13 billion, highlighting the systemic risk posed by such exploits. More than $3 billion in TVL has since migrated from LayerZero to Chainlink CCIP, as protocols reassess their dependence on single-verifier setups.
-
-Kraken isn’t alone in abandoning LayerZero. Kelp DAO itself is in the process of migrating to Chainlink CCIP as part of its recovery efforts, while Solv Protocol recently moved $700 million in tokenized Bitcoin to the platform. On-chain reinsurance protocol Re also transitioned $475 million in total value locked to Chainlink earlier this month.
-
-Major players like Lido, the largest Ethereum liquid staking protocol, already rely on Chainlink CCIP. Lido has called Chainlink’s security model the "definitive standard" for cross-chain operations, emphasizing its defense-in-depth approach.
-
-Despite the shift, Chainlink's native token LINK remains stagnant around $10, down 80% from its 2021 peak. In contrast, LayerZero's token ZRO has suffered a 30% decline since the April hack and is down more than 80% from its 2024 all-time high, according to CoinGecko.]]></content:encoded>
-    </item>
-    <item>
-      <guid isPermaLink="false">xfeed-caf0b96984e329697f196da705b9693f578e01b5</guid>
-      <title>Australian Crypto Investors Face 30% Tax Floor Under CGT Overhaul | Australia&apos;s proposed CGT reforms could triple taxes for low-income crypto investors, impa... https://Blockchain.News/news/australia-crypto-investors-cgt-tax-reform</title>
-      <link>https://Blockchain.News/news/australia-crypto-investors-cgt-tax-reform</link>
-      <pubDate>Fri, 15 May 2026 06:51:55 GMT</pubDate>
-      <description><![CDATA[Original title: Australian Crypto Investors Face 30% Tax Floor Under CGT Overhaul
-Summary: Australia's proposed CGT reforms could triple taxes for low-income crypto investors, impacting holding strategies and long-term wealth creation.
-Article text: Australia's proposed CGT reforms could triple taxes for low-income crypto investors, impacting holding strategies and long-term wealth creation.
-
-Australia's federal government is proposing sweeping changes to its capital gains tax (CGT) rules that could heavily impact cryptocurrency investors. Announced in the 2026–27 Federal Budget, the reforms would eliminate the 50% CGT discount on assets held longer than 12 months and impose a 30% minimum tax on net capital gains starting July 1, 2027. Analysts warn this may triple tax liabilities for some low-income investors, reshaping trading strategies across the industry.
-
-Under the new system, the discounted CGT structure will be replaced by an inflation-indexed model. While this change theoretically shields investors from taxes on inflationary gains, crypto tax platform Koinly's CEO Robin Singh says most investors will end up worse off. "A lower-income earner who would have paid around $3,800 under the old rules for a $20,000 gain will now face a $10,200 tax bill. That’s nearly triple," Singh explained.
-
-The reforms will only apply to gains accrued after July 1, 2027, but the announcement has already sparked concern among retail investors, particularly younger generations who view crypto as a pathway to financial independence. A 2025 Independent Reserve report revealed that 30% of Australians invest in crypto to diversify their portfolios, while 25% trade to build wealth. These motivations could face headwinds as the tax incentive for long-term holding diminishes.
-
-Crypto executives predict the abolition of the CGT discount will lead to shorter holding periods and more frequent trading. "For retail and mid-sized holders, the hodl tax incentive is effectively gone," said Singh. "With no reward for sitting on positions, expect trading behavior to shift toward shorter-term strategies."
-
-Jonathon Miller, Australian general manager for Kraken, echoed these concerns. "The changes make patient investing less attractive. In a market where assets trade 24/7, this could push investors toward behaviors that aren't optimal for long-term wealth building," he noted.
-
-On the other hand, Andrea Yuen, co-CEO of Swyftx, sees a potential silver lining. She forecasts a pivot toward structured investment vehicles like self-managed super funds (SMSFs), which have already seen a 69% year-on-year increase in crypto allocations, according to BTC Markets.
-
-Before these reforms can take effect, they must pass through Parliament, where opposition is mounting. The Liberal Party, led by Angus Taylor, has vowed to block the legislation and repeal it if they regain power in 2028. Critics argue the changes could stifle investment and inadvertently inflate housing prices, despite government claims that they aim to curb speculative property purchases and increase housing supply.
-
-Labor currently holds a majority in the House of Representatives with 94 seats but faces a tougher battle in the Senate, where it controls just 30 seats out of the 39 required to pass the reforms. As a result, the CGT overhaul is far from guaranteed.
-
-For crypto traders, these policy shifts could create near-term volatility as investors reassess holding strategies and start positioning ahead of the July 1, 2027, cutoff. Bitcoin (BTC), which is trading at $80,592 as of May 15, 2026, has historically benefited from long-term "hodler" confidence. However, the new tax environment could incentivize profit-taking at shorter intervals, especially if inflation-adjusted gains fail to offset the loss of the 50% CGT discount.
-
-As the debate unfolds, crypto investors in Australia should monitor legislative updates closely. The proposed changes represent not just a tax policy shift but a potential turning point for how Australians approach cryptocurrency as a long-term wealth-building tool.
-
-Get key crypto and blockchain stories in your inbox.
-
-Australia's proposed CGT reforms could triple taxes for low-income crypto investors, impacting holding strategies and long-term wealth creation.
-
-Australia's federal government is proposing sweeping changes to its capital gains tax (CGT) rules that could heavily impact cryptocurrency investors. Announced in the 2026–27 Federal Budget, the reforms would eliminate the 50% CGT discount on assets held longer than 12 months and impose a 30% minimum tax on net capital gains starting July 1, 2027. Analysts warn this may triple tax liabilities for some low-income investors, reshaping trading strategies across the industry.
-
-Under the new system, the discounted CGT structure will be replaced by an inflation-indexed model. While this change theoretically shields investors from taxes on inflationary gains, crypto tax platform Koinly's CEO Robin Singh says most investors will end up worse off. "A lower-income earner who would have paid around $3,800 under the old rules for a $20,000 gain will now face a $10,200 tax bill. That’s nearly triple," Singh explained.
-
-The reforms will only apply to gains accrued after July 1, 2027, but the announcement has already sparked concern among retail investors, particularly younger generations who view crypto as a pathway to financial independence. A 2025 Independent Reserve report revealed that 30% of Australians invest in crypto to diversify their portfolios, while 25% trade to build wealth. These motivations could face headwinds as the tax incentive for long-term holding diminishes.
-
-Crypto executives predict the abolition of the CGT discount will lead to shorter holding periods and more frequent trading. "For retail and mid-sized holders, the hodl tax incentive is effectively gone," said Singh. "With no reward for sitting on positions, expect trading behavior to shift toward shorter-term strategies."
-
-Jonathon Miller, Australian general manager for Kraken, echoed these concerns. "The changes make patient investing less attractive. In a market where assets trade 24/7, this could push investors toward behaviors that aren't optimal for long-term wealth building," he noted.
-
-On the other hand, Andrea Yuen, co-CEO of Swyftx, sees a potential silver lining. She forecasts a pivot toward structured investment vehicles like self-managed super funds (SMSFs), which have already seen a 69% year-on-year increase in crypto allocations, according to BTC Markets.
-
-Before these reforms can take effect, they must pass through Parliament, where opposition is mounting. The Liberal Party, led by Angus Taylor, has vowed to block the legislation and repeal it if they regain power in 2028. Critics argue the changes could stifle investment and inadvertently inflate housing prices, despite government claims that they aim to curb speculative property purchases and increase housing supply.
-Source: https://Blockchain.News/news/australia-crypto-investors-cgt-tax-reform]]></description>
-      <content:encoded><![CDATA[Australia's proposed CGT reforms could triple taxes for low-income crypto investors, impacting holding strategies and long-term wealth creation.
-
-Australia's federal government is proposing sweeping changes to its capital gains tax (CGT) rules that could heavily impact cryptocurrency investors. Announced in the 2026–27 Federal Budget, the reforms would eliminate the 50% CGT discount on assets held longer than 12 months and impose a 30% minimum tax on net capital gains starting July 1, 2027. Analysts warn this may triple tax liabilities for some low-income investors, reshaping trading strategies across the industry.
-
-Under the new system, the discounted CGT structure will be replaced by an inflation-indexed model. While this change theoretically shields investors from taxes on inflationary gains, crypto tax platform Koinly's CEO Robin Singh says most investors will end up worse off. "A lower-income earner who would have paid around $3,800 under the old rules for a $20,000 gain will now face a $10,200 tax bill. That’s nearly triple," Singh explained.
-
-The reforms will only apply to gains accrued after July 1, 2027, but the announcement has already sparked concern among retail investors, particularly younger generations who view crypto as a pathway to financial independence. A 2025 Independent Reserve report revealed that 30% of Australians invest in crypto to diversify their portfolios, while 25% trade to build wealth. These motivations could face headwinds as the tax incentive for long-term holding diminishes.
-
-Crypto executives predict the abolition of the CGT discount will lead to shorter holding periods and more frequent trading. "For retail and mid-sized holders, the hodl tax incentive is effectively gone," said Singh. "With no reward for sitting on positions, expect trading behavior to shift toward shorter-term strategies."
-
-Jonathon Miller, Australian general manager for Kraken, echoed these concerns. "The changes make patient investing less attractive. In a market where assets trade 24/7, this could push investors toward behaviors that aren't optimal for long-term wealth building," he noted.
-
-On the other hand, Andrea Yuen, co-CEO of Swyftx, sees a potential silver lining. She forecasts a pivot toward structured investment vehicles like self-managed super funds (SMSFs), which have already seen a 69% year-on-year increase in crypto allocations, according to BTC Markets.
-
-Before these reforms can take effect, they must pass through Parliament, where opposition is mounting. The Liberal Party, led by Angus Taylor, has vowed to block the legislation and repeal it if they regain power in 2028. Critics argue the changes could stifle investment and inadvertently inflate housing prices, despite government claims that they aim to curb speculative property purchases and increase housing supply.
-
-Labor currently holds a majority in the House of Representatives with 94 seats but faces a tougher battle in the Senate, where it controls just 30 seats out of the 39 required to pass the reforms. As a result, the CGT overhaul is far from guaranteed.
-
-For crypto traders, these policy shifts could create near-term volatility as investors reassess holding strategies and start positioning ahead of the July 1, 2027, cutoff. Bitcoin (BTC), which is trading at $80,592 as of May 15, 2026, has historically benefited from long-term "hodler" confidence. However, the new tax environment could incentivize profit-taking at shorter intervals, especially if inflation-adjusted gains fail to offset the loss of the 50% CGT discount.
-
-As the debate unfolds, crypto investors in Australia should monitor legislative updates closely. The proposed changes represent not just a tax policy shift but a potential turning point for how Australians approach cryptocurrency as a long-term wealth-building tool.
-
-Get key crypto and blockchain stories in your inbox.
-
-Australia's proposed CGT reforms could triple taxes for low-income crypto investors, impacting holding strategies and long-term wealth creation.
-
-Australia's federal government is proposing sweeping changes to its capital gains tax (CGT) rules that could heavily impact cryptocurrency investors. Announced in the 2026–27 Federal Budget, the reforms would eliminate the 50% CGT discount on assets held longer than 12 months and impose a 30% minimum tax on net capital gains starting July 1, 2027. Analysts warn this may triple tax liabilities for some low-income investors, reshaping trading strategies across the industry.
-
-Under the new system, the discounted CGT structure will be replaced by an inflation-indexed model. While this change theoretically shields investors from taxes on inflationary gains, crypto tax platform Koinly's CEO Robin Singh says most investors will end up worse off. "A lower-income earner who would have paid around $3,800 under the old rules for a $20,000 gain will now face a $10,200 tax bill. That’s nearly triple," Singh explained.
-
-The reforms will only apply to gains accrued after July 1, 2027, but the announcement has already sparked concern among retail investors, particularly younger generations who view crypto as a pathway to financial independence. A 2025 Independent Reserve report revealed that 30% of Australians invest in crypto to diversify their portfolios, while 25% trade to build wealth. These motivations could face headwinds as the tax incentive for long-term holding diminishes.
-
-Crypto executives predict the abolition of the CGT discount will lead to shorter holding periods and more frequent trading. "For retail and mid-sized holders, the hodl tax incentive is effectively gone," said Singh. "With no reward for sitting on positions, expect trading behavior to shift toward shorter-term strategies."
-
-Jonathon Miller, Australian general manager for Kraken, echoed these concerns. "The changes make patient investing less attractive. In a market where assets trade 24/7, this could push investors toward behaviors that aren't optimal for long-term wealth building," he noted.
-
-On the other hand, Andrea Yuen, co-CEO of Swyftx, sees a potential silver lining. She forecasts a pivot toward structured investment vehicles like self-managed super funds (SMSFs), which have already seen a 69% year-on-year increase in crypto allocations, according to BTC Markets.
-
-Before these reforms can take effect, they must pass through Parliament, where opposition is mounting. The Liberal Party, led by Angus Taylor, has vowed to block the legislation and repeal it if they regain power in 2028. Critics argue the changes could stifle investment and inadvertently inflate housing prices, despite government claims that they aim to curb speculative property purchases and increase housing supply.]]></content:encoded>
     </item>
   </channel>
 </rss>
